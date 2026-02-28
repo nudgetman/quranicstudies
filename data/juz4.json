@@ -1,0 +1,1132 @@
+{
+  "juz": 4,
+  "meta": {
+    "title": {
+      "en": "Juz 4 — The Rope of Allah & Family Rights",
+      "ms": "Juz 4 — Tali Allah & Hak Keluarga"
+    },
+    "arabic_name": "الجزء الرابع",
+    "night": 4,
+    "reader": "A",
+    "quote": {
+      "en": "And hold firmly to the rope of Allah all together and do not become divided...",
+      "ms": "Dan berpegang teguhlah kamu sekalian kepada tali Allah (agama Islam), dan janganlah kamu bercerai-berai...",
+      "ref": "3:103"
+    }
+  },
+  "toc": [
+    {
+      "id": "section-01",
+      "en": "Al 'Imran 93–101 · Food Laws, The First House & The Obligation of Hajj",
+      "ms": "Al 'Imran 93–101 · Hukum Makanan, Rumah Pertama & Kewajipan Haji"
+    },
+    {
+      "id": "section-02",
+      "en": "Al 'Imran 102–109 · The Rope of Allah & The Best Nation",
+      "ms": "Al 'Imran 102–109 · Tali Allah & Sebaik-baik Umat"
+    },
+    {
+      "id": "section-03",
+      "en": "Al 'Imran 110–120 · Dealing with Opponents & Trusting Allah",
+      "ms": "Al 'Imran 110–120 · Berhadapan Penentang & Bertawakal Kepada Allah"
+    },
+    {
+      "id": "section-04",
+      "en": "Al 'Imran 121–129 · The Battle of Uhud: Planning and Reliance",
+      "ms": "Al 'Imran 121–129 · Perang Uhud: Perancangan dan Kebergantungan"
+    },
+    {
+      "id": "section-05",
+      "en": "Al 'Imran 130–138 · Riba, Forgiveness & The People of Paradise",
+      "ms": "Al 'Imran 130–138 · Riba, Kemaafan & Ahli Syurga"
+    },
+    {
+      "id": "section-06",
+      "en": "Al 'Imran 139–148 · Lessons from Defeat & The Reality of Martyrs",
+      "ms": "Al 'Imran 139–148 · Pengajaran dari Kekalahan & Hakikat Syuhada"
+    },
+    {
+      "id": "section-07",
+      "en": "Al 'Imran 149–158 · Forgiving the Archers & The Mercy of the Prophet",
+      "ms": "Al 'Imran 149–158 · Memaafkan Pemanah & Rahmat Nabi"
+    },
+    {
+      "id": "section-08",
+      "en": "Al 'Imran 159–170 · Consultation (Shura), Trust & The Living Martyrs",
+      "ms": "Al 'Imran 159–170 · Mesyuarat (Syura), Amanah & Syuhada yang Hidup"
+    },
+    {
+      "id": "section-09",
+      "en": "Al 'Imran 171–180 · Unshakable Faith & The Stingy",
+      "ms": "Al 'Imran 171–180 · Iman yang Teguh & Golongan Bakhil"
+    },
+    {
+      "id": "section-10",
+      "en": "Al 'Imran 181–189 · Enduring Tests & The Covenant of Knowledge",
+      "ms": "Al 'Imran 181–189 · Mengharungi Ujian & Perjanjian Ilmu"
+    },
+    {
+      "id": "section-11",
+      "en": "Al 'Imran 190–200 · Contemplating Creation & The Final Prayer",
+      "ms": "Al 'Imran 190–200 · Merenung Penciptaan & Doa Penutup"
+    },
+    {
+      "id": "section-12",
+      "en": "Surah An-Nisa — Introduction",
+      "ms": "Surah An-Nisa — Pengenalan"
+    },
+    {
+      "id": "section-13",
+      "en": "An-Nisa 1–10 · One Origin, Orphans & Justice in Marriage",
+      "ms": "An-Nisa 1–10 · Satu Asal Usul, Anak Yatim & Keadilan Perkahwinan"
+    },
+    {
+      "id": "section-14",
+      "en": "An-Nisa 11–14 · The Divine Laws of Inheritance",
+      "ms": "An-Nisa 11–14 · Undang-undang Warisan Ilahi"
+    },
+    {
+      "id": "section-15",
+      "en": "An-Nisa 15–23 · Repentance, Honoring Women & Prohibited Marriages",
+      "ms": "An-Nisa 15–23 · Taubat, Memuliakan Wanita & Perkahwinan Dilarang"
+    },
+    {
+      "id": "section-16",
+      "en": "Overarching Themes of Juz 4",
+      "ms": "Tema Utama Juz 4"
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-01",
+      "type": "passage",
+      "surah_number": 3,
+      "verse_start": 93,
+      "verse_end": 101,
+      "en": {
+        "title": "Food Laws, The First House & The Obligation of Hajj",
+        "theme": "Refuting theological objections, establishing the Ka'bah as the center of monotheism, and the mandate of pilgrimage.",
+        "arabic": "كُلُّ الطَّعَامِ كَانَ حِلًّا لِّبَنِي إِسْرَائِيلَ إِلَّا مَا حَرَّمَ إِسْرَائِيلُ عَلَىٰ نَفْسِهِ مِن قَبْلِ أَن تُنَزَّلَ التَّوْرَاةُ... إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَالَمِينَ...",
+        "translation": "All food was lawful to the Children of Israel except what Israel had made unlawful to himself before the Torah was revealed... Indeed, the first House [of worship] established for mankind was that at Makkah - blessed and a guidance for the worlds... ",
+        "explanation": [
+          "This passage directly answers two major objections from the Jewish tribes of Madinah. First, they criticized Muslims for eating camel meat, claiming it was forbidden by Abraham. Allah corrects this historical inaccuracy: camel meat was lawful, but Prophet Ya'qub (also known as Israel) had taken a personal vow to avoid it due to a severe illness long before the Torah was even revealed. Allah challenges them to 'bring the Torah and read it' if they are truthful.",
+          "Second, they objected to the Ka'bah being the Qiblah, claiming Jerusalem was older. Allah refutes this by declaring that the Ka'bah in Bakkah (an ancient name for Makkah) was the absolute first house of worship ever built for humanity. It is described as 'blessed and a guidance for the worlds,' containing clear signs like the Station of Ibrahim.",
+          "Having established the Ka'bah's supreme historical and spiritual status, verse 97 formally mandates the Hajj (Pilgrimage): 'And [due] to Allah from the people is a pilgrimage to the House - for whoever is able to find thereto a way.' The passage ends by warning the believers not to let the People of the Book sow doubt in their hearts after the truth has become so clear."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Explains that Prophet Ya'qub suffered from sciatica and vowed to give up his favorite food (camel meat) if Allah cured him. The later generations of Jews mistakenly codified this personal vow into their religious law. He also emphasizes that the Hajj is an absolute obligation once in a lifetime for those with physical and financial capability."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the linguistic use of 'Bakkah'. While Makkah is the city, Bakkah refers specifically to the sanctuary area where the Ka'bah sits, derived from a root word meaning 'to crowd together,' reflecting the massive gatherings of pilgrims."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Reflects on the spiritual magnetism of the Ka'bah. As-Sa'di notes that Allah designed it to be 'blessed'—meaning a place of continuous multiplication of reward. The heart of a believer is naturally drawn to it, proving its divine origin."
+          }
+        ],
+        "lessons": [
+          "📖 Fact over Fiction: When challenged on matters of faith or history, the Qur'an uses evidence and scripture ('bring the Torah'). Truth does not fear investigation.",
+          "🕋 The Center of the World: The Ka'bah is not just a building; it is the physical anchor of monotheism on Earth, carrying the ancient legacy of Ibrahim.",
+          "🚶‍♂️ The Journey of a Lifetime: Hajj is a profound duty owed to Allah, but beautifully conditional upon one's capacity. If you have the health and wealth, you must answer the call."
+        ]
+      },
+      "ms": {
+        "title": "Hukum Makanan, Rumah Pertama & Kewajipan Haji",
+        "theme": "Menyangkal bantahan teologi, menetapkan Kaabah sebagai pusat tauhid, dan kewajipan menunaikan ibadah haji.",
+        "arabic": "كُلُّ الطَّعَامِ كَانَ حِلًّا لِّبَنِي إِسْرَائِيلَ إِلَّا مَا حَرَّمَ إِسْرَائِيلُ عَلَىٰ نَفْسِهِ مِن قَبْلِ أَن تُنَزَّلَ التَّوْرَاةُ... إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَالَمِينَ...",
+        "translation": "Segala jenis makanan dahulu adalah halal bagi Bani Israel, kecuali makanan yang diharamkan oleh Israel (Nabi Yaakub) ke atas dirinya sendiri sebelum diturunkan Kitab Taurat... Sesungguhnya Rumah Ibadat yang mula-mula dibina untuk manusia (beribadat kepada Tuhannya) ialah Baitullah yang di Makkah yang berkat dan (dijadikan) petunjuk hidayah bagi umat manusia... ",
+        "explanation": [
+          "Petikan ini secara langsung menjawab dua bantahan utama daripada kabilah Yahudi di Madinah. Pertama, mereka mengkritik umat Islam kerana memakan daging unta, mendakwa ia diharamkan oleh Ibrahim. Allah memperbetulkan ketidaktepatan sejarah ini: daging unta adalah halal, tetapi Nabi Ya'qub (juga dikenali sebagai Israel) telah bernazar untuk mengelakkannya akibat penyakit teruk yang dihidapinya jauh sebelum Taurat diturunkan. Allah mencabar mereka, 'Bawalah Taurat lalu bacakanlah ia' jika mereka benar.",
+          "Kedua, mereka membantah Kaabah dijadikan Kiblat, mendakwa Baitulmaqdis lebih lama. Allah menyangkal perkara ini dengan mengisytiharkan bahawa Kaabah di Bakkah (nama kuno bagi Makkah) merupakan rumah ibadat pertama yang pernah dibina untuk manusia. Ia disifatkan sebagai 'diberkati dan menjadi petunjuk bagi seluruh alam,' mengandungi tanda-tanda yang jelas seperti Makam Ibrahim.",
+          "Setelah menetapkan status sejarah dan rohani Kaabah yang tertinggi, ayat 97 secara rasmi mewajibkan Haji: 'Dan Allah mewajibkan manusia mengerjakan ibadat Haji dengan mengunjungi Baitullah - iaitu sesiapa yang mampu sampai kepadanya.' Petikan ini diakhiri dengan memberi amaran kepada orang beriman agar tidak membiarkan Ahli Kitab menimbulkan keraguan dalam hati mereka setelah kebenaran menjadi begitu jelas."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menjelaskan bahawa Nabi Ya'qub menghidap penyakit saraf (sciatica) dan bernazar untuk meninggalkan makanan kegemarannya (daging unta) jika Allah menyembuhkannya. Generasi Yahudi terkemudian secara silap memasukkan nazar peribadi ini ke dalam undang-undang agama mereka. Beliau juga menegaskan bahawa Haji adalah kewajipan mutlak seumur hidup bagi mereka yang mempunyai kemampuan fizikal dan kewangan."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan penggunaan linguistik 'Bakkah'. Walaupun Makkah adalah kotanya, Bakkah merujuk secara khusus kepada kawasan tempat suci di mana Kaabah terletak, berasal daripada kata akar yang bermaksud 'bersesak-sesak,' mencerminkan perhimpunan jemaah yang sangat ramai."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Merenung tentang tarikan rohani Kaabah. As-Sa'di mencatatkan bahawa Allah mereka bentuknya untuk 'diberkati'—bermakna tempat di mana ganjaran pahala sentiasa berganda. Hati seorang mukmin secara semula jadi tertarik kepadanya, membuktikan asal usul ilahinya."
+          }
+        ],
+        "lessons": [
+          "📖 Fakta mengatasi Fiksyen: Apabila dicabar tentang perkara iman atau sejarah, al-Quran menggunakan bukti dan kitab suci ('bawalah Taurat'). Kebenaran tidak takut untuk disiasat.",
+          "🕋 Pusat Dunia: Kaabah bukan sekadar bangunan; ia adalah sauh fizikal bagi tauhid di Bumi, membawa warisan kuno Ibrahim.",
+          "🚶‍♂️ Perjalanan Seumur Hidup: Haji adalah kewajipan mendalam terhadap Allah, tetapi diwajibkan secara indah mengikut kemampuan seseorang. Jika anda mempunyai kesihatan dan kekayaan, anda mesti menyahut seruan itu."
+        ]
+      }
+    },
+    {
+      "id": "section-02",
+      "type": "passage",
+      "surah_number": 3,
+      "verse_start": 102,
+      "verse_end": 109,
+      "en": {
+        "title": "The Rope of Allah & The Best Nation",
+        "theme": "The supreme standard of piety, the command for absolute unity, and the necessity of commanding good.",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ... وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا ۚ...",
+        "translation": "O you who have believed, fear Allah as He should be feared and do not die except as Muslims [in submission to Him]... And hold firmly to the rope of Allah all together and do not become divided... ",
+        "explanation": [
+          "This section opens with a powerful, life-encompassing command: achieve true Taqwa (God-consciousness) and ensure that your final breath is taken in a state of absolute submission (Islam).",
+          "Following the command for individual piety, verse 103 delivers the iconic mandate for communal unity: 'Hold firmly to the rope of Allah all together and do not become divided.' Allah reminds the believers in Madinah of the miraculous social transformation they experienced. Before Islam, the two major tribes (Aus and Khazraj) were locked in generations of bitter, bloody feuds. Islam healed their hearts and made them brothers overnight, saving them from 'the brink of a pit of Fire.'",
+          "To maintain this unity, the passage mandates that there must always be a dedicated group within the community that invites people to goodness, commands what is right, and forbids what is wrong. It warns the believers not to end up like previous nations who received clear guidance but still splintered into hostile sects due to arrogance and rivalry."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Explains that 'fearing Allah as He should be feared' initially meant obeying Him without ever sinning, and remembering Him without ever forgetting. This was later eased by the verse in Surah At-Taghabun: 'So fear Allah as much as you are able.' Ibn Kathir identifies the 'Rope of Allah' as the Qur'an itself."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the historical context of the Aus and Khazraj tribes, who fought a grueling 120-year civil war (the Bu'ath war) before the Prophet ﷺ united them. It emphasizes that this profound social healing was a direct miracle from Allah."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Emphasizes that commanding good and forbidding evil is the ultimate 'safety valve' of any society. Without it, the community fractures, truth is lost, and the Ummah invites divine punishment. Unity cannot exist without a shared moral foundation."
+          }
+        ],
+        "lessons": [
+          "🤲 A Lifelong Mission: The goal of a believer is not just to live as a Muslim, but to fiercely guard their faith so they can die as one.",
+          "🪢 The Unbreakable Bond: True unity is not based on race, nationality, or politics; it is achieved only by collectively gripping the 'Rope of Allah' (the Qur'an and Sunnah).",
+          "🛡️ The Community Shield: A healthy society requires active, courageous individuals who are willing to kindly but firmly stand up for what is right and speak out against what is wrong."
+        ]
+      },
+      "ms": {
+        "title": "Tali Allah & Sebaik-baik Umat",
+        "theme": "Piawaian ketakwaan tertinggi, perintah untuk bersatu padu secara mutlak, dan keperluan menyuruh kepada kebaikan.",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ... وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا ۚ...",
+        "translation": "Wahai orang-orang yang beriman! Bertakwalah kamu kepada Allah dengan sebenar-benar takwa, dan jangan sekali-kali kamu mati melainkan dalam keadaan Islam... Dan berpegang teguhlah kamu sekalian kepada tali Allah (agama Islam), dan janganlah kamu bercerai-berai... ",
+        "explanation": [
+          "Bahagian ini bermula dengan perintah yang berkuasa dan merangkumi seluruh kehidupan: capai Taqwa (ketakwaan kepada Tuhan) yang sebenar dan pastikan nafas terakhir anda dihembuskan dalam keadaan penyerahan diri yang mutlak (Islam).",
+          "Selepas perintah untuk ketakwaan individu, ayat 103 menyampaikan mandat ikonik untuk perpaduan masyarakat: 'Dan berpegang teguhlah kamu sekalian kepada tali Allah, dan janganlah kamu bercerai-berai.' Allah mengingatkan orang-orang yang beriman di Madinah tentang transformasi sosial ajaib yang mereka alami. Sebelum Islam, dua kabilah utama (Aus dan Khazraj) terperangkap dalam permusuhan berdarah yang pahit turun-temurun. Islam menyembuhkan hati mereka dan menjadikan mereka bersaudara sekelip mata, menyelamatkan mereka daripada 'tepi jurang neraka.'",
+          "Untuk mengekalkan perpaduan ini, petikan ini mewajibkan mesti sentiasa ada satu kumpulan khusus dalam masyarakat yang mengajak manusia kepada kebaikan, menyuruh yang makruf, dan mencegah yang mungkar. Ia memberi amaran kepada orang beriman agar tidak menjadi seperti umat terdahulu yang menerima petunjuk jelas tetapi masih berpecah belah menjadi puak-puak yang bermusuhan kerana kesombongan dan persaingan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menjelaskan bahawa 'bertakwa kepada Allah dengan sebenar-benar takwa' pada mulanya bermaksud mentaati-Nya tanpa pernah berdosa, dan mengingati-Nya tanpa pernah lupa. Ini kemudiannya diringankan oleh ayat dalam Surah At-Taghabun: 'Oleh itu bertakwalah kamu kepada Allah sedaya upaya kamu.' Ibn Kathir mengenal pasti 'Tali Allah' sebagai al-Quran itu sendiri."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan konteks sejarah kabilah Aus dan Khazraj, yang berjuang dalam perang saudara selama 120 tahun (Perang Bu'ath) sebelum Nabi ﷺ menyatukan mereka. Ia menekankan bahawa penyembuhan sosial yang mendalam ini adalah mukjizat langsung daripada Allah."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menegaskan bahawa menyuruh kepada kebaikan dan mencegah kemungkaran adalah 'injap keselamatan' utama mana-mana masyarakat. Tanpanya, masyarakat berpecah, kebenaran hilang, dan Ummah mengundang azab ilahi. Perpaduan tidak boleh wujud tanpa asas moral yang dikongsi bersama."
+          }
+        ],
+        "lessons": [
+          "🤲 Misi Sepanjang Hayat: Matlamat seorang mukmin bukan sekadar untuk hidup sebagai seorang Muslim, tetapi menjaga iman mereka dengan teguh agar mereka boleh mati dalam keadaan Islam.",
+          "🪢 Ikatan yang Tidak Terputus: Perpaduan sejati tidak berdasarkan kaum, kewarganegaraan, atau politik; ia dicapai hanya dengan bersama-sama menggenggam 'Tali Allah' (al-Quran dan Sunnah).",
+          "🛡️ Perisai Masyarakat: Masyarakat yang sihat memerlukan individu yang aktif dan berani yang sanggup berdiri dengan penuh hikmah tetapi tegas untuk kebenaran dan bersuara menentang kemungkaran."
+        ]
+      }
+    },
+    {
+      "id": "section-03",
+      "type": "passage",
+      "surah_number": 3,
+      "verse_start": 110,
+      "verse_end": 120,
+      "en": {
+        "title": "Dealing with Opponents & Trusting Allah",
+        "theme": "The conditions for being the 'Best Nation', objective fairness towards other faiths, and psychological defense against hidden enemies.",
+        "arabic": "كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنِ الْمُنكَرِ وَتُؤْمِنُونَ بِاللَّهِ ۗ... يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا بِطَانَةً مِّن دُونِكُمْ لَا يَأْلُونَكُمْ خَبَالًا...",
+        "translation": "You are the best nation produced [as an example] for mankind. You enjoin what is right and forbid what is wrong and believe in Allah... O you who have believed, do not take as intimates those other than yourselves, for they will not spare you [any] ruin... ",
+        "explanation": [
+          "Allah elevates the Muslim Ummah by declaring them the 'best nation produced for mankind.' However, this is not a racial or historical entitlement; it is strictly conditional. The title is earned entirely by fulfilling three duties: commanding good, forbidding evil, and maintaining pure belief in Allah.",
+          "The Qur'an then demonstrates its profound objective fairness. While criticizing the general disbelief of the People of the Book, it pauses to acknowledge that they are 'not all the same.' It beautifully describes a righteous faction among them who stand in prayer reciting the revelations of Allah deep into the night. Justice requires recognizing the good in others.",
+          "The passage then transitions into political and psychological defense. It warns the early Muslim state not to take 'Bitanah' (intimate confidants or inner-circle advisors) from outside their faith who harbor secret hostility. Allah points out the psychological tells of these hidden enemies: 'hatred has already appeared from their mouths, and what their breasts conceal is greater.' The believers are assured that if they maintain patience and Taqwa, no amount of plotting will harm them."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Stresses that the title 'Best Nation' is a heavy responsibility. The Muslims replaced the Children of Israel in this role because they stepped up to guide humanity. If Muslims abandon commanding good and forbidding evil, they lose this prestigious title."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the term 'Bitanah' (inner circle). Like the inner lining of a garment that touches the skin, a 'Bitanah' is someone who has access to your deepest secrets. The Qur'an warns against exposing vulnerabilities to those who wish for your downfall."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Points out the sheer psychological realism of the Qur'an. It acknowledges that true believers will always face hatred, envy, and plotting from external forces. However, it redirects the believer's focus: do not panic over their plots; just maintain your own patience and piety, and Allah will neutralize their schemes."
+          }
+        ],
+        "lessons": [
+          "🥇 Conditional Greatness: We are not 'the best' simply because we call ourselves Muslims. We are only the best when we actively benefit humanity by establishing justice and morality.",
+          "⚖️ Objective Fairness: Islam teaches us to be completely just. Even when addressing theological opponents, we must acknowledge and respect the righteous individuals among them.",
+          "🛑 Guard Your Inner Circle: Be kind and just to everyone, but be highly selective about who you trust with your deepest secrets and strategic vulnerabilities."
+        ]
+      },
+      "ms": {
+        "title": "Berhadapan Penentang & Bertawakal Kepada Allah",
+        "theme": "Syarat-syarat untuk menjadi 'Sebaik-baik Umat', keadilan objektif terhadap agama lain, dan pertahanan psikologi terhadap musuh yang tersembunyi.",
+        "arabic": "كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنِ الْمُنكَرِ وَتُؤْمِنُونَ بِاللَّهِ ۗ... يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا بِطَانَةً مِّن دُونِكُمْ لَا يَأْلُونَكُمْ خَبَالًا...",
+        "translation": "Kamu (wahai umat Muhammad) adalah sebaik-baik umat yang dilahirkan bagi (faedah) umat manusia, (kerana) kamu menyuruh berbuat segala perkara yang baik dan melarang daripada segala perkara yang salah (buruk dan keji), serta kamu pula beriman kepada Allah... Wahai orang-orang yang beriman! Janganlah kamu mengambil orang-orang yang bukan dari kalangan kamu menjadi 'orang dalam' (yang dipercayai). Mereka tidak akan berhenti-henti berusaha mendatangkan bencana kepada kamu... ",
+        "explanation": [
+          "Allah mengangkat darjat Ummah Islam dengan mengisytiharkan mereka sebagai 'sebaik-baik umat yang dilahirkan untuk manusia.' Namun, ini bukanlah hak istimewa keturunan atau sejarah; ia bersyarat ketat. Gelaran ini diperoleh sepenuhnya dengan menunaikan tiga tanggungjawab: menyuruh kebaikan, mencegah kemungkaran, dan mengekalkan keimanan yang tulen kepada Allah.",
+          "Al-Quran kemudian mempamerkan keadilan objektifnya yang mendalam. Sambil mengkritik kekufuran umum Ahli Kitab, ia berhenti sejenak untuk mengakui bahawa mereka 'tidaklah semuanya sama.' Ia menggambarkan dengan indah satu golongan soleh dalam kalangan mereka yang berdiri bersolat membaca ayat-ayat Allah di pertengahan malam. Keadilan menuntut kita mengiktiraf kebaikan pada orang lain.",
+          "Petikan ini kemudian beralih kepada pertahanan politik dan psikologi. Ia memberi amaran kepada negara Islam awal agar tidak mengambil 'Bitanah' (kawan rapat atau penasihat lingkaran dalaman) dari luar agama mereka yang memendam permusuhan rahsia. Allah menunjukkan tanda-tanda psikologi musuh tersembunyi ini: 'telah pun nyata (tanda) kebencian mereka pada pertuturan mulut mereka, dan apa yang disembunyikan oleh hati mereka lebih besar lagi.' Orang mukmin diberi jaminan bahawa jika mereka mengekalkan kesabaran dan ketakwaan, tiada sebarang tipu daya yang akan membahayakan mereka."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menegaskan bahawa gelaran 'Sebaik-baik Umat' adalah satu tanggungjawab yang berat. Umat Islam menggantikan Bani Israel dalam peranan ini kerana mereka bangkit untuk membimbing manusia. Jika umat Islam meninggalkan usaha menyuruh kebaikan dan mencegah kemungkaran, mereka kehilangan gelaran berprestij ini."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan istilah 'Bitanah' (lingkaran dalaman). Seperti lapisan dalam pakaian yang bersentuhan dengan kulit, 'Bitanah' ialah seseorang yang mempunyai akses kepada rahsia anda yang paling dalam. Al-Quran memberi amaran terhadap mendedahkan kelemahan kepada mereka yang menginginkan kejatuhan anda."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menunjukkan realisme psikologi al-Quran yang jelas. Ia mengakui bahawa orang mukmin yang sejati akan sentiasa menghadapi kebencian, hasad dengki, dan tipu daya daripada kuasa luar. Walau bagaimanapun, ia mengalihkan tumpuan orang mukmin: jangan panik dengan rancangan mereka; kekalkan kesabaran dan ketakwaan anda, dan Allah akan meneutralkan muslihat mereka."
+          }
+        ],
+        "lessons": [
+          "🥇 Kehebatan Bersyarat: Kita bukanlah 'yang terbaik' semata-mata kerana kita memanggil diri kita Muslim. Kita hanya menjadi yang terbaik apabila kita secara aktif memberi manfaat kepada manusia dengan menegakkan keadilan dan moral.",
+          "⚖️ Keadilan Objektif: Islam mengajar kita untuk berlaku adil sepenuhnya. Walaupun berhadapan dengan penentang teologi, kita mesti mengakui dan menghormati individu yang soleh dalam kalangan mereka.",
+          "🛑 Jaga Lingkaran Dalaman Anda: Bersikap baik dan adil kepada semua orang, tetapi sangat selektif tentang siapa yang anda percayai dengan rahsia terdalam dan kelemahan strategik anda."
+        ]
+      }
+    },
+    {
+      "id": "section-04",
+      "type": "passage",
+      "surah_number": 3,
+      "verse_start": 121,
+      "verse_end": 129,
+      "en": {
+        "title": "The Battle of Uhud: Planning and Reliance",
+        "theme": "The prelude to physical and spiritual trials, human fragility, and acknowledging that ultimate victory comes only from Allah.",
+        "arabic": "وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ الْمُؤْمِنِينَ مَقَاعِدَ لِلْقِتَالِ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ... إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَاثَةِ آلَافٍ مِّنَ الْمَلَائِكَةِ مُنزَلِينَ...",
+        "translation": "And [remember] when you, [O Muhammad], left your family in the morning to post the believers at their stations for the battle [of Uhud]... Is it not enough for you that your Lord should reinforce you with three thousand angels sent down? ",
+        "explanation": [
+          "The narrative now plunges into the profound lessons of the Battle of Uhud. It begins by establishing the Prophet ﷺ as a brilliant military strategist, leaving early in the morning to position his troops and archers. However, despite the best planning, human fragility emerged. Two groups within the Muslim army almost lost heart and retreated before Allah spiritually steadied them.",
+          "To boost their morale in the face of a vastly outnumbering opponent, Allah reminds them of their prior miraculous victory at Badr. The Prophet ﷺ assures his troops that if they remain patient and conscious of God, Allah will reinforce them with thousands of angels sweeping down from the heavens.",
+          "Yet, the Qur'an immediately re-centers their theology in verses 126-128. Allah makes it crystal clear that angels and armies are merely tools to bring 'good tidings' and comfort the heart. 'And victory is not except from Allah.' The passage profoundly strips away human ego, telling even the beloved Prophet ﷺ that he has no final say in whether Allah decides to punish his enemies or forgive them and guide them to Islam."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Explains the psychological trauma of Uhud. The promise of angels was strictly conditional upon patience and obedience. Because a crucial group (the archers) eventually disobeyed their orders out of worldly desire, the angelic reinforcement was withheld, resulting in a harsh but necessary educational defeat."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Identifies the two wavering groups as the tribes of Banu Salima and Banu Haritha. They were deeply shaken and almost retreated when the leader of the hypocrites, Abdullah bin Ubayy, suddenly abandoned the Muslim army with 300 of his men right before the clash."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses heavily on the lesson of absolute reliance (Tawakkul). Even with the greatest strategist (the Prophet) and the promise of literal angels, victory cannot be taken for granted. Believers must prepare their means perfectly, but attach their hearts entirely to the Creator, not the creation."
+          }
+        ],
+        "lessons": [
+          "🛡️ Tie Your Camel: True faith requires strategic planning. The Prophet ﷺ didn't just pray for victory; he woke up early and physically positioned his troops.",
+          "💔 Human Frailty is Normal: Even the companions experienced intense fear and wavered. Having moments of weakness doesn't make you a bad believer, as long as you let Allah steady your heart and keep moving forward.",
+          "🕊️ The Ultimate Authority: We do not control outcomes, nor do we control the hearts of our enemies. We only control our effort, patience, and obedience. Victory and guidance are exclusively in Allah's hands."
+        ]
+      },
+      "ms": {
+        "title": "Perang Uhud: Perancangan dan Kebergantungan",
+        "theme": "Permulaan kepada ujian fizikal dan rohani, kelemahan manusia, dan pengakuan bahawa kemenangan mutlak hanya datang daripada Allah.",
+        "arabic": "وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ الْمُؤْمِنِينَ مَقَاعِدَ لِلْقِتَالِ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ... إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَاثَةِ آلَافٍ مِّنَ الْمَلَائِكَةِ مُنزَلِينَ...",
+        "translation": "Dan (ingatlah wahai Muhammad), ketika engkau keluar pada pagi hari dari rumah keluargamu, dengan tujuan menempatkan orang-orang yang beriman pada tempat masing-masing untuk berperang (di medan Uhud)... (Ingatlah) ketika engkau berkata kepada orang-orang yang beriman: 'Tidakkah cukup bagi kamu bahawa Tuhan kamu membantu kamu dengan tiga ribu malaikat yang diturunkan?' ",
+        "explanation": [
+          "Naratif kini menyelami pengajaran mendalam daripada Perang Uhud. Ia bermula dengan memaparkan Nabi ﷺ sebagai ahli strategi ketenteraan yang cemerlang, keluar pada awal pagi untuk menempatkan tentera dan pemanahnya. Namun, di sebalik perancangan terbaik, kelemahan manusia tetap terserlah. Dua kumpulan dalam tentera Islam hampir hilang semangat dan berundur sebelum Allah menetapkan hati mereka secara rohani.",
+          "Untuk meningkatkan semangat mereka ketika berhadapan dengan musuh yang jauh lebih ramai, Allah mengingatkan mereka tentang kemenangan ajaib mereka sebelum ini di Badr. Nabi ﷺ memberi jaminan kepada tenteranya bahawa jika mereka kekal sabar dan bertakwa kepada Tuhan, Allah akan menguatkan mereka dengan ribuan malaikat yang turun dari langit.",
+          "Namun, al-Quran segera memusatkan kembali teologi mereka dalam ayat 126-128. Allah menjelaskan dengan sangat nyata bahawa malaikat dan tentera hanyalah alat untuk membawa 'khabar gembira' dan menenangkan hati. 'Dan kemenangan itu tidak lain hanyalah dari sisi Allah.' Petikan ini sangat menanggalkan ego manusia, memberitahu malah kepada Nabi ﷺ yang dicintai bahawa baginda tiada kuasa mutlak dalam menentukan sama ada Allah memutuskan untuk menghukum musuhnya atau memaafkan mereka dan memberi hidayah Islam kepada mereka."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menjelaskan trauma psikologi Uhud. Janji malaikat itu bersyarat ketat dengan kesabaran dan ketaatan. Oleh kerana kumpulan yang penting (pemanah) akhirnya mengingkari arahan mereka kerana hawa nafsu duniawi, bantuan malaikat telah ditahan, mengakibatkan kekalahan yang perit tetapi mendidik."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Mengenal pasti dua kumpulan yang goyah itu sebagai kabilah Bani Salima dan Bani Haritha. Mereka sangat tergoncang dan hampir berundur apabila ketua munafik, Abdullah bin Ubayy, secara tiba-tiba meninggalkan tentera Islam bersama 300 orang pengikutnya sejurus sebelum pertempuran."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Sangat memfokuskan kepada pengajaran tawakal mutlak. Walaupun dengan ahli strategi terhebat (Nabi) dan janji malaikat, kemenangan tidak boleh dipandang remeh. Orang mukmin mesti menyediakan persiapan mereka dengan sempurna, tetapi menambatkan hati mereka sepenuhnya kepada Pencipta, bukan kepada makhluk."
+          }
+        ],
+        "lessons": [
+          "🛡️ Ikat Unta Anda: Keimanan sebenar memerlukan perancangan strategik. Nabi ﷺ bukan sekadar berdoa untuk kemenangan; baginda bangun awal dan menempatkan tenteranya secara fizikal.",
+          "💔 Kelemahan Manusia itu Normal: Malah para sahabat juga mengalami ketakutan yang mendalam dan goyah. Memiliki saat-saat kelemahan tidak menjadikan anda seorang mukmin yang buruk, asalkan anda membiarkan Allah menetapkan hati anda dan terus melangkah ke hadapan.",
+          "🕊️ Kuasa Mutlak: Kita tidak mengawal hasil, dan kita juga tidak mengawal hati musuh kita. Kita hanya mengawal usaha, kesabaran, dan ketaatan kita. Kemenangan dan hidayah adalah hak mutlak Allah."
+        ]
+      }
+    },
+    {
+      "id": "section-05",
+      "type": "passage",
+      "surah_number": 3,
+      "verse_start": 130,
+      "verse_end": 138,
+      "en": {
+        "title": "Riba, Forgiveness & The People of Paradise",
+        "theme": "The connection between economic purity and spiritual success, leading to the ultimate description of those who attain Paradise.",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا الرِّبَا أَضْعَافًا مُّضَاعَفَةً ۖ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ... وَسَارِعُوا إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ...",
+        "translation": "O you who have believed, do not consume usury, doubled and multiplied, but fear Allah that you may be successful... And hasten to forgiveness from your Lord and a garden as wide as the heavens and earth, prepared for the righteous... ",
+        "explanation": [
+          "In the midst of discussing a military conflict, Allah suddenly shifts to prohibiting Riba (usury). Why? Because pre-Islamic warfare was often funded by high-interest loans, and economic greed was the root of disobedience. Allah commands believers to abandon this toxic system and instead 'hasten' toward a Paradise as vast as the universe.",
+          "The passage then beautifully describes the 'Muttaqun' (the righteous) for whom this Paradise is prepared. They are not flawless angels. They are people who give charity in both good times and bad, who swallow their anger, and who pardon others.",
+          "Crucially, verse 135 defines their relationship with sin. When they commit a shameful deed or wrong themselves, they do not justify it; they immediately remember Allah and seek forgiveness. Their defining trait is not perfection, but their refusal to knowingly persist in their mistakes."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Connects the prohibition of Riba here directly to the events at Uhud, noting that the desire for worldly wealth (the spoils of war) caused the archers to abandon their posts. Pure wealth leads to pure actions."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Explains that the phrase 'swallowing anger' literally means suppressing it internally when you have the full power, ability, and right to act upon it and retaliate."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Highlights the beautiful realism of verse 135. Righteous people do commit sins, sometimes even grave ones. Allah guarantees Paradise for them not because they never fall, but because they rush back to Him in repentance the moment they do."
+          }
+        ],
+        "lessons": [
+          "💰 Clean Wealth, Clear Heart: Greed destroys societies and compromises principles. True spiritual victory must begin with ethical financial practices.",
+          "🤐 Emotional Mastery: Suppressing anger and actively forgiving others when you have the power to destroy them is one of the fastest, most guaranteed paths to Paradise.",
+          "🔄 The Anatomy of Repentance: Righteousness is not about never making a mistake; it is about how fast you get back up, acknowledge the error, and ask Allah for forgiveness."
+        ]
+      },
+      "ms": {
+        "title": "Riba, Kemaafan & Ahli Syurga",
+        "theme": "Hubungan antara kesucian ekonomi dan kejayaan rohani, membawa kepada penerangan mutlak tentang mereka yang mencapai Syurga.",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا الرِّبَا أَضْعَافًا مُّضَاعَفَةً ۖ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ... وَسَارِعُوا إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ...",
+        "translation": "Wahai orang-orang yang beriman! Janganlah kamu memakan riba yang berganda-ganda, dan bertakwalah kamu kepada Allah supaya kamu berjaya... Dan segeralah kamu kepada (mengerjakan amal yang mendatangkan) keampunan dari Tuhan kamu, dan (mendapat) Syurga yang bidangnya seluas segala langit dan bumi, yang disediakan bagi orang-orang yang bertakwa... ",
+        "explanation": [
+          "Di pertengahan perbahasan mengenai konflik ketenteraan, Allah tiba-tiba beralih kepada larangan Riba. Mengapa? Kerana peperangan pra-Islam sering dibiayai oleh pinjaman faedah tinggi, dan ketamakan ekonomi adalah punca ketidakpatuhan. Allah memerintahkan orang beriman untuk meninggalkan sistem toksik ini dan sebaliknya 'bersegera' menuju Syurga yang seluas alam semesta.",
+          "Petikan ini kemudian menerangkan dengan indah tentang golongan 'Muttaqun' (orang yang bertakwa) yang disediakan Syurga ini untuk mereka. Mereka bukanlah malaikat yang sempurna. Mereka adalah orang yang bersedekah pada masa senang mahupun susah, yang menahan kemarahan mereka, dan yang memaafkan orang lain.",
+          "Lebih penting lagi, ayat 135 mendefinisikan hubungan mereka dengan dosa. Apabila mereka melakukan perbuatan keji atau menzalimi diri mereka sendiri, mereka tidak mencari alasan; mereka segera mengingati Allah dan memohon ampun. Ciri utama mereka bukanlah kesempurnaan, tetapi keengganan mereka untuk berterusan melakukan kesilapan secara sedar."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menghubungkan larangan Riba di sini secara langsung dengan peristiwa di Uhud, mencatatkan bahawa keinginan terhadap kekayaan duniawi (harta rampasan) menyebabkan pasukan pemanah meninggalkan kedudukan mereka. Harta yang bersih membawa kepada tindakan yang bersih."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan bahawa frasa 'menahan kemarahan' secara harfiah bermaksud menyekatnya secara dalaman walaupun anda mempunyai kuasa, keupayaan, dan hak penuh untuk bertindak mengikutinya dan membalas dendam."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menonjolkan realisme yang indah dalam ayat 135. Orang yang soleh memang melakukan dosa, malah kadang-kadang dosa besar. Allah menjamin Syurga bagi mereka bukan kerana mereka tidak pernah jatuh, tetapi kerana mereka segera kembali bertaubat kepada-Nya pada saat mereka berbuat demikian."
+          }
+        ],
+        "lessons": [
+          "💰 Harta Bersih, Hati Tenang: Ketamakan memusnahkan masyarakat dan menggadaikan prinsip. Kemenangan rohani yang sebenar mesti bermula dengan amalan kewangan yang beretika.",
+          "🤐 Penguasaan Emosi: Menahan kemarahan dan secara aktif memaafkan orang lain apabila anda mempunyai kuasa untuk menghancurkan mereka adalah salah satu jalan terpantas dan paling terjamin ke Syurga.",
+          "🔄 Anatomi Taubat: Ketakwaan bukan bermaksud tidak pernah melakukan kesilapan; ia adalah tentang betapa pantasnya anda bangkit semula, mengakui kesilapan, dan memohon keampunan Allah."
+        ]
+      }
+    },
+    {
+      "id": "section-06",
+      "type": "passage",
+      "surah_number": 3,
+      "verse_start": 139,
+      "verse_end": 148,
+      "en": {
+        "title": "Lessons from Defeat & The Reality of Martyrs",
+        "theme": "Processing the trauma of Uhud, understanding the divine wisdom behind setbacks, and anchoring faith to God, not men.",
+        "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ... وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ ۚ أَفَإِن مَّاتَ أَوْ قُتِلَ انقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ ۚ...",
+        "translation": "So do not weaken and do not grieve, and you will be superior if you are [true] believers... Muhammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels?... ",
+        "explanation": [
+          "The Muslims were devastated by the heavy losses at Uhud. Allah sends verses of profound psychological healing: 'Do not weaken and do not grieve.' He frames the setback not as a punishment, but as a divine sieve designed to purify the believers, expose the hypocrites, and grant the immense honor of martyrdom to those who fell.",
+          "During the chaos of the battle, a rumor spread that the Prophet ﷺ had been killed, causing some believers to drop their weapons in despair. Verse 144 delivers a harsh but necessary reality check: Islam is not built on the physical immortality of Muhammad ﷺ.",
+          "The verse asks a piercing question: 'If he was to die or be killed, would you turn back on your heels?' It reminds them that previous prophets also faced massive adversity and didn't give up. True faith must be anchored to the Ever-Living God, not to the physical presence of any human, even the greatest messenger."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Focuses on the historical weight of verse 144. Years later, when the Prophet ﷺ actually passed away, the companions were paralyzed with shock. Abu Bakr powerfully recited this exact verse, snapping the community out of their denial and grounding them in eternal truth."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Explains the concept of 'Tamhis' (purification) mentioned in the verses. Defeats serve as a divine furnace, burning away the impurities of ego and filtering out those who only supported Islam when it was economically or politically advantageous."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Notes the profound comforting logic given to the believers: if you suffered injuries and loss, remember that the opposition also suffered. The critical difference is that you suffer for a divine, eternal cause, while they suffer for fleeting worldly gain."
+          }
+        ],
+        "lessons": [
+          "💔 Grief is Natural, Despair is Not: Feeling sad after a crushing loss is a normal human emotion, but losing faith in Allah's ultimate plan is forbidden.",
+          "🔥 The Purpose of Hardship: Setbacks are a divine filtration system. They reveal true character, expose superficial allies, and elevate the sincere to ranks they could not reach through prayer alone.",
+          "⚓ Anchor to the Eternal: Even the greatest human being to ever live was mortal. Our dedication to truth and justice must survive the loss of our human leaders."
+        ]
+      },
+      "ms": {
+        "title": "Pengajaran dari Kekalahan & Hakikat Syuhada",
+        "theme": "Memproses trauma Uhud, memahami hikmah ilahi di sebalik kegagalan, dan menambat iman kepada Tuhan, bukan manusia.",
+        "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ... وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ ۚ أَفَإِن مَّاتَ أَوْ قُتِلَ انقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ ۚ...",
+        "translation": "Dan janganlah kamu merasa lemah, dan janganlah kamu berdukacita, padahal kamulah orang-orang yang tertinggi (darjatnya) jika kamu orang-orang yang (sungguh-sungguh) beriman... Dan Muhammad itu tidak lain hanyalah seorang Rasul yang sudahpun didahului oleh beberapa orang Rasul. Jika demikian, kalau dia pula mati atau terbunuh, patutkah kamu berundur (berpaling tadah menjadi kafir)?... ",
+        "explanation": [
+          "Umat Islam sangat sedih dengan kehilangan besar di Uhud. Allah menurunkan ayat-ayat penyembuhan psikologi yang mendalam: 'Dan janganlah kamu merasa lemah, dan janganlah kamu berdukacita.' Dia membingkai halangan tersebut bukan sebagai hukuman, tetapi sebagai penapis ilahi yang direka untuk menyucikan orang beriman, mendedahkan orang munafik, dan memberikan penghormatan syahid yang besar kepada mereka yang gugur.",
+          "Semasa kekacauan pertempuran, tersebar khabar angin bahawa Nabi ﷺ telah terbunuh, menyebabkan beberapa orang mukmin menjatuhkan senjata mereka kerana putus asa. Ayat 144 memberikan kesedaran realiti yang keras tetapi perlu: Islam tidak dibina di atas keabadian fizikal Muhammad ﷺ.",
+          "Ayat itu bertanyakan soalan yang tajam: 'Kalau dia mati atau terbunuh, patutkah kamu berpaling tadah?' Ia mengingatkan mereka bahawa nabi-nabi terdahulu juga menghadapi kesukaran yang besar dan tidak berputus asa. Iman sejati mesti ditambatkan kepada Tuhan Yang Maha Hidup, bukan pada kehadiran fizikal mana-mana manusia, walaupun rasul yang teragung."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Memfokuskan pada beratnya sejarah ayat 144. Bertahun-tahun kemudian, apabila Nabi ﷺ benar-benar wafat, para sahabat lumpuh dengan kejutan. Abu Bakar dengan beraninya membacakan ayat yang tepat ini, menyedarkan masyarakat daripada penafian mereka dan mengembalikan mereka kepada kebenaran abadi."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan konsep 'Tamhis' (penyucian) yang disebut dalam ayat tersebut. Kekalahan berfungsi sebagai relau ilahi, membakar kotoran ego dan menapis mereka yang hanya menyokong Islam apabila ia memberi kelebihan dari segi ekonomi atau politik."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Mencatatkan logik menenangkan yang mendalam yang diberikan kepada orang mukmin: jika kamu mengalami kecederaan dan kerugian, ingatlah bahawa pihak musuh juga menderita. Perbezaan kritikalnya ialah kamu menderita untuk matlamat ilahi yang abadi, manakala mereka menderita untuk keuntungan duniawi yang sementara."
+          }
+        ],
+        "lessons": [
+          "💔 Kesedihan itu Fitrah, Putus Asa itu Dilarang: Merasa sedih selepas kekalahan yang teruk adalah emosi manusia yang normal, tetapi kehilangan kepercayaan terhadap perancangan muktamad Allah adalah dilarang.",
+          "🔥 Tujuan Kesukaran: Halangan adalah sistem penapisan ilahi. Ia mendedahkan watak sebenar, menelanjangkan sekutu yang dangkal, dan mengangkat orang yang ikhlas ke darjat yang tidak dapat mereka capai melalui doa semata-mata.",
+          "⚓ Berpegang pada yang Abadi: Malah manusia terhebat yang pernah hidup juga akan mati. Dedikasi kita terhadap kebenaran dan keadilan mesti bertahan walaupun kehilangan pemimpin manusia kita."
+        ]
+      }
+    },
+    {
+      "id": "section-07",
+      "type": "passage",
+      "surah_number": 3,
+      "verse_start": 149,
+      "verse_end": 158,
+      "en": {
+        "title": "Forgiving the Archers & The Mercy of the Prophet",
+        "theme": "Addressing the root cause of the setback, the danger of worldly attachment, and the unparalleled gentleness of the Prophet ﷺ.",
+        "arabic": "وَلَقَدْ صَدَقَكُمُ اللَّهُ وَعْدَهُ إِذْ تَحُسُّونَهُم بِإِذْنِهِ ۖ حَتَّىٰ إِذَا فَشِلْتُمْ وَتَنَازَعْتُمْ فِي الْأَمْرِ وَعَصَيْتُم مِّن بَعْدِ مَا أَرَاكُم مَّا تُحِبُّونَ ۚ مِنكُم مَّن يُرِيدُ الدُّنْيَا وَمِنكُم مَّن يُرِيدُ الْآخِرَةَ... فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ ۖ...",
+        "translation": "And Allah had certainly fulfilled His promise to you when you were overpowering them by His permission until [the time] when you lost courage and fell to disputing about the order and disobeyed after He had shown you that which you love. Among you are some who desire this world, and among you are some who desire the Hereafter... So by mercy from Allah, [O Muhammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you... ",
+        "explanation": [
+          "The Qur'an performs a brutally honest autopsy of the setback. Allah reminds them that they were initially winning. The tide turned *only* when the archers, seeing the opposing side flee and leaving behind valuables, abandoned their strategic posts. Allah diagnoses the disease perfectly: 'Among you are some who desire this world.'",
+          "Yet, immediately after highlighting this catastrophic failure of discipline, Allah reveals His infinite grace: 'But He has already forgiven you.' The Qur'an prevents the believers from being consumed by toxic shame.",
+          "Verse 159 then shifts to address the Prophet ﷺ directly, praising his reaction to the archers. Even though their disobedience caused his own physical injury and the death of his beloved uncle Hamzah, he did not rage or scream at them. Allah states that this gentleness was a direct mercy from Him. Had the Prophet ﷺ been harsh, the devastated community would have scattered. Instead, he is commanded to pardon them, ask Allah to forgive them, and continue consulting them in future decisions."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Stresses that the setback was entirely due to internal disobedience to the Messenger's strict command ('Do not leave your posts even if you see birds snatching us'). However, Allah explicitly pardoned them because their error was a momentary lapse in judgment driven by human weakness, not a rejection of faith."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Highlights the sheer panic described in the preceding verses, when the Muslims were fleeing up the mountain without looking back, while the Prophet ﷺ stood his ground, calling them back. Despite this abandonment, his heart remained soft toward them."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Marvels at the profound emotional intelligence in this passage. It completely diagnoses the problem (love of the world) but immediately applies the cure (divine forgiveness). Commanding the Prophet to still consult the companions after their major failure restored their dignity and confidence."
+          }
+        ],
+        "lessons": [
+          "⚠️ The Lure of the World: The moment the archers prioritized material gain over their divine assignment, they lost. Materialism is the death of spiritual focus.",
+          "❤️ Gentleness in Leadership: When your team fails miserably, raging at them only drives them away. The Prophet's ﷺ gentleness after the disaster of Uhud is the gold standard of true leadership.",
+          "🤝 Rebuilding Trust: Forgiving someone isn't just saying the words. By being commanded to 'consult them in the matter' moving forward, the Prophet ﷺ showed them they were still valued and trusted."
+        ]
+      },
+      "ms": {
+        "title": "Memaafkan Pemanah & Rahmat Nabi",
+        "theme": "Menangani punca halangan, bahaya keterikatan duniawi, dan kelembutan Nabi ﷺ yang tiada tandingannya.",
+        "arabic": "وَلَقَدْ صَدَقَكُمُ اللَّهُ وَعْدَهُ إِذْ تَحُسُّونَهُم بِإِذْنِهِ ۖ حَتَّىٰ إِذَا فَشِلْتُمْ وَتَنَازَعْتُمْ فِي الْأَمْرِ وَعَصَيْتُم مِّن بَعْدِ مَا أَرَاكُم مَّا تُحِبُّونَ ۚ مِنكُم مَّن يُرِيدُ الدُّنْيَا وَمِنكُم مَّن يُرِيدُ الْآخِرَةَ... فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ ۖ...",
+        "translation": "Dan demi sesungguhnya, Allah telah menepati janji-Nya kepada kamu ketika kamu berjaya membunuh mereka dengan izin-Nya, sehingga ke masa kamu lemah semangat dan berselisihan dalam urusan (arahan nabi) itu, serta kamu menderhaka sesudah Allah perlihatkan kepada kamu apa yang kamu sukai. Di antara kamu ada yang menghendaki dunia dan di antara kamu ada yang menghendaki akhirat... Maka dengan sebab rahmat daripada Allah, engkau telah bersikap lemah lembut kepada mereka (sahabat-sahabat dan pengikutmu). Dan kalaulah engkau bersikap kasar lagi keras hati, tentulah mereka akan lari dari kelilingmu... ",
+        "explanation": [
+          "Al-Quran melakukan bedah siasat yang sangat jujur tentang halangan ini. Allah mengingatkan mereka bahawa pada mulanya mereka menang. Keadaan berubah *hanya* apabila pemanah, melihat pihak lawan melarikan diri dan meninggalkan barang berharga, meninggalkan pos strategik mereka. Allah mendiagnosis penyakit itu dengan sempurna: 'Di antara kamu ada yang menghendaki dunia.'",
+          "Namun, sejurus selepas menonjolkan kegagalan disiplin yang membawa malapetaka ini, Allah mendedahkan rahmat-Nya yang tidak terhingga: 'Tetapi Dia telah memaafkan kamu.' Al-Quran menghalang orang-orang yang beriman daripada termakan oleh rasa malu yang memudaratkan.",
+          "Ayat 159 kemudian beralih untuk menangani Nabi ﷺ secara langsung, memuji reaksi baginda terhadap pemanah tersebut. Walaupun ketidakpatuhan mereka menyebabkan kecederaan fizikal baginda sendiri dan kematian bapa saudaranya yang dikasihi, Hamzah, baginda tidak mengamuk atau menjerit ke arah mereka. Allah menyatakan bahawa kelembutan ini adalah rahmat langsung daripada-Nya. Sekiranya Nabi ﷺ bersikap kasar, masyarakat yang sedang hancur itu pasti akan berpecah belah. Sebaliknya, baginda diperintahkan untuk memaafkan mereka, memohon keampunan Allah untuk mereka, dan terus berunding dengan mereka dalam keputusan akan datang."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menegaskan bahawa kegagalan itu sepenuhnya disebabkan oleh ketidakpatuhan dalaman terhadap perintah tegas Rasul ('Jangan tinggalkan kedudukan kamu walaupun kamu melihat burung menyambar kami'). Walau bagaimanapun, Allah secara jelas memaafkan mereka kerana kesilapan mereka adalah kekhilafan sementara yang didorong oleh kelemahan manusia, bukan penolakan terhadap iman."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menonjolkan kepanikan yang digambarkan dalam ayat-ayat sebelumnya, apabila orang Islam melarikan diri ke atas gunung tanpa menoleh ke belakang, manakala Nabi ﷺ bertahan di tempatnya, memanggil mereka kembali. Walaupun ditinggalkan, hati baginda tetap lembut terhadap mereka."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Kagum dengan kecerdasan emosi yang mendalam dalam petikan ini. Ia mendiagnosis sepenuhnya masalah (cinta dunia) tetapi segera menerapkan penawar (keampunan ilahi). Memerintahkan Nabi untuk masih berunding dengan para sahabat selepas kegagalan besar mereka telah memulihkan maruah dan keyakinan mereka."
+          }
+        ],
+        "lessons": [
+          "⚠️ Tarikan Dunia: Sebaik sahaja pemanah mengutamakan keuntungan material berbanding tugas ilahi mereka, mereka tewas. Materialisme adalah kematian tumpuan kerohanian.",
+          "❤️ Kelembutan dalam Kepimpinan: Apabila pasukan anda gagal teruk, memarahi mereka hanya akan menjauhkan mereka. Kelembutan Nabi ﷺ selepas bencana Uhud adalah piawaian emas bagi kepimpinan sebenar.",
+          "🤝 Membina Semula Kepercayaan: Memaafkan seseorang bukan sekadar menyebut perkataannya. Dengan diperintahkan untuk 'berunding dengan mereka dalam urusan itu' untuk melangkah ke hadapan, Nabi ﷺ menunjukkan kepada mereka bahawa mereka masih dihargai dan dipercayai."
+        ]
+      }
+    },
+    {
+      "id": "section-08",
+      "type": "passage",
+      "surah_number": 3,
+      "verse_start": 159,
+      "verse_end": 170,
+      "en": {
+        "title": "Consultation (Shura), Trust & The Living Martyrs",
+        "theme": "The mandate of mutual consultation, the prohibition of betrayal, and reframing the reality of those who sacrifice their lives for the truth.",
+        "arabic": "فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ ۖ... وَشَاوِرْهُمْ فِي الْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ ۚ... وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ۚ بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ...",
+        "translation": "So by mercy from Allah, you were lenient with them... and consult them in the matter. And when you have decided, then rely upon Allah... And never think of those who have been killed in the cause of Allah as dead. Rather, they are alive with their Lord, receiving provision... ",
+        "explanation": [
+          "Verse 159 formally institutionalizes the concept of 'Shura' (mutual consultation) in Islamic governance. Even though the previous consultation led to a devastating tactical error at Uhud, Allah commands the Prophet ﷺ to continue seeking their advice. Once a decision is made, however, debate must end, and absolute trust (Tawakkul) must be placed in Allah.",
+          "The passage then sternly warns against 'Ghulul' (embezzlement or betrayal of public trust), affirming that no prophet would ever defraud his followers, and whoever acts deceitfully will carry the exact weight of their betrayal on the Day of Judgment.",
+          "Finally, the Qur'an addresses the heavy grief hanging over Madinah. It radically redefines death for those who fall in the defense of truth. They are not 'dead' in the true sense; they have merely transitioned to a higher, joyous state of existence. They are 'alive with their Lord,' actively receiving divine provision and rejoicing, explicitly wishing they could tell the loved ones they left behind not to grieve for them."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Provides extensive Hadith commentary on the 'living martyrs.' He notes that their souls are placed inside green birds that roam freely through the rivers and gardens of Paradise, resting in golden lamps suspended beneath the Throne of Allah."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Explains the linguistic balance of verse 159. The command to 'consult them' heals their broken morale, but the phrase 'when you have decided, rely upon Allah' ensures that human consultation never replaces divine reliance."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Reflects on the emotional mercy of these verses. By assuring the grieving families that their loved ones are not only alive but actively rejoicing and 'receiving glad tidings,' Allah completely removes the sting and trauma of their loss."
+          }
+        ],
+        "lessons": [
+          "🗣️ The Necessity of Shura: Good leadership requires listening to others. A past failure is not an excuse to become a dictator; collective consultation remains a divine command.",
+          "⚖️ Integrity in Trust: Embezzling public funds or betraying a communal trust (Ghulul) is a severe spiritual crime that will literally be carried on one's back on the Day of Judgment.",
+          "🕊️ The Reality of Sacrifice: Those who give their lives for the sake of Allah do not lose their futures; they secure an eternal, joyous, and vibrant existence."
+        ]
+      },
+      "ms": {
+        "title": "Mesyuarat (Syura), Amanah & Syuhada yang Hidup",
+        "theme": "Kewajipan bermesyuarat, larangan mengkhianati amanah, dan membingkai semula hakikat mereka yang mengorbankan nyawa demi kebenaran.",
+        "arabic": "فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ ۖ... وَشَاوِرْهُمْ فِي الْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ ۚ... وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ۚ بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ...",
+        "translation": "Maka dengan sebab rahmat dari Allah, engkau telah bersikap lemah lembut kepada mereka... dan bermesyuaratlah dengan mereka dalam urusan itu. Kemudian apabila engkau telah berazam, maka bertawakallah kepada Allah... Dan jangan sekali-kali engkau menyangka orang-orang yang terbunuh di jalan Allah itu mati. Bahkan mereka adalah hidup di sisi Tuhan mereka dengan mendapat rezeki... ",
+        "explanation": [
+          "Ayat 159 secara rasmi menginstitusikan konsep 'Syura' (mesyuarat atau perundingan bersama) dalam tadbir urus Islam. Walaupun perundingan sebelum ini membawa kepada kesilapan taktikal yang memudaratkan di Uhud, Allah memerintahkan Nabi ﷺ untuk terus mendapatkan pandangan mereka. Namun, sebaik sahaja keputusan dibuat, perdebatan mesti ditamatkan, dan tawakal mutlak mesti diletakkan kepada Allah.",
+          "Petikan ini kemudian memberi amaran keras terhadap 'Ghulul' (penggelapan harta atau pengkhianatan amanah awam), menegaskan bahawa tidak ada nabi yang akan menipu pengikutnya, dan sesiapa yang bertindak khianat akan memikul beban pengkhianatan mereka pada Hari Kiamat.",
+          "Akhir sekali, al-Quran menangani kesedihan berat yang menyelubungi Madinah. Ia mendefinisikan semula erti kematian secara radikal bagi mereka yang gugur dalam mempertahankan kebenaran. Mereka tidak 'mati' dalam erti kata sebenar; mereka hanya beralih ke tahap kewujudan yang lebih tinggi dan menggembirakan. Mereka 'hidup di sisi Tuhan mereka,' aktif menerima rezeki ilahi dan bergembira, serta berharap agar mereka dapat memberitahu orang tersayang yang ditinggalkan supaya tidak bersedih untuk mereka."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Memberikan ulasan Hadis yang meluas mengenai 'syuhada yang hidup.' Beliau mencatatkan bahawa roh mereka diletakkan di dalam burung hijau yang terbang bebas melalui sungai-sungai dan taman-taman Syurga, berehat di lampu-lampu emas yang tergantung di bawah Arasy Allah."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan keseimbangan linguistik ayat 159. Perintah untuk 'bermesyuarat dengan mereka' menyembuhkan semangat mereka yang hancur, tetapi frasa 'apabila engkau telah berazam, bertawakallah kepada Allah' memastikan bahawa perundingan manusia tidak sesekali menggantikan kebergantungan kepada Tuhan."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Merenung tentang rahmat emosi ayat-ayat ini. Dengan memberi jaminan kepada keluarga yang berduka bahawa orang yang mereka sayangi bukan sahaja hidup tetapi bergembira dan 'menerima khabar gembira,' Allah menghilangkan sepenuhnya kepedihan dan trauma kehilangan mereka."
+          }
+        ],
+        "lessons": [
+          "🗣️ Keperluan Syura: Kepimpinan yang baik menuntut kita mendengar pendapat orang lain. Kegagalan masa lalu bukanlah alasan untuk menjadi diktator; perundingan kolektif kekal sebagai perintah ilahi.",
+          "⚖️ Integriti dalam Amanah: Menggelapkan dana awam atau mengkhianati amanah masyarakat (Ghulul) adalah jenayah rohani yang berat yang secara harfiah akan dipikul di belakang seseorang pada Hari Kiamat.",
+          "🕊️ Hakikat Pengorbanan: Mereka yang mengorbankan nyawa demi Allah tidak kehilangan masa depan mereka; mereka menjamin kewujudan yang abadi, penuh kegembiraan, dan hidup yang sebenar-benarnya."
+        ]
+      }
+    },
+    {
+      "id": "section-09",
+      "type": "passage",
+      "surah_number": 3,
+      "verse_start": 171,
+      "verse_end": 180,
+      "en": {
+        "title": "Unshakable Faith & The Stingy",
+        "theme": "The ultimate declaration of reliance (Hasbunallah), psychological victory over fear, and the destructive reality of hoarding wealth.",
+        "arabic": "الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ... وَلَا يَحْسَبَنَّ الَّذِينَ يَبْخَلُونَ بِمَا آتَاهُمُ اللَّهُ مِن فَضْلِهِ هُوَ خَيْرًا لَّهُم ۖ بَلْ هُوَ شَرٌّ لَّهُمْ ۖ سَيُطَوَّقُونَ مَا بَخِلُوا بِهِ يَوْمَ الْقِيَامَةِ...",
+        "translation": "Those to whom hypocrites said, 'Indeed, the people have gathered against you, so fear them.' But it [merely] increased them in faith, and they said, 'Sufficient for us is Allah, and [He is] the best Disposer of affairs.'... And let not those who [greedily] withhold what Allah has given them of His bounty ever think that it is better for them. Rather, it is worse for them. Their necks will be encircled by what they withheld on the Day of Resurrection... ",
+        "explanation": [
+          "Following the setback at Uhud, rumors were intentionally spread to terrify the wounded Muslims, claiming a massive army was returning to wipe them out completely. Instead of panicking, the believers responded with a monumental declaration of faith: 'Hasbunallah wa ni'mal Wakil' (Sufficient for us is Allah, and He is the best Disposer of affairs). Because they conquered their psychological fear, Allah granted them 'grace and bounty' and no harm touched them.",
+          "Allah explains that the source of such fear is Satan, who tries to make believers terrified of his allies. 'So fear them not, but fear Me, if you are believers.'",
+          "The passage then violently pivots from the courage of the warriors to the cowardice of the stingy. Allah addresses those who greedily hoard the wealth He blessed them with. They think hoarding is a form of security, but Allah shatters this illusion: 'Rather, it is worse for them.' In the Hereafter, the very wealth they refused to spend in charity will be transformed into a torturous collar around their necks."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Provides the historical context of the Hamra al-Asad expedition. Despite their severe wounds from Uhud, the Prophet ﷺ called the companions to march out again the very next morning to deter the enemy. Their absolute reliance ('Hasbunallah') is exactly what Prophet Ibrahim said when thrown into the fire."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Explains the terrifying imagery of verse 180 based on authentic Hadiths: the hoarded wealth of the stingy person will physically manifest on the Day of Judgment as a massive, venomous serpent wrapped tightly around their neck."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Draws a psychological parallel between the two themes of the passage. Just as true reliance on Allah cures the heart of the fear of enemies, true reliance on Allah cures the heart of the fear of poverty (which causes stinginess). Both fear and greed stem from a lack of Tawakkul."
+          }
+        ],
+        "lessons": [
+          "🛡️ The Ultimate Shield: The phrase 'Hasbunallah wa ni'mal Wakil' is a spiritual fortress. When you face overwhelming odds or anxiety, declaring that Allah is sufficient for you neutralizes fear.",
+          "🧠 Conquering Psychological Warfare: Satan's primary weapon is intimidation. He wants you to fear people, poverty, and the future. Defeat him by directing all your awe and fear toward Allah alone.",
+          "🔥 The Poison of Hoarding: Wealth is a tool to be used, not a security blanket to be hoarded. Refusing to share Allah's blessings turns those very blessings into a source of eventual torment."
+        ]
+      },
+      "ms": {
+        "title": "Iman yang Teguh & Golongan Bakhil",
+        "theme": "Pengisytiharan mutlak kebergantungan (Hasbunallah), kemenangan psikologi ke atas ketakutan, dan realiti kemusnahan sifat menimbun harta.",
+        "arabic": "الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ... وَلَا يَحْسَبَنَّ الَّذِينَ يَبْخَلُونَ بِمَا آتَاهُمُ اللَّهُ مِن فَضْلِهِ هُوَ خَيْرًا لَّهُم ۖ بَلْ هُوَ شَرٌّ لَّهُمْ ۖ سَيُطَوَّقُونَ مَا بَخِلُوا بِهِ يَوْمَ الْقِيَامَةِ...",
+        "translation": "Mereka yang apabila dikatakan kepada mereka: 'Sesungguhnya manusia telah berkumpul untuk menyerang kamu, oleh itu takutlah kepada mereka.' Namun kata-kata itu malah menambahkan iman mereka, dan mereka menjawab: 'Cukuplah Allah bagi kami, dan Dia sebaik-baik Pengurus (yang menyerahkan urusan kepadanya).'... Dan jangan sekali-kali orang-orang yang bakhil dengan harta benda yang telah dikurniakan Allah kepada mereka dari kemurahan-Nya menyangka bahawa kebakhilan itu baik bagi mereka. Bahkan ia adalah buruk bagi mereka. Mereka akan dikalungkan (diseksa) dengan apa yang mereka bakhilkan itu pada Hari Kiamat... ",
+        "explanation": [
+          "Berikutan kekalahan di Uhud, khabar angin sengaja disebarkan untuk menakutkan umat Islam yang tercedera, mendakwa pasukan tentera yang besar akan kembali untuk menghapuskan mereka sepenuhnya. Daripada menjadi panik, orang-orang yang beriman bertindak balas dengan pengisytiharan iman yang agung: 'Hasbunallah wa ni'mal Wakil' (Cukuplah Allah bagi kami, dan Dia adalah sebaik-baik Pengurus urusan). Kerana mereka menakluki ketakutan psikologi mereka, Allah mengurniakan kepada mereka 'nikmat dan limpah kurnia' serta tiada sebarang keburukan yang menyentuh mereka.",
+          "Allah menjelaskan bahawa sumber ketakutan sedemikian adalah Syaitan, yang cuba membuat orang beriman takut kepada sekutunya. 'Maka janganlah kamu takut kepada mereka, tetapi takutlah kepada-Ku, jika kamu orang-orang yang beriman.'",
+          "Petikan ini kemudian beralih arah secara tajam daripada keberanian para pejuang kepada kepengecutan orang yang bakhil. Allah menegur mereka yang dengan tamak menimbun kekayaan yang dikurniakan-Nya. Mereka menyangka sifat menimbun adalah satu bentuk jaminan, tetapi Allah menghancurkan ilusi ini: 'Bahkan ia adalah buruk bagi mereka.' Di Akhirat, kekayaan yang mereka enggan belanjakan untuk sedekah itu akan bertukar menjadi belenggu seksaan yang mengelilingi leher mereka."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Memberikan konteks sejarah ekspedisi Hamra al-Asad. Walaupun cedera parah dari Uhud, Nabi ﷺ memanggil para sahabat untuk berarak semula pada keesokan paginya untuk menghalang musuh. Kebergantungan mutlak mereka ('Hasbunallah') adalah persis seperti apa yang diucapkan oleh Nabi Ibrahim apabila dicampakkan ke dalam api."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan gambaran mengerikan dalam ayat 180 berdasarkan Hadis sahih: harta yang ditimbun oleh orang yang bakhil akan secara fizikal menjelma pada Hari Kiamat sebagai seekor ular berbisa yang besar yang melilit ketat pada leher mereka."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Melukiskan persamaan psikologi antara dua tema dalam petikan ini. Sama seperti tawakal yang sebenar kepada Allah menyembuhkan hati daripada ketakutan terhadap musuh, tawakal yang sebenar juga menyembuhkan hati daripada ketakutan terhadap kemiskinan (yang menyebabkan kebakhilan). Kedua-dua ketakutan dan ketamakan berpunca daripada kekurangan Tawakal."
+          }
+        ],
+        "lessons": [
+          "🛡️ Perisai Utama: Frasa 'Hasbunallah wa ni'mal Wakil' adalah kubu kerohanian. Apabila anda menghadapi halangan atau kebimbangan yang luar biasa, mengisytiharkan bahawa Allah sudah cukup bagi anda akan meneutralkan ketakutan tersebut.",
+          "🧠 Menakluki Perang Psikologi: Senjata utama Syaitan ialah intimidasi. Dia mahu anda takut kepada manusia, kemiskinan, dan masa depan. Kalahkan dia dengan mengarahkan segala rasa kagum dan takut anda hanya kepada Allah.",
+          "🔥 Racun Penimbunan: Kekayaan adalah alat untuk digunakan, bukan selimut keselamatan untuk disimpan. Keengganan untuk berkongsi rezeki Allah menukarkan berkat tersebut menjadi sumber azab pada akhirnya."
+        ]
+      }
+    },
+    {
+      "id": "section-10",
+      "type": "passage",
+      "surah_number": 3,
+      "verse_start": 181,
+      "verse_end": 189,
+      "en": {
+        "title": "Enduring Tests & The Covenant of Knowledge",
+        "theme": "Responding to ideological mockery, the inevitability of trials in life, and the strict duty of scholars to illuminate the truth.",
+        "arabic": "لَّقَدْ سَمِعَ اللَّهُ قَوْلَ الَّذِينَ قَالُوا إِنَّ اللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَاءُ ۘ... لَتُبْلَوُنَّ فِي أَمْوَالِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ... أَذًى كَثِيرًا ۚ... لَا تَحْسَبَنَّ الَّذِينَ يَفْرَحُونَ بِمَا أَتَوا وَّيُحِبُّونَ أَن يُحْمَدُوا بِمَا لَمْ يَفْعَلُوا...",
+        "translation": "Allah has certainly heard the statement of those who said, 'Indeed, Allah is poor, while we are rich.'... You will surely be tested in your possessions and in yourselves. And you will surely hear from those who were given the Scripture... much abuse... And do not think that those who rejoice in what they have done and love to be praised for what they did not do - do not think them to be in safety from the punishment... ",
+        "explanation": [
+          "This section prepares the believers for the ideological abuse that accompanies faith. When the Qur'an asked believers to 'loan Allah a goodly loan' (meaning charity), arrogant opponents mocked the revelation, sneering, 'God must be poor, and we are rich.' Allah records their mockery as a severe crime alongside the historical killing of prophets, ensuring perfect justice will be served.",
+          "Verse 186 lays down a universal law of the believer's worldly experience: 'You will surely be tested in your possessions and in yourselves. And you will surely hear... much abuse.' Islam guarantees that standing for truth will attract financial loss, physical hardship, and verbal mockery. The only defense mechanism provided is absolute patience and Taqwa (God-consciousness).",
+          "The passage then addresses the keepers of knowledge. Allah reveals the solemn covenant taken from those given Scripture: they must make the truth clear to the people and never conceal it. It severely condemns those who hide truth for worldly gain, and issues a chilling warning to hypocrites and scholars who love to be praised and recognized for achievements they never actually accomplished."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Identifies the individual who made the mocking 'God is poor' comment as Finhas, a leading figure among the Jewish tribes in Madinah. Ibn Kathir stresses that verse 186 is a foundational warning: believers must psychologically prepare themselves for verbal abuse from opponents, as it is an unavoidable consequence of holding onto faith."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Explains the context of seeking unearned praise (verse 188). It referred to hypocrites who would stay behind during military expeditions but still wanted the community to praise them for bravery and loyalty as if they had participated."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the betrayal of the 'Covenant of Knowledge.' As-Sa'di states that anyone who has religious knowledge has a divine duty to spread it and clarify it for the public. Hiding knowledge to protect one's social status or income is a profound betrayal of God."
+          }
+        ],
+        "lessons": [
+          "🗣️ Prepare for the Pushback: Do not be shocked when your faith is mocked or criticized. Verbal abuse and ideological attacks are guaranteed tests of your patience, not signs that you are on the wrong path.",
+          "📚 The Duty of the Educated: If you possess knowledge of the truth, you do not have the right to remain silent when people are confused. You are bound by a divine covenant to illuminate the path for others.",
+          "🎭 The Trap of the Ego: Seeking validation, titles, or praise for work you didn't do is a spiritual sickness that destroys sincerity and invites divine punishment."
+        ]
+      },
+      "ms": {
+        "title": "Mengharungi Ujian & Perjanjian Ilmu",
+        "theme": "Memberi respons kepada ejekan ideologi, kepastian ujian dalam kehidupan, dan tugas ketat para ulama untuk menjelaskan kebenaran.",
+        "arabic": "لَّقَدْ سَمِعَ اللَّهُ قَوْلَ الَّذِينَ قَالُوا إِنَّ اللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَاءُ ۘ... لَتُبْلَوُنَّ فِي أَمْوَالِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ... أَذًى كَثِيرًا ۚ... لَا تَحْسَبَنَّ الَّذِينَ يَفْرَحُونَ بِمَا أَتَوا وَّيُحِبُّونَ أَن يُحْمَدُوا بِمَا لَمْ يَفْعَلُوا...",
+        "translation": "Sesungguhnya Allah telah mendengar perkataan orang-orang yang berkata: 'Sebenarnya Allah miskin dan kami ialah orang-orang kaya.'... Demi sesungguhnya, kamu akan diuji pada harta benda dan diri kamu. Dan demi sesungguhnya, kamu akan mendengar dari orang-orang yang telah diberikan Kitab... banyak ejaan dan cacian... Jangan sekali-kali engkau menyangka bahawa orang-orang yang bergembira dengan apa yang mereka telah lakukan, dan suka dipuji dengan apa yang mereka tidak lakukan - jangan sekali-kali engkau menyangka mereka akan terselamat dari azab seksa... ",
+        "explanation": [
+          "Bahagian ini mempersiapkan orang-orang mukmin untuk menghadapi cacian ideologi yang mengiringi keimanan. Apabila al-Quran meminta orang beriman untuk 'memberi pinjaman yang baik kepada Allah' (bermaksud sedekah), penentang yang sombong mengejek wahyu tersebut dengan berkata, 'Tuhan pastinya miskin, dan kami adalah orang kaya.' Allah merekodkan ejekan mereka sebagai jenayah berat seiring dengan sejarah pembunuhan para nabi, memastikan keadilan yang sempurna akan ditegakkan.",
+          "Ayat 186 menetapkan undang-undang sejagat tentang pengalaman duniawi seorang mukmin: 'Demi sesungguhnya, kamu akan diuji pada harta benda dan diri kamu. Dan kamu akan mendengar... banyak cacian.' Islam memberi jaminan bahawa mempertahankan kebenaran akan menarik kerugian kewangan, kesukaran fizikal, dan ejekan lisan. Satu-satunya mekanisme pertahanan yang diberikan ialah kesabaran mutlak dan Taqwa.",
+          "Petikan ini kemudian beralih kepada pemelihara ilmu (ulama/pendita). Allah mendedahkan perjanjian berat yang diambil daripada mereka yang diberi Kitab: mereka mesti menjelaskan kebenaran kepada manusia dan tidak menyembunyikannya sama sekali. Ia mengecam keras mereka yang menyembunyikan kebenaran demi keuntungan duniawi, dan memberikan amaran yang menakutkan kepada golongan munafik dan ilmuwan yang suka dipuji dan diiktiraf atas pencapaian yang tidak pernah mereka lakukan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Mengenal pasti individu yang membuat komen ejekan 'Tuhan itu miskin' sebagai Finhas, seorang tokoh terkemuka dalam kalangan kabilah Yahudi di Madinah. Ibn Kathir menegaskan bahawa ayat 186 adalah amaran asas: orang mukmin mesti secara psikologi menyediakan diri mereka untuk cacian lisan daripada pihak lawan, kerana ia adalah akibat yang tidak dapat dielakkan kerana berpegang kepada agama."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan konteks mencari pujian yang tidak layak diterima (ayat 188). Ia merujuk kepada orang munafik yang akan tinggal di belakang semasa ekspedisi ketenteraan tetapi masih mahu masyarakat memuji mereka atas keberanian dan kesetiaan seolah-olah mereka telah turut serta."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Memfokuskan kepada pengkhianatan 'Perjanjian Ilmu.' As-Sa'di menyatakan bahawa sesiapa yang mempunyai ilmu agama mempunyai tugas ilahi untuk menyebarkannya dan menjelaskannya kepada umum. Menyembunyikan ilmu untuk melindungi status sosial atau pendapatan seseorang adalah satu pengkhianatan yang mendalam terhadap Tuhan."
+          }
+        ],
+        "lessons": [
+          "🗣️ Bersedia untuk Penentangan: Jangan terkejut apabila iman anda diejek atau dikritik. Cacian lisan dan serangan ideologi adalah jaminan ujian terhadap kesabaran anda, bukan petanda bahawa anda berada di jalan yang salah.",
+          "📚 Tugas Orang Berilmu: Jika anda memiliki pengetahuan tentang kebenaran, anda tidak mempunyai hak untuk berdiam diri apabila manusia berada dalam kekeliruan. Anda terikat dengan perjanjian ilahi untuk menerangi jalan bagi orang lain.",
+          "🎭 Perangkap Ego: Mencari pengesahan, gelaran, atau pujian untuk kerja yang tidak anda lakukan adalah penyakit rohani yang memusnahkan keikhlasan dan mengundang azab ilahi."
+        ]
+      }
+    },
+    {
+      "id": "section-11",
+      "type": "passage",
+      "surah_number": 3,
+      "verse_start": 190,
+      "verse_end": 200,
+      "en": {
+        "title": "Contemplating Creation & The Final Prayer",
+        "theme": "The habits of the people of intellect, the equality of reward for men and women, and the final four pillars of endurance.",
+        "arabic": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ... فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لَا أُضِيعُ عَمَلَ عَامِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ... يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+        "translation": "Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding... And their Lord responded to them, 'Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another.'... O you who have believed, persevere and endure and remain stationed and fear Allah that you may be successful.",
+        "explanation": [
+          "Surah Al 'Imran concludes with some of the most emotionally profound verses in the entire Qur'an. It begins by describing the 'Ulul Albab' (people of deep understanding). They are not merely those with high IQs, but those who remember Allah standing, sitting, and lying down, and who reflect deeply on the universe, concluding: 'Our Lord, You did not create this aimlessly.'",
+          "These people of intellect then pour their hearts out in a beautiful, multi-layered Dua, begging for forgiveness and salvation from the Fire. Allah immediately answers them in verse 195, establishing a monumental rule of spiritual equality: 'Never will I allow to be lost the work of any worker among you, whether male or female.' In the sight of Allah, gender does not alter the value of a righteous deed.",
+          "The Surah ends with verse 200, summarizing the entire journey of faith into four active commands: Isbiroo (be patient with yourself), Saabiroo (out-endure your opponents), Rabitoo (remain stationed/vigilant at your posts), and Wattaqoo (maintain God-consciousness). These are the ultimate keys to success."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Narrates that when verses 190-191 were revealed, the Prophet ﷺ wept until his beard and the ground were soaked. He said, 'Woe to the one who reads these verses and does not reflect upon them.' Ibn Kathir notes that looking at the stars and nature is an active form of worship if it leads to recognizing the Creator."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Explains the term 'Murabathah' (remain stationed) in verse 200. Originally referring to soldiers guarding the vulnerable frontiers of a city, in a spiritual sense, it means guarding the frontiers of your heart from sin, and waiting in the mosque from one prayer to the next."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Highlights the profound connection between intellect and humility. As-Sa'di states that a true intellectual naturally arrives at the conclusion that the universe has a purpose, which inevitably leads to the humility of Dua and seeking forgiveness."
+          }
+        ],
+        "lessons": [
+          "🌌 Nature as a Mosque: Looking at the sky, the mountains, and the oceans while contemplating Allah's design is a profound act of worship that softens the hardest of hearts.",
+          "⚖️ Absolute Spiritual Equality: Society may judge the value of work based on gender, status, or wealth, but Allah's scale is perfectly blind to all of that. He rewards pure effort and sincerity equally.",
+          "🛡️ The Strategy of Success: Faith is not passive. It requires you to be patient internally, outlast your challenges externally, and stay constantly vigilant against spiritual attacks."
+        ]
+      },
+      "ms": {
+        "title": "Merenung Penciptaan & Doa Penutup",
+        "theme": "Kebiasaan golongan yang berakal, kesaksamaan ganjaran bagi lelaki dan wanita, dan empat tiang akhir untuk ketahanan.",
+        "arabic": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ... فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لَا أُضِيعُ عَمَلَ عَامِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ... يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+        "translation": "Sesungguhnya pada kejadian langit dan bumi, dan pada pertukaran malam dan siang, ada tanda-tanda (kekuasaan, kebijaksanaan, dan keluasan rahmat Allah) bagi orang-orang yang berakal... Maka Tuhan mereka perkenankan doa mereka (dengan firman-Nya): 'Sesungguhnya Aku tidak akan mensia-siakan amal orang-orang yang beramal dari kalangan kamu, sama ada lelaki atau perempuan, (kerana) setengah kamu (adalah keturunan) dari setengahnya yang lain...' Wahai orang-orang yang beriman! Bersabarlah kamu, dan kuatkanlah kesabaran kamu, dan bersedialah serta bertakwalah kamu kepada Allah supaya kamu berjaya.",
+        "explanation": [
+          "Surah Al 'Imran diakhiri dengan beberapa ayat yang paling mendalam emosinya dalam keseluruhan al-Quran. Ia bermula dengan menggambarkan 'Ulul Albab' (golongan yang berakal/berfikiran tajam). Mereka bukan sekadar mereka yang mempunyai IQ tinggi, tetapi mereka yang mengingati Allah ketika berdiri, duduk, dan berbaring, serta merenung mendalam tentang alam semesta, lalu menyimpulkan: 'Wahai Tuhan kami, tidaklah Engkau menciptakan benda-benda ini dengan sia-sia.'",
+          "Golongan berakal ini kemudiannya mencurahkan isi hati mereka dalam Doa yang indah dan berlapis-lapis, memohon keampunan dan keselamatan dari Api Neraka. Allah segera menjawab mereka dalam ayat 195, menetapkan peraturan agung tentang kesaksamaan rohani: 'Sesungguhnya Aku tidak akan mensia-siakan amal orang-orang yang beramal dari kalangan kamu, sama ada lelaki atau perempuan.' Di sisi Allah, jantina tidak mengubah nilai sesuatu amal soleh.",
+          "Surah ini diakhiri dengan ayat 200, merumuskan keseluruhan perjalanan iman ke dalam empat arahan aktif: Isbiroo (bersabar dengan diri sendiri), Saabiroo (kuatkan kesabaran mengatasi musuh/ujian), Rabitoo (bersiap sedia/berjaga-jaga di pos anda), dan Wattaqoo (pelihara ketakwaan). Inilah kunci utama kepada kejayaan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Meriwayatkan bahawa apabila ayat 190-191 diturunkan, Nabi ﷺ menangis sehingga janggut baginda dan tanah basah. Baginda bersabda, 'Celakalah orang yang membaca ayat-ayat ini tetapi tidak memikirkannya.' Ibn Kathir mencatatkan bahawa melihat bintang dan alam semula jadi adalah bentuk ibadah yang aktif jika ia membawa kepada mengenali Pencipta."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan istilah 'Murabathah' (bersedia/berjaga-jaga) dalam ayat 200. Pada asalnya merujuk kepada tentera yang mengawal sempadan kota yang terdedah kepada musuh, dalam pengertian rohani, ia bermaksud menjaga sempadan hati anda daripada dosa, dan menunggu di masjid dari satu waktu solat ke waktu solat yang lain."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menonjolkan hubungan mendalam antara akal dan kerendahan hati. As-Sa'di menyatakan bahawa seorang intelektual sejati secara semula jadi akan mencapai kesimpulan bahawa alam semesta mempunyai tujuan, yang semestinya membawa kepada kerendahan hati untuk berdoa dan memohon ampun."
+          }
+        ],
+        "lessons": [
+          "🌌 Alam sebagai Masjid: Melihat ke langit, gunung, dan lautan sambil merenung reka bentuk Allah adalah satu tindakan ibadah mendalam yang melembutkan hati yang paling keras.",
+          "⚖️ Kesaksamaan Rohani Mutlak: Masyarakat mungkin menilai nilai kerja berdasarkan jantina, status, atau kekayaan, tetapi neraca Allah buta sepenuhnya terhadap semua itu. Dia memberi ganjaran kepada usaha yang suci dan keikhlasan secara sama rata.",
+          "🛡️ Strategi Kejayaan: Iman itu tidak pasif. Ia menuntut anda untuk bersabar secara dalaman, bertahan melebihi cabaran anda secara luaran, dan sentiasa berwaspada terhadap serangan rohani."
+        ]
+      }
+    },
+    {
+      "id": "section-12",
+      "type": "surah-intro",
+      "surah_number": 4,
+      "en": {
+        "arabic_name": "النساء",
+        "name": "An-Nisa (The Women)",
+        "classification": "Madinan",
+        "verses": 176,
+        "epithet": "The Surah of Justice and Vulnerable Rights",
+        "background": "Revealed in Madinah, largely in the aftermath of the Battle of Uhud. The Muslim community was facing a severe social crisis: 70 men had been martyred, leaving behind numerous widows and orphans. Pre-Islamic Arabia had horrific practices regarding the inheritance and treatment of women and orphans.",
+        "desc": "Surah An-Nisa is a revolutionary legal document. It dismantled the oppressive patriarchal structures of pre-Islamic Arabia. It established unprecedented, God-given rights for women to inherit, own property, and receive a dowry. It lays down meticulous laws to protect the wealth of orphans, regulates marriage and divorce, and champions absolute justice for the weak and oppressed in society."
+      },
+      "ms": {
+        "arabic_name": "النساء",
+        "name": "An-Nisa (Wanita)",
+        "classification": "Madaniyyah",
+        "verses": 176,
+        "epithet": "Surah Keadilan dan Hak Golongan Lemah",
+        "background": "Diturunkan di Madinah, sebahagian besarnya berikutan Perang Uhud. Masyarakat Islam sedang menghadapi krisis sosial yang teruk: 70 orang lelaki telah syahid, meninggalkan ramai balu dan anak yatim. Tanah Arab pra-Islam mempunyai amalan yang mengerikan mengenai warisan dan layanan terhadap wanita serta anak yatim.",
+        "desc": "Surah An-Nisa ialah sebuah dokumen perundangan yang revolusioner. Ia membongkar struktur patriarki yang menindas di Tanah Arab pra-Islam. Ia menetapkan hak-hak yang belum pernah wujud sebelum ini, hak kurniaan Tuhan untuk wanita mewarisi, memiliki harta, dan menerima mas kahwin. Ia meletakkan undang-undang yang teliti untuk melindungi harta anak yatim, mengawal selia perkahwinan dan penceraian, dan memperjuangkan keadilan mutlak bagi golongan yang lemah dan ditindas dalam masyarakat."
+      }
+    },
+    {
+      "id": "section-13",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 1,
+      "verse_end": 10,
+      "en": {
+        "title": "One Origin, Orphans & Justice in Marriage",
+        "theme": "The shared origin of humanity, strict warnings against devouring orphans' wealth, and establishing fair, highly regulated marriage practices.",
+        "arabic": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُم مِّن نَّفْسٍ وَاحِدَةٍ... وَآتُوا الْيَتَامَىٰ أَمْوَالَهُمْ ۖ وَلَا تَتَبَدَّلُوا الْخَبِيثَ بِالطَّيِّبِ ۖ... فَانكِحُوا مَا طَابَ لَكُم مِّنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا فَوَاحِدَةً...",
+        "translation": "O mankind, fear your Lord, who created you from one soul... And give to the orphans their properties and do not substitute the defective [of your own] for the good [of theirs]... And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one... ",
+        "explanation": [
+          "The Surah opens with a universal call to all of humanity, reminding them that every single human being—regardless of race, gender, or status—comes from the exact same single soul (Adam). This shatters all concepts of racial superiority and demands profound respect for 'the wombs' (family ties).",
+          "Allah immediately addresses the post-Uhud crisis: the orphans. Guardians are strictly warned not to exploit their power. They must not swap their own cheap possessions for the valuable property of the orphans they manage. Verse 10 issues a terrifying warning: those who unjustly eat up the property of orphans are literally 'eating fire into their bellies.'",
+          "Verse 3 addresses marriage in this context. In pre-Islamic times, men married unlimited numbers of women without giving them their rights. The Qur'an restricted this practice, capping it at four, and attaching a massive, intimidating condition: absolute fairness and justice among them. The verse explicitly warns: 'But if you fear that you will not be just, then marry only one.' Verse 4 then revolutionizes women's financial rights by mandating the 'Mahr' (dowry)—it must be given directly to the bride as a free gift, not paid as a bride-price to her father."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Explains the specific context of verse 3: Guardians were marrying wealthy orphan girls under their care but refusing to pay them a proper Mahr because the girls had no fathers to defend them. Allah forbade this. He commanded the men to either pay them fully and treat them perfectly fairly, or leave them alone and marry other women instead."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the linguistic imperative in 'give the women their dowries graciously'. It establishes that the dowry is the absolute, undisputed property of the wife. Even her husband cannot take a penny of it back unless she willingly offers it from the goodness of her heart."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Highlights the deep socio-economic justice of these opening verses. By severely condemning the exploitation of orphans and ensuring women receive independent wealth (the Mahr), Allah structurally protects the most vulnerable members of society from poverty and abuse."
+          }
+        ],
+        "lessons": [
+          "🌍 The Human Family: Racism and sexism have no place in Islam. Every human being breathes life derived from the exact same original soul.",
+          "⚖️ Justice over Desire: Polygyny in Islam is not a blank check for male desire; it is a heavily restricted allowance historically tied to social welfare (providing for widows), bounded by the terrifying prerequisite of absolute justice.",
+          "🔥 Protecting the Vulnerable: Exploiting those who cannot defend themselves—like orphans and widows—is not just a sin; it is described by Allah as swallowing actual fire."
+        ]
+      },
+      "ms": {
+        "title": "Satu Asal Usul, Anak Yatim & Keadilan Perkahwinan",
+        "theme": "Asal usul manusia yang sama, amaran keras terhadap memakan harta anak yatim, dan menetapkan amalan perkahwinan yang adil serta terkawal.",
+        "arabic": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُم مِّن نَّفْسٍ وَاحِدَةٍ... وَآتُوا الْيَتَامَىٰ أَمْوَالَهُمْ ۖ وَلَا تَتَبَدَّلُوا الْخَبِيثَ بِالطَّيِّبِ ۖ... فَانكِحُوا مَا طَابَ لَكُم مِّنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا فَوَاحِدَةً...",
+        "translation": "Wahai umat manusia, bertakwalah kepada Tuhan kamu yang telah menjadikan kamu dari diri yang satu... Dan berikanlah kepada anak-anak yatim (yang telah baligh) itu harta mereka, dan janganlah kamu tukar ganti yang baik dengan yang buruk... Maka berkahwinlah dengan sesiapa yang kamu berkenan dari perempuan-perempuan (lain): dua, tiga atau empat. Kemudian jika kamu bimbang tidak akan berlaku adil (di antara isteri-isteri kamu) maka (berkahwinlah dengan) seorang sahaja... ",
+        "explanation": [
+          "Surah ini bermula dengan seruan universal kepada seluruh umat manusia, mengingatkan mereka bahawa setiap manusia—tanpa mengira bangsa, jantina, atau status—berasal dari diri tunggal yang sama (Adam). Ini menghancurkan semua konsep ketuanan kaum dan menuntut penghormatan yang mendalam terhadap 'rahim' (ikatan kekeluargaan).",
+          "Allah segera menangani krisis pasca-Uhud: anak-anak yatim. Para penjaga diberi amaran keras agar tidak mengeksploitasi kuasa mereka. Mereka tidak boleh menukar harta mereka yang murah dengan harta berharga milik anak yatim yang mereka uruskan. Ayat 10 mengeluarkan amaran yang menakutkan: mereka yang memakan harta anak yatim secara zalim secara harfiahnya 'menelan api ke dalam perut mereka.'",
+          "Ayat 3 membincangkan perkahwinan dalam konteks ini. Pada zaman pra-Islam, lelaki mengahwini wanita dalam jumlah yang tidak terhad tanpa memberikan hak mereka. Al-Quran menyekat amalan ini, mengehadkannya kepada empat, dan meletakkan syarat yang besar dan menakutkan: kesaksamaan dan keadilan mutlak di antara mereka. Ayat itu memberi amaran secara jelas: 'Kemudian jika kamu bimbang tidak akan berlaku adil, maka seorang sahaja.' Ayat 4 kemudian merevolusikan hak kewangan wanita dengan mewajibkan 'Mahr' (mas kahwin)—ia mesti diberikan terus kepada pengantin perempuan sebagai hadiah percuma, bukan dibayar sebagai harga pembelian kepada bapanya."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menjelaskan konteks khusus ayat 3: Para penjaga mengahwini gadis yatim kaya di bawah jagaan mereka tetapi enggan membayar Mahr yang sepatutnya kerana gadis-gadis itu tiada bapa untuk membela mereka. Allah melarang perkara ini. Dia memerintahkan lelaki itu sama ada membayar mereka sepenuhnya dan melayani mereka dengan adil, atau biarkan mereka dan kahwini wanita lain sebagai ganti."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan kata perintah linguistik dalam 'berikanlah kepada perempuan-perempuan itu mas kahwin mereka sebagai pemberian yang wajib'. Ia menetapkan bahawa mas kahwin adalah hak milik isteri yang mutlak dan tidak boleh dipertikaikan. Malah suaminya tidak boleh mengambil walau satu sen pun daripadanya melainkan isteri itu dengan rela hati menawarkannya atas kebaikan hatinya."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menonjolkan keadilan sosio-ekonomi yang mendalam pada ayat-ayat pembukaan ini. Dengan mengecam keras eksploitasi anak yatim dan memastikan wanita menerima kekayaan bebas (Mahr), Allah secara struktur melindungi anggota masyarakat yang paling terdedah daripada kemiskinan dan penderaan."
+          }
+        ],
+        "lessons": [
+          "🌍 Keluarga Manusia: Perkauman dan seksisme tiada tempat dalam Islam. Setiap manusia bernafas dengan kehidupan yang berasal dari jiwa asal yang sama.",
+          "⚖️ Keadilan mengatasi Keinginan: Poligami dalam Islam bukanlah cek kosong untuk hawa nafsu lelaki; ia adalah kebenaran yang dikawal ketat yang secara sejarah terikat dengan kebajikan sosial (menyediakan keperluan untuk janda), dan dibatasi oleh prasyarat keadilan mutlak yang menakutkan.",
+          "🔥 Melindungi Golongan Lemah: Mengeksploitasi mereka yang tidak dapat membela diri—seperti anak yatim dan janda—bukan sekadar dosa; ia digambarkan oleh Allah seperti menelan api yang sebenar."
+        ]
+      }
+    },
+    {
+      "id": "section-14",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 11,
+      "verse_end": 14,
+      "en": {
+        "title": "The Divine Laws of Inheritance",
+        "theme": "The mathematical precision of divine justice, securing the financial rights of women, and the severe warning against altering God's laws.",
+        "arabic": "يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنثَيَيْنِ ۚ... مِن بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ ۗ... تِلْكَ حُدُودُ اللَّهِ ۚ وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ...",
+        "translation": "Allah instructs you concerning your children: for the male, what is equal to the share of two females... after any bequest he [may have] made or debt... These are the limits of Allah, and whoever obeys Allah and His Messenger will be admitted by Him to gardens... ",
+        "explanation": [
+          "These verses brought an absolute economic revolution to human history. In pre-Islamic Arabia, inheritance was strictly given to adult men who could ride horses and fight in wars. Women, children, and orphans inherited nothing—and sometimes, widows were inherited *as* property. Allah shattered this injustice by explicitly assigning fixed, unalterable shares of inheritance (Faraid) to daughters, mothers, wives, and sisters.",
+          "The passage details the exact fractions (halves, quarters, eighths, thirds, and sixths) allocated to various family members. It establishes a critical sequence: inheritance is distributed *only* after any debts are paid off and the deceased's will (up to one-third of the estate for non-heirs) is fulfilled.",
+          "While the male child receives twice the share of the female child, this is tied to the Islamic financial structure where a man is legally obligated to spend his wealth on his family, whereas a woman's wealth is entirely her own to keep. Verses 13 and 14 conclude with a terrifying ultimatum: these fractions are the 'limits of Allah.' Whoever implements them is promised Paradise, and whoever intentionally alters them faces a humiliating, eternal punishment."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Notes the historical trigger: the widow of Sa'd bin Ar-Rabi' came to the Prophet ﷺ complaining that her husband's brother took the entire estate, leaving her daughters destitute. These verses were revealed to forever protect the rights of female heirs."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Breaks down the linguistic and mathematical precision of the fractions, clarifying complex family scenarios (like having only daughters or surviving parents) to ensure no heir's right is overlooked."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Reflects on the wisdom behind the strictness of verse 14. Because humans are naturally greedy regarding money, Allah did not leave the division of inheritance to human logic, emotion, or cultural traditions. He distributed it Himself to guarantee absolute, objective justice."
+          }
+        ],
+        "lessons": [
+          "⚖️ Divine Economics: Islam views financial justice as a core pillar of faith. Protecting the wealth of widows and daughters is a direct command from the Creator.",
+          "📜 Debt Before Distribution: The rights of the living must be settled before the wealth of the dead is enjoyed. Paying off a deceased person's debts is an urgent spiritual obligation.",
+          "🛑 Do Not Cross the Line: Altering inheritance laws out of cultural preference or personal greed is not a minor infraction; it is crossing the 'limits of Allah' and invites severe divine anger."
+        ]
+      },
+      "ms": {
+        "title": "Undang-undang Warisan Ilahi",
+        "theme": "Ketepatan matematik dalam keadilan ilahi, menjamin hak kewangan wanita, dan amaran keras terhadap mengubah hukum Tuhan.",
+        "arabic": "يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنثَيَيْنِ ۚ... مِن بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ ۗ... تِلْكَ حُدُودُ اللَّهِ ۚ وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ...",
+        "translation": "Allah perintahkan kamu mengenai (pembahagian harta pusaka untuk) anak-anak kamu, iaitu bahagian seorang anak lelaki menyamai bahagian dua orang anak perempuan... sesudah ditunaikan wasiat yang dia wasiatkan atau (sesudah dibayar) hutangnya... Segala hukum yang tersebut adalah batas-batas (Syariat) Allah. Dan sesiapa yang taat kepada Allah dan Rasul-Nya, akan dimasukkan oleh Allah ke dalam Syurga... ",
+        "explanation": [
+          "Ayat-ayat ini membawa satu revolusi ekonomi yang mutlak dalam sejarah manusia. Di Tanah Arab pra-Islam, harta pusaka hanya diberikan secara ketat kepada lelaki dewasa yang boleh menunggang kuda dan berperang. Wanita, kanak-kanak, dan anak yatim tidak mewarisi apa-apa—dan kadang-kadang, balu diwarisi *sebagai* harta. Allah menghancurkan ketidakadilan ini dengan menetapkan secara khusus bahagian warisan yang tetap dan tidak boleh diubah (Faraid) kepada anak perempuan, ibu, isteri, dan saudara perempuan.",
+          "Petikan ini memperincikan pecahan yang tepat (separuh, suku, lapan, satu pertiga, dan satu perenam) yang diperuntukkan kepada pelbagai ahli keluarga. Ia menetapkan urutan yang kritikal: harta pusaka diagihkan *hanya* selepas sebarang hutang dilunaskan dan wasiat si mati (sehingga satu pertiga daripada harta untuk bukan waris) ditunaikan.",
+          "Walaupun anak lelaki menerima dua kali ganda bahagian anak perempuan, ini terikat dengan struktur kewangan Islam di mana seorang lelaki bertanggungjawab dari segi undang-undang untuk membelanjakan hartanya kepada keluarga, manakala kekayaan seorang wanita adalah milik mutlaknya. Ayat 13 dan 14 diakhiri dengan kata dua yang menakutkan: pecahan ini adalah 'batas-batas Allah.' Sesiapa yang melaksanakannya dijanjikan Syurga, dan sesiapa yang sengaja mengubahnya berhadapan dengan hukuman yang menghina dan kekal."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Mencatatkan pencetus sejarah: balu Sa'd bin Ar-Rabi' datang mengadu kepada Nabi ﷺ bahawa saudara suaminya mengambil keseluruhan harta, meninggalkan anak perempuannya dalam kedaifan. Ayat-ayat ini diturunkan untuk melindungi hak waris wanita buat selama-lamanya."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan ketepatan linguistik dan matematik pecahan tersebut, menerangkan senario keluarga yang kompleks (seperti hanya mempunyai anak perempuan atau ibu bapa yang masih hidup) untuk memastikan tiada hak waris yang diabaikan."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Merenung tentang hikmah di sebalik ketegasan ayat 14. Oleh kerana manusia secara semula jadi tamak terhadap wang, Allah tidak membiarkan pembahagian harta pusaka kepada logik manusia, emosi, atau tradisi budaya. Dia membahagikannya sendiri untuk menjamin keadilan mutlak dan objektif."
+          }
+        ],
+        "lessons": [
+          "⚖️ Ekonomi Ilahi: Islam melihat keadilan kewangan sebagai tonggak utama iman. Melindungi harta balu dan anak perempuan adalah perintah langsung daripada Pencipta.",
+          "📜 Hutang Sebelum Agihan: Hak orang yang masih hidup mesti diselesaikan sebelum harta orang yang mati dinikmati. Melunaskan hutang si mati adalah kewajipan rohani yang mendesak.",
+          "🛑 Jangan Melampaui Batas: Mengubah undang-undang warisan kerana keutamaan budaya atau ketamakan peribadi bukanlah satu kesalahan kecil; ia melampaui 'batas-batas Allah' dan mengundang kemurkaan ilahi yang keras."
+        ]
+      }
+    },
+    {
+      "id": "section-15",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 15,
+      "verse_end": 23,
+      "en": {
+        "title": "Repentance, Honoring Women & Prohibited Marriages",
+        "theme": "The conditions for true repentance, dismantling oppressive traditions toward women, and establishing the sacred boundaries of family.",
+        "arabic": "إِنَّمَا التَّوْبَةُ عَلَى اللَّهِ لِلَّذِينَ يَعْمَلُونَ السُّوءَ بِجَهَالَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ... يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَحِلُّ لَكُمْ أَن تَرِثُوا النِّسَاءَ كَرْهًا ۖ... حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَبَنَاتُكُمْ وَأَخَوَاتُكُمْ...",
+        "translation": "The repentance accepted by Allah is only for those who do wrong in ignorance [or carelessness] and then repent soon after... O you who have believed, it is not lawful for you to inherit women by compulsion... Prohibited to you [for marriage] are your mothers, your daughters, your sisters... ",
+        "explanation": [
+          "The passage begins by establishing the divine parameters of repentance. Allah commits to accepting the repentance of anyone who sins out of human weakness or ignorance, provided they repent before the reality of death approaches. However, He explicitly rejects the 'deathbed repentance' of those who persist in sin their entire lives until the very moment their soul is being taken.",
+          "Verse 19 issues a monumental human rights declaration for women. In pre-Islamic times, if a man died, his male relatives would claim his widow as part of the inherited property, forcing her to marry them or extorting her wealth. Allah completely outlaws this: 'It is not lawful for you to inherit women by compulsion.' The Qur'an commands men to live with their wives in kindness and honor.",
+          "Finally, verses 22-23 lay out the strict biological and social boundaries of marriage (the Mahaarim). It permanently outlaws the horrific pre-Islamic practice of men marrying their step-mothers, and clearly lists the women a man is permanently forbidden to marry, including mothers, daughters, sisters, aunts, nieces, and crucially, mothers and sisters through milk-kinship (wet-nursing)."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Explains that doing evil 'in ignorance' (Jahalah) does not mean a lack of knowledge that the act is a sin; rather, anyone who disobeys Allah is acting ignorantly, driven by foolish desires. As long as they repent before the 'death rattle' (Gargarah), the door is open."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the ruling on milk-kinship. The verse establishes that the biological prohibitions (like marrying a sister) apply identically to those who were breastfed by the same wet-nurse, creating a profound, sacred bond of family through nurturing."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Reflects on the emotional wisdom of verse 19: 'And live with them in kindness. For if you dislike them - perhaps you dislike a thing and Allah makes therein much good.' As-Sa'di notes this is the ultimate advice for marital longevity; do not destroy a family over minor flaws, for patience brings unexpected blessings."
+          }
+        ],
+        "lessons": [
+          "⏳ The Ticking Clock of Repentance: Do not delay turning back to God. True repentance requires sincerity during your life, not desperation at the very moment of death.",
+          "💎 Dignity is Non-Negotiable: Women are not property to be inherited, controlled, or extorted. Islam commands absolute respect, financial independence, and kindness toward women.",
+          "🏠 The Sanctity of Family: The detailed list of prohibited marriages protects the purity, safety, and psychological health of the family structure, ensuring homes remain sanctuaries of respect, not exploitation."
+        ]
+      },
+      "ms": {
+        "title": "Taubat, Memuliakan Wanita & Perkahwinan Dilarang",
+        "theme": "Syarat taubat sebenar, membongkar tradisi menindas terhadap wanita, dan menetapkan batasan suci kekeluargaan.",
+        "arabic": "إِنَّمَا التَّوْبَةُ عَلَى اللَّهِ لِلَّذِينَ يَعْمَلُونَ السُّوءَ بِجَهَالَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ... يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَحِلُّ لَكُمْ أَن تَرِثُوا النِّسَاءَ كَرْهًا ۖ... حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَبَنَاتُكُمْ وَأَخَوَاتُكُمْ...",
+        "translation": "Sesungguhnya penerimaan taubat itu di sisi Allah hanyalah bagi orang-orang yang melakukan kejahatan disebabkan kejahilan kemudian mereka segera bertaubat... Wahai orang-orang yang beriman, tidak halal bagi kamu mewarisi perempuan-perempuan dengan jalan paksaan... Diharamkan kepada kamu berkahwin dengan (perempuan-perempuan yang berikut): ibu-ibu kamu, dan anak-anak kamu, dan saudara-saudara kamu... ",
+        "explanation": [
+          "Petikan ini bermula dengan menetapkan parameter ilahi untuk bertaubat. Allah berjanji untuk menerima taubat sesiapa sahaja yang berdosa akibat kelemahan manusia atau kejahilan, dengan syarat mereka bertaubat sebelum hakikat kematian menghampiri. Walau bagaimanapun, Dia menolak secara terang-terangan 'taubat di ranjang kematian' bagi mereka yang berterusan berbuat dosa sepanjang hidup mereka sehinggalah saat roh mereka ditarik.",
+          "Ayat 19 mengeluarkan satu deklarasi hak asasi manusia yang monumental untuk wanita. Pada zaman pra-Islam, jika seorang lelaki mati, saudara lelakinya akan menuntut balunya sebagai sebahagian daripada harta pusaka, memaksanya untuk berkahwin dengan mereka atau memeras hartanya. Allah mengharamkan perkara ini sepenuhnya: 'Tidak halal bagi kamu mewarisi perempuan-perempuan dengan jalan paksaan.' Al-Quran memerintahkan lelaki untuk bergaul dengan isteri mereka dengan baik dan penuh hormat.",
+          "Akhir sekali, ayat 22-23 membentangkan batasan biologi dan sosial yang ketat dalam perkahwinan (golongan Mahram). Ia mengharamkan buat selama-lamanya amalan pra-Islam yang mengerikan di mana lelaki mengahwini ibu tiri mereka, dan menyenaraikan dengan jelas wanita yang diharamkan untuk dinikahi oleh seorang lelaki buat selamanya, termasuk ibu, anak perempuan, saudara perempuan, ibu saudara, anak saudara perempuan, dan yang penting, ibu dan saudara perempuan susuan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menjelaskan bahawa melakukan kejahatan 'dalam kejahilan' (Jahalah) bukan bermaksud kurang pengetahuan bahawa perbuatan itu berdosa; sebaliknya, sesiapa yang mengingkari Allah sedang bertindak secara jahil, didorong oleh hawa nafsu yang bodoh. Selagi mereka bertaubat sebelum 'nyawa di kerongkongan' (Gargarah), pintu taubat terbuka."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan hukum berkaitan persaudaraan susuan. Ayat ini menetapkan bahawa larangan biologi (seperti mengahwini saudara perempuan) terpakai secara identik kepada mereka yang disusukan oleh ibu susuan yang sama, mewujudkan ikatan kekeluargaan yang mendalam dan suci melalui asuhan."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Merenung tentang hikmah emosi pada ayat 19: 'Dan bergaullah kamu dengan mereka (isteri-isteri kamu itu) dengan cara yang baik. Kemudian jika kamu (merasai) benci kepada mereka - mungkin kamu kebencikan sesuatu, padahal Allah menjadikan padanya kebaikan yang banyak.' As-Sa'di mencatatkan ini adalah nasihat utama untuk kelestarian rumahtangga; jangan hancurkan keluarga kerana kelemahan kecil, kerana kesabaran membawa keberkatan yang tidak disangka-sangka."
+          }
+        ],
+        "lessons": [
+          "⏳ Detik Taubat Berdetik: Jangan lengah untuk kembali kepada Tuhan. Taubat yang sebenar memerlukan keikhlasan semasa anda hidup, bukan dalam keadaan terdesak pada saat kematian.",
+          "💎 Maruah Tidak Boleh Dipertikaikan: Wanita bukanlah harta untuk diwarisi, dikawal, atau diperas. Islam memerintahkan rasa hormat yang mutlak, kebebasan kewangan, dan layanan yang baik terhadap wanita.",
+          "🏠 Kesucian Keluarga: Senarai terperinci perkahwinan yang dilarang melindungi kesucian, keselamatan, dan kesihatan psikologi struktur keluarga, memastikan rumah tangga kekal sebagai tempat perlindungan yang dihormati, bukan eksploitasi."
+        ]
+      }
+    },
+    {
+      "id": "section-16",
+      "type": "themes-summary",
+      "en": {
+        "title": "Overarching Themes of Juz 4",
+        "opening_quote": {
+          "text": "And hold firmly to the rope of Allah all together and do not become divided...",
+          "ref": "3:103"
+        },
+        "themes": [
+          {
+            "icon": "🪢",
+            "title": "The Mandate of Unity",
+            "body": "Juz 4 opens with a powerful call to collective faith. It establishes that the strength of the Ummah lies not in tribal, racial, or political alliances, but in holding fast to the 'Rope of Allah.' True unity is a divine miracle that heals generational wounds and demands that the community actively command good and forbid evil to survive."
+          },
+          {
+            "icon": "🔥",
+            "title": "Resilience in the Face of Trauma",
+            "body": "Through a profound analysis of the Battle of Uhud, the Qur'an teaches believers how to process failure, grief, and fear. It frames setbacks as a divine purification process, separating the sincere from the hypocrites, and anchors the believer's heart to the Ever-Living God rather than relying entirely on human leaders or material strength."
+          },
+          {
+            "icon": "❤️",
+            "title": "Gentleness and Forgiveness",
+            "body": "Despite the catastrophic disobedience at Uhud, Allah demonstrates infinite mercy by forgiving the believers and commanding the Prophet ﷺ to treat them with gentle compassion. The Juz proves that true leadership heals mistakes through consultation (Shura) rather than destroying morale through rage."
+          },
+          {
+            "icon": "⚖️",
+            "title": "Revolutionary Social Justice",
+            "body": "The transition into Surah An-Nisa marks a radical overhaul of human rights. The Juz shatters the oppressive practices of Jahiliyyah by establishing unalterable inheritance rights for women, fiercely protecting the wealth of orphans, outlawing the forced inheritance of widows, and ensuring marital justice."
+          }
+        ],
+        "closing_reflection": {
+          "text": "Juz 4 takes the Muslim community from the spiritual heights of the Ka'bah, through the emotional trenches of military defeat, and ultimately lands them in the profound, practical work of building a just society that fiercely protects its most vulnerable members.",
+          "ref": "Moving deeper into Surah An-Nisa"
+        }
+      },
+      "ms": {
+        "title": "Tema Utama Juz 4",
+        "opening_quote": {
+          "text": "Dan berpegang teguhlah kamu sekalian kepada tali Allah (agama Islam), dan janganlah kamu bercerai-berai...",
+          "ref": "3:103"
+        },
+        "themes": [
+          {
+            "icon": "🪢",
+            "title": "Mandat Perpaduan",
+            "body": "Juz 4 bermula dengan seruan yang kuat kepada keimanan kolektif. Ia menetapkan bahawa kekuatan Ummah bukan terletak pada pakatan suku, kaum, atau politik, tetapi pada berpegang teguh pada 'Tali Allah.' Perpaduan sejati ialah mukjizat ilahi yang menyembuhkan luka turun-temurun dan menuntut agar masyarakat secara aktif menyuruh kebaikan dan mencegah kemungkaran untuk terus wujud."
+          },
+          {
+            "icon": "🔥",
+            "title": "Daya Tahan Menghadapi Trauma",
+            "body": "Melalui analisis mendalam tentang Perang Uhud, al-Quran mengajar orang beriman bagaimana untuk memproses kegagalan, kesedihan, dan ketakutan. Ia membingkai halangan sebagai proses penyucian ilahi, memisahkan yang ikhlas daripada yang munafik, dan menambat hati orang mukmin kepada Tuhan Yang Maha Hidup dan bukannya bergantung sepenuhnya kepada pemimpin manusia atau kekuatan material."
+          },
+          {
+            "icon": "❤️",
+            "title": "Kelembutan dan Kemaafan",
+            "body": "Walaupun berlakunya ketidakpatuhan yang membawa malapetaka di Uhud, Allah mempamerkan rahmat yang tidak terhingga dengan memaafkan orang-orang mukmin dan memerintahkan Nabi ﷺ untuk melayani mereka dengan penuh kasih sayang. Juz ini membuktikan bahawa kepimpinan sejati menyembuhkan kesilapan melalui perundingan (Syura) dan bukannya memusnahkan semangat melalui kemarahan."
+          },
+          {
+            "icon": "⚖️",
+            "title": "Keadilan Sosial yang Revolusioner",
+            "body": "Peralihan ke Surah An-Nisa menandakan satu rombakan radikal terhadap hak asasi manusia. Juz ini menghancurkan amalan penindasan Jahiliyyah dengan menetapkan hak warisan yang tidak boleh diubah bagi wanita, melindungi harta anak yatim dengan tegas, mengharamkan pewarisan balu secara paksa, dan memastikan keadilan dalam perkahwinan."
+          }
+        ],
+        "closing_reflection": {
+          "text": "Juz 4 membawa masyarakat Islam daripada puncak kerohanian Kaabah, menempuh parit emosi kekalahan tentera, dan akhirnya meletakkan mereka dalam kerja praktikal yang mendalam untuk membina sebuah masyarakat adil yang melindungi anggota paling lemah dengan teguh.",
+          "ref": "Mendalami Surah An-Nisa"
+        }
+      }
+    }
+  ]
+}

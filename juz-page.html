@@ -124,6 +124,27 @@ a:hover { color: var(--gold-light); }
 }
 #lang-toggle:hover { transform: scale(1.1); }
 
+/* ─── Home Button ────────────────────────────────────────────────────────── */
+#home-button {
+  position: fixed;
+  top: 1rem;
+  right: 9rem;
+  z-index: 9999;
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  color: var(--gold);
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.2rem;
+  display: flex; align-items: center; justify-content: center;
+  transition: background var(--trans), border-color var(--trans), transform 0.2s;
+  box-shadow: var(--shadow);
+  text-decoration: none;
+}
+#home-button:hover { transform: scale(1.1); }
+
 /* ─── Hero Banner ────────────────────────────────────────────────────────── */
 .hero {
   position: relative;
@@ -565,6 +586,7 @@ footer {
   .info-cards { flex-direction: column; align-items: stretch; }
   .info-card { max-width: 100%; }
   .scholars { gap: 0.7rem; }
+  #home-button { right: 8rem; width: 42px; height: 42px; font-size: 1.05rem; }
   #lang-toggle { right: 4rem; width: 42px; height: 42px; font-size: 0.78rem; }
   #theme-toggle { width: 42px; height: 42px; font-size: 1.1rem; }
 }
@@ -573,6 +595,7 @@ footer {
 <body>
 
 <!-- Fixed buttons -->
+<a href="/" id="home-button" title="Back to home">🏠</a>
 <button id="lang-toggle" title="Switch language">EN</button>
 <button id="theme-toggle" title="Toggle dark/light mode">🌙</button>
 
@@ -619,12 +642,23 @@ const UI = {
 };
 
 let DATA = null;
-let LANG = localStorage.getItem('tafsir-lang') || 'en';
+let LANG = 'en'; // Will be set from URL path
+let juzNum = '1'; // Will be set from URL path
 
 // ─── Boot ───────────────────────────────────────────────────────────────────
-const juzNum = new URLSearchParams(location.search).get('juz') || '1';
+// Parse path: /en/juz2 or /ms/juz14
+const pathMatch = location.pathname.match(/^\/(en|ms)\/juz(\d{1,2})\/?$/);
+if (pathMatch) {
+  LANG = pathMatch[1];
+  juzNum = pathMatch[2];
+} else {
+  // Fallback: try localStorage, default to 'en'
+  LANG = localStorage.getItem('tafsir-lang') || 'en';
+  // Try URL params as fallback
+  juzNum = new URLSearchParams(location.search).get('juz') || '1';
+}
 
-fetch('data/juz' + juzNum + '.json')
+fetch('/data/juz' + juzNum + '.json')
   .then(function (r) { if (!r.ok) throw new Error('Load failed'); return r.json(); })
   .then(function (data) {
     DATA = data;
@@ -908,11 +942,17 @@ function initThemeToggle() {
   });
 }
 
-// ─── Language Toggle ────────────────────────────────────────────────────────
+// ─── Language Toggle ──────────────────────────────────────────────────────────
 function initLangToggle() {
   document.getElementById('lang-toggle').addEventListener('click', function () {
     LANG = LANG === 'en' ? 'ms' : 'en';
     localStorage.setItem('tafsir-lang', LANG);
+    
+    // Update URL path to /{newLang}/juz{N}, preserve hash
+    var newPath = '/' + LANG + '/juz' + juzNum;
+    var hash = location.hash;
+    history.replaceState(null, '', newPath + hash);
+    
     renderPage(DATA, LANG);
     initTocHighlight();
   });
