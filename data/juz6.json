@@ -1,0 +1,874 @@
+{
+  "juz": 6,
+  "meta": {
+    "title": {
+      "en": "Juz 6 — Allah Does Not Love Evil Speech & The Table Spread",
+      "ms": "Juz 6 — Allah Tidak Menyukai Ucapan Buruk & Hidangan"
+    },
+    "arabic_name": "الجزء السادس",
+    "night": 6,
+    "reader": "A",
+    "quote": {
+      "en": "This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion.",
+      "ms": "Pada hari ini, Aku telah sempurnakan bagi kamu ugama kamu, dan Aku telah cukupkan nikmatKu kepada kamu, dan Aku telah redakan Islam itu menjadi ugama untuk kamu.",
+      "ref": "5:3"
+    }
+  },
+  "toc": [
+    {
+      "id": "section-01",
+      "en": "An-Nisa 148–154 · Public Speech & The Covenant",
+      "ms": "An-Nisa 148–154 · Ucapan Awam & Perjanjian"
+    },
+    {
+      "id": "section-02",
+      "en": "An-Nisa 155–162 · The Crucifixion Illusion & Firm Knowledge",
+      "ms": "An-Nisa 155–162 · Ilusi Penyaliban & Ilmu yang Kukuh"
+    },
+    {
+      "id": "section-03",
+      "en": "An-Nisa 163–170 · The Messengers of God",
+      "ms": "An-Nisa 163–170 · Rasul-rasul Allah"
+    },
+    {
+      "id": "section-04",
+      "en": "An-Nisa 171–176 · Refuting the Trinity & Final Inheritance Laws",
+      "ms": "An-Nisa 171–176 · Menyangkal Triniti & Hukum Faraid Terakhir"
+    },
+    {
+      "id": "section-05",
+      "en": "Surah Al-Ma'idah — Introduction",
+      "ms": "Surah Al-Ma'idah — Pengenalan"
+    },
+    {
+      "id": "section-06",
+      "en": "Al-Ma'idah 1–5 · Fulfilling Contracts & Dietary Laws",
+      "ms": "Al-Ma'idah 1–5 · Memenuhi Perjanjian & Hukum Pemakanan"
+    },
+    {
+      "id": "section-07",
+      "en": "Al-Ma'idah 6–11 · Purification (Wudu) & The Pillar of Justice",
+      "ms": "Al-Ma'idah 6–11 · Penyucian (Wuduk) & Tiang Keadilan"
+    },
+    {
+      "id": "section-08",
+      "en": "Al-Ma'idah 12–19 · The Broken Covenants of the Past",
+      "ms": "Al-Ma'idah 12–19 · Perjanjian Masa Lalu yang Dimungkiri"
+    },
+    {
+      "id": "section-09",
+      "en": "Al-Ma'idah 20–26 · Musa & The Holy Land",
+      "ms": "Al-Ma'idah 20–26 · Musa & Tanah Suci"
+    },
+    {
+      "id": "section-10",
+      "en": "Al-Ma'idah 27–34 · The Two Sons of Adam & The Sanctity of Life",
+      "ms": "Al-Ma'idah 27–34 · Dua Putera Adam & Kesucian Nyawa"
+    },
+    {
+      "id": "section-11",
+      "en": "Al-Ma'idah 35–43 · Penalties, Justice & Rushing to Sin",
+      "ms": "Al-Ma'idah 35–43 · Hukuman, Keadilan & Bersegera Melakukan Dosa"
+    },
+    {
+      "id": "section-12",
+      "en": "Overarching Themes of Juz 6",
+      "ms": "Tema Utama Juz 6"
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-01",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 148,
+      "verse_end": 154,
+      "en": {
+        "title": "Public Speech & The Covenant",
+        "theme": "The ethics of public grievance, the necessity of believing in all prophets equally, and the arrogant demands of the People of the Book.",
+        "arabic": "لَّا يُحِبُّ اللَّهُ الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَن ظُلِمَ ۚ وَكَانَ اللَّهُ سَمِيعًا عَلِيمًا... إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَن يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ...",
+        "translation": "Allah does not like the public mention of evil except by one who has been wronged. And ever is Allah Hearing and Knowing... Indeed, those who disbelieve in Allah and His messengers and wish to discriminate between Allah and His messengers...",
+        "explanation": [
+          "Juz 6 opens with a profound rule regarding speech and social justice. Generally, publicly broadcasting negativity, slander, or harsh words is detested by Allah. However, an exception is explicitly made for the oppressed: the victim of injustice has the Divine right to speak out against their oppressor publicly. Yet, the very next verse encourages forgiveness, reminding believers of Allah's ultimate pardon.",
+          "The passage then transitions to a core tenet of faith: the indivisibility of the Messengers. A group of people claimed to believe in Allah and some prophets (like Musa or Isa) but rejected others (like Muhammad). Allah categorically defines this selective belief as complete disbelief. True faith requires accepting the entire chain of prophethood without discrimination.",
+          "Finally, the verses address the obstinacy of the People of the Book, who arrogantly demanded that Prophet Muhammad bring down a physical book directly from the sky, just as they had previously demanded to see Allah face-to-face in the time of Musa."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Explains that while venting anger publicly is disliked, the oppressed are permitted to pray against their oppressor or speak of the wrong done to them. However, Ibn Kathir emphasizes that choosing to forgive, despite having the right to retaliate, is spiritually superior and reflects Allah’s attribute of being Oft-Pardoning."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the verses regarding belief in messengers, stating that accepting some and rejecting others is a rejection of the Divine Sender Himself. The 'clear disbelief' mentioned is because rejecting even one prophet is tantamount to calling God a liar."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Notes that the demands made by the People of the Book to Prophet Muhammad were not rooted in a genuine search for truth, but in arrogance and a desire to mock. As-Sa'di reminds us that miracles are given according to Allah's wisdom, not human dictation."
+          }
+        ],
+        "lessons": [
+          "⚖️ The Right to Speak Out: Islam protects the voice of the oppressed. You are allowed to name your oppressor and seek justice openly.",
+          "🔗 The Unbroken Chain: You cannot pick and choose which prophets to believe in. Faith is a package deal; rejecting one is rejecting all.",
+          "💡 Sincerity over Spectacle: Seeking truth requires a humble heart, not arrogant demands for customized miracles."
+        ]
+      },
+      "ms": {
+        "title": "Ucapan Awam & Perjanjian",
+        "theme": "Etika luahan rasa tidak puas hati awam, keperluan beriman kepada semua nabi secara adil, dan tuntutan sombong Ahli Kitab.",
+        "arabic": "لَّا يُحِبُّ اللَّهُ الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَن ظُلِمَ ۚ وَكَانَ اللَّهُ سَمِيعًا عَلِيمًا... إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَن يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ...",
+        "translation": "Allah tidak suka kepada perkataan-perkataan buruk yang diucapkan dengan berterus-terang (untuk mendedahkan kejahatan orang); kecuali oleh orang yang dianiayakan. Dan (ingatlah) Allah sentiasa Mendengar, lagi Maha Mengetahui... Sesungguhnya orang-orang yang kufur ingkar kepada Allah dan Rasul-rasulNya, dan mereka mahu membeza-bezakan antara Allah dengan Rasul-rasulNya...",
+        "explanation": [
+          "Juz 6 bermula dengan peraturan mendalam mengenai pertuturan dan keadilan sosial. Secara umumnya, menyebarkan perkara negatif, fitnah, atau kata-kata kesat secara terbuka sangat dibenci oleh Allah. Walau bagaimanapun, pengecualian diberikan secara jelas kepada mereka yang ditindas: mangsa ketidakadilan mempunyai hak Ilahi untuk bersuara menentang penindas mereka secara terbuka. Namun, ayat seterusnya menggalakkan kemaafan, mengingatkan orang beriman tentang pengampunan mutlak Allah.",
+          "Petikan ini kemudian beralih kepada asas keimanan: rasul-rasul tidak boleh dipisahkan. Terdapat golongan yang mendakwa beriman kepada Allah dan sebahagian nabi (seperti Musa atau Isa) tetapi menolak yang lain (seperti Muhammad). Allah mengkategorikan kepercayaan terpilih ini sebagai kekufuran yang nyata. Iman yang sebenar menuntut penerimaan terhadap seluruh rantaian kenabian tanpa diskriminasi.",
+          "Akhir sekali, ayat-ayat ini menangani kedegilan Ahli Kitab, yang dengan sombong menuntut agar Nabi Muhammad menurunkan sebuah kitab fizikal secara terus dari langit, sama seperti mereka sebelum ini menuntut untuk melihat Allah secara berdepan pada zaman Musa."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menjelaskan bahawa walaupun melepaskan kemarahan secara terbuka adalah tidak disukai, orang yang ditindas dibenarkan berdoa menentang penindas mereka atau bercakap tentang kejahatan yang dilakukan terhadap mereka. Namun, Ibn Kathir menegaskan bahawa memilih untuk memaafkan, walaupun mempunyai hak untuk membalas, adalah lebih mulia dari segi kerohanian dan mencerminkan sifat Allah Yang Maha Pemaaf."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan ayat-ayat mengenai kepercayaan kepada rasul, menyatakan bahawa menerima sebahagian dan menolak sebahagian yang lain adalah penolakan terhadap Tuhan yang Mengutus itu sendiri. 'Kekufuran yang nyata' yang disebut adalah kerana menolak walau seorang nabi sama seperti menganggap Tuhan sebagai pendusta."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Mencatatkan bahawa tuntutan yang dibuat oleh Ahli Kitab kepada Nabi Muhammad bukanlah berakar dari pencarian kebenaran yang ikhlas, tetapi dari kesombongan dan keinginan untuk mengejek. As-Sa'di mengingatkan kita bahawa mukjizat diberikan mengikut kebijaksanaan Allah, bukan ditentukan oleh manusia."
+          }
+        ],
+        "lessons": [
+          "⚖️ Hak untuk Bersuara: Islam melindungi suara golongan yang ditindas. Anda dibenarkan menamakan penindas anda dan menuntut keadilan secara terbuka.",
+          "🔗 Rantaian yang Tidak Terputus: Anda tidak boleh memilih nabi mana yang hendak dipercayai. Iman adalah satu kesatuan; menolak satu bermakna menolak semuanya.",
+          "💡 Keikhlasan melebihi Spektakel: Mencari kebenaran memerlukan hati yang rendah diri, bukan tuntutan sombong untuk mukjizat mengikut kehendak sendiri."
+        ]
+      }
+    },
+    {
+      "id": "section-02",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 155,
+      "verse_end": 162,
+      "en": {
+        "title": "The Crucifixion Illusion & Firm Knowledge",
+        "theme": "The breaking of the covenant, the truth behind the crucifixion of Isa (Jesus), and the reward for those grounded in knowledge.",
+        "arabic": "وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَانًا عَظِيمًا... وَقَوْلِهِمْ إِنَّا قَتَلْنَا الْمَسِيحَ عِيسَى ابْنَ مَرْيَمَ رَسُولَ اللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ ۚ...",
+        "translation": "And for their disbelief and their saying against Mary a great slander... And for their saying, 'Indeed, we have killed the Messiah, Jesus, the son of Mary, the messenger of Allah.' And they did not kill him, nor did they crucify him; but [another] was made to resemble him to them...",
+        "explanation": [
+          "These verses list the grave historical transgressions of the Israelites that led to their spiritual hardening: breaking their covenant, rejecting the signs of Allah, wrongfully killing the prophets, and uttering a massive slander against Maryam (Mary), the mother of Isa.",
+          "The passage definitively clarifies the Islamic theological stance on the crucifixion of Isa (Jesus). Allah explicitly denies that Jesus was killed or crucified by his enemies. Instead, an illusion occurred—someone else was made to look like him, and the enemies killed the substitute in confusion. Isa was actually saved and raised bodily and spiritually to Allah.",
+          "Despite condemning the rebellious actions of the majority, the Quran is flawlessly just. Verse 162 exempts 'those firm in knowledge' among them, who believe in previous revelations and the Quran, establish prayer, and give charity. They are promised a tremendous reward."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Provides extensive detail on the event of the crucifixion. When the Roman soldiers and Jewish authorities came to arrest Isa, Allah cast his likeness onto a young volunteer disciple. The disciple was arrested and crucified in Isa's place, while Isa was raised to the heavens through a window in the house."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Highlights the irony of their claim: they boasted about killing 'the Messenger of Allah,' acknowledging his title while committing an act of utter rebellion. Al-Jalalayn reinforces that the ascension of Jesus to heaven was both physical and spiritual."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Emphasizes the justice of Allah in verse 162. Even when addressing a group historically prone to rebellion, Allah ensures that the righteous individuals among them are not lumped together with the corrupt. 'Those firm in knowledge' recognize the undeniable truth of Muhammad's message."
+          }
+        ],
+        "lessons": [
+          "🛡️ Divine Protection: Allah protects His chosen servants in ways humans cannot comprehend. The enemies plotted, but Allah's plan outmaneuvered them flawlessly.",
+          "🗣️ The Gravity of Slander: Falsely accusing someone of unchastity, as was done to Maryam, is considered a 'great slander' (Buhtan 'Azim) by God and severely incurs His wrath.",
+          "⚖️ Absolute Justice: God does not judge by broad brushstrokes. Righteous individuals within a misguided community will always be recognized and rewarded."
+        ]
+      },
+      "ms": {
+        "title": "Ilusi Penyaliban & Ilmu yang Kukuh",
+        "theme": "Pelanggaran perjanjian, kebenaran di sebalik penyaliban Isa, dan ganjaran bagi mereka yang teguh ilmunya.",
+        "arabic": "وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَانًا عَظِيمًا... وَقَوْلِهِمْ إِنَّا قَتَلْنَا الْمَسِيحَ عِيسَى ابْنَ مَرْيَمَ رَسُولَ اللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ ۚ...",
+        "translation": "Dan juga (dikutuk) kerana kekufuran mereka dan perkataan mereka terhadap Maryam (dengan) tuduhan palsu yang amat besar... Dan juga (kerana) dakwaan mereka dengan berkata: 'Sesungguhnya kami telah membunuh Al-Masih Isa Ibni Maryam, Rasul Allah'. Padahal mereka tidak membunuhnya dan tidak memalangnya (di kayu salib), tetapi diserupakan bagi mereka...",
+        "explanation": [
+          "Ayat-ayat ini menyenaraikan pelanggaran sejarah yang besar oleh Bani Israel yang membawa kepada kekerasan rohani mereka: memungkiri perjanjian, menolak tanda-tanda Allah, membunuh para nabi secara tidak adil, dan melontarkan fitnah besar terhadap Maryam, ibu Isa.",
+          "Petikan ini secara jelas menerangkan pendirian teologi Islam mengenai penyaliban Isa (Jesus). Allah secara nyata menafikan bahawa Isa telah dibunuh atau disalib oleh musuh-musuhnya. Sebaliknya, satu ilusi telah berlaku—wajah orang lain diserupakan dengannya, dan musuh membunuh mangsa gantian itu dalam kekeliruan. Isa sebenarnya telah diselamatkan dan diangkat ke hadrat Allah, dari segi tubuh dan rohani.",
+          "Walaupun mengutuk perbuatan derhaka majoriti, Al-Quran tetap adil dengan sempurna. Ayat 162 mengecualikan 'orang-orang yang teguh ilmunya' di kalangan mereka, yang beriman kepada wahyu terdahulu dan Al-Quran, mendirikan solat, dan mengeluarkan zakat. Mereka dijanjikan ganjaran yang besar."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Memberikan perincian mendalam tentang peristiwa penyaliban. Apabila tentera Rom dan pihak berkuasa Yahudi datang untuk menangkap Isa, Allah menyerupakan wajah Isa pada seorang murid sukarelawan muda. Murid tersebut ditangkap dan disalib menggantikan Isa, manakala Isa diangkat ke langit melalui tingkap rumah."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menonjolkan ironi dalam dakwaan mereka: mereka bermegah tentang membunuh 'Rasul Allah,' mengakui gelaran itu sambil melakukan tindakan pemberontakan yang mutlak. Al-Jalalayn mengukuhkan bahawa kenaikan Isa ke langit adalah secara fizikal dan rohani."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menekankan keadilan Allah dalam ayat 162. Walaupun menangani kumpulan yang dari segi sejarah cenderung untuk memberontak, Allah memastikan bahawa individu yang soleh di kalangan mereka tidak dikumpulkan bersama-sama dengan mereka yang korup. 'Mereka yang teguh ilmunya' menyedari kebenaran mesej Muhammad yang tidak dapat dinafikan."
+          }
+        ],
+        "lessons": [
+          "🛡️ Perlindungan Ilahi: Allah melindungi hamba-hamba pilihan-Nya melalui cara yang tidak dapat difahami oleh manusia. Musuh merancang, tetapi perancangan Allah menewaskan mereka dengan sempurna.",
+          "🗣️ Beratnya Fitnah: Menuduh seseorang berzina secara palsu, seperti yang dilakukan terhadap Maryam, dianggap sebagai 'fitnah yang besar' (Buhtan 'Azim) oleh Tuhan dan mengundang murka-Nya yang teruk.",
+          "⚖️ Keadilan Mutlak: Tuhan tidak menilai secara pukul rata. Individu yang soleh dalam masyarakat yang sesat akan sentiasa diiktiraf dan diberi ganjaran."
+        ]
+      }
+    },
+    {
+      "id": "section-03",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 163,
+      "verse_end": 170,
+      "en": {
+        "title": "The Messengers of God",
+        "theme": "The continuity of revelation from Nuh to Muhammad, the purpose of sending messengers, and the definitive proof from Allah.",
+        "arabic": "إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَىٰ نُوحٍ وَالنَّبِيِّينَ مِن بَعْدِهِ ۚ... وَرُسُلًا قَدْ قَصَصْنَاهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًا لَّمْ نَقْصُصْهُمْ عَلَيْكَ ۚ وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمًا...",
+        "translation": "Indeed, We have revealed to you, [O Muhammad], as We revealed to Noah and the prophets after him... And [We sent] messengers about whom We have related [their stories] to you before and messengers about whom We have not related to you. And Allah spoke to Moses with [direct] speech...",
+        "explanation": [
+          "This passage beautifully connects Prophet Muhammad to the grand legacy of previous prophets. By naming figures like Nuh, Ibrahim, Dawud, and Isa, Allah validates that the message of Islam is not a new, fabricated religion, but the exact same core truth delivered since the dawn of humanity.",
+          "Verse 164 contains a crucial piece of Islamic theology regarding the unseen history of the world: Allah mentions that there are many prophets whose stories were told in the Quran, but also many others whose stories remain unrevealed. This teaches humility regarding human history. Additionally, it highlights the special status of Prophet Musa, to whom Allah spoke directly.",
+          "Finally, Allah explains the fundamental purpose of prophethood: to leave humanity without an excuse. Messengers are sent to bring glad tidings and warnings, ensuring that on the Day of Judgment, no one can claim ignorance. The truth has arrived, and it is a command for humanity to believe."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Discusses the significance of the phrase 'And Allah spoke to Moses directly.' This confirms the Islamic belief in Allah's attribute of Speech (Kalam), which is literal, direct, and uniquely befitting His Majesty, without comparison to human speech."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Points out the rationale in verse 165 ('so that mankind will have no argument against Allah after the messengers'). Without the Prophets, humans could argue that they were left in the dark and didn't know how to worship or act morally."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Highlights the unifying thread of all prophets: Monotheism (Tawhid). Despite different times, laws, and cultures, the core revelation given to Nuh was identical to the one given to Muhammad. Rejecting one part of this chain is a rejection of the Divine Sender."
+          }
+        ],
+        "lessons": [
+          "🌍 A Universal Brotherhood: Prophet Muhammad was not an anomaly; he was the final brick in a long, magnificent structure of Prophets. Islam is the continuation of the original monotheistic message.",
+          "📖 The Unwritten Histories: We only know a fraction of human spiritual history. The fact that Allah sent unmentioned prophets to various nations shows His infinite mercy and justice.",
+          "🚫 No Excuses: God provided the syllabus before the exam. With the sending of the Messengers, humanity cannot claim they didn't know right from wrong on the Day of Judgment."
+        ]
+      },
+      "ms": {
+        "title": "Rasul-rasul Allah",
+        "theme": "Kesinambungan wahyu dari Nuh hingga Muhammad, tujuan mengutus rasul, dan bukti yang nyata dari Allah.",
+        "arabic": "إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَىٰ نُوحٍ وَالنَّبِيِّينَ مِن بَعْدِهِ ۚ... وَرُسُلًا قَدْ قَصَصْنَاهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًا لَّمْ نَقْصُصْهُمْ عَلَيْكَ ۚ وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمًا...",
+        "translation": "Sesungguhnya Kami telah memberikan wahyu kepadamu (wahai Muhammad), sebagaimana Kami telah memberikan wahyu kepada Nabi Nuh, dan Nabi-nabi yang diutus kemudiaan daripadanya... Dan (Kami telah mengutuskan) beberapa orang Rasul yang telah Kami ceritakan kepadamu dahulu sebelum ini, dan Rasul-rasul yang tidak Kami ceritakan hal mereka kepadamu. Dan Allah telah berkata-kata kepada Nabi Musa dengan kata-kata (secara langsung)...",
+        "explanation": [
+          "Petikan ini secara indah menghubungkan Nabi Muhammad dengan warisan agung para nabi terdahulu. Dengan menyebut tokoh-tokoh seperti Nuh, Ibrahim, Daud, dan Isa, Allah mengesahkan bahawa mesej Islam bukanlah satu agama baru yang direka-reka, tetapi kebenaran teras yang sama yang disampaikan sejak awal kemanusiaan.",
+          "Ayat 164 mengandungi satu perkara penting dalam teologi Islam mengenai sejarah dunia yang ghaib: Allah menyebut bahawa terdapat ramai nabi yang kisah mereka diceritakan dalam Al-Quran, tetapi terdapat juga ramai nabi lain yang kisah mereka tidak didedahkan. Ini mengajar kita supaya rendah diri mengenai sejarah manusia. Di samping itu, ia menonjolkan status istimewa Nabi Musa, yang mana Allah bercakap dengannya secara langsung.",
+          "Akhir sekali, Allah menerangkan tujuan asas kenabian: agar umat manusia tidak mempunyai alasan. Rasul diutuskan untuk membawa khabar gembira dan amaran, memastikan bahawa pada Hari Kiamat, tiada siapa yang boleh mendakwa kejahilan. Kebenaran telah tiba, dan ia adalah perintah untuk umat manusia beriman."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Membincangkan kepentingan frasa 'Dan Allah telah berkata-kata kepada Nabi Musa secara langsung.' Ini mengesahkan kepercayaan Islam mengenai sifat Kalam (Bercakap) Allah, yang bersifat literal, langsung, dan unik bersesuaian dengan Keagungan-Nya, tanpa disamakan dengan pertuturan manusia."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menunjukkan rasional dalam ayat 165 ('supaya tidak ada bagi manusia sesuatu alasan terhadap Allah sesudah mengutus Rasul-rasul itu'). Tanpa para Nabi, manusia boleh berhujah bahawa mereka dibiarkan dalam kegelapan dan tidak tahu cara untuk beribadah atau bertindak secara moral."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menonjolkan benang penyatuan semua nabi: Monoteisme (Tauhid). Walaupun mempunyai masa, undang-undang, dan budaya yang berbeza, wahyu teras yang diberikan kepada Nuh adalah sama dengan yang diberikan kepada Muhammad. Menolak satu bahagian rantaian ini adalah penolakan terhadap Tuhan yang Mengutus."
+          }
+        ],
+        "lessons": [
+          "🌍 Persaudaraan Universal: Nabi Muhammad bukanlah satu anomali; baginda adalah batu bata terakhir dalam struktur Para Nabi yang panjang dan mengagumkan. Islam adalah kesinambungan mesej monoteisme yang asal.",
+          "📖 Sejarah yang Tidak Tertulis: Kita hanya mengetahui sebahagian kecil daripada sejarah rohani manusia. Fakta bahawa Allah mengutus nabi-nabi yang tidak disebutkan kepada pelbagai bangsa menunjukkan rahmat dan keadilan-Nya yang tidak terhingga.",
+          "🚫 Tiada Alasan: Tuhan telah menyediakan sukatan pelajaran sebelum peperiksaan. Dengan pengutusan para Rasul, manusia tidak boleh mendakwa mereka tidak tahu membezakan antara yang benar dan salah pada Hari Kiamat."
+        ]
+      }
+    },
+    {
+      "sections": [
+        {
+          "id": "section-04",
+          "type": "passage",
+          "surah_number": 4,
+          "verse_start": 171,
+          "verse_end": 176,
+          "en": {
+            "title": "Refuting the Trinity & Final Inheritance Laws",
+            "theme": "The dangers of religious extremism, clarifying the true nature of Prophet Jesus (Isa), and the final rulings on complex inheritance (Kalalah).",
+            "arabic": "يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى اللَّهِ إِلَّا الْحَقَّ ۚ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّهِ وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ وَرُوحٌ مِّنْهُ ۖ فَآمِنُوا بِاللَّهِ وَرُسُلِهِ ۖ وَلَا تَقُولُوا ثَلَاثَةٌ ۚ... يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ ۚ...",
+            "translation": "O People of the Scripture, do not commit excess in your religion or say about Allah except the truth. The Messiah, Jesus, the son of Mary, was but a messenger of Allah and His word which He directed to Mary and a soul [created at a command] from Him. So believe in Allah and His messengers. And do not say, 'Three'... They request from you a [legal] ruling. Say, 'Allah gives you a ruling concerning one having neither descendants nor ascendants [as heirs]'...",
+            "explanation": [
+              "Surah An-Nisa concludes by addressing the Christians, warning them against 'Ghulūw' (extremism or exceeding the limits) in religion. Their intense love for Jesus (Isa) led them to elevate him from a prophet to a divine being. The Quran sets the record straight: Jesus is a mighty Messenger, a 'Word' from Allah (created by the command 'Be'), and a spirit created by Him, but he is not God.",
+              "The passage explicitly commands humanity not to say 'Three' (the Trinity), emphasizing that God is One, Absolute, and far above having a son. True veneration of Jesus involves recognizing his actual, noble status as a servant and prophet of God, rather than fabricating a divine nature for him.",
+              "The surah ends by circling back to its overarching theme of justice and societal rights, providing the final, definitive inheritance ruling regarding 'Kalalah'—a person who passes away leaving behind neither parents nor children. This ensures no wealth is left without clear, equitable distribution."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Explains that describing Jesus as 'His Word' means he was created by the word 'Kun' (Be), without a human father. The term 'a spirit from Him' means Jesus is a created soul among other created souls, not a literal part of God's essence. Ibn Kathir stresses that elevating a creation to the status of the Creator is the ultimate injustice."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Clarifies the prohibition of saying 'Three', referring to the concept of God, Jesus, and Mary (or the Holy Spirit) as a triune deity. Al-Jalalayn unequivocally states that God is one entity, far removed from the need for partners or offspring."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Highlights the transition from theology back to law. As-Sa'di notes that the surah begins with the origins of humanity and family rights, and ends with the distribution of wealth upon death. This demonstrates Islam's comprehensive nature, governing both spiritual beliefs and practical, earthly justice."
+              }
+            ],
+            "lessons": [
+              "⚠️ The Danger of Extremism: Over-praising someone, even a prophet, can lead to polytheism. Love must always be bounded by the truth of God's oneness.",
+              "⚖️ God is Absolute: The concept of the Trinity contradicts the absolute uniqueness and independence of God. He is One, without partners or children.",
+              "💰 Financial Justice: The meticulous details of inheritance laws, even for complex family structures like Kalalah, show how much God cares about preserving our rights and preventing familial disputes."
+            ]
+          },
+          "ms": {
+            "title": "Menyangkal Triniti & Hukum Faraid Terakhir",
+            "theme": "Bahaya ekstremisme agama, menjelaskan sifat sebenar Nabi Isa, dan hukum terakhir mengenai pewarisan kompleks (Kalalah).",
+            "arabic": "يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى اللَّهِ إِلَّا الْحَقَّ ۚ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّهِ وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ وَرُوحٌ مِّنْهُ ۖ فَآمِنُوا بِاللَّهِ وَرُسُلِهِ ۖ وَلَا تَقُولُوا ثَلَاثَةٌ ۚ... يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ ۚ...",
+            "translation": "Wahai Ahli Kitab! Janganlah kamu melampaui batas dalam ugama kamu, dan janganlah kamu mengatakan sesuatu terhadap Allah melainkan yang benar. Sesungguhnya Al-Masih Isa ibni Maryam itu hanyalah seorang Pesuruh Allah dan KalimahNya yang telah disampaikanNya kepada Maryam, dan (ia juga ditiupkan dengan) roh daripadaNya. Maka berimanlah kamu kepada Allah dan Rasul-rasulNya, dan janganlah kamu mengatakan: 'Tuhan itu tiga'... Mereka meminta fatwa kepadamu (wahai Muhammad). Katakanlah: 'Allah memberi fatwa kepada kamu mengenai kalalah (orang yang mati tidak meninggalkan anak dan ibu bapa)'...",
+            "explanation": [
+              "Surah An-Nisa berakhir dengan menegur penganut Kristian, memberi amaran kepada mereka agar tidak melakukan 'Ghulūw' (ekstremisme atau melampaui batas) dalam agama. Cinta mereka yang mendalam terhadap Isa telah menyebabkan mereka mengangkatnya dari seorang nabi menjadi tuhan. Al-Quran membetulkan fakta ini: Isa adalah Rasul yang mulia, 'Kalimah' daripada Allah (diciptakan dengan perintah 'Jadilah'), dan roh yang diciptakan oleh-Nya, tetapi dia bukan Tuhan.",
+              "Petikan ini secara jelas memerintahkan umat manusia agar tidak mengatakan 'Tiga' (Triniti), menekankan bahawa Tuhan adalah Esa, Mutlak, dan Maha Suci daripada mempunyai anak. Penghormatan sebenar terhadap Isa melibatkan pengiktirafan terhadap statusnya yang sebenar dan mulia sebagai hamba dan nabi Tuhan, bukan mereka-reka sifat ketuhanan untuknya.",
+              "Surah ini berakhir dengan kembali kepada tema utamanya iaitu keadilan dan hak kemasyarakatan, memberikan hukum pewarisan yang muktamad dan jelas mengenai 'Kalalah'—seseorang yang meninggal dunia tanpa meninggalkan ibu bapa atau anak. Ini memastikan tiada harta yang ditinggalkan tanpa pembahagian yang jelas dan saksama."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Menjelaskan bahawa menggambarkan Isa sebagai 'Kalimah-Nya' bermakna dia diciptakan dengan perkataan 'Kun' (Jadilah), tanpa bapa manusia. Istilah 'roh daripada-Nya' bermakna Isa adalah roh yang diciptakan dalam kalangan roh-roh ciptaan yang lain, bukan sebahagian daripada zat Tuhan. Ibn Kathir menegaskan bahawa mengangkat makhluk ke tahap Pencipta adalah ketidakadilan yang paling besar."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Menjelaskan larangan mengatakan 'Tiga', merujuk kepada konsep Tuhan, Isa, dan Maryam (atau Roh Kudus) sebagai tuhan tritunggal. Al-Jalalayn dengan tegas menyatakan bahawa Tuhan adalah satu entiti, jauh daripada keperluan untuk mempunyai sekutu atau keturunan."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Menonjolkan peralihan dari teologi kembali kepada undang-undang. As-Sa'di mencatatkan bahawa surah ini bermula dengan asal-usul manusia dan hak keluarga, dan berakhir dengan pembahagian harta apabila berlaku kematian. Ini membuktikan sifat Islam yang komprehensif, mengawal kedua-dua kepercayaan rohani dan keadilan praktikal di dunia."
+              }
+            ],
+            "lessons": [
+              "⚠️ Bahaya Ekstremisme: Memuji seseorang secara berlebihan, walaupun seorang nabi, boleh membawa kepada syirik. Cinta mesti sentiasa dibatasi oleh kebenaran keesaan Tuhan.",
+              "⚖️ Tuhan adalah Mutlak: Konsep Triniti bercanggah dengan keunikan dan kebebasan mutlak Tuhan. Dia adalah Esa, tanpa sekutu mahupun anak.",
+              "💰 Keadilan Kewangan: Butiran terperinci hukum faraid, walaupun untuk struktur keluarga yang kompleks seperti Kalalah, menunjukkan betapa Tuhan mengambil berat tentang memelihara hak kita dan mencegah pertikaian keluarga."
+            ]
+          }
+        },
+        {
+          "id": "section-05",
+          "type": "intro",
+          "surah_number": 5,
+          "en": {
+            "title": "Surah Al-Ma'idah — Introduction",
+            "theme": "The completion of Islam, the fulfillment of covenants, and the establishment of divine law.",
+            "explanation": [
+              "Surah Al-Ma'idah (The Table Spread) is a Medinan surah and one of the last prolonged revelations given to Prophet Muhammad. It was revealed during a time when the Islamic state in Medina was fully established and the Muslims were a recognized, powerful community.",
+              "The overarching theme of this surah is 'Uqud' (Covenants/Contracts). It begins with a direct command to fulfill all obligations, encompassing our spiritual covenant with Allah and our worldly contracts with one another. Because it was revealed so late, its legal rulings—concerning food, hunting, purification, and justice—are considered final and generally un-abrogated.",
+              "The surah derives its name from the story of the disciples of Jesus requesting a 'Table Spread' with food from heaven as a miracle to solidify their faith. Throughout the surah, Allah contrasts the faithful adherence required of Muslims with the historical breaking of covenants by the People of the Book."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Emphasizes that Surah Al-Ma'idah is among the very last surahs to be revealed. Ibn Kathir quotes Umar bin Al-Khattab and Aishah, stating that whatever is found lawful in it must be treated as lawful forever, and whatever is unlawful must be treated as unlawful forever, as its laws were not abrogated."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Highlights the comprehensive nature of the 'covenants' mentioned at the very beginning of the surah. They include the laws of halal and haram, oaths, vows, and treaties made between people."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Focuses on the verse of the perfection of religion (5:3) within this surah. As-Sa'di states this is the greatest blessing bestowed upon the Islamic Ummah, signifying that the religion is complete in its theology, laws, and moral guidance, requiring no additions or deletions."
+              }
+            ]
+          },
+          "ms": {
+            "title": "Surah Al-Ma'idah — Pengenalan",
+            "theme": "Penyempurnaan Islam, memenuhi perjanjian, dan penubuhan undang-undang Ilahi.",
+            "explanation": [
+              "Surah Al-Ma'idah (Hidangan) adalah surah Madaniyyah dan salah satu wahyu panjang yang terakhir diturunkan kepada Nabi Muhammad. Ia diturunkan pada masa negara Islam di Madinah telah ditubuhkan sepenuhnya dan umat Islam merupakan satu komuniti yang diiktiraf dan kuat.",
+              "Tema utama surah ini ialah 'Uqud' (Perjanjian/Kontrak). Ia bermula dengan perintah langsung untuk memenuhi semua kewajipan, merangkumi perjanjian rohani kita dengan Allah dan kontrak duniawi kita sesama manusia. Kerana ia diturunkan pada peringkat akhir, hukum-hakam perundangannya—mengenai makanan, perburuan, penyucian, dan keadilan—dianggap muktamad dan secara amnya tidak dimansuhkan (nasikh).",
+              "Surah ini mendapat namanya daripada kisah pengikut Nabi Isa yang meminta 'Hidangan' makanan dari langit sebagai mukjizat untuk mengukuhkan iman mereka. Sepanjang surah ini, Allah membezakan ketaatan setia yang dituntut daripada umat Islam dengan sejarah pelanggaran perjanjian oleh Ahli Kitab."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Menekankan bahawa Surah Al-Ma'idah adalah antara surah-surah yang paling akhir diturunkan. Ibn Kathir memetik kata-kata Umar bin Al-Khattab dan Aishah, menyatakan bahawa apa sahaja yang dihalalkan di dalamnya mesti dianggap halal selama-lamanya, dan apa sahaja yang diharamkan mesti dianggap haram selama-lamanya, kerana hukum-hakamnya tidak dimansuhkan."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Menonjolkan sifat komprehensif 'perjanjian' yang disebut pada permulaan surah. Ini termasuklah undang-undang halal dan haram, sumpah, nazar, dan perjanjian yang dibuat antara manusia."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Fokus kepada ayat kesempurnaan agama (5:3) dalam surah ini. As-Sa'di menyatakan ini adalah rahmat terbesar yang dikurniakan kepada Umat Islam, menandakan bahawa agama ini telah lengkap dari segi teologi, undang-undang, dan panduan moralnya, tanpa memerlukan sebarang penambahan atau pengurangan."
+              }
+            ]
+          }
+        },
+        {
+          "id": "section-06",
+          "type": "passage",
+          "surah_number": 5,
+          "verse_start": 1,
+          "verse_end": 5,
+          "en": {
+            "title": "Fulfilling Contracts & Dietary Laws",
+            "theme": "The paramount importance of honoring commitments, detailed prohibitions of food, and the monumental declaration of Islam's perfection.",
+            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ ۚ أُحِلَّتْ لَكُم بَهِيمَةُ الْأَنْعَامِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ... الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ۚ... الْيَوْمَ أُحِلَّ لَكُمُ الطَّيِّبَاتُ ۖ وَطَعَامُ الَّذِينَ أُوتُوا الْكِتَابَ حِلٌّ لَّكُمْ...",
+            "translation": "O you who have believed, fulfill [all] contracts. Lawful for you are the animals of grazing livestock except for that which is recited to you... This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion... This day [all] good foods have been made lawful, and the food of those who were given the Scripture is lawful for you...",
+            "explanation": [
+              "The surah opens with an uncompromising command to fulfill all 'Uqud' (contracts, covenants, and promises). A believer’s word must be their bond. This encompasses obeying God’s commandments and honoring agreements made with other people, regardless of their faith.",
+              "The verses then detail the boundaries of halal (permissible) and haram (forbidden) foods. Blood, carrion, swine, and meat sacrificed to false gods are strictly forbidden. However, Allah is merciful; if someone is driven by extreme hunger and necessity, eating these forbidden foods is pardoned without sin.",
+              "Nestled within these dietary laws is verse 5:3, arguably one of the most significant verses in the Quran: 'This day I have perfected for you your religion...' Revealed during Prophet Muhammad’s Farewell Pilgrimage, it serves as the Divine seal that the revelation is complete. Finally, the passage permits Muslims to eat the properly slaughtered meat of the People of the Book (Jews and Christians) and to marry their chaste women."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Highlights the story of a Jewish man who told Umar bin Al-Khattab that if the verse 'This day I have perfected for you your religion' had been revealed to the Jews, they would have taken that day as a festival. Umar replied that he knew exactly when and where it was revealed—on the Day of Arafah, a Friday, which is already a double festival for Muslims."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Details the specific categories of forbidden meat, such as animals killed by strangling, a violent blow, a headlong fall, or being gored. Al-Jalalayn emphasizes that the permission to eat the food of the People of the Book specifically refers to their slaughtered animals, provided no other deity’s name was invoked."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Reflects on the 'perfection of the religion.' As-Sa'di notes that this perfection applies to both fundamental beliefs and practical laws. Because Islam is perfect, any subsequent innovation (Bid'ah) introduced into the religion is inherently rejected, as it implies the religion was somehow incomplete."
+              }
+            ],
+            "lessons": [
+              "🤝 Keep Your Word: The foundation of a Muslim's character is trustworthiness. Fulfilling your contracts—whether a business deal, a marriage vow, or a promise to a friend—is a religious obligation.",
+              "🏆 A Complete Blueprint: Islam is not a work-in-progress. The 'perfection' of the religion means it holds the solutions for human flourishing in every era, without needing modification.",
+              "🍽️ Purity in Consumption: The detailed dietary laws teach us discipline. Avoiding what God has forbidden, even when unseen by others, is an everyday exercise in God-consciousness (Taqwa)."
+            ]
+          },
+          "ms": {
+            "title": "Memenuhi Perjanjian & Hukum Pemakanan",
+            "theme": "Kepentingan utama menepati janji, larangan terperinci mengenai makanan, dan pengisytiharan agung tentang kesempurnaan Islam.",
+            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ ۚ أُحِلَّتْ لَكُم بَهِيمَةُ الْأَنْعَامِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ... الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ۚ... الْيَوْمَ أُحِلَّ لَكُمُ الطَّيِّبَاتُ ۖ وَطَعَامُ الَّذِينَ أُوتُوا الْكِتَابَ حِلٌّ لَّكُمْ...",
+            "translation": "Wahai orang-orang yang beriman, penuhi serta tepatilah perjanjian-perjanjian. Dihalalkan bagi kamu (memakan) binatang-binatang ternak, kecuali apa yang akan dibacakan kepada kamu... Pada hari ini, Aku telah sempurnakan bagi kamu ugama kamu, dan Aku telah cukupkan nikmatKu kepada kamu, dan Aku telah redakan Islam itu menjadi ugama untuk kamu... Pada masa ini dihalalkan bagi kamu (memakan makanan) yang lazat-lazat serta baik-baik. Dan makanan (sembelihan) orang-orang yang diberikan Kitab itu adalah halal bagi kamu...",
+            "explanation": [
+              "Surah ini dibuka dengan perintah yang tegas untuk memenuhi semua 'Uqud' (kontrak, perjanjian, dan janji). Kata-kata seorang mukmin mestilah menjadi pegangannya. Ini merangkumi mematuhi perintah Tuhan dan menghormati perjanjian yang dibuat dengan manusia lain, tanpa mengira agama mereka.",
+              "Ayat-ayat tersebut kemudian merincikan sempadan makanan halal (dibenarkan) dan haram (dilarang). Darah, bangkai, babi, dan daging yang disembelih untuk tuhan palsu adalah dilarang sama sekali. Namun, Allah Maha Penyayang; jika seseorang didorong oleh kelaparan yang melampau dan darurat, memakan makanan yang dilarang ini dimaafkan tanpa dosa.",
+              "Terletak di dalam hukum pemakanan ini ialah ayat 5:3, yang boleh dikatakan salah satu ayat yang paling penting dalam Al-Quran: 'Pada hari ini, Aku telah sempurnakan bagi kamu ugama kamu...' Diturunkan semasa Haji Wida' (Haji Perpisahan) Nabi Muhammad, ia berfungsi sebagai cop mohor Ilahi bahawa wahyu telah lengkap. Akhir sekali, petikan ini membenarkan umat Islam memakan daging yang disembelih dengan betul oleh Ahli Kitab (Yahudi dan Kristian) dan mengahwini wanita mereka yang menjaga kehormatan."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Mengetengahkan kisah seorang lelaki Yahudi yang memberitahu Umar bin Al-Khattab bahawa jika ayat 'Pada hari ini, Aku telah sempurnakan bagi kamu ugama kamu' telah diturunkan kepada orang Yahudi, mereka akan menjadikan hari itu sebagai hari perayaan. Umar menjawab bahawa dia tahu dengan tepat bila dan di mana ia diturunkan—pada Hari Arafah, hari Jumaat, yang sedia ada merupakan dua perayaan berganda bagi umat Islam."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Memperincikan kategori tertentu daging yang diharamkan, seperti haiwan yang mati tercekik, dipukul, jatuh dari tempat tinggi, atau ditanduk. Al-Jalalayn menekankan bahawa kebenaran untuk memakan makanan Ahli Kitab secara khusus merujuk kepada haiwan sembelihan mereka, dengan syarat tiada nama dewa lain diseru."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Merenung tentang 'kesempurnaan agama.' As-Sa'di mencatatkan bahawa kesempurnaan ini terpakai kepada kedua-dua kepercayaan asas dan undang-undang praktikal. Oleh kerana Islam itu sempurna, apa-apa inovasi (Bidaah) yang dimasukkan ke dalam agama secara semula jadi ditolak, kerana ia membawa maksud agama itu sebelum ini tidak lengkap."
+              }
+            ],
+            "lessons": [
+              "🤝 Tepatilah Janji Anda: Asas keperibadian seorang Muslim adalah sifat amanah. Memenuhi kontrak anda—sama ada perjanjian perniagaan, ikrar perkahwinan, atau janji kepada rakan—adalah satu kewajipan agama.",
+              "🏆 Pelan Tindakan yang Lengkap: Islam bukanlah suatu proses yang belum siap. 'Kesempurnaan' agama bermaksud ia menyimpan penyelesaian untuk kelestarian manusia dalam setiap zaman, tanpa memerlukan pengubahsuaian.",
+              "🍽️ Kesucian dalam Pengambilan Makanan: Hukum pemakanan yang terperinci mengajar kita disiplin. Menjauhi apa yang dilarang oleh Tuhan, walaupun tidak dilihat oleh orang lain, adalah latihan harian dalam ketakwaan kepada Tuhan."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "id": "section-07",
+          "type": "passage",
+          "surah_number": 5,
+          "verse_start": 6,
+          "verse_end": 11,
+          "en": {
+            "title": "Purification (Wudu) & The Pillar of Justice",
+            "theme": "The spiritual and physical preparation for prayer, the mercy in divine laws, and the uncompromising standard of absolute justice.",
+            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ... وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ...",
+            "translation": "O you who have believed, when you rise to [perform] prayer, wash your faces... And do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness...",
+            "explanation": [
+              "This section begins with the detailed instructions for Wudu (ablution) and Ghusl (major ritual purification). It serves as a beautiful reminder that approaching God in prayer requires both physical cleanliness and spiritual readiness. Furthermore, if water is unavailable or its use is harmful, Allah permits Tayammum (dry ablution with clean earth). The verse explicitly states that God does not want to place difficulty upon the believers, but rather wishes to purify them.",
+              "Following the commands on personal purity, the Quran transitions to societal purity: the establishment of absolute justice. Verse 8 contains one of the highest moral standards in human history. Believers are commanded to maintain justice even when dealing with people they despise. Personal animosity or past grievances must never be an excuse for oppression or unfairness.",
+              "The passage concludes by reminding the believers of Allah’s specific favors upon them, urging them to rely on God and to be grateful for His divine protection against the plots of their enemies."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Discusses the context of the Tayammum verse, which was revealed during a journey when Aisha lost her necklace, causing the Muslim army to halt without access to water. This temporary hardship resulted in a permanent ruling of ease for the entire Ummah. Ibn Kathir emphasizes that Islamic laws are fundamentally designed around mercy and practicality."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Provides the precise legal boundaries for purification, such as washing the arms up to the elbows and wiping the head. Regarding justice, Al-Jalalayn clarifies that 'hatred of a people' specifically referred to the polytheists of Mecca who had previously tortured and exiled the Muslims, yet the Muslims were still commanded to treat them with absolute fairness."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Draws a profound connection between the verses: just as one purifies their body with water for prayer, one must purify their heart from bias and hatred to establish justice. As-Sa'di states that being just toward an enemy is the ultimate proof of sincere Taqwa (God-consciousness), as it requires overriding one's ego."
+              }
+            ],
+            "lessons": [
+              "💧 Religion is Ease: God’s laws are not meant to crush us. The provision of Tayammum proves that the spirit of the law (purification) supersedes rigid technicalities when hardship arises.",
+              "⚖️ Unbiased Justice: Your integrity is tested not by how you treat your friends, but how you treat your enemies. Justice in Islam is unconditional.",
+              "🛡️ Gratitude for Protection: Remembering how God has shielded you from harm in the past is the best way to cultivate trust in Him for the future."
+            ]
+          },
+          "ms": {
+            "title": "Penyucian (Wuduk) & Tiang Keadilan",
+            "theme": "Persediaan rohani dan fizikal untuk solat, rahmat dalam undang-undang Ilahi, dan piawaian keadilan mutlak yang tidak boleh dikompromi.",
+            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ... وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ...",
+            "translation": "Wahai orang-orang yang beriman, apabila kamu hendak mengerjakan sembahyang, maka basuhlah muka kamu... Dan janganlah sekali-kali kebencian kamu terhadap sesuatu kaum itu mendorong kamu kepada tidak melakukan keadilan. Hendaklah kamu berlaku adil (kepada sesiapa jua) kerana sikap adil itu lebih hampir kepada taqwa...",
+            "explanation": [
+              "Bahagian ini bermula dengan arahan terperinci mengenai Wuduk dan Mandi Wajib (penyucian ritual utama). Ia berfungsi sebagai peringatan yang indah bahawa menghadap Tuhan dalam solat memerlukan kebersihan fizikal dan kesediaan rohani. Tambahan pula, jika air tidak ada atau penggunaannya memudaratkan, Allah membenarkan Tayamum (wuduk kering dengan debu yang bersih). Ayat ini secara jelas menyatakan bahawa Tuhan tidak mahu menyusahkan orang yang beriman, sebaliknya ingin menyucikan mereka.",
+              "Selepas perintah mengenai kesucian peribadi, Al-Quran beralih kepada kesucian masyarakat: penegakan keadilan mutlak. Ayat 8 mengandungi salah satu piawaian moral tertinggi dalam sejarah manusia. Orang beriman diperintahkan untuk menegakkan keadilan walaupun ketika berurusan dengan orang yang mereka benci. Permusuhan peribadi atau keluhan masa lalu tidak boleh dijadikan alasan untuk melakukan penindasan atau ketidakadilan.",
+              "Petikan ini diakhiri dengan mengingatkan orang yang beriman tentang nikmat khusus Allah ke atas mereka, menggesa mereka untuk bertawakal kepada Tuhan dan bersyukur atas perlindungan Ilahi-Nya daripada tipu daya musuh mereka."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Membincangkan konteks ayat Tayamum, yang diturunkan semasa satu perjalanan apabila kalung Aisyah hilang, menyebabkan tentera Islam terpaksa berhenti tanpa bekalan air. Kesukaran sementara ini membawa kepada hukum kemudahan yang kekal bagi seluruh Umat. Ibn Kathir menekankan bahawa undang-undang Islam pada asasnya direka bentuk berdasarkan rahmat dan kepraktisan."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Memberikan sempadan hukum yang tepat untuk penyucian, seperti membasuh tangan hingga ke siku dan menyapu kepala. Mengenai keadilan, Al-Jalalayn menjelaskan bahawa 'kebencian terhadap sesuatu kaum' secara khusus merujuk kepada kaum musyrik Mekah yang sebelum ini telah menyeksa dan mengusir umat Islam, namun umat Islam masih diperintahkan untuk melayan mereka dengan keadilan yang mutlak."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Menarik perkaitan yang mendalam antara ayat-ayat tersebut: sepertimana seseorang menyucikan tubuhnya dengan air untuk solat, dia juga mesti menyucikan hatinya daripada sikap berat sebelah dan kebencian untuk menegakkan keadilan. As-Sa'di menyatakan bahawa berlaku adil terhadap musuh adalah bukti muktamad Takwa yang ikhlas, kerana ia menuntut seseorang untuk menundukkan egonya."
+              }
+            ],
+            "lessons": [
+              "💧 Agama itu Mudah: Hukum-hakam Tuhan tidak bertujuan untuk membebankan kita. Kemudahan Tayamum membuktikan bahawa roh undang-undang (penyucian) mengatasi teknikal yang tegar apabila timbulnya kesukaran.",
+              "⚖️ Keadilan Tanpa Berat Sebelah: Integriti anda diuji bukan dengan cara anda melayan rakan anda, tetapi cara anda melayan musuh anda. Keadilan dalam Islam adalah tidak bersyarat.",
+              "🛡️ Kesyukuran atas Perlindungan: Mengingati bagaimana Tuhan telah melindungi anda daripada bahaya pada masa lalu adalah cara terbaik untuk memupuk kepercayaan kepada-Nya untuk masa depan."
+            ]
+          }
+        },
+        {
+          "id": "section-08",
+          "type": "passage",
+          "surah_number": 5,
+          "verse_start": 12,
+          "verse_end": 19,
+          "en": {
+            "title": "The Broken Covenants of the Past",
+            "theme": "The historical failure to uphold divine covenants, the spiritual disease of a hardened heart, and the light of the final message.",
+            "arabic": "وَلَقَدْ أَخَذَ اللَّهُ مِيثَاقَ بَنِي إِسْرَائِيلَ... فَبِمَا نَقْضِهِم مِّيثَاقَهُمْ لَعَنَّاهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَاسِيَةً ۖ... وَمِنَ الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ أَخَذْنَا مِيثَاقَهُمْ فَنَسُوا حَظًّا مِّمَّا ذُكِّرُوا بِهِ فَأَغْرَيْنَا بَيْنَهُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ...",
+            "translation": "And Allah had already taken a covenant from the Children of Israel... So for their breaking of the covenant We cursed them and made their hearts hard... And from those who say, 'We are Christians' We took their covenant; but they forgot a portion of that of which they were reminded. So We caused among them animosity and hatred...",
+            "explanation": [
+              "These verses serve as a historical warning to the Muslim community. Allah recounts the heavy covenants taken from the Children of Israel. They were promised divine companionship if they established prayer, gave charity, supported the messengers, and loaned to Allah a goodly loan. However, they deliberately broke this covenant.",
+              "The consequence of their betrayal was a 'hardened heart'. A hard heart is a severe spiritual disease where a person loses the ability to feel remorse, accept truth, or show compassion. It led them to alter and distort the divine scriptures to suit their desires.",
+              "Similarly, Allah addresses the Christians, noting that they 'forgot a portion of that of which they were reminded.' As a direct result of abandoning the pure monotheistic teachings, they were plagued with sectarian enmity and hatred that will last until the Day of Judgment. The passage concludes by presenting Prophet Muhammad and the Quran as a clear light, guiding humanity out of this historical darkness toward the 'paths of peace'. "
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Describes the concept of the 'hardened heart' (Qasiyah). When a heart hardens, it loses its light and insight, leading the person to misinterpret the scriptures, taking words out of context, and abandoning the actions they were commanded to perform."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Points out that the enmity and hatred placed among the Christian factions—such as the Catholics, Orthodox, and various other sects—is a direct divine consequence for their deviation from the original teachings of Jesus regarding the oneness of God."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Focuses on the beauty of verse 16, which describes the Quran as a guide to the 'paths of peace' (Subul as-Salam). As-Sa'di explains that following the Quran guarantees peace of mind, peace in society, and ultimate peace in Paradise (Dar as-Salam), completely rescuing the believer from the darkness of ignorance."
+              }
+            ],
+            "lessons": [
+              "💔 The Danger of a Hard Heart: Persistently breaking the rules of God doesn't just result in sin; it changes your spiritual anatomy. A hardened heart becomes blind to the truth.",
+              "🕊️ Disunity as a Symptom: When communities abandon the core principles of God's revelation, the natural consequence is internal division, sectarianism, and hatred.",
+              "💡 The Ultimate Guide: In a world of distorted truths and broken promises, the Quran stands as an incorruptible light, leading those who seek God's pleasure directly to safety."
+            ]
+          },
+          "ms": {
+            "title": "Perjanjian Masa Lalu yang Dimungkiri",
+            "theme": "Kegagalan sejarah dalam mempertahankan perjanjian Ilahi, penyakit rohani hati yang keras, dan cahaya mesej terakhir.",
+            "arabic": "وَلَقَدْ أَخَذَ اللَّهُ مِيثَاقَ بَنِي إِسْرَائِيلَ... فَبِمَا نَقْضِهِم مِّيثَاقَهُمْ لَعَنَّاهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَاسِيَةً ۖ... وَمِنَ الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ أَخَذْنَا مِيثَاقَهُمْ فَنَسُوا حَظًّا مِّمَّا ذُكِّرُوا بِهِ فَأَغْرَيْنَا بَيْنَهُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ...",
+            "translation": "Dan demi sesungguhnya, Allah telah mengambil perjanjian setia Bani Israel... Maka dengan sebab mereka mencabuli perjanjian setia mereka, Kami laknat mereka, dan Kami jadikan hati mereka keras membatu... Dan di antara orang-orang yang berkata: 'Bahawa kami ini orang-orang Nasrani', Kami juga telah mengambil perjanjian setia mereka, maka mereka juga lupakan sebahagian dari apa yang telah diperingatkan mereka dengannya. Lalu Kami tanamkan perasaan permusuhan dan kebencian di antara mereka...",
+            "explanation": [
+              "Ayat-ayat ini berfungsi sebagai amaran sejarah kepada umat Islam. Allah menceritakan perjanjian berat yang diambil daripada Bani Israel. Mereka dijanjikan kebersamaan Ilahi jika mereka mendirikan solat, mengeluarkan zakat, menyokong para rasul, dan memberi pinjaman yang baik kepada Allah. Walau bagaimanapun, mereka secara sengaja melanggar perjanjian ini.",
+              "Akibat daripada pengkhianatan mereka adalah 'hati yang keras membatu'. Hati yang keras adalah penyakit rohani yang teruk di mana seseorang kehilangan keupayaan untuk berasa insaf, menerima kebenaran, atau menunjukkan belas kasihan. Ia mendorong mereka untuk mengubah dan memutarbelitkan kitab-kitab suci bagi memenuhi hawa nafsu mereka.",
+              "Begitu juga, Allah menegur umat Kristian, mencatatkan bahawa mereka 'melupakan sebahagian daripada apa yang telah diperingatkan kepada mereka.' Sebagai akibat langsung daripada meninggalkan ajaran tauhid yang murni, mereka dilanda permusuhan mazhab dan kebencian yang akan berlanjutan sehingga Hari Kiamat. Petikan ini diakhiri dengan membentangkan Nabi Muhammad dan Al-Quran sebagai cahaya yang terang, membimbing manusia keluar daripada kegelapan sejarah ini menuju ke 'jalan-jalan keselamatan'."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Menerangkan konsep 'hati yang keras' (Qasiyah). Apabila hati menjadi keras, ia kehilangan cahaya dan wawasannya, menyebabkan seseorang salah menafsirkan kitab suci, mengambil perkataan di luar konteks, dan meninggalkan amalan yang diperintahkan kepada mereka."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Menunjukkan bahawa permusuhan dan kebencian yang diletakkan di antara puak-puak Kristian—seperti Katolik, Ortodoks, dan pelbagai mazhab lain—adalah akibat langsung daripada Tuhan kerana penyimpangan mereka daripada ajaran asal Isa mengenai keesaan Tuhan."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Fokus kepada keindahan ayat 16, yang menggambarkan Al-Quran sebagai panduan ke 'jalan-jalan keselamatan' (Subul as-Salam). As-Sa'di menjelaskan bahawa mengikuti Al-Quran menjamin ketenangan fikiran, keamanan dalam masyarakat, dan keamanan mutlak di Syurga (Dar as-Salam), menyelamatkan orang yang beriman sepenuhnya daripada kegelapan kejahilan."
+              }
+            ],
+            "lessons": [
+              "💔 Bahaya Hati yang Keras: Terus-menerus melanggar peraturan Tuhan bukan sekadar mengakibatkan dosa; ia mengubah anatomi rohani anda. Hati yang keras menjadi buta terhadap kebenaran.",
+              "🕊️ Perpecahan sebagai Simptom: Apabila masyarakat meninggalkan prinsip asas wahyu Tuhan, akibat semula jadinya ialah perpecahan dalaman, kepuakan mazhab, dan kebencian.",
+              "💡 Panduan Terunggul: Dalam dunia yang penuh dengan kebenaran yang diputarbelitkan dan janji yang dimungkiri, Al-Quran berdiri sebagai cahaya yang tidak boleh dirosakkan, memimpin mereka yang mencari keredaan Tuhan terus menuju keselamatan."
+            ]
+          }
+        },
+        {
+          "id": "section-09",
+          "type": "passage",
+          "surah_number": 5,
+          "verse_start": 20,
+          "verse_end": 26,
+          "en": {
+            "title": "Musa & The Holy Land",
+            "theme": "The psychology of an oppressed nation, the requirement of courage in faith, and the tragic consequence of cowardice.",
+            "arabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ اذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ... قَالُوا يَا مُوسَىٰ إِنَّ فِيهَا قَوْمًا جَبَّارِينَ... قَالَ رَجُلَانِ مِنَ الَّذِينَ يَخَافُونَ أَنْعَمَ اللَّهُ عَلَيْهِمَا ادْخُلُوا عَلَيْهِمُ الْبَابَ... قَالُوا يَا مُوسَىٰ إِنَّا لَن نَّدْخُلَهَا أَبَدًا... فَاذْهَبْ أَنتَ وَرَبُّكَ فَقَاتِلَا إِنَّا هَاهُنَا قَاعِدُونَ",
+            "translation": "And [mention, O Muhammad], when Moses said to his people, 'O my people, remember the favor of Allah upon you...' They said, 'O Moses, indeed within it is a people of tyrannical strength...' Two men from those who feared [to disobey] upon whom Allah had bestowed favor said, 'Enter upon them through the gate...' They said, 'O Moses, indeed we will not enter it, ever... so go, you and your Lord, and fight. Indeed, we are remaining right here.'",
+            "explanation": [
+              "Prophet Musa stands at the borders of the Holy Land, reminding his people of Allah's immense favors: freeing them from slavery, sending them prophets, and granting them independence. He commands them to enter the land promised to them. However, generations of brutal slavery under Pharaoh had deeply damaged their collective psychology. They reply with absolute cowardice, terrified of the powerful people ('giants' or tyrants) living there.",
+              "Only two men, blessed with Taqwa (fear of God), step forward. They urge the community to take the first step—just enter the gate, and Allah will grant the victory. True reliance on God (Tawakkul) requires human effort. Yet, the Israelites refuse, uttering one of the most disrespectful statements in scriptural history: 'Go, you and your Lord, and fight. We are sitting right here.'",
+              "Heartbroken, Musa turns to Allah, stating he has control over no one but himself and his brother Harun. The divine verdict is swift and just: the land is forbidden to them for forty years. They will wander aimlessly in the wilderness until that cowardly generation dies out and a new, stronger generation, raised in the freedom of the desert, is ready to carry the responsibility of the Holy Land."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Contrasts the cowardice of the Israelites with the immense bravery of the Prophet's companions (Sahabah). At the Battle of Badr, Miqdad bin 'Amr stepped forward and told Prophet Muhammad: 'We will not say to you what the Children of Israel said to Musa... rather we say: Go forth, you and your Lord, and fight, and we will fight alongside you.' This overjoyed the Prophet."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Identifies the two courageous men as Yusha bin Nun (Joshua) and Kalib bin Yufanna (Caleb). They understood that victory is not determined by physical strength or military might, but by obedience to Allah and stepping forward with faith."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Analyzes the psychology of the wandering (Tih). As-Sa'di explains that the 40-year wandering was a necessary period of purification. A nation accustomed to the humiliation of slavery was unfit for the glory of liberating the Holy Land. The desert forged a new generation capable of bearing the divine trust."
+              }
+            ],
+            "lessons": [
+              "🧠 The Psychology of Freedom: Physical liberation from slavery is instant, but mental liberation takes time. Fear and a victim mentality can prevent you from claiming the blessings God has written for you.",
+              "🚪 Take the First Step: God promises victory, but He demands your effort. As the two men advised, you just have to 'enter the gate.' God will do the rest.",
+              "⏳ The Wisdom of Delay: Sometimes, God delays a victory or a blessing because you, or your community, are not yet spiritually or psychologically prepared to handle it."
+            ]
+          },
+          "ms": {
+            "title": "Musa & Tanah Suci",
+            "theme": "Psikologi bangsa yang tertindas, keperluan keberanian dalam iman, dan akibat tragis akibat sikap pengecut.",
+            "arabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ اذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ... قَالُوا يَا مُوسَىٰ إِنَّ فِيهَا قَوْمًا جَبَّارِينَ... قَالَ رَجُلَانِ مِنَ الَّذِينَ يَخَافُونَ أَنْعَمَ اللَّهُ عَلَيْهِمَا ادْخُلُوا عَلَيْهِمُ الْبَابَ... قَالُوا يَا مُوسَىٰ إِنَّا لَن نَّدْخُلَهَا أَبَدًا... فَاذْهَبْ أَنتَ وَرَبُّكَ فَقَاتِلَا إِنَّا هَاهُنَا قَاعِدُونَ",
+            "translation": "Dan (ingatlah) ketika Nabi Musa berkata kepada kaumnya: 'Wahai kaumku! Kenanglah nikmat Allah ke atas kamu...' Mereka menjawab: 'Wahai Musa, sesungguhnya di dalam negeri itu ada kaum yang gagah perkasa...' Berkatalah dua orang lelaki di antara orang-orang yang takut (menyalahi perintah Tuhan), yang telah dikurniakan nikmat oleh Allah kepada keduanya: 'Seranglah mereka melalui pintu itu...' Mereka berkata: 'Wahai Musa, sesungguhnya kami tidak akan memasuki negeri itu selama-lamanya... oleh itu pergilah engkau bersama Tuhanmu dan berperanglah, sesungguhnya kami mahu duduk menanti di sini sahaja.'",
+            "explanation": [
+              "Nabi Musa berdiri di sempadan Tanah Suci, mengingatkan kaumnya tentang nikmat Allah yang besar: membebaskan mereka daripada perhambaan, mengutuskan para nabi kepada mereka, dan memberikan mereka kemerdekaan. Baginda mengarahkan mereka untuk memasuki tanah yang dijanjikan kepada mereka. Namun, generasi yang mengalami perhambaan kejam di bawah Firaun telah merosakkan psikologi kolektif mereka. Mereka menjawab dengan sifat pengecut yang mutlak, ketakutan terhadap orang-orang yang kuat (atau zalim) yang tinggal di sana.",
+              "Hanya dua orang lelaki, yang dikurniakan Takwa (takut kepada Tuhan), melangkah ke hadapan. Mereka menggesa masyarakat untuk mengambil langkah pertama—hanya masuk melalui pintu gerbang, dan Allah akan memberikan kemenangan. Kebergantungan sebenar kepada Tuhan (Tawakal) memerlukan usaha manusia. Namun, Bani Israel menolak, melontarkan salah satu kenyataan paling biadap dalam sejarah kitab suci: 'Pergilah engkau bersama Tuhanmu dan berperanglah. Kami duduk di sini sahaja.'",
+              "Dengan hati yang luluh, Musa berpaling kepada Allah, menyatakan bahawa dia tidak mempunyai kawalan ke atas sesiapa pun melainkan dirinya dan saudaranya Harun. Keputusan Ilahi adalah pantas dan adil: tanah itu diharamkan kepada mereka selama empat puluh tahun. Mereka akan merayau-rayau tanpa arah tuju di padang pasir sehinggalah generasi pengecut itu mati dan generasi baharu yang lebih kuat, dibesarkan dalam kebebasan padang pasir, bersedia untuk memikul tanggungjawab Tanah Suci."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Membandingkan sifat pengecut Bani Israel dengan keberanian besar para sahabat Nabi (Sahabah). Dalam Perang Badar, Miqdad bin 'Amr melangkah ke hadapan dan memberitahu Nabi Muhammad: 'Kami tidak akan berkata kepadamu seperti apa yang Bani Israel katakan kepada Musa... sebaliknya kami berkata: Pergilah engkau bersama Tuhanmu dan berperanglah, dan kami akan berperang bersama-sama kamu.' Ini sangat menggembirakan Nabi."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Mengenal pasti dua lelaki yang berani itu sebagai Yusha bin Nun dan Kalib bin Yufanna. Mereka faham bahawa kemenangan tidak ditentukan oleh kekuatan fizikal atau kehebatan tentera, tetapi dengan ketaatan kepada Allah dan melangkah ke hadapan dengan penuh keimanan."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Menganalisis psikologi kesesatan di padang pasir (Tih). As-Sa'di menjelaskan bahawa pengembaraan tanpa arah selama 40 tahun adalah tempoh penyucian yang perlu. Bangsa yang terbiasa dengan penghinaan perhambaan tidak layak untuk kegemilangan membebaskan Tanah Suci. Padang pasir melahirkan generasi baharu yang mampu memikul amanah Ilahi."
+              }
+            ],
+            "lessons": [
+              "🧠 Psikologi Kemerdekaan: Pembebasan fizikal daripada perhambaan adalah serta-merta, tetapi pembebasan mental mengambil masa. Ketakutan dan mentaliti mangsa boleh menghalang anda daripada menuntut nikmat yang Tuhan telah tetapkan untuk anda.",
+              "🚪 Ambil Langkah Pertama: Tuhan menjanjikan kemenangan, tetapi Dia menuntut usaha anda. Seperti yang dinasihatkan oleh dua lelaki itu, anda hanya perlu 'masuk melalui pintu gerbang.' Tuhan akan menguruskan yang selebihnya.",
+              "⏳ Hikmah Penangguhan: Kadang-kadang, Tuhan menangguhkan kemenangan atau nikmat kerana anda, atau komuniti anda, belum bersedia secara rohani atau psikologi untuk mengendalikannya."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "id": "section-10",
+          "type": "passage",
+          "surah_number": 5,
+          "verse_start": 27,
+          "verse_end": 34,
+          "en": {
+            "title": "The Two Sons of Adam & The Sanctity of Life",
+            "theme": "The destructive nature of envy, the first murder in human history, and the immense value of a single human life.",
+            "arabic": "وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِن أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ الْآخَرِ... مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا...",
+            "translation": "And recite to them the story of Adam's two sons, in truth, when they both offered a sacrifice, and it was accepted from one of them but was not accepted from the other... whoever kills a soul unless for a soul or for corruption [done] in the land - it is as if he had slain mankind entirely...",
+            "explanation": [
+              "The Quran narrates the tragic story of Habil and Qabil (Abel and Cain). Both offered a sacrifice to Allah, but only Habil’s was accepted because of his genuine piety. Consumed by jealousy and ego, Qabil threatened to kill his brother. Habil's response was a masterclass in peaceful restraint: he stated he would not raise his hand to fight back, fearing Allah.",
+              "Qabil committed the first murder in human history. Lost and ignorant of what to do with the corpse, Allah sent a raven scratching the ground to bury a dead raven, teaching Qabil how to hide his brother's body. Qabil was left with bitter remorse—not true repentance, but the agonizing regret of a ruined life.",
+              "From this single incident, Allah establishes a monumental universal law: the absolute sanctity of human life. Taking one innocent life is equal to murdering all of humanity, because it shatters the divine boundary of life's sacredness. Conversely, saving one life is like saving all of humanity. Consequently, severe punishments are detailed for those who wage war against society or commit highway robbery (Hirabah), protecting the community from terror."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Highlights Habil's profound statement: 'Indeed, Allah only accepts from the righteous (Al-Muttaqin).' Ibn Kathir notes that Qabil’s underlying issue was a lack of Taqwa; he focused on the outward ritual but harbored a corrupt heart. True acceptance of any deed relies entirely on the purity of the intention."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Details the mechanism of the raven. The raven dug the earth to bury another dead raven, exposing Qabil’s helpless ignorance. Al-Jalalayn points out that Qabil’s regret was over his own incompetence and the burden of the body, rather than sincere repentance to God for the sin of murder."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Focuses on the equation of one life to all of humanity. As-Sa'di explains that life is a single, interconnected fabric woven by the Creator. To violate one innocent life is to declare war on the Creator's design, whereas protecting life demonstrates a deep reverence for God Himself."
+              }
+            ],
+            "lessons": [
+              "🔥 The Poison of Envy: Jealousy was the first sin committed in heaven (by Iblis) and the first on earth (by Qabil). It destroys the envier long before it hurts the envied.",
+              "🛑 Restraint is Strength: Habil’s refusal to retaliate was not cowardice, but profound God-consciousness. Sometimes the bravest thing you can do is refuse to escalate violence.",
+              "🌍 A Universe in a Soul: Every single human life has infinite value. Contributing to the saving of a life—whether through medical help, charity, or emotional support—is a deed of cosmic proportions."
+            ]
+          },
+          "ms": {
+            "title": "Dua Putera Adam & Kesucian Nyawa",
+            "theme": "Sifat hasad dengki yang membinasakan, pembunuhan pertama dalam sejarah manusia, dan nilai yang sangat besar bagi satu nyawa manusia.",
+            "arabic": "وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِن أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ الْآخَرِ... مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا...",
+            "translation": "Dan bacakanlah (wahai Muhammad) kepada mereka kisah dua putera Adam (Habil dan Qabil) yang berlaku dengan sebenarnya, iaitu ketika mereka berdua mempersembahkan satu persembahan korban. Lalu diterima korban salah seorang di antaranya, dan tidak diterima (korban) dari yang lain... sesiapa yang membunuh seorang manusia dengan tiada alasan yang membolehkan membunuh orang itu, atau (kerana) melakukan kerosakan di muka bumi, maka seolah-olah dia telah membunuh manusia semuanya...",
+            "explanation": [
+              "Al-Quran menceritakan kisah tragis Habil dan Qabil. Kedua-duanya mempersembahkan korban kepada Allah, tetapi hanya korban Habil yang diterima kerana ketakwaannya yang ikhlas. Dikuasai oleh rasa cemburu dan ego, Qabil mengancam untuk membunuh saudaranya. Reaksi Habil merupakan teladan hebat dalam menahan diri secara aman: dia menyatakan bahawa dia tidak akan mengangkat tangan untuk membalas, kerana takut kepada Allah.",
+              "Qabil melakukan pembunuhan pertama dalam sejarah manusia. Buntu dan tidak tahu apa yang perlu dilakukan dengan mayat tersebut, Allah menghantar seekor burung gagak yang mengais tanah untuk menguburkan gagak yang mati, mengajar Qabil cara menyembunyikan mayat saudaranya. Qabil ditinggalkan dengan penyesalan yang pahit—bukan taubat yang sebenar, tetapi penyesalan yang menyeksakan akibat kehidupan yang musnah.",
+              "Daripada satu peristiwa ini, Allah menetapkan satu undang-undang universal yang agung: kesucian mutlak nyawa manusia. Mengambil satu nyawa yang tidak berdosa adalah menyamai membunuh seluruh umat manusia, kerana ia menghancurkan sempadan Ilahi tentang kesucian nyawa. Sebaliknya, menyelamatkan satu nyawa adalah seperti menyelamatkan seluruh umat manusia. Oleh itu, hukuman yang berat diperincikan bagi mereka yang memerangi masyarakat atau melakukan rompakan jalanan (Hirabah), demi melindungi komuniti daripada keganasan."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Mengetengahkan kenyataan mendalam Habil: 'Sesungguhnya Allah hanya menerima (amalan) daripada orang yang bertakwa (Al-Muttaqin).' Ibn Kathir mencatatkan bahawa isu asas Qabil ialah kekurangan Takwa; dia memfokuskan kepada ritual luaran tetapi menyimpan hati yang rosak. Penerimaan sebenar terhadap apa-apa amalan bergantung sepenuhnya pada kesucian niat."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Memperincikan peranan burung gagak. Burung gagak itu menggali tanah untuk menanam gagak lain yang mati, mendedahkan kejahilan Qabil yang tidak berdaya. Al-Jalalayn menunjukkan bahawa penyesalan Qabil adalah kerana ketidakcekapannya sendiri dan bebanan menguruskan mayat tersebut, bukannya taubat yang ikhlas kepada Tuhan atas dosa membunuh."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Fokus kepada persamaan satu nyawa dengan seluruh umat manusia. As-Sa'di menjelaskan bahawa nyawa adalah satu tenunan yang saling berkaitan yang dicipta oleh Pencipta. Mencabuli satu nyawa yang tidak berdosa bermakna mengisytiharkan perang terhadap reka bentuk Pencipta, manakala melindungi nyawa menunjukkan penghormatan yang mendalam terhadap Tuhan itu sendiri."
+              }
+            ],
+            "lessons": [
+              "🔥 Racun Hasad Dengki: Cemburu adalah dosa pertama yang dilakukan di syurga (oleh Iblis) dan yang pertama di bumi (oleh Qabil). Ia memusnahkan orang yang berdengki jauh sebelum ia menyakiti orang yang didengki.",
+              "🛑 Menahan Diri adalah Kekuatan: Keengganan Habil untuk membalas dendam bukanlah sifat pengecut, tetapi kesedaran ketuhanan yang mendalam. Kadang-kadang perkara paling berani yang boleh anda lakukan ialah menolak untuk meningkatkan keganasan.",
+              "🌍 Alam Semesta dalam Satu Jiwa: Setiap nyawa manusia mempunyai nilai yang tidak terhingga. Menyumbang kepada penyelamatan nyawa—sama ada melalui bantuan perubatan, sedekah, atau sokongan emosi—adalah satu amalan yang sangat besar nilainya."
+            ]
+          }
+        },
+        {
+          "id": "section-11",
+          "type": "passage",
+          "surah_number": 5,
+          "verse_start": 35,
+          "verse_end": 43,
+          "en": {
+            "title": "Penalties, Justice & Rushing to Sin",
+            "theme": "Seeking nearness to Allah through action, the strict protection of societal wealth, and the emotional burden of prophethood.",
+            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ الْوَسِيلَةَ... وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً بِمَا كَسَبَا... يَا أَيُّهَا الرَّسُولُ لَا يَحْزُنكَ الَّذِينَ يُسَارِعُونَ فِي الْكُفْرِ...",
+            "translation": "O you who have believed, fear Allah and seek the means [of nearness] to Him... [As for] the thief, the male and the female, amputate their hands in recompense for what they committed... O Messenger, let them not grieve you who hasten into disbelief...",
+            "explanation": [
+              "The section begins with an active command: believers must not just passively believe, but actively seek 'Wasilah' (the means of approach or closeness) to Allah. This is achieved through righteous deeds, abandoning sins, and striving in His path.",
+              "The text then transitions to the strict Islamic penal code, prescribing the amputation of hands for the male and female thief. This severe punishment is designed as an ultimate deterrent to protect societal wealth and ensure security. However, the subsequent verse immediately opens the door to mercy: whoever repents after their transgression and reforms, Allah will accept their repentance.",
+              "The passage concludes by addressing Prophet Muhammad directly, consoling him over the actions of the hypocrites and some Jewish tribes who were rushing to commit disbelief. They were actively distorting divine laws (like changing the punishment for adultery from stoning to lashing to protect their elites). Allah comforts the Prophet, reminding him that he is only responsible for delivering the truth, not for the corruption in their hearts."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Clarifies the term 'Wasilah'. Ibn Abbas and others define Wasilah as seeking closeness to Allah by doing the actions He loves and leaving what He hates. It is a direct spiritual effort, completely refuting the idea of using dead saints as intercessors to God."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Provides the historical context of verse 41. A group of Jewish elites committed adultery. Instead of applying their own Torah, which mandated stoning, they went to Prophet Muhammad hoping he would give a lighter sentence. When the Prophet judged them by the original ruling of the Torah, their hypocrisy and distortion of their own texts were exposed."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Analyzes the balance of justice and mercy in the laws of theft. While the physical punishment seems harsh to the modern eye, As-Sa'di explains it acts as a decisive surgical strike to eliminate the cancer of theft from society. A community where property is safe allows humans to flourish without fear."
+              }
+            ],
+            "lessons": [
+              "🪜 Build the Bridge: Faith requires action. You must actively seek 'Wasilah'—the means to draw close to God—through daily prayers, charity, and ethical living.",
+              "⚖️ Protecting the Collective: Severe laws against theft exist not out of cruelty, but out of profound love for a safe, fearless society where the vulnerable are not exploited.",
+              "🛡️ Do Not Grieve Over the Rebellious: Like the Prophet, you may feel deeply saddened when people you care about rush into sin or twist the truth. Your duty is to advise fairly; you are not responsible for their choices."
+            ]
+          },
+          "ms": {
+            "title": "Hukuman, Keadilan & Bersegera Melakukan Dosa",
+            "theme": "Mencari kedekatan kepada Allah melalui tindakan, perlindungan ketat terhadap kekayaan masyarakat, dan beban emosi kenabian.",
+            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ الْوَسِيلَةَ... وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً بِمَا كَسَبَا... يَا أَيُّهَا الرَّسُولُ لَا يَحْزُنكَ الَّذِينَ يُسَارِعُونَ فِي الْكُفْرِ...",
+            "translation": "Wahai orang-orang yang beriman! Bertaqwalah kepada Allah dan carilah jalan yang mendekatkan diri (Wasilah) kepadaNya... Dan orang lelaki yang mencuri dan orang perempuan yang mencuri maka (hukumnya) potonglah tangan mereka sebagai satu balasan dengan sebab apa yang mereka telah usahakan... Wahai Rasul Allah! Janganlah engkau berdukacita disebabkan orang-orang yang segera menceburkan diri dalam kekufuran...",
+            "explanation": [
+              "Bahagian ini bermula dengan perintah aktif: orang beriman bukan sekadar percaya secara pasif, tetapi mesti secara aktif mencari 'Wasilah' (jalan untuk mendekatkan diri) kepada Allah. Ini dicapai melalui amalan soleh, meninggalkan dosa, dan berjuang di jalan-Nya.",
+              "Teks ini kemudian beralih kepada undang-undang jenayah Islam yang ketat, menetapkan hukuman potong tangan bagi pencuri lelaki dan perempuan. Hukuman berat ini direka sebagai pencegahan muktamad untuk melindungi kekayaan masyarakat dan menjamin keselamatan. Namun, ayat seterusnya serta-merta membuka pintu rahmat: sesiapa yang bertaubat selepas kesalahannya dan memperbaiki diri, Allah akan menerima taubatnya.",
+              "Petikan ini diakhiri dengan menangani Nabi Muhammad secara langsung, memujuk baginda atas tindakan orang munafik dan beberapa puak Yahudi yang terburu-buru melakukan kekufuran. Mereka secara aktif memutarbelitkan undang-undang Ilahi (seperti menukar hukuman bagi zina daripada rejam kepada sebat semata-mata untuk melindungi golongan elit mereka). Allah memujuk Nabi, mengingatkan baginda bahawa baginda hanya bertanggungjawab untuk menyampaikan kebenaran, bukan bertanggungjawab atas kerosakan dalam hati mereka."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Menjelaskan istilah 'Wasilah'. Ibn Abbas dan lain-lain mendefinisikan Wasilah sebagai mencari kedekatan dengan Allah dengan melakukan amalan yang disukai-Nya dan meninggalkan apa yang dibenci-Nya. Ia adalah usaha kerohanian secara langsung, menolak sepenuhnya idea menggunakan orang soleh yang telah meninggal dunia sebagai perantara kepada Tuhan."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Memberikan konteks sejarah bagi ayat 41. Sekumpulan elit Yahudi telah berzina. Daripada menggunakan Taurat mereka sendiri, yang mewajibkan hukuman rejam, mereka pergi kepada Nabi Muhammad dengan harapan baginda akan memberikan hukuman yang lebih ringan. Apabila Nabi menghukum mereka berdasarkan hukum asal Taurat, kemunafikan dan putar belit mereka terhadap kitab mereka sendiri telah terdedah."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Menganalisis keseimbangan keadilan dan rahmat dalam undang-undang kecurian. Walaupun hukuman fizikal kelihatan keras pada pandangan moden, As-Sa'di menjelaskan ia bertindak sebagai langkah pembedahan yang tegas untuk menghapuskan kanser kecurian daripada masyarakat. Komuniti yang hartanya selamat membolehkan manusia berkembang maju tanpa rasa takut."
+              }
+            ],
+            "lessons": [
+              "🪜 Bina Jambatan: Iman memerlukan tindakan. Anda mesti secara aktif mencari 'Wasilah'—jalan untuk mendekatkan diri kepada Tuhan—melalui solat harian, sedekah, dan kehidupan yang beretika.",
+              "⚖️ Melindungi Kesejahteraan Awam: Undang-undang yang keras terhadap kecurian wujud bukan kerana kezaliman, tetapi kerana rasa cinta yang mendalam terhadap sebuah masyarakat yang selamat dan berani, di mana golongan yang lemah tidak dieksploitasi.",
+              "🛡️ Jangan Bersedih Atas Mereka yang Ingkar: Seperti Nabi, anda mungkin berasa sangat sedih apabila orang yang anda sayangi tergesa-gesa melakukan dosa atau memutarbelitkan kebenaran. Tugas anda adalah untuk menasihati secara adil; anda tidak bertanggungjawab ke atas pilihan mereka."
+            ]
+          }
+        },
+        {
+          "id": "section-12",
+          "type": "summary",
+          "en": {
+            "title": "Overarching Themes of Juz 6",
+            "theme": "Honoring Covenants, Upholding Justice, and the Completion of Religion.",
+            "explanation": [
+              "Juz 6 serves as a definitive anchor for Islamic law and social morality. Spanning the end of Surah An-Nisa and the beginning of Surah Al-Ma'idah, it transitions the Muslim community from establishing family units to managing a robust, independent state.",
+              "The core pillar of this Juz is 'Uqud' (Covenants). Believers are strictly commanded to honor their promises—both the spiritual vows made to Allah and the practical contracts made with fellow humans. This theme is contrasted with the historical tragedy of the People of the Book, who fractured their societies and hardened their hearts by breaking their divine covenants.",
+              "Furthermore, this Juz contains the monumental declaration of Islam’s perfection (5:3). Because the religion is perfected, its laws surrounding justice, dietary purity, and the absolute sanctity of human life are finalized. The Juz demands that Muslims uphold justice universally, even when dealing with bitter enemies, solidifying fairness as the ultimate proof of piety."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Notes that the culmination of Juz 6 is the establishment of boundaries (Hudud). By defining halal and haram clearly, Allah completes His favor upon the Ummah, leaving no ambiguity in how to achieve success in both worlds."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Highlights the interconnectedness of physical and societal purity. Just as water purifies the body for prayer, the strict penal codes (like the prohibition of murder and theft) purify the community from corruption and chaos."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Concludes that the ultimate message of Juz 6 is Tawakkul (reliance on God) coupled with obedience. Taking the 'first step' through the gates of obedience, like the two brave men from the Children of Israel, guarantees God's victory."
+              }
+            ],
+            "lessons": [
+              "The Seal of Perfection: Islam is complete. It does not require modern additions or deletions; it requires deep understanding and faithful application.",
+              "Justice is Blind: True righteousness is measured by your ability to be perfectly fair to those you despise.",
+              "A Covenant of Truth: Your word is your spiritual signature. Honoring your contracts is synonymous with honoring God."
+            ]
+          },
+          "ms": {
+            "title": "Tema Utama Juz 6",
+            "theme": "Menghormati Perjanjian, Menegakkan Keadilan, dan Kesempurnaan Agama.",
+            "explanation": [
+              "Juz 6 berfungsi sebagai sauh yang kukuh bagi perundangan Islam dan moraliti sosial. Merangkumi bahagian akhir Surah An-Nisa dan permulaan Surah Al-Ma'idah, ia membawa masyarakat Islam dari fasa membina unit keluarga kepada menguruskan sebuah negara yang teguh dan merdeka.",
+              "Tunjang utama Juz ini ialah 'Uqud' (Perjanjian). Orang yang beriman diperintahkan dengan tegas untuk menghormati janji mereka—kedua-dua ikrar rohani yang dibuat kepada Allah dan kontrak praktikal yang dibuat dengan sesama manusia. Tema ini dibezakan dengan tragedi sejarah Ahli Kitab, yang memecahbelahkan masyarakat mereka dan mengeraskan hati mereka dengan memungkiri perjanjian Ilahi mereka.",
+              "Tambahan pula, Juz ini mengandungi pengisytiharan agung tentang kesempurnaan Islam (5:3). Oleh kerana agama ini telah disempurnakan, undang-undangnya yang merangkumi keadilan, kesucian makanan, dan kesucian mutlak nyawa manusia telah dimuktamadkan. Juz ini menuntut agar umat Islam menegakkan keadilan secara universal, walaupun ketika berhadapan dengan musuh yang ketat, mengukuhkan keadilan sebagai bukti muktamad ketakwaan."
+            ],
+            "scholars": [
+              {
+                "name": "Tafsir Ibn Kathir",
+                "text": "Mencatatkan bahawa kemuncak Juz 6 adalah penubuhan sempadan (Hudud). Dengan mentakrifkan halal dan haram secara jelas, Allah menyempurnakan nikmat-Nya ke atas Umat, tanpa meninggalkan sebarang keraguan tentang cara untuk mencapai kejayaan di kedua-dua dunia."
+              },
+              {
+                "name": "Tafsir Al-Jalalayn",
+                "text": "Menonjolkan perkaitan antara kesucian fizikal dan masyarakat. Sepertimana air menyucikan badan untuk solat, undang-undang jenayah yang ketat (seperti larangan membunuh dan mencuri) menyucikan masyarakat daripada rasuah dan kekacauan."
+              },
+              {
+                "name": "Tafsir As-Sa'di",
+                "text": "Menyimpulkan bahawa mesej utama Juz 6 ialah Tawakal (kebergantungan kepada Tuhan) yang digabungkan dengan ketaatan. Mengambil 'langkah pertama' melalui pintu ketaatan, seperti dua lelaki berani dari Bani Israel, menjamin kemenangan daripada Tuhan."
+              }
+            ],
+            "lessons": [
+              "Cop Mohor Kesempurnaan: Islam telah lengkap. Ia tidak memerlukan penambahan atau pengurangan moden; ia memerlukan pemahaman yang mendalam dan aplikasi yang setia.",
+              "Keadilan itu Buta: Ketakwaan sebenar diukur dengan keupayaan anda untuk berlaku adil sepenuhnya kepada mereka yang anda benci.",
+              "Perjanjian Kebenaran: Kata-kata anda adalah tandatangan rohani anda. Menghormati kontrak anda adalah sinonim dengan menghormati Tuhan."
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

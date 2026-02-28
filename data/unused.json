@@ -1,0 +1,537 @@
+{
+  "juz": 5,
+  "meta": {
+    "title": {
+      "en": "Juz 5 — The Architecture of a Just Society",
+      "ms": "Juz 5 — Seni Bina Masyarakat yang Adil"
+    },
+    "arabic_name": "الجزء الخامس",
+    "night": 5,
+    "reader": "A",
+    "quote": {
+      "en": "O believers! Uphold justice and be witnesses for Allah, even if it is against yourselves, your parents, or close relatives.",
+      "ms": "Wahai orang-orang yang beriman! Hendaklah kamu menjadi orang-orang yang sentiasa menegakkan keadilan, lagi menjadi saksi kerana Allah, sekalipun terhadap diri kamu sendiri, atau ibu bapa dan kaum kerabat kamu.",
+      "ref": "4:135"
+    }
+  },
+  "toc": [
+    {
+      "id": "section-01",
+      "en": "An-Nisa 24–43 · Marriage Laws, The Rights of Women & The Verse of Qawwamun",
+      "ms": "An-Nisa 24–43 · Hukum Perkahwinan, Hak Wanita & Ayat Qawwamun"
+    },
+    {
+      "id": "section-02",
+      "en": "An-Nisa 44–59 · The Danger of Half-Faith, The Sin of Shirk & The Chain of Obedience",
+      "ms": "An-Nisa 44–59 · Bahaya Iman Separuh, Dosa Syirik & Rantaian Ketaatan"
+    },
+    {
+      "id": "section-03",
+      "en": "An-Nisa 60–87 · Exposing the Hypocrites, Fighting for the Oppressed & Rules of Greeting",
+      "ms": "An-Nisa 60–87 · Mendedahkan Munafik, Berjuang untuk Orang Tertindas & Adab Memberi Salam"
+    },
+    {
+      "id": "section-04",
+      "en": "An-Nisa 88–112 · Categories of Hypocrites, Salat ul-Khawf & The Sin of Killing a Believer",
+      "ms": "An-Nisa 88–112 · Kategori Munafik, Solat Khauf & Dosa Membunuh Mukmin"
+    },
+    {
+      "id": "section-05",
+      "en": "An-Nisa 113–134 · Divine Favour on the Prophet, The Unforgivable Sin & The Standard of Justice",
+      "ms": "An-Nisa 113–134 · Kurniaan Ilahi ke atas Nabi, Dosa yang Tidak Diampuni & Piawaian Keadilan"
+    },
+    {
+      "id": "section-06",
+      "en": "An-Nisa 135–147 · The Highest Level of Justice, Anatomy of Hypocrisy & Why Allah Punishes",
+      "ms": "An-Nisa 135–147 · Tahap Keadilan Tertinggi, Anatomi Kemunafikan & Mengapa Allah Menghukum"
+    },
+    {
+      "id": "section-07",
+      "en": "Overarching Themes of Juz 5",
+      "ms": "Tema Utama Juz 5"
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-01",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 24,
+      "verse_end": 43,
+      "en": {
+        "title": "Marriage Laws, The Rights of Women & The Verse of Qawwamun",
+        "theme": "The sacred framework of marriage as a covenant of dignity, the financial and emotional obligations that protect women, and the contested but nuanced verse on male guardianship.",
+        "arabic": "وَالْمُحْصَنَاتُ مِنَ النِّسَاءِ إِلَّا مَا مَلَكَتْ أَيْمَانُكُمْ ۖ كِتَابَ اللَّهِ عَلَيْكُمْ ۚ وَأُحِلَّ لَكُم مَّا وَرَاءَ ذَٰلِكُمْ أَن تَبْتَغُوا بِأَمْوَالِكُم مُّحْصِنِينَ غَيْرَ مُسَافِحِينَ... الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَا أَنفَقُوا مِنْ أَمْوَالِهِمْ",
+        "translation": "Also ˹forbidden are˺ married women—except those in your possession. This is Allah's commandment to you. Lawful to you are all beyond these—as long as you seek them with your wealth in a legal marriage, not in fornication... Men are the caretakers of women, as men have been provisioned by Allah over women and tasked with supporting them financially.",
+        "explanation": [
+          "Juz 5 opens in the middle of Surah An-Nisa's legal legislation, laying down the precise boundaries of whom a Muslim man may marry. The passage confirms that already-married women are off-limits, drawing a sharp legal and moral line against adultery and exploitation. Marriage in Islam is framed not as a social convenience but as a formal covenant involving a financial commitment—the Mahr (dowry)—which must be willingly paid to the bride as her exclusive right. The verse explicitly prohibits Mut'ah (temporary marriage), which was abrogated by the Prophet ﷺ and declared forbidden until the Day of Resurrection.",
+          "The passage then reaches one of the most analysed and debated verses in the Qur'an: Verse 34, known as the Qawwamun verse. Allah states that men are 'caretakers' (Qawwamun) of women for two reasons: firstly, a divinely arranged difference in roles and strengths, and secondly—crucially—because men are financially obligated to spend on women. Classical scholars are emphatic that this guardianship is conditional on financial provision. A man who does not fulfil his financial duties forfeits his claim to this role. The verse also outlines a structured, escalating process for marital disputes: verbal counsel first, then separation of beds, and only as a last resort, a symbolic disciplinary measure—a step that the Prophet ﷺ himself deeply discouraged and almost never exercised.",
+          "Verse 36 then dramatically expands the frame of moral responsibility far beyond the household. After establishing the marital structure, Allah immediately commands kindness toward parents, relatives, orphans, the poor, near and distant neighbours, travelling companions, and those under one's employment. The passage closes with a sharp condemnation of the arrogant and miserly, reminding believers that ostentatious giving to be seen by people is as spiritually empty as giving nothing at all."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "On Verse 34, Ibn Kathir emphasizes that Qiwamah (guardianship) is intrinsically linked to financial responsibility. He cites Hadiths where the Prophet ﷺ instructed men that a wife's right includes being fed when he eats, clothed when he buys clothes for himself, and never being struck in the face or cursed. The guardianship is a duty of care, not a license for domination."
+          },
+          {
+            "name": "Tafsir Maarif ul-Quran (Mufti Shafi Usmani)",
+            "text": "Clarifies the prohibition of Mut'ah marriage comprehensively, noting that while it was temporarily permitted in early Islam during specific battle conditions, the Prophet ﷺ permanently abrogated it at the Battle of Khaybar. Any claim that it remains permissible contradicts established Sunnah and the consensus of the overwhelming majority of Islamic scholars across all centuries."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "On Verse 36, As-Sa'di notes that the command of Ihsan (excellence in treatment) toward neighbours is presented without any qualification of faith or kinship. The near neighbour, the distant neighbour, the Muslim, the non-Muslim—all have a right to kindness. He cites the Hadith that Jibreel (Gabriel) kept emphasising the right of the neighbour so persistently that the Prophet ﷺ thought the neighbour might be given inheritance rights."
+          }
+        ],
+        "lessons": [
+          "💍 Marriage is a Covenant of Dignity: A marriage without a willing Mahr, without financial provision, without respectful treatment is not fulfilling the Islamic standard. Men who claim authority without fulfilling the accompanying obligations have no basis for that claim.",
+          "⚖️ Responsibility Before Authority: The Qawwamun principle only functions when men are actually spending on and protecting women. Rights and responsibilities are inseparable in Islamic law.",
+          "🏘️ Your Community is Your Test: Islam does not allow a person to be an excellent spouse but a terrible neighbour. Moral excellence radiates outward—from spouse, to family, to orphans, to the stranger at the door."
+        ]
+      },
+      "ms": {
+        "title": "Hukum Perkahwinan, Hak Wanita & Ayat Qawwamun",
+        "theme": "Rangka kerja suci perkahwinan sebagai perjanjian maruah, kewajipan kewangan dan emosi yang melindungi wanita, dan ayat yang diperdebatkan namun bernuansa tentang perwalian lelaki.",
+        "arabic": "وَالْمُحْصَنَاتُ مِنَ النِّسَاءِ إِلَّا مَا مَلَكَتْ أَيْمَانُكُمْ ۖ كِتَابَ اللَّهِ عَلَيْكُمْ ۚ وَأُحِلَّ لَكُم مَّا وَرَاءَ ذَٰلِكُمْ أَن تَبْتَغُوا بِأَمْوَالِكُم مُّحْصِنِينَ غَيْرَ مُسَافِحِينَ... الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَا أَنفَقُوا مِنْ أَمْوَالِهِمْ",
+        "translation": "Dan (haram juga kamu berkahwin dengan) perempuan-perempuan yang bersuami, kecuali hamba sahaya yang kamu miliki. (Haramnya segala yang tersebut itu) ialah hukum Allah yang diwajibkan atas kamu. Dan dihalalkan bagi kamu perempuan-perempuan yang lain daripada yang tersebut itu, untuk kamu mencari (isteri) dengan harta kamu secara berkahwin, bukan secara berzina... Kaum lelaki itu adalah pemimpin dan pengawal yang bertanggungjawab terhadap kaum perempuan, oleh kerana Allah telah melebihkan orang lelaki atas orang perempuan, dan juga kerana orang lelaki telah membelanjakan sebahagian daripada harta mereka.",
+        "explanation": [
+          "Juz 5 bermula di tengah-tengah perundangan hukum Surah An-Nisa, menetapkan sempadan tepat mengenai siapa yang boleh dikahwini oleh seorang lelaki Muslim. Petikan ini mengesahkan bahawa wanita yang sudah berkahwin adalah haram, menarik garisan undang-undang dan moral yang jelas terhadap zina dan eksploitasi. Perkahwinan dalam Islam dirangkakan bukan sebagai kemudahan sosial tetapi sebagai perjanjian rasmi yang melibatkan komitmen kewangan—Mahr (mas kahwin)—yang mesti dibayar dengan rela hati kepada pengantin perempuan sebagai hak eksklusifnya. Ayat ini secara jelas melarang Mut'ah (perkahwinan sementara), yang telah dimansuhkan oleh Nabi ﷺ dan diisytiharkan haram sehingga Hari Kiamat.",
+          "Petikan ini kemudian sampai kepada salah satu ayat yang paling banyak dikaji dan diperdebatkan dalam al-Quran: Ayat 34, yang dikenali sebagai ayat Qawwamun. Allah menyatakan bahawa lelaki adalah 'pengurus' (Qawwamun) bagi wanita atas dua sebab: pertama, perbezaan peranan dan kekuatan yang diatur oleh Tuhan, dan kedua—yang paling penting—kerana lelaki diwajibkan menanggung perbelanjaan wanita secara kewangan. Para ulama klasik menegaskan bahawa perwalian ini bersyarat dengan nafkah kewangan. Seorang lelaki yang tidak memenuhi kewajipan kewangannya melepaskan haknya ke atas peranan ini. Ayat ini juga menggariskan proses berstruktur dan berperingkat untuk pertikaian perkahwinan: nasihat lisan terlebih dahulu, kemudian pemisahan tempat tidur, dan hanya sebagai pilihan terakhir, tindakan disiplin simbolik—satu langkah yang Nabi ﷺ sendiri sangat tidak menggalakkannya.",
+          "Ayat 36 kemudian secara dramatik meluaskan skop tanggungjawab moral jauh di luar rumah tangga. Selepas menetapkan struktur perkahwinan, Allah segera memerintahkan kebaikan terhadap ibu bapa, saudara-mara, anak yatim, orang miskin, jiran dekat dan jauh, rakan seperjalanan, dan pekerja di bawah tanggungan seseorang. Petikan ini ditutup dengan kecaman tajam terhadap orang yang sombong dan kedekut, mengingatkan orang beriman bahawa pemberian yang berpura-pura untuk dilihat orang adalah sama kosongnya secara rohani seperti tidak memberi langsung."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Mengenai Ayat 34, Ibn Kathir menekankan bahawa Qiwamah (perwalian) berkait rapat dengan tanggungjawab kewangan. Beliau memetik Hadis di mana Nabi ﷺ menginstruksikan lelaki bahawa hak isteri termasuk diberi makan apabila suami makan, diberi pakaian apabila suami membeli pakaian untuk dirinya, dan tidak sekali-kali dipukul di muka atau dihina. Perwalian adalah kewajipan penjagaan, bukan lesen untuk mendominasi."
+          },
+          {
+            "name": "Tafsir Maarif ul-Quran (Mufti Shafi Usmani)",
+            "text": "Menjelaskan secara menyeluruh larangan perkahwinan Mut'ah, mencatatkan bahawa walaupun ia dibenarkan sementara dalam Islam awal semasa keadaan peperangan tertentu, Nabi ﷺ telah memansuhkannya secara kekal dalam Perang Khaybar. Sebarang dakwaan bahawa ia masih dibenarkan adalah bercanggah dengan Sunnah yang mantap dan ijmak majoriti besar ulama Islam sepanjang zaman."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Mengenai Ayat 36, As-Sa'di mencatatkan bahawa perintah Ihsan (kecemerlangan dalam layanan) terhadap jiran dinyatakan tanpa sebarang syarat mengenai iman atau hubungan kekeluargaan. Jiran yang dekat, jiran yang jauh, Muslim, bukan Muslim—semua mempunyai hak untuk mendapat kebaikan. Beliau memetik Hadis bahawa Jibreel (Jibril) terus menekankan hak jiran dengan begitu gigih sehingga Nabi ﷺ menyangka jiran mungkin akan diberikan hak pusaka."
+          }
+        ],
+        "lessons": [
+          "💍 Perkahwinan adalah Perjanjian Maruah: Perkahwinan tanpa Mahr yang diberi dengan rela hati, tanpa nafkah kewangan, tanpa layanan hormat tidak memenuhi standard Islam. Lelaki yang mendakwa autoriti tanpa memenuhi kewajipan yang mengiringinya tidak mempunyai asas untuk dakwaan itu.",
+          "⚖️ Tanggungjawab Sebelum Autoriti: Prinsip Qawwamun hanya berfungsi apabila lelaki benar-benar membelanjakan dan melindungi wanita. Hak dan tanggungjawab tidak boleh dipisahkan dalam undang-undang Islam.",
+          "🏘️ Komuniti Anda adalah Ujian Anda: Islam tidak membenarkan seseorang menjadi pasangan yang cemerlang tetapi jiran yang teruk. Kecemerlangan moral memancar ke luar—daripada pasangan, kepada keluarga, kepada anak yatim, kepada orang asing di depan pintu."
+        ]
+      }
+    },
+    {
+      "id": "section-02",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 44,
+      "verse_end": 59,
+      "en": {
+        "title": "The Danger of Half-Faith, The Sin of Shirk & The Chain of Obedience",
+        "theme": "How selective belief corrupts a community from within, the singular unforgivable sin of Shirk explained in its many forms, and the structured hierarchy of obedience that governs Muslim life.",
+        "arabic": "أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ يَشْتَرُونَ الضَّلَالَةَ وَيُرِيدُونَ أَن تَضِلُّوا السَّبِيلَ... إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَاءُ... يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ",
+        "translation": "Have you not seen those who were given a portion of the Scripture? They purchase error and wish that you would go astray from the way... Indeed, Allah does not forgive association with Him, but He forgives what is less than that for whom He wills... O believers! Obey Allah and obey the Messenger and those in authority among you.",
+        "explanation": [
+          "This passage opens with a sobering portrait of religious decline drawn from the People of the Book. Allah describes scholars and leaders who were given knowledge of the Scripture yet chose to 'purchase error'—trading divine truth for worldly benefit. They envied the Prophet ﷺ and the blessing of prophethood being granted outside their community, and rather than accept the truth, actively worked to lead others astray. The passage warns Muslims that possessing religious knowledge without sincerely submitting to it is its own form of spiritual catastrophe.",
+          "At the theological heart of this section stands one of the most weighty declarations in the entire Qur'an: Verse 48. Allah announces that He will not forgive Shirk—the act of associating partners with Him—if a person dies without repenting from it. Every other sin, no matter how grave, falls within the range of His mercy. Classical scholars categorise Shirk broadly: it includes not only idol worship but also ascribing to any created being the exclusive attributes of Allah—His complete knowledge of the unseen, His power to provide or withhold, or directing worship and intercession toward other than Him.",
+          "The section concludes with Verse 58–59, which the scholars of Ahl as-Sunnah consider the foundational constitution of Islamic governance. Allah first commands those in authority to deliver trusts to their rightful owners and judge with justice. He then commands the believers to establish a structured chain of obedience: first to Allah (the Qur'an), then to the Messenger ﷺ (the Sunnah), then to those in authority—but always within the limits of what Allah has permitted. The Prophet ﷺ made explicitly clear that 'obedience is only in righteousness': no authority can command a Muslim to disobey Allah."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "On Verse 48, Ibn Kathir draws from an authentic Hadith of Abdullah ibn Mas'ud, who said there are five verses in Surah An-Nisa he would prefer over the entire world. Verse 48 is among them. He emphasises that the verse is an absolute, unconditional declaration: dying in a state of Shirk leaves one completely outside the reach of divine pardon, not due to any harshness, but because Shirk is the ultimate rejection of the very source of all mercy."
+          },
+          {
+            "name": "Tafsir Maarif ul-Quran (Mufti Shafi Usmani)",
+            "text": "On Verse 59, Mufti Shafi explains that the term Uli'l-Amr (those in authority) encompasses both religious scholars and political leaders, both being required for a functioning Muslim community. Obedience to them is, in reality, a form of obedience to Allah—but only when their commands do not contradict the Qur'an and Sunnah. He draws a parallel with the warning in this same passage about the People of the Book who followed their scholars into deviation without accountability."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "On the envy of the People of the Book (Verse 54), As-Sa'di notes that their resentment stemmed from believing they had a monopoly on divine favour. He observes that Hasad (envy) is the disease of those who see Allah's bounty as a finite resource that, when given to others, diminishes their own share. This is a profound theological error—Allah's bounty does not decrease by being extended."
+          }
+        ],
+        "lessons": [
+          "📖 Knowledge Without Submission is Dangerous: Having religious learning is not a guarantee of guidance. The scholars of the People of the Book had scripture yet used it to mislead. Knowledge that does not produce humility and obedience to truth becomes a tool of destruction.",
+          "🚫 The One Line You Cannot Cross: Every sin has the possibility of forgiveness through sincere repentance—except dying in a state of Shirk. Understanding what Shirk truly means, including its subtle forms, is not academic knowledge but a matter of eternal survival.",
+          "⛓️ Obedience Has a Hierarchy: A Muslim's loyalty belongs first to Allah, then to the Prophet ﷺ, then to legitimate authority. Any command from any source that conflicts with the first two is automatically void—even if it comes from a king, a scholar, or a parent."
+        ]
+      },
+      "ms": {
+        "title": "Bahaya Iman Separuh, Dosa Syirik & Rantaian Ketaatan",
+        "theme": "Bagaimana kepercayaan yang selektif merosakkan sesebuah komuniti dari dalam, dosa tunggal yang tidak dapat diampuni iaitu Syirik diterangkan dalam pelbagai bentuknya, dan hierarki ketaatan berstruktur yang mengawal kehidupan Muslim.",
+        "arabic": "أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ يَشْتَرُونَ الضَّلَالَةَ وَيُرِيدُونَ أَن تَضِلُّوا السَّبِيلَ... إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَاءُ... يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ",
+        "translation": "Tidakkah engkau memperhatikan orang-orang yang telah diberikan sebahagian dari Kitab (Taurat)? Mereka membeli kesesatan dan mereka ingin supaya kamu sesat dari jalan (yang benar)... Sesungguhnya Allah tidak akan mengampunkan dosa syirik mempersekutukan-Nya, dan akan mengampunkan dosa yang lain dari itu bagi sesiapa yang dikehendaki-Nya... Wahai orang-orang yang beriman! Taatlah kamu kepada Allah dan taatlah kamu kepada Rasulullah dan kepada Ulil-Amri (orang-orang yang berkuasa) dari kalangan kamu.",
+        "explanation": [
+          "Petikan ini bermula dengan gambaran yang menyedihkan tentang kemerosotan agama yang diambil daripada kalangan Ahli Kitab. Allah menggambarkan para ulama dan pemimpin yang telah diberi pengetahuan tentang Kitab Suci namun memilih untuk 'membeli kesesatan'—menukar kebenaran ilahi demi kepentingan duniawi. Mereka berhasad terhadap Nabi ﷺ dan kurniaan kenabian yang diberikan di luar komuniti mereka, dan bukannya menerima kebenaran, mereka secara aktif berusaha menyesatkan orang lain. Petikan ini memberi amaran kepada umat Islam bahawa memiliki ilmu agama tanpa berserah dengan tulus kepadanya adalah satu bentuk bencana rohani tersendiri.",
+          "Di jantung teologi bahagian ini terletak salah satu pernyataan paling berat dalam keseluruhan al-Quran: Ayat 48. Allah mengumumkan bahawa Dia tidak akan mengampunkan Syirik—perbuatan mempersekutukan-Nya dengan sesuatu yang lain—jika seseorang meninggal dunia tanpa bertaubat daripadanya. Setiap dosa lain, walau seberapa berat pun, masih berada dalam lingkungan rahmat-Nya. Para ulama klasik mengkategorikan Syirik secara luas: ia bukan sahaja merangkumi penyembahan berhala tetapi juga menyifatkan kepada mana-mana makhluk ciptaan dengan sifat-sifat eksklusif Allah—ilmu-Nya yang sempurna tentang perkara ghaib, kuasa-Nya untuk memberi atau menahan, atau mengarahkan ibadah dan syafaat kepada selain-Nya.",
+          "Bahagian ini berakhir dengan Ayat 58–59, yang dianggap oleh ulama Ahli Sunnah sebagai perlembagaan asas pemerintahan Islam. Allah pertama-tama memerintahkan mereka yang berkuasa untuk menyerahkan amanah kepada pemiliknya yang berhak dan menghukum dengan adil. Kemudian Dia memerintahkan orang beriman untuk menegakkan rantaian ketaatan yang berstruktur: pertama kepada Allah (al-Quran), kemudian kepada Rasul ﷺ (Sunnah), kemudian kepada mereka yang berkuasa—tetapi sentiasa dalam batas-batas apa yang Allah halalkan. Nabi ﷺ menjelaskan dengan tegas bahawa 'ketaatan hanya dalam perkara yang baik': tiada mana-mana pihak berkuasa yang boleh memerintahkan seorang Muslim untuk menderhaka kepada Allah."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Mengenai Ayat 48, Ibn Kathir merujuk kepada Hadis sahih Abdullah ibn Mas'ud, yang berkata terdapat lima ayat dalam Surah An-Nisa yang lebih diutamakannya berbanding seluruh dunia. Ayat 48 adalah antara mereka. Beliau menekankan bahawa ayat ini adalah pernyataan yang mutlak dan tidak bersyarat: mati dalam keadaan Syirik menjadikan seseorang sepenuhnya di luar jangkauan keampunan ilahi, bukan kerana sebarang ketegasan, tetapi kerana Syirik adalah penolakan muktamad terhadap sumber segala rahmat itu sendiri."
+          },
+          {
+            "name": "Tafsir Maarif ul-Quran (Mufti Shafi Usmani)",
+            "text": "Mengenai Ayat 59, Mufti Shafi menjelaskan bahawa istilah Uli'l-Amr (mereka yang berkuasa) merangkumi kedua-dua ulama agama dan pemimpin politik, kedua-duanya diperlukan untuk sebuah komuniti Muslim yang berfungsi. Ketaatan kepada mereka adalah, pada hakikatnya, satu bentuk ketaatan kepada Allah—tetapi hanya apabila perintah mereka tidak bercanggah dengan al-Quran dan Sunnah. Beliau menarik persamaan dengan amaran dalam petikan yang sama mengenai Ahli Kitab yang mengikuti ulama mereka ke dalam kesesatan tanpa sebarang persoalan."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Mengenai hasad Ahli Kitab (Ayat 54), As-Sa'di mencatatkan bahawa rasa benci mereka berpunca daripada kepercayaan bahawa mereka mempunyai monopoli ke atas kurniaan ilahi. Beliau memerhati bahawa Hasad (dengki) adalah penyakit mereka yang melihat kurniaan Allah sebagai sumber yang terhad—apabila diberikan kepada orang lain, ia mengurangkan bahagian mereka sendiri. Ini adalah kesilapan teologi yang mendalam—kurniaan Allah tidak berkurangan apabila dikembangkan."
+          }
+        ],
+        "lessons": [
+          "📖 Ilmu Tanpa Penyerahan Diri adalah Berbahaya: Mempunyai ilmu agama bukanlah jaminan hidayah. Para ulama Ahli Kitab mempunyai kitab suci namun menggunakannya untuk menyesatkan orang. Ilmu yang tidak menghasilkan kerendahan hati dan ketaatan kepada kebenaran menjadi alat kemusnahan.",
+          "🚫 Satu Garisan yang Tidak Boleh Dilintasi: Setiap dosa ada kemungkinan diampuni melalui taubat yang ikhlas—kecuali mati dalam keadaan Syirik. Memahami apa yang Syirik sebenarnya bermaksud, termasuk bentuk-bentuknya yang halus, bukan sahaja pengetahuan akademik tetapi satu perkara yang menentukan nasib abadi.",
+          "⛓️ Ketaatan Mempunyai Hierarki: Kesetiaan seorang Muslim adalah pertama-tama kepada Allah, kemudian kepada Nabi ﷺ, kemudian kepada pihak berkuasa yang sah. Sebarang perintah dari mana-mana sumber yang bercanggah dengan dua yang pertama adalah terbatal secara automatik—walaupun ia datang daripada seorang raja, ulama, atau ibu bapa."
+        ]
+      }
+    },
+    {
+      "id": "section-03",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 60,
+      "verse_end": 87,
+      "en": {
+        "title": "Exposing the Hypocrites, Fighting for the Oppressed & Rules of Greeting",
+        "theme": "The defining characteristic of hypocrisy—bypassing divine judgment for personal convenience—the Islamic obligation to defend the vulnerable, and the powerful ethics of the Islamic greeting.",
+        "arabic": "أَلَمْ تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا أُنزِلَ إِلَيْكَ... وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ... وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ رُدُّوهَا",
+        "translation": "Have you not seen those who claim to believe in what was revealed to you and what was revealed before you? They wish to refer their disputes to false judges... And what is wrong with you that you do not fight in the cause of Allah and for the oppressed among men, women, and children... And when you are greeted, respond with a better greeting or at least return it.",
+        "explanation": [
+          "The passage opens with one of the starkest exposés of hypocrisy in the Qur'an. A real incident serves as the backdrop: a man named Bishr, who claimed to be Muslim, refused to accept the Prophet's ﷺ judgment in a dispute and tried to take it to a Jewish tribal leader instead—because he knew the Prophet's ruling would go against him. Allah exposes the core logic of hypocrisy through this story: a hypocrite accepts divine authority only when it suits them. They say 'We believe,' but when faith demands something costly—accepting a verdict that goes against them, following a command that is inconvenient—they turn away with contempt. The Taghut they seek judgment from is not always a literal idol; it is any system, culture, or opinion placed above the authority of Allah.",
+          "Verse 75 is one of the most morally galvanising verses in the Qur'an. Allah directly challenges the believers: 'What is wrong with you that you do not fight in the cause of Allah and for the oppressed?' He then gives voice to the oppressed themselves—men, women, and children in Makkah crying out, 'Our Lord! Rescue us from this town of oppressors!' Ibn Abbas himself testified that he and his mother were among those crying out in Makkah. This verse establishes a fundamental Islamic principle: a community of faith has a collective moral obligation to the vulnerable. Indifference to oppression—when you have the means to act—is itself a form of failing your faith.",
+          "The section closes with an instruction that might seem minor but carries profound social and spiritual significance: Verse 86 commands Muslims to return a greeting with an equal or better one. In the Islamic tradition, As-Salamu Alaykum (Peace be upon you) is not a casual salutation—it is a declaration of safety and a prayer for the other person. To return it with less, or to ignore it, is to break the bond of brotherhood. The Qur'an elevates this social act into a command from Allah Himself, weaving it into the fabric of a just, caring community."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "On the story of Bishr (verses 60–63), Ibn Kathir recounts the remarkable narrative of Umar ibn al-Khattab, who, upon hearing that Bishr had rejected the Prophet's ﷺ ruling and tried to bypass it, drew his sword and killed Bishr on the spot. When Bishr's relatives filed a complaint accusing Umar of killing a Muslim without authority, Allah revealed Verse 65: 'By your Lord, they are not believers until they make you judge in all disputes between them and find no resistance in their souls to your verdicts.' Allah's response vindicated Umar completely."
+          },
+          {
+            "name": "Tafsir Maarif ul-Quran (Mufti Shafi Usmani)",
+            "text": "On Verse 75 (fighting for the oppressed), Mufti Shafi clarifies that the verse does not mandate perpetual warfare but establishes the moral seriousness of indifference to oppression. He notes that in Islamic jurisprudence, defending the vulnerable is classified as Fard Kifayah—a communal obligation that the entire community bears guilt for if left unfulfilled when the means to act exist."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "On Verse 86 (returning greetings), As-Sa'di reflects that the command covers all types of greetings and establishes that excellence in social conduct is a religious obligation. He notes the Hadith that initiating the Salam is voluntary, but returning it is obligatory (Wajib). Improving upon the returned greeting—adding 'wa Rahmatullahi wa Barakatuh'—is a recommended act of generosity that Allah rewards. Even in this smallest of gestures, the Qur'an builds the architecture of a compassionate society."
+          }
+        ],
+        "lessons": [
+          "🎭 The Mirror Test of Hypocrisy: True faith is revealed not in comfortable moments but in the moments when following Allah costs you something. Do you accept divine judgment even when it rules against your interests? That is the litmus test that divides genuine belief from mere performance.",
+          "✊ Indifference to Oppression is Not Neutrality: Allah asks with a tone of moral urgency—'What is wrong with you?' A believer who has the capacity to help the oppressed and does nothing has failed a test of faith, not merely a test of courage.",
+          "🤝 Peace Begins with a Word: The Salam is not a pleasantry—it is a declaration of safety and a prayer for another person's wellbeing. Islam turned a greeting into an act of worship, reminding believers that how you treat people in daily life is inseparable from how you worship Allah."
+        ]
+      },
+      "ms": {
+        "title": "Mendedahkan Munafik, Berjuang untuk Orang Tertindas & Adab Memberi Salam",
+        "theme": "Ciri penentu kemunafikan—memintas penghakiman ilahi demi kemudahan peribadi—kewajipan Islam untuk mempertahankan golongan yang lemah, dan etika berkuasa daripada ucapan salam Islam.",
+        "arabic": "أَلَمْ تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا أُنزِلَ إِلَيْكَ... وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ... وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ رُدُّوهَا",
+        "translation": "Tidakkah engkau memperhatikan orang-orang yang mendakwa bahawa mereka telah beriman kepada apa yang diturunkan kepadamu dan apa yang diturunkan sebelummu? Mereka hendak merujuk pertikaian mereka kepada hakim-hakim yang sesat... Dan mengapa kamu tidak mahu berperang pada jalan Allah dan untuk orang-orang yang lemah (tertindas) iaitu lelaki, perempuan dan kanak-kanak... Dan apabila kamu diberi penghormatan dengan sesuatu ucapan salam, maka balaslah dengan yang lebih baik daripadanya, atau balaskan (dengan cara yang sama).",
+        "explanation": [
+          "Petikan ini bermula dengan salah satu pendedahan kemunafikan yang paling jelas dalam al-Quran. Satu kejadian sebenar menjadi latar belakangnya: seorang lelaki bernama Bishr, yang mendakwa dirinya sebagai Muslim, enggan menerima penghakiman Nabi ﷺ dalam satu pertikaian dan cuba membawanya kepada seorang ketua puak Yahudi—kerana dia tahu keputusan Nabi akan bertentangan dengannya. Allah mendedahkan logik teras kemunafikan melalui kisah ini: seorang munafik hanya menerima autoriti ilahi apabila ia sesuai dengan kepentingannya. Mereka berkata 'Kami beriman,' tetapi apabila iman menuntut sesuatu yang berat—menerima keputusan yang bertentangan dengan mereka, mengikuti perintah yang tidak selesa—mereka berpaling dengan penuh penghinaan. Taghut yang mereka cari penghakimannya bukan semestinya berhala literal; ia adalah mana-mana sistem, budaya, atau pendapat yang diletakkan di atas autoriti Allah.",
+          "Ayat 75 adalah salah satu ayat yang paling mencetusan semangat moral dalam al-Quran. Allah secara langsung mencabar orang beriman: 'Mengapa kamu tidak mahu berperang pada jalan Allah dan untuk golongan yang tertindas?' Kemudian Dia menyuarakan rintihan orang-orang tertindas itu sendiri—lelaki, wanita, dan kanak-kanak di Makkah yang berseru, 'Ya Tuhan kami! Selamatkanlah kami dari kota yang zalim ini!' Ibn Abbas sendiri mengaku bahawa dia dan ibunya termasuk dalam kalangan yang berseru di Makkah. Ayat ini menegakkan prinsip Islam yang asas: sebuah komuniti beriman mempunyai kewajipan moral kolektif terhadap golongan yang lemah. Bersikap acuh tak acuh terhadap penindasan—apabila anda mempunyai kemampuan untuk bertindak—adalah sendirinya satu bentuk kegagalan dalam iman anda.",
+          "Bahagian ini berakhir dengan arahan yang mungkin kelihatan kecil tetapi membawa signifikan sosial dan rohani yang mendalam: Ayat 86 memerintahkan umat Islam untuk membalas salam dengan salam yang setara atau lebih baik. Dalam tradisi Islam, As-Salamu Alaykum (Semoga keselamatan ke atas kamu) bukan sekadar ucapan biasa—ia adalah pengisytiharan keselamatan dan doa untuk orang lain. Membalasnya dengan kurang, atau mengabaikannya, adalah memutuskan ikatan persaudaraan. Al-Quran meninggikan perbuatan sosial ini menjadi satu perintah daripada Allah sendiri, menganyamnya ke dalam fabrik sebuah komuniti yang adil dan penuh belas kasih."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Mengenai kisah Bishr (ayat 60–63), Ibn Kathir menceritakan naratif luar biasa tentang Umar ibn al-Khattab, yang, setelah mendengar bahawa Bishr telah menolak keputusan Nabi ﷺ dan cuba memintas keputusan itu, menghunuskan pedangnya dan membunuh Bishr di tempat. Apabila saudara-mara Bishr mengadu menuduh Umar membunuh seorang Muslim tanpa hak, Allah menurunkan Ayat 65: 'Demi Tuhanmu, mereka tidak beriman selagi mereka tidak menjadikanmu hakim dalam semua pertikaian di antara mereka dan tidak merasai sebarang keberatan dalam jiwa mereka terhadap keputusanmu.' Respons Allah membenarkan Umar sepenuhnya."
+          },
+          {
+            "name": "Tafsir Maarif ul-Quran (Mufti Shafi Usmani)",
+            "text": "Mengenai Ayat 75 (berjuang untuk golongan tertindas), Mufti Shafi menjelaskan bahawa ayat tersebut tidak mewajibkan peperangan yang berterusan tetapi menegakkan keseriusan moral ketidakpedulian terhadap penindasan. Beliau mencatatkan bahawa dalam fiqah Islam, mempertahankan golongan yang lemah diklasifikasikan sebagai Fard Kifayah—kewajipan komunal yang seluruh komuniti menanggung dosanya jika tidak dipenuhi apabila kemampuan untuk bertindak ada."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Mengenai Ayat 86 (membalas salam), As-Sa'di merenungkan bahawa perintah itu meliputi semua jenis ucapan salam dan menegakkan bahawa kecemerlangan dalam tingkah laku sosial adalah kewajipan agama. Beliau mencatatkan Hadis bahawa memulakan Salam adalah sunat, tetapi membalasnya adalah wajib. Memperbaiki salam balasan—menambah 'wa Rahmatullahi wa Barakatuh'—adalah amalan yang disyorkan tentang kemurahan hati yang Allah berikan ganjaran. Walaupun dalam gerak isyarat yang paling kecil ini, al-Quran membangun seni bina sebuah masyarakat yang penuh belas kasihan."
+          }
+        ],
+        "lessons": [
+          "🎭 Ujian Cermin Kemunafikan: Keimanan sejati terdedah bukan pada saat-saat yang selesa tetapi pada saat-saat apabila mengikuti Allah mengenakan kos kepada anda. Adakah anda menerima penghakiman ilahi walaupun ia menghukum terhadap kepentingan anda? Itulah ujian lakmus yang membezakan kepercayaan tulen daripada sekadar persembahan.",
+          "✊ Acuh Tak Acuh terhadap Penindasan Bukan Berkecuali: Allah bertanya dengan nada keperluan moral yang mendesak—'Mengapa kamu?' Seorang mukmin yang mempunyai keupayaan untuk membantu golongan yang tertindas dan tidak berbuat apa-apa telah gagal dalam ujian iman, bukan sekadar ujian keberanian.",
+          "🤝 Keamanan Bermula dengan Satu Kata: Salam bukan sekadar ucapan ramah mesra—ia adalah pengisytiharan keselamatan dan doa untuk kesejahteraan orang lain. Islam mengubah ucapan salam menjadi satu amalan ibadat, mengingatkan orang beriman bahawa cara anda melayan orang dalam kehidupan seharian tidak dapat dipisahkan daripada cara anda menyembah Allah."
+        ]
+      }
+    },
+    {
+      "id": "section-04",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 88,
+      "verse_end": 112,
+      "en": {
+        "title": "Categories of Hypocrites, Salat ul-Khawf & The Grave Sin of Killing a Believer",
+        "theme": "The careful, legally precise treatment of those on the fringes of faith, the remarkable flexibility of Islamic prayer in times of war, and the devastating moral and spiritual weight of taking a believer's life.",
+        "arabic": "فَمَا لَكُمْ فِي الْمُنَافِقِينَ فِئَتَيْنِ وَاللَّهُ أَرْكَسَهُم بِمَا كَسَبُوا... وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا مِنَ الصَّلَاةِ... وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ خَالِدًا فِيهَا",
+        "translation": "What is the matter with you that you are divided into two groups regarding the hypocrites, while Allah has reversed them for what they earned... When you travel through the land, there is no blame on you for shortening your prayers if you fear the disbelievers may harm you... And whoever kills a believer intentionally, their reward will be Hell, staying there forever.",
+        "explanation": [
+          "This passage addresses a sensitive and legally intricate question that divided the early Muslim community: how to deal with people who claimed Islam yet remained behind in Makkah supporting the idol-worshippers. The Companions were split—one group wanted to treat them as enemies deserving of death; another hesitated to take action against those who had verbally declared faith. Allah's response provides a carefully differentiated framework, not a single blanket ruling. Those who actively fight against the Muslims are to be treated as enemies. Those who maintain a genuine treaty of neutrality must be respected. Those who approach with no will to fight either side are to be left in peace. This precision—dealing with each category according to its actual conduct, not its label—is a model of Islamic jurisprudence.",
+          "Verses 101–103 reveal one of the most humanising aspects of Islamic law: Salat ul-Khawf, the Prayer of Fear. Even in the most extreme conditions—amid active battle, surrounded by enemies—the obligation of prayer is not suspended. Instead, Allah adjusts how the prayer is performed to fit the reality. Groups take turns standing guard while others pray; the obligation holds but the form adapts. This ruling embeds a profound message: connection to Allah is non-negotiable, but Allah is not a harsh taskmaster. He accommodates the full reality of human circumstances without ever abandoning the covenant of prayer.",
+          "The section then delivers one of the most solemn warnings in the entire Qur'an: Verse 93. Whoever intentionally kills a believing Muslim faces a punishment of Hellfire as their recompense, with Allah's wrath and curse upon them, and a severe chastisement prepared for them. Verse 94 adds a crucial procedural rule directly connected to this: if someone gives you the greeting of peace (Salam) and you claim they are not really a Muslim just to justify killing them—this is a catastrophic injustice. You are not allowed to judge the interior of another person's heart."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "On Verse 93 (killing a believer), Ibn Kathir presents this as one of the gravest warnings in the Qur'an. He cites the famous incident of Usama ibn Zayd, who killed a man in battle even after the man had declared the Shahada. The Prophet ﷺ was deeply distressed and asked Usama repeatedly, 'Did you kill him after he said La ilaha illAllah?' Usama explained that the man only said it out of fear of the sword. The Prophet replied, 'Did you open his heart?' This incident directly informed the ruling in Verse 94."
+          },
+          {
+            "name": "Tafsir Maarif ul-Quran (Mufti Shafi Usmani)",
+            "text": "On Salat ul-Khawf (verses 101–103), Mufti Shafi documents that this ruling established a precedent: Islamic prayer has multiple valid forms depending on circumstances. The scholars derived from this principle that prayer may never be abandoned—even the severely ill may pray lying down, even a prisoner may pray with gestures. The form is flexible; the obligation is absolute. This verse is the theological foundation for all the relaxations of prayer that Islamic jurisprudence has developed."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "On the categories of hypocrites (verses 88–91), As-Sa'di praises the Qur'an's legal precision. Rather than prescribing a single ruling for all ambiguous cases, Allah identifies three distinct categories of people and gives a corresponding ruling for each. As-Sa'di draws a lesson for all of Islamic jurisprudence: different circumstances produce different rulings. Treating all situations as identical when they are in fact different is a form of injustice, whether in courts of law or in everyday human dealings."
+          }
+        ],
+        "lessons": [
+          "⚖️ Context Before Verdict: Islam does not apply blanket rulings to complex situations. Allah Himself gave three separate rulings for three categories of hypocrites based on their actual conduct. Before judging any individual or group, understand their real circumstances first.",
+          "🙏 Prayer is Non-Negotiable, But Allah is Merciful: Even amid active warfare, the prayer must be performed—but Allah adjusts the form to fit the reality. This teaches that our obligations to Allah are firm, but He is not indifferent to what we are actually facing.",
+          "🚨 You Cannot Judge a Heart: The most dangerous moment described in this passage is when a Muslim claims another person's declaration of faith is insincere just to justify harming them. Only Allah knows what is in a heart. Acting on that assumption—and acting on it violently—carries consequences beyond imagination."
+        ]
+      },
+      "ms": {
+        "title": "Kategori Munafik, Solat Khauf & Dosa Besar Membunuh Orang Beriman",
+        "theme": "Pendekatan yang teliti dan tepat dari segi undang-undang terhadap mereka yang berada di pinggiran keimanan, fleksibiliti luar biasa solat Islam pada masa perang, dan beban moral serta rohani yang dahsyat daripada mencabut nyawa seorang mukmin.",
+        "arabic": "فَمَا لَكُمْ فِي الْمُنَافِقِينَ فِئَتَيْنِ وَاللَّهُ أَرْكَسَهُم بِمَا كَسَبُوا... وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا مِنَ الصَّلَاةِ... وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ خَالِدًا فِيهَا",
+        "translation": "Mengapa kamu (terpecah) menjadi dua golongan mengenai orang-orang munafik itu, sedangkan Allah telah mengembalikan mereka (kepada kekufuran) disebabkan apa yang mereka telah usahakan... Dan apabila kamu musafir di muka bumi, maka kamu tidaklah berdosa jika kamu memendekkan (qasar) sembahyang, jika kamu takut orang-orang kafir akan menyerang kamu... Dan sesiapa yang membunuh seorang mukmin dengan sengaja, maka balasannya ialah neraka Jahanam, kekal di dalamnya.",
+        "explanation": [
+          "Petikan ini menangani soalan yang sensitif dan rumit dari segi undang-undang yang membelah komuniti Muslim awal: bagaimana menangani orang yang mendakwa Islam namun tinggal di Makkah menyokong penyembah berhala. Para Sahabat terpecah—satu kumpulan ingin melayan mereka sebagai musuh yang layak dibunuh; yang lain berteragak-teragak untuk mengambil tindakan terhadap mereka yang telah mengisytiharkan iman secara lisan. Respons Allah memberikan rangka kerja yang dibezakan dengan teliti, bukan satu keputusan umum. Mereka yang secara aktif berperang menentang umat Islam hendaklah dilayan sebagai musuh. Mereka yang mengekalkan perjanjian berkecuali yang tulen mesti dihormati. Mereka yang menghampiri tanpa keinginan untuk memerangi mana-mana pihak hendaklah dibiarkan dalam keamanan. Ketepatan ini—berurusan dengan setiap kategori mengikut tingkah laku sebenarnya, bukan labelnya—adalah model fiqah Islam.",
+          "Ayat 101–103 mendedahkan salah satu aspek undang-undang Islam yang paling memanusiakan: Solat Khauf, Solat Ketakutan. Walaupun dalam keadaan paling melampau—di tengah pertempuran yang aktif, dikelilingi musuh—kewajipan solat tidak digantung. Sebaliknya, Allah menyesuaikan cara solat dilakukan untuk sesuai dengan realiti. Kumpulan bergilir-gilir berjaga sementara yang lain solat; kewajipan tetap ada tetapi bentuknya disesuaikan. Peraturan ini mengandungi mesej yang mendalam: hubungan dengan Allah tidak boleh dirunding, tetapi Allah bukanlah tuanpunya yang keras. Dia mengambil kira realiti penuh keadaan manusia tanpa pernah meninggalkan perjanjian solat.",
+          "Bahagian ini kemudian menyampaikan salah satu amaran paling khidmat dalam keseluruhan al-Quran: Ayat 93. Sesiapa yang dengan sengaja membunuh seorang Muslim yang beriman menghadapi hukuman api neraka sebagai balasannya, dengan kemurkaan dan laknat Allah ke atasnya, dan azab yang keras disediakan untuknya. Ayat 94 menambah peraturan prosedur penting yang berkaitan langsung dengan ini: jika seseorang memberi anda salam perdamaian dan anda mendakwa dia bukan benar-benar Muslim hanya untuk membenarkan pembunuhan—ini adalah kezaliman yang dahsyat. Anda tidak dibenarkan untuk menilai dalaman hati orang lain."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Mengenai Ayat 93 (membunuh orang beriman), Ibn Kathir mempersembahkan ini sebagai salah satu amaran paling berat dalam al-Quran. Beliau memetik kejadian terkenal Usama ibn Zayd, yang membunuh seorang lelaki dalam pertempuran walaupun selepas lelaki itu mengucapkan Syahadah. Nabi ﷺ sangat tertekan dan bertanya kepada Usama berulang kali, 'Adakah kamu membunuhnya selepas dia mengucapkan La ilaha illAllah?' Usama menjelaskan bahawa lelaki itu hanya mengucapkannya kerana takut pada pedang. Nabi menjawab, 'Adakah kamu membuka hatinya?' Kejadian ini secara langsung mempengaruhi peraturan dalam Ayat 94."
+          },
+          {
+            "name": "Tafsir Maarif ul-Quran (Mufti Shafi Usmani)",
+            "text": "Mengenai Solat Khauf (ayat 101–103), Mufti Shafi mendokumentasikan bahawa peraturan ini mewujudkan preseden: solat Islam mempunyai pelbagai bentuk yang sah bergantung kepada keadaan. Para ulama mengambil daripada prinsip ini bahawa solat tidak boleh ditinggalkan—walaupun orang yang sakit teruk boleh solat sambil berbaring, walaupun seorang banduan boleh solat dengan gerak isyarat. Bentuknya fleksibel; kewajipannya mutlak. Ayat ini adalah asas teologi bagi semua kelonggaran solat yang telah dikembangkan oleh fiqah Islam."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Mengenai kategori munafik (ayat 88–91), As-Sa'di memuji ketepatan undang-undang al-Quran. Daripada menetapkan satu keputusan tunggal untuk semua kes yang samar-samar, Allah mengenal pasti tiga kategori manusia yang berbeza dan memberikan keputusan yang sepadan untuk setiap satu. As-Sa'di mengambil pelajaran untuk keseluruhan fiqah Islam: keadaan yang berbeza menghasilkan keputusan yang berbeza. Melayan semua situasi sebagai sama sedangkan mereka sebenarnya berbeza adalah satu bentuk ketidakadilan, sama ada di mahkamah undang-undang atau dalam urusan manusia seharian."
+          }
+        ],
+        "lessons": [
+          "⚖️ Konteks Sebelum Keputusan: Islam tidak menerapkan keputusan umum untuk situasi yang kompleks. Allah sendiri memberikan tiga keputusan berasingan untuk tiga kategori munafik berdasarkan tingkah laku sebenar mereka. Sebelum menghakimi mana-mana individu atau kumpulan, fahami keadaan sebenar mereka terlebih dahulu.",
+          "🙏 Solat Tidak Boleh Dirunding, Tetapi Allah Maha Pengasih: Walaupun di tengah peperangan yang aktif, solat mesti dilaksanakan—tetapi Allah menyesuaikan bentuknya untuk sesuai dengan realiti. Ini mengajar bahawa kewajipan kita kepada Allah adalah kukuh, tetapi Dia tidak acuh tidak acuh terhadap apa yang kita sebenarnya hadapi.",
+          "🚨 Anda Tidak Boleh Menilai Hati: Saat paling berbahaya yang digambarkan dalam petikan ini ialah apabila seorang Muslim mendakwa pengisytiharan iman orang lain adalah tidak ikhlas hanya untuk membenarkan memudaratkan mereka. Hanya Allah yang mengetahui apa yang ada di dalam hati. Bertindak berdasarkan andaian itu—dan bertindak dengan kekerasan—membawa akibat yang melampaui imaginasi."
+        ]
+      }
+    },
+    {
+      "id": "section-05",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 113,
+      "verse_end": 134,
+      "en": {
+        "title": "Divine Favour, Satan's Playbook & The Promise of Ibrahim's Path",
+        "theme": "Allah's protection of the Prophet ﷺ from those who sought to corrupt his judgment, the precise anatomy of how Shaytan misleads — laid out in his own words — and the beautiful invitation to the religion of Ibrahim as the straight path back to Allah.",
+        "arabic": "وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكَ وَرَحْمَتُهُ لَهَمَّت طَّائِفَةٌ مِّنْهُمْ أَن يُضِلُّوكَ... يَعِدُهُمْ وَيُمَنِّيهِمْ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلَّا غُرُورًا... وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ وَاتَّبَعَ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا",
+        "translation": "Had it not been for the grace of Allah upon you and His mercy, a group of them had resolved to lead you astray. But they only lead themselves astray, and they cannot harm you at all... He (Shaytan) makes promises to them and arouses in them false desires; and Shaytan's promises are nothing but deception... And who is better in religion than one who submits himself to Allah while being a doer of good and follows the way of Ibrahim, inclining toward truth.",
+        "explanation": [
+          "This passage opens with an intimate divine reassurance to the Prophet ﷺ, connected to the story of Tu'mah ibn Ubayriq — a man who stole a suit of armour, hid it with a Jewish neighbour, then tried to manipulate the Prophet into ruling against the innocent Jew to protect himself. A faction was trying to corrupt the Prophet's judgment through false testimony. Allah's response is both a protection and a reminder: the grace of Allah shields His Messenger. Even when evil actors succeed in obtaining a corrupt judgment from an earthly judge, they only condemn themselves — the true Judge is Allah, and He is never deceived. This passage also delivers a sweeping endorsement of Istighfar: any Muslim who commits a sin, even one as grave as false accusation, then sincerely seeks Allah's forgiveness, will find Allah 'ever Oft-Forgiving, Most Merciful' — Ibn Abbas commented that Allah's mercy is greater than even sins that fill the heavens and earth.",
+          "Verses 116–121 contain one of the Qur'an's most forensic exposés of Shaytan's methodology, delivered in Shaytan's own declared words. Allah quotes Iblis's oath: 'I will take an appointed portion of Your servants, I will mislead them, I will arouse false desires in them, I will command them to alter the creation of Allah.' The scholars explain that 'arousing false desires' specifically means making people believe they have time — encouraging delay in repentance, making sins feel pleasurable, and filling hearts with fantasies of a long life ahead. The passage then quotes Shaytan's own confession on the Day of Judgement: 'Allah promised you a true promise... I too promised you, but I betrayed you. I had no authority over you — I only called you and you responded.' This is perhaps the most chilling moment in the entire Qur'an: the one who led billions astray will disclaim all responsibility at the very moment they need him most.",
+          "The section closes on a note of radiant hope — Verse 125. After all the warnings about the traps of Shaytan and the paths of deviation, Allah invites: who is better in religion than one who submits to Allah while doing good and follows the Millah of Ibrahim? Ibrahim ﷺ is presented as the universal archetype — the one who turned his face to Allah with complete sincerity, unencumbered by tribalism, ethnicity or tradition. Allah then says the words that carry the weight of eternity: 'And Allah took Ibrahim as a Khalil (a close intimate friend).' The Millah of Ibrahim — pure Tawhid, complete submission, excellence in character — is held out as the destination every soul can reach."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "On Shaytan's confession on the Day of Judgement (Verse 120), Ibn Kathir notes that this is one of the most devastating moments in all of eschatology. Shaytan will announce that Allah's promise was true, that his own promise was a lie, and that he never had any actual power over them — only the power of suggestion. Ibn Kathir emphasises this point: the people who follow Shaytan to the Fire will have done so entirely of their own free will, making their regret all the more absolute and final."
+          },
+          {
+            "name": "Tafsir Maarif ul-Quran (Mufti Shafi Usmani)",
+            "text": "On Verse 110 (whoever seeks Allah's forgiveness after sin), Mufti Shafi cites the hadith through Abu Bakr al-Siddiq that the Prophet ﷺ said: 'No Muslim commits a sin, then performs ablution, offers two rak'ahs, and asks Allah's forgiveness for that sin, without Allah forgiving him.' He records Ibn Abbas's comment that Allah's mercy encompasses sins even 'greater than the heavens, the earth and the mountains' — a statement designed to prevent despair from becoming itself a form of spiritual destruction."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "On Verse 125 (the Millah of Ibrahim), As-Sa'di observes that Allah chose to call Ibrahim His Khalil — a word that implies complete penetration of love into every corner of the heart, more intimate even than a close friend. He notes that the verse pairs three things as the complete religion: surrendering the face (the self) to Allah, doing good deeds (Ihsan), and following the way of Ibrahim. No single element is sufficient alone — surrender without good deeds is empty form; good deeds without surrender are misdirected effort; and both without the correct creed are built on sand."
+          }
+        ],
+        "lessons": [
+          "🛡️ Allah Protects What He Has Chosen: The machinations of those who tried to corrupt the Prophet's judgment came to nothing. This is a principle — those who sincerely align themselves with Allah will find that the plots of those who wish them harm ultimately collapse upon themselves.",
+          "😈 Know Your Enemy's Method: Shaytan never forces anyone. His entire strategy is suggestion, beautification of sins, and the cultivation of false hope — particularly the hope that 'there is still time.' Knowing this method is itself a defence against it.",
+          "🤲 Despair is Shaytan's Greatest Victory: The greatest trap Shaytan can lay after a sin is making the person believe they are too far gone for Allah's mercy. Verse 110 is Allah's direct rebuttal: sincere repentance after any sin — no matter its enormity — opens the door to complete forgiveness."
+        ]
+      },
+      "ms": {
+        "title": "Kurniaan Ilahi, Strategi Syaitan & Janji Jalan Ibrahim",
+        "theme": "Perlindungan Allah ke atas Nabi ﷺ daripada mereka yang berusaha merosakkan pertimbangannya, anatomi tepat bagaimana Syaitan menyesatkan — disampaikan dalam kata-katanya sendiri — dan jemputan indah kepada agama Ibrahim sebagai jalan lurus kembali kepada Allah.",
+        "arabic": "وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكَ وَرَحْمَتُهُ لَهَمَّت طَّائِفَةٌ مِّنْهُمْ أَن يُضِلُّوكَ... يَعِدُهُمْ وَيُمَنِّيهِمْ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلَّا غُرُورًا... وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ وَاتَّبَعَ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا",
+        "translation": "Kalaulah bukan kerana kurniaan Allah kepadamu dan rahmat-Nya, tentulah satu golongan daripada mereka bercita-cita untuk menyesatkan kamu. Tetapi mereka tidak menyesatkan melainkan diri mereka sendiri, dan mereka tidak dapat memudaratkan kamu sedikitpun... Dia (Syaitan) membuat janji-janji kepada mereka dan membangkitkan keinginan-keinginan palsu dalam diri mereka; dan janji-janji Syaitan itu tidak lain hanyalah tipuan... Dan siapakah yang lebih baik agamanya daripada orang yang menyerahkan dirinya kepada Allah sedang ia berbuat kebaikan, dan ia mengikut agama Ibrahim yang lurus.",
+        "explanation": [
+          "Petikan ini bermula dengan jaminan ilahi yang intim kepada Nabi ﷺ, berkaitan dengan kisah Tu'mah ibn Ubayriq — seorang lelaki yang mencuri satu set baju besi, menyembunyikannya dengan seorang jiran Yahudi, kemudian cuba memanipulasi Nabi untuk memutuskan menentang orang Yahudi yang tidak bersalah bagi melindungi dirinya. Satu puak sedang cuba merosakkan pertimbangan Nabi melalui kesaksian palsu. Respons Allah adalah kedua-duanya perlindungan dan peringatan: kurniaan Allah melindungi Utusan-Nya. Walaupun apabila pelaku jahat berjaya memperoleh penghakiman yang rosak daripada hakim duniawi, mereka hanya menghukum diri mereka sendiri — Hakim yang sebenar adalah Allah, dan Dia tidak pernah tertipu. Petikan ini juga memberikan sokongan meluas terhadap Istighfar: mana-mana Muslim yang melakukan dosa, walaupun satu seserius tuduhan palsu, kemudian dengan ikhlas memohon keampunan Allah, akan mendapati Allah 'sentiasa Maha Pengampun, Maha Penyayang' — Ibn Abbas mengulas bahawa rahmat Allah lebih besar daripada dosa-dosa yang memenuhi langit dan bumi.",
+          "Ayat 116–121 mengandungi salah satu pendedahan paling forensik al-Quran tentang metodologi Syaitan, disampaikan dalam kata-kata sumpahnya sendiri. Allah memetik sumpah Iblis: 'Aku akan mengambil bahagian yang ditetapkan daripada hamba-hamba-Mu, aku akan menyesatkan mereka, aku akan membangkitkan keinginan-keinginan palsu dalam diri mereka, aku akan memerintahkan mereka untuk mengubah ciptaan Allah.' Para ulama menjelaskan bahawa 'membangkitkan keinginan-keinginan palsu' secara khusus bermaksud membuat orang percaya bahawa mereka mempunyai masa — menggalakkan kelewatan dalam taubat, menjadikan dosa terasa menyeronokkan, dan memenuhi hati dengan fantasi kehidupan panjang yang menanti. Petikan ini kemudian memetik pengakuan Syaitan sendiri pada Hari Kiamat: 'Allah telah berjanji kepada kamu janji yang benar... Aku juga berjanji kepada kamu, tetapi aku mengkhianati kamu. Aku tidak mempunyai kuasa ke atas kamu — aku hanya memanggil kamu dan kamu menyahut.' Ini mungkin merupakan saat paling mengerikan dalam keseluruhan al-Quran: mereka yang menyesatkan berbilion orang akan mengingkari semua tanggungjawab tepat pada saat mereka paling memerlukannya.",
+          "Bahagian ini berakhir dengan nota harapan yang bersinar — Ayat 125. Selepas semua amaran tentang perangkap Syaitan dan jalan-jalan penyesatan, Allah menjemput: siapakah yang lebih baik agamanya daripada orang yang menyerahkan diri kepada Allah sambil melakukan kebaikan dan mengikut Millah Ibrahim? Ibrahim ﷺ dihadirkan sebagai arkitaip universal — orang yang mengarahkan wajahnya kepada Allah dengan keikhlasan yang sempurna, bebas dari kesukuan, etnik atau tradisi. Allah kemudian mengucapkan kata-kata yang membawa berat keabadian: 'Dan Allah mengambil Ibrahim sebagai Khalil (kawan intim yang rapat).' Millah Ibrahim — Tauhid yang murni, penyerahan yang sempurna, kecemerlangan dalam watak — dihadirkan sebagai destinasi yang boleh dicapai oleh setiap jiwa."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Mengenai pengakuan Syaitan pada Hari Kiamat (Ayat 120), Ibn Kathir mencatatkan bahawa ini adalah salah satu saat paling dahsyat dalam seluruh eskatologi. Syaitan akan mengumumkan bahawa janji Allah adalah benar, bahawa janjinya sendiri adalah pembohongan, dan bahawa dia tidak pernah mempunyai sebarang kuasa sebenar ke atas mereka — hanya kuasa cadangan. Ibn Kathir menekankan perkara ini: orang-orang yang mengikuti Syaitan ke dalam api neraka akan melakukannya sepenuhnya dengan kehendak bebas mereka sendiri, menjadikan penyesalan mereka semakin mutlak dan muktamad."
+          },
+          {
+            "name": "Tafsir Maarif ul-Quran (Mufti Shafi Usmani)",
+            "text": "Mengenai Ayat 110 (sesiapa yang memohon keampunan Allah selepas dosa), Mufti Shafi memetik hadis melalui Abu Bakr al-Siddiq bahawa Nabi ﷺ bersabda: 'Tidak ada seorang Muslim yang melakukan dosa, kemudian berwudhuk, menunaikan dua rakaat solat, dan memohon keampunan Allah atas dosa itu, melainkan Allah mengampunkan dia.' Beliau merekodkan ulasan Ibn Abbas bahawa rahmat Allah merangkumi dosa-dosa yang lebih besar daripada 'langit, bumi dan gunung-ganang' — satu pernyataan yang direka untuk mencegah putus asa daripada menjadi sendirinya satu bentuk kemusnahan rohani."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Mengenai Ayat 125 (Millah Ibrahim), As-Sa'di memerhati bahawa Allah memilih untuk memanggil Ibrahim sebagai Khalil-Nya — satu perkataan yang mengandungi makna penembusan kasih sayang yang sempurna ke setiap sudut hati, lebih intim daripada seorang kawan rapat. Beliau mencatatkan bahawa ayat itu memasangkan tiga perkara sebagai agama yang lengkap: menyerahkan wajah (diri) kepada Allah, melakukan amal kebaikan (Ihsan), dan mengikuti jalan Ibrahim. Tiada satu elemen yang mencukupi sendirian — penyerahan tanpa amal kebaikan adalah bentuk yang kosong; amal kebaikan tanpa penyerahan adalah usaha yang salah arah; dan kedua-duanya tanpa akidah yang betul adalah dibina atas pasir."
+          }
+        ],
+        "lessons": [
+          "🛡️ Allah Melindungi Apa yang Dipilih-Nya: Rancangan-rancangan mereka yang cuba merosakkan pertimbangan Nabi tidak menghasilkan apa-apa. Ini adalah satu prinsip — mereka yang dengan ikhlas menyelaraskan diri dengan Allah akan mendapati bahawa rancangan-rancangan mereka yang ingin memudaratkan mereka akhirnya runtuh ke atas diri mereka sendiri.",
+          "😈 Kenali Kaedah Musuh Kamu: Syaitan tidak pernah memaksa sesiapa pun. Seluruh strateginya adalah cadangan, pemerindahan dosa-dosa, dan pemupukan harapan palsu — terutamanya harapan bahawa 'masih ada masa.' Mengetahui kaedah ini sendiri sudah merupakan pertahanan terhadapnya.",
+          "🤲 Putus Asa adalah Kemenangan Terbesar Syaitan: Perangkap terbesar yang boleh dipasang Syaitan selepas satu dosa adalah membuat orang percaya bahawa mereka terlalu jauh untuk mendapat rahmat Allah. Ayat 110 adalah sanggahan langsung Allah: taubat yang ikhlas selepas sebarang dosa — walau betapa besarnya — membuka pintu kepada keampunan yang sempurna."
+        ]
+      }
+    },
+    {
+      "id": "section-06",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 135,
+      "verse_end": 147,
+      "en": {
+        "title": "The Ultimate Justice, The Anatomy of Hypocrisy & The One Condition for Gratitude",
+        "theme": "Verse 135 — the centrepiece verse of the entire Juz — commands a justice so absolute it overrides self-interest, kinship and wealth; the final portrait of hypocrisy reveals its deepest characteristic; and Allah closes with a declaration that has no equal for opening the door of mercy.",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ... إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ... مَّا يَفْعَلُ اللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَآمَنتُمْ",
+        "translation": "O believers! Stand firmly for justice as witnesses for Allah, even if it be against yourselves, your parents, or your close relatives... Indeed, the hypocrites will be in the lowest depths of the Fire... What would Allah gain by punishing you if you are grateful and believe?",
+        "explanation": [
+          "Verse 135 is the climactic verse of Juz 5 — the verse chosen as the Juz's centrepiece quote — and its demand is breathtaking in its scope. The word Qawwamin does not simply mean 'be just': it means 'be persistent upholders, structural pillars of justice.' Allah commands that this justice must hold even against yourself, your own parents, your closest relatives. It cannot be softened for the rich out of awe of their power, nor bent for the poor out of misplaced compassion — 'for Allah is better at protecting both.' The classical scholar Abdullah ibn Rawahah demonstrated this when sent by the Prophet ﷺ to collect tax from the Jews of Khaybar: when they offered him a bribe, he refused — and they themselves remarked, 'This (justice) is the foundation upon which the heavens and earth were created.' Justice is not one virtue among many — it is the architecture of reality itself.",
+          "Verses 136–142 deliver the Qur'an's most comprehensive portrait of hypocrisy: oscillating between belief and disbelief until the heart is sealed; forming alliances with disbelievers while claiming the believers; sitting with those who mock Allah's revelations and thereby becoming like them; appearing to pray while in reality performing it for show, and barely remembering Allah at all. The culminating verse 145 is one of the most severe in the Qur'an — the hypocrites will be in the lowest depth (Darak) of the Fire, not merely in it. The scholars explain this as a separate compartment, below the level of ordinary Hellfire, because hypocrisy represents a complete inversion of the covenant — claiming to be with Allah while actively serving His enemies.",
+          "The passage ends on Verse 147 — one of the most merciful and philosophically profound verses in the entire Qur'an. After pages of warnings about disbelief, sin and hypocrisy, Allah asks a question that reframes everything: 'What would Allah gain from punishing you if you are grateful and you believe?' This is not merely an offer. It is a declaration about the nature of Allah Himself. Allah does not punish for the sake of punishment. He does not desire the suffering of His creatures. Belief and gratitude — these two open the entire treasury of His mercy. The Juz began with social architecture; it ends with this invitation to the ultimate relationship."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "On Verse 145 (hypocrites in the lowest depths of Fire), Ibn Kathir records Ibn Mas'ud's statement that the hypocrites will be placed inside sealed coffins of Fire in the lowest reaches of Hell — because their crime is uniquely total. A disbeliever rejects Allah openly; a sinner transgresses while acknowledging the covenant; but a hypocrite uses the appearance of belief as a weapon against the very community of belief. Ibn Kathir notes that Verse 146 immediately follows with the escape route: sincere repentance, holding to Allah, and making the religion purely for Him — these transform the hypocrite into a believer."
+          },
+          {
+            "name": "Tafsir Maarif ul-Quran (Mufti Shafi Usmani)",
+            "text": "On Verse 135 (standing firmly for justice), Mufti Shafi explains that the verse's command applies to every Muslim as an individual — not just governments or judges. He notes the Qur'anic linguistic precision: the word Qawwamin is an intensive form meaning someone who 'perpetually maintains and upholds' justice, not merely someone who is just on occasion. He draws from this that Islam's vision is not a just state alone, but a community of individuals each personally committed to justice in every interaction of their daily lives."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "On Verse 147 (what would Allah gain by punishing you), As-Sa'di reflects that this verse reveals one of the deepest attributes of Allah: that He is Al-Ghani (entirely self-sufficient) and Al-Shakir (appreciative of those who are grateful). He has no need of punishing anyone. Punishment is a consequence of choice, not an expression of divine desire. As-Sa'di notes that the verse pairs Shukr (gratitude) with Iman (belief) — gratitude without correct belief is misdirected, and belief without gratitude is a contradiction in terms."
+          }
+        ],
+        "lessons": [
+          "⚖️ Justice Has No Exceptions: The word Qawwamin demands a structural, ongoing commitment to justice — not convenience justice. It must hold even when it costs you, even when it goes against those you love most. This is the hardest and most necessary form of worship.",
+          "🎭 The Double Life Has a Price: The defining feature of hypocrisy is using the language and form of faith while the heart has entirely left it. The Qur'an identifies this as uniquely dangerous — more dangerous than open disbelief — because it actively corrupts the community from within.",
+          "💛 Allah Wants to Forgive You: Verse 147 is perhaps the most merciful question ever asked. Allah is not waiting to punish — He is waiting for belief and gratitude. These two open everything. The entire Juz — with all its laws, warnings and battles — was written to build a community capable of that."
+        ]
+      },
+      "ms": {
+        "title": "Keadilan Mutlak, Anatomi Kemunafikan & Syarat Tunggal untuk Kesyukuran",
+        "theme": "Ayat 135 — ayat pusat seluruh Juz — memerintahkan keadilan yang begitu mutlak hingga mengatasi kepentingan diri, pertalian darah dan kekayaan; potret akhir kemunafikan mendedahkan cirinya yang paling dalam; dan Allah menutup dengan satu deklarasi yang tiada tandingannya dalam membuka pintu rahmat.",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ... إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ... مَّا يَفْعَلُ اللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَآمَنتُمْ",
+        "translation": "Wahai orang-orang yang beriman! Hendaklah kamu menjadi orang-orang yang benar-benar menegakkan keadilan, menjadi saksi kerana Allah, walaupun terhadap diri kamu sendiri atau ibu bapa dan kaum kerabat kamu... Sesungguhnya orang-orang munafik itu (ditempatkan) pada tingkatan yang paling bawah dari neraka... Apa kerugian Allah dengan menyeksa kamu, jika kamu bersyukur dan beriman?",
+        "explanation": [
+          "Ayat 135 adalah ayat puncak Juz 5 — ayat yang dipilih sebagai petikan pusat Juz — dan tuntutannya sungguh mengagumkan dalam skopnya. Perkataan Qawwamin tidak semata-mata bermaksud 'bersikap adil': ia bermaksud 'menjadi penyokong yang berterusan, tiang-tiang struktural keadilan.' Allah memerintahkan bahawa keadilan ini mesti bertahan walaupun terhadap diri sendiri, ibu bapa sendiri, saudara-mara terdekat sendiri. Ia tidak boleh dilunakkan untuk orang kaya kerana kagum dengan kuasa mereka, atau dibengkokkan untuk orang miskin kerana simpati yang salah tempat — 'kerana Allah lebih baik dalam melindungi kedua-duanya.' Ulama klasik Abdullah ibn Rawahah menunjukkan hal ini apabila dihantar oleh Nabi ﷺ untuk mengutip cukai daripada orang Yahudi Khaybar: apabila mereka menawarkan rasuah kepadanya, dia menolak — dan mereka sendiri berkata, 'Ini (keadilan) adalah asas yang langit dan bumi diciptakan atasnya.' Keadilan bukan sekadar satu kebajikan di antara banyak — ia adalah seni bina realiti itu sendiri.",
+          "Ayat 136–142 memberikan potret kemunafikan yang paling menyeluruh dalam al-Quran: beralih antara iman dan kufur sehingga hati tersegel; membentuk perikatan dengan orang kafir sambil mendakwa bersama orang beriman; duduk bersama mereka yang mengejek wahyu Allah dan dengan itu menjadi seperti mereka; kelihatan solat sedangkan hakikatnya melakukannya untuk pamer, dan hampir tidak mengingati Allah langsung. Ayat puncak 145 adalah salah satu yang paling keras dalam al-Quran — orang munafik akan berada di kedalaman paling bawah (Darak) neraka, bukan sekadar di dalamnya. Para ulama menjelaskan ini sebagai ruangan yang berasingan, di bawah paras api neraka biasa, kerana kemunafikan mewakili pembalikan sempurna perjanjian — mendakwa bersama Allah sambil secara aktif melayani musuh-musuh-Nya.",
+          "Petikan ini berakhir dengan Ayat 147 — salah satu ayat yang paling penuh belas kasih dan mendalam dari segi falsafah dalam keseluruhan al-Quran. Selepas halaman-halaman amaran tentang kekufuran, dosa dan kemunafikan, Allah mengemukakan soalan yang membingkaikan semula segalanya: 'Apa kerugian Allah dengan menyeksa kamu jika kamu bersyukur dan beriman?' Ini bukan sekadar tawaran. Ia adalah deklarasi tentang sifat Allah sendiri. Allah tidak menghukum demi hukuman. Dia tidak menginginkan penderitaan makhluk-Nya. Iman dan kesyukuran — kedua-dua ini membuka seluruh perbendaharaan rahmat-Nya. Juz ini bermula dengan seni bina sosial; ia berakhir dengan jemputan kepada hubungan yang paling muktamad."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Mengenai Ayat 145 (munafik di kedalaman terbawah api neraka), Ibn Kathir merekodkan pernyataan Ibn Mas'ud bahawa orang munafik akan ditempatkan di dalam keranda-keranda api yang tersegel di bahagian paling bawah neraka — kerana jenayah mereka adalah unik dan menyeluruh. Seorang kafir menolak Allah secara terang-terangan; seorang pendosa melanggar sambil mengakui perjanjian; tetapi seorang munafik menggunakan penampilan iman sebagai senjata menentang komuniti iman itu sendiri. Ibn Kathir mencatatkan bahawa Ayat 146 segera mengikuti dengan jalan keluar: taubat yang ikhlas, berpegang kepada Allah, dan menjadikan agama murni untuk-Nya — ini mengubah munafik menjadi mukmin."
+          },
+          {
+            "name": "Tafsir Maarif ul-Quran (Mufti Shafi Usmani)",
+            "text": "Mengenai Ayat 135 (teguh dalam keadilan), Mufti Shafi menjelaskan bahawa perintah ayat tersebut berlaku kepada setiap Muslim sebagai individu — bukan sahaja kerajaan atau hakim. Beliau mencatatkan ketepatan linguistik al-Quran: perkataan Qawwamin adalah bentuk intensif yang bermaksud seseorang yang 'sentiasa mengekalkan dan menegakkan' keadilan, bukan sekadar seseorang yang adil sesekali. Beliau mengambil pelajaran daripada ini bahawa visi Islam bukan sahaja sebuah negara yang adil, tetapi sebuah komuniti individu-individu yang masing-masing berkomitmen secara peribadi terhadap keadilan dalam setiap interaksi kehidupan harian mereka."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Mengenai Ayat 147 (apa kerugian Allah dengan menyeksa kamu), As-Sa'di merenungkan bahawa ayat ini mendedahkan salah satu sifat Allah yang paling dalam: bahawa Dia adalah Al-Ghani (serba mencukupi) dan Al-Shakir (menghargai mereka yang bersyukur). Dia tidak memerlukan menghukum sesiapa pun. Hukuman adalah akibat daripada pilihan, bukan ungkapan keinginan ilahi. As-Sa'di mencatatkan bahawa ayat itu memasangkan Syukur (kesyukuran) dengan Iman (kepercayaan) — kesyukuran tanpa kepercayaan yang betul adalah salah arah, dan kepercayaan tanpa kesyukuran adalah satu percanggahan."
+          }
+        ],
+        "lessons": [
+          "⚖️ Keadilan Tidak Mengenal Pengecualian: Perkataan Qawwamin menuntut komitmen yang berstruktur dan berterusan terhadap keadilan — bukan keadilan mengikut kemudahan. Ia mesti bertahan walaupun apabila ia memakan kos kepada anda, walaupun apabila ia bertentangan dengan mereka yang paling anda sayangi. Ini adalah bentuk ibadat yang paling sukar dan paling perlu.",
+          "🎭 Kehidupan Ganda Ada Harganya: Ciri penentu kemunafikan adalah menggunakan bahasa dan bentuk iman sementara hati telah meninggalkannya sepenuhnya. Al-Quran mengenal pasti ini sebagai sangat berbahaya — lebih berbahaya daripada kekufuran yang terang-terangan — kerana ia secara aktif merosakkan komuniti dari dalam.",
+          "💛 Allah Ingin Mengampuni Kamu: Ayat 147 mungkin merupakan soalan yang paling penuh belas kasih yang pernah ditanya. Allah tidak sedang menunggu untuk menghukum — Dia sedang menunggu iman dan kesyukuran. Kedua-dua ini membuka segalanya. Seluruh Juz ini — dengan semua undang-undangnya, amaran dan pertempurannya — ditulis untuk membina sebuah komuniti yang mampu mencapai itu."
+        ]
+      }
+    },
+    {
+      "id": "section-07",
+      "type": "thematic_summary",
+      "surah_number": 4,
+      "verse_start": 24,
+      "verse_end": 147,
+      "en": {
+        "title": "Overarching Themes of Juz 5: The Architecture of a Just Society",
+        "theme": "A synthesis of the seven sections of Juz 5, tracing the single architectural vision that unifies laws on marriage, governance, hypocrisy, warfare, and justice — and what this Juz demands of the believer today.",
+        "key_themes": [
+          {
+            "title": "Justice as the Load-Bearing Wall",
+            "body": "Juz 5 begins with marriage contracts (Mahr as a right, not a gift) and closes with the command of Qawwamin — persistent, structural upholding of justice. This is not coincidence. The Juz is architecturally unified by the question: what does a just society actually require? It requires just contracts between individuals (Section 01), just governance built on a clear hierarchy of authority (Section 02), just treatment of the oppressed — even when it demands personal sacrifice (Section 03), just application of law that distinguishes between cases rather than applying blunt rulings (Section 04), just economic dealings with orphans and widows (Sections 05-06), and just testimony even against yourself (Section 06). Justice is not an ideal the Juz points toward — it is the structural requirement it builds, brick by brick."
+          },
+          {
+            "title": "The Inner Architecture of Hypocrisy",
+            "body": "No surah in the Qur'an anatomises hypocrisy as precisely as An-Nisa. Juz 5 presents it not as a single trait but as a progressive condition: it begins with seeking judgment from sources other than Allah when the ruling is inconvenient (Section 03), advances to using the Salam as protection while privately aligned with the enemy (Section 03), deepens into doubting Qadar when calamity strikes (Section 03), and culminates in the sealed heart that oscillates between belief and disbelief until it can no longer return (Section 06). The Juz asks: at which point does pragmatic compromise become a pattern that defines the heart?"
+          },
+          {
+            "title": "The Hierarchy of Enemies",
+            "body": "Juz 5 presents three distinct adversaries to the believer's soul: the internal enemy of the nafs (self) that chases desire and distorts testimony; the social enemy of hypocrisy that corrupts the community from within; and the cosmic enemy of Shaytan, whose strategy is exposed in forensic detail in Section 05. Crucially, the Juz reveals that Shaytan's power is entirely derivative — he has no authority, only the power of suggestion. Every human being who follows him does so freely. This means the locus of spiritual battle is always the heart of the believer themselves."
+          },
+          {
+            "title": "The Two Promises in Contrast",
+            "body": "Running through Juz 5 is the contrast between two promises: Allah's promise and Shaytan's promise. Allah's promise is always fulfilled — the believers who hold fast will be admitted to gardens under which rivers flow, and Allah's word is true. Shaytan's promise is always betrayed — on the Day of Judgement he will disclaim responsibility, leaving those who followed him to face the consequence alone. The Juz culminates with Verse 147's question — what would Allah gain from punishing you if you are grateful and believe? — which frames the entire passage as an extended invitation to choose the right promise."
+          },
+          {
+            "title": "The Role of the Prophet ﷺ as a Living Model",
+            "body": "Throughout Juz 5, the Prophet ﷺ is not merely a transmitter of rulings — he is a living model of how to navigate them. We see him protected by Allah from judicial manipulation (Section 05), sent to judge between people with justice (Section 04), commanding his Companions not to rush to judgment in battle (Section 04), and described as the one who taught 'what you did not know before.' The Juz establishes that following the Prophet ﷺ is not an optional supplement to following Allah — the two are structurally inseparable, as Verse 59 makes clear."
+          }
+        ],
+        "reflection_questions": [
+          "In which areas of your life do you apply the standard of 'justice for others but leniency for myself or those I love'? What would Qawwamin (persistent upholding of justice) look like in that specific area?",
+          "Shaytan's primary strategy is cultivating false hope — the feeling that 'there is still time.' In which areas of your spiritual life do you notice yourself postponing what you know needs to be done?",
+          "Verse 147 asks what Allah would gain by punishing you if you are grateful and believe. How would your daily life look different if you genuinely internalised that Allah's default orientation toward you is mercy, not punishment?"
+        ],
+        "closing_dua": {
+          "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ الْوَهَّابُ",
+          "transliteration": "Rabbana la tuzigh quloobana ba'da idh hadaytana wahab lana min ladunka rahmah, innaka antal Wahhab",
+          "translation": "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower. (3:8)"
+        }
+      },
+      "ms": {
+        "title": "Tema-Tema Utama Juz 5: Seni Bina Masyarakat yang Adil",
+        "theme": "Sintesis tujuh bahagian Juz 5, menjejaki visi seni bina tunggal yang menyatukan undang-undang mengenai perkahwinan, tadbir urus, kemunafikan, peperangan dan keadilan — dan apa yang Juz ini tuntut daripada orang beriman hari ini.",
+        "key_themes": [
+          {
+            "title": "Keadilan sebagai Dinding Pemikul Beban",
+            "body": "Juz 5 bermula dengan kontrak perkahwinan (Mahr sebagai hak, bukan hadiah) dan berakhir dengan perintah Qawwamin — penegakan keadilan yang berterusan dan berstruktur. Ini bukan kebetulan. Juz ini disatukan secara seni bina oleh soalan: apakah yang sebenarnya diperlukan oleh masyarakat yang adil? Ia memerlukan kontrak yang adil antara individu (Bahagian 01), tadbir urus yang adil yang dibina atas hierarki autoriti yang jelas (Bahagian 02), layanan yang adil terhadap golongan yang tertindas — walaupun memerlukan pengorbanan peribadi (Bahagian 03), penerapan undang-undang yang adil yang membezakan antara kes-kes bukannya menerapkan keputusan tumpul (Bahagian 04), urusan ekonomi yang adil dengan anak yatim dan wanita (Bahagian 05-06), dan kesaksian yang adil walaupun terhadap diri sendiri (Bahagian 06). Keadilan bukan satu ideal yang Juz ini tunjukkan — ia adalah keperluan struktural yang ia bina, bata demi bata."
+          },
+          {
+            "title": "Seni Bina Dalaman Kemunafikan",
+            "body": "Tiada surah dalam al-Quran yang menganalisis kemunafikan setepat An-Nisa. Juz 5 membentangkannya bukan sebagai satu ciri tunggal tetapi sebagai keadaan yang progresif: ia bermula dengan mencari penghakiman dari sumber-sumber selain Allah apabila keputusan itu tidak selesa (Bahagian 03), berkembang kepada menggunakan Salam sebagai perlindungan sementara secara peribadi berpihak kepada musuh (Bahagian 03), semakin mendalam kepada meragui Qadar apabila bencana melanda (Bahagian 03), dan memuncak dalam hati yang tersegel yang beralih antara iman dan kufur sehingga tidak dapat lagi kembali (Bahagian 06). Juz ini bertanya: pada titik mana kompromi pragmatik menjadi satu corak yang mentakrif hati?"
+          },
+          {
+            "title": "Hierarki Musuh-Musuh",
+            "body": "Juz 5 membentangkan tiga musuh yang berbeza kepada jiwa orang beriman: musuh dalaman nafsu (diri) yang mengejar keinginan dan mendistorsi kesaksian; musuh sosial kemunafikan yang merosakkan komuniti dari dalam; dan musuh kosmik Syaitan, yang strateginya didedahkan secara terperinci dalam Bahagian 05. Yang paling penting, Juz ini mendedahkan bahawa kuasa Syaitan adalah sepenuhnya terbitan — dia tidak mempunyai autoriti, hanya kuasa cadangan. Setiap manusia yang mengikutinya melakukannya dengan bebas. Ini bermakna locus pertempuran rohani sentiasa berada di hati orang beriman itu sendiri."
+          },
+          {
+            "title": "Dua Janji dalam Perbandingan",
+            "body": "Melalui Juz 5 mengalir perbandingan antara dua janji: janji Allah dan janji Syaitan. Janji Allah sentiasa dipenuhi — orang-orang beriman yang berpegang teguh akan dimasukkan ke dalam taman-taman yang di bawahnya mengalir sungai-sungai, dan firman Allah adalah benar. Janji Syaitan sentiasa dikhianati — pada Hari Kiamat dia akan mengingkari tanggungjawab, meninggalkan mereka yang mengikutinya untuk menanggung akibatnya sendirian. Juz ini memuncak dengan soalan Ayat 147 — apa kerugian Allah dengan menyeksa kamu jika kamu bersyukur dan beriman? — yang membingkaikan keseluruhan petikan sebagai jemputan yang panjang untuk memilih janji yang betul."
+          },
+          {
+            "title": "Peranan Nabi ﷺ sebagai Model Hidup",
+            "body": "Sepanjang Juz 5, Nabi ﷺ bukan sekadar penyampai keputusan — beliau adalah model hidup bagaimana menavigasinya. Kita melihatnya dilindungi oleh Allah daripada manipulasi kehakiman (Bahagian 05), dihantar untuk menghukum antara manusia dengan adil (Bahagian 04), memerintahkan para Sahabatnya untuk tidak tergesa-gesa membuat penilaian dalam pertempuran (Bahagian 04), dan digambarkan sebagai orang yang mengajar 'apa yang tidak kamu ketahui sebelumnya.' Juz ini menegakkan bahawa mengikuti Nabi ﷺ bukan suplemen pilihan untuk mengikuti Allah — kedua-duanya tidak dapat dipisahkan secara struktural, seperti yang ditjelaskan oleh Ayat 59."
+          }
+        ],
+        "reflection_questions": [
+          "Dalam bidang kehidupan mana anda menerapkan standard 'keadilan untuk orang lain tetapi kelonggaran untuk diri sendiri atau mereka yang saya sayangi'? Bagaimana rupa Qawwamin (penegakan keadilan yang berterusan) dalam bidang khusus itu?",
+          "Strategi utama Syaitan adalah memupuk harapan palsu — perasaan bahawa 'masih ada masa.' Dalam bidang kehidupan rohani anda yang mana anda menyedari diri sendiri menangguhkan apa yang anda tahu perlu dilakukan?",
+          "Ayat 147 bertanya apa yang akan Allah perolehi dengan menyeksa kamu jika kamu bersyukur dan beriman. Bagaimana rupa kehidupan harian anda jika anda benar-benar menghayati bahawa orientasi lalai Allah terhadap anda adalah rahmat, bukan hukuman?"
+        ],
+        "closing_dua": {
+          "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ الْوَهَّابُ",
+          "transliteration": "Rabbana la tuzigh quloobana ba'da idh hadaytana wahab lana min ladunka rahmah, innaka antal Wahhab",
+          "translation": "Ya Tuhan kami, janganlah Engkau condongkan hati kami kepada kesesatan setelah Engkau memberi petunjuk kepada kami, dan kurniakanlah kepada kami rahmat dari sisi-Mu. Sesungguhnya Engkau Maha Pemberi. (3:8)"
+        }
+      }
+    }
+  ]
+}

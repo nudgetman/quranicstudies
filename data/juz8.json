@@ -1,0 +1,908 @@
+{
+  "juz": 8,
+  "meta": {
+    "title": {
+      "en": "Juz 8 — The Ultimate Decrees & The Heights",
+      "ms": "Juz 8 — Ketetapan Mutlak & Tempat Tertinggi"
+    },
+    "arabic_name": "الجزء الثامن",
+    "night": 8,
+    "reader": "A",
+    "quote": {
+      "en": "Say, 'Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allah, Lord of the worlds.'",
+      "ms": "Katakanlah: 'Sesungguhnya sembahyangku, ibadatku, hidupku dan matiku hanyalah untuk Allah, Tuhan yang memelihara dan mentadbirkan sekalian alam.'",
+      "ref": "6:162"
+    }
+  },
+  "toc": [
+    {
+      "id": "section-01",
+      "en": "Al-An'am 111–121 · The Deception of Devils & Dietary Laws",
+      "ms": "Al-An'am 111–121 · Tipu Daya Syaitan & Hukum Pemakanan"
+    },
+    {
+      "id": "section-02",
+      "en": "Al-An'am 122–135 · The Dead Brought to Life & The Plots of the Elite",
+      "ms": "Al-An'am 122–135 · Yang Mati Dihidupkan & Tipu Daya Golongan Elit"
+    },
+    {
+      "id": "section-03",
+      "en": "Al-An'am 136–144 · Exposing Superstitions & The Cruelty of Ignorance",
+      "ms": "Al-An'am 136–144 · Membongkar Khurafat & Kekejaman Jahiliyyah"
+    },
+    {
+      "id": "section-04",
+      "en": "Al-An'am 145–154 · The Straight Path & The Ten Commandments",
+      "ms": "Al-An'am 145–154 · Jalan yang Lurus & Sepuluh Perintah"
+    },
+    {
+      "id": "section-05",
+      "en": "Al-An'am 155–165 · The Division of Sects & The Ultimate Declaration",
+      "ms": "Al-An'am 155–165 · Perpecahan Kumpulan & Pengisytiharan Mutlak"
+    },
+    {
+      "id": "section-06",
+      "en": "Surah Al-A'raf — Introduction",
+      "ms": "Surah Al-A'raf — Pengenalan"
+    },
+    {
+      "id": "section-07",
+      "en": "Al-A'raf 1–25 · The Fall of Iblis & The Expulsion from Eden",
+      "ms": "Al-A'raf 1–25 · Kejatuhan Iblis & Pengusiran dari Syurga"
+    },
+    {
+      "id": "section-08",
+      "en": "Al-A'raf 26–39 · The Garment of Piety & The Dialogue of Hellfire",
+      "ms": "Al-A'raf 26–39 · Pakaian Ketakwaan & Dialog Api Neraka"
+    },
+    {
+      "id": "section-09",
+      "en": "Al-A'raf 40–53 · The Gates of Heaven & The People of The Heights",
+      "ms": "Al-A'raf 40–53 · Pintu Syurga & Penghuni Tempat Tertinggi (Al-A'raf)"
+    },
+    {
+      "id": "section-10",
+      "en": "Al-A'raf 54–72 · The Creation of the Cosmos, Nuh & Hud",
+      "ms": "Al-A'raf 54–72 · Penciptaan Kosmos, Nuh & Hud"
+    },
+    {
+      "id": "section-11",
+      "en": "Al-A'raf 73–87 · Salih, Lut & Shu'ayb: The Consequence of Corruption",
+      "ms": "Al-A'raf 73–87 · Salih, Lut & Syu'aib: Akibat Kerosakan"
+    },
+    {
+      "id": "section-12",
+      "en": "Overarching Themes of Juz 8",
+      "ms": "Tema Utama Juz 8"
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-01",
+      "type": "passage",
+      "surah_number": 6,
+      "verse_start": 111,
+      "verse_end": 121,
+      "en": {
+        "title": "The Deception of Devils & Dietary Laws",
+        "theme": "The illusion of the majority, the psychological warfare of human and jinn devils, and the spiritual obedience tied to halal food.",
+        "arabic": "وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ... مَّا كَانُوا لِيُؤْمِنُوا إِلَّا أَن يَشَاءَ اللَّهُ... وَإِن تُطِعْ أَكْثَرَ مَن فِي الْأَرْضِ يُضِلُّوكَ عَن سَبِيلِ اللَّهِ ۚ... وَلَا تَأْكُلُوا مِمَّا لَمْ يُذْكَرِ اسْمُ اللَّهِ عَلَيْهِ وَإِنَّهُ لَفِسْقٌ ۗ...",
+        "translation": "And even if We had sent down to them the angels and the dead spoke to them... they would not believe unless Allah should will... And if you obey most of those upon the earth, they will mislead you from the way of Allah... And do not eat of that upon which the name of Allah has not been mentioned, for indeed, it is grave disobedience... ",
+        "explanation": [
+          "Juz 8 opens by shattering a common excuse: the polytheists claimed they would believe if they saw a massive, undeniable miracle. Allah reveals the harsh truth of human psychology. Even if angels descended, the dead rose to speak to them, and all miracles were gathered before their eyes, the arrogant would still not believe unless Allah willed it. Their rejection is an issue of an arrogant heart, not a lack of evidence.",
+          "Allah then explains the unseen spiritual warfare occurring around the believers. Every prophet faces enemies: 'devils from mankind and jinn, inspiring to one another decorative speech in delusion.' They use eloquent, attractive arguments to make falsehood look beautiful. Verse 116 delivers a monumental warning against peer pressure: 'And if you obey most of those upon the earth, they will mislead you.' The majority is never the metric for truth.",
+          "The passage concludes by connecting theology to diet. Allah commands the believers to eat only meat over which His name has been pronounced during slaughter, explicitly forbidding meat dedicated to idols or slaughtered improperly. The devils actively inspire their human allies to argue with believers over these dietary laws, trying to make the prohibited seem acceptable."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Highlights the profound warning in verse 116. Ibn Kathir states that truth is not determined by democratic consensus or popularity. Most of humanity operates on assumption and cultural habit. The believer must anchor themselves to revelation, even if they find themselves standing completely alone."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the 'decorative speech' (Zukhruf al-Qawl) of the devils. It refers to highly polished, persuasive rhetoric designed specifically to deceive the intellect. This applies to both the whispers of jinn and the sophisticated arguments of misguided humans."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Reflects on the connection between diet and the heart. As-Sa'di notes that consuming what is unlawful (like meat not dedicated to Allah) darkens the spiritual heart and makes it more susceptible to the whispers of Satan. Pure consumption fuels pure faith."
+          }
+        ],
+        "lessons": [
+          "🛑 The Illusion of the Crowd: Never base your morality on what 'everyone else' is doing. The majority of the earth is often misguided. Truth is determined by God, not by popularity.",
+          "🗣️ Beware of Eloquent Falsehood: Just because an argument sounds sophisticated, beautiful, or modern does not make it true. Devils specialize in making poison look like medicine.",
+          "🥩 Mind Your Plate: What you consume physically impacts you spiritually. Ensuring your food is Halal and slaughtered in God's name is a daily, active affirmation of your Monotheism."
+        ]
+      },
+      "ms": {
+        "title": "Tipu Daya Syaitan & Hukum Pemakanan",
+        "theme": "Ilusi majoriti, perang psikologi oleh syaitan manusia dan jin, dan ketaatan rohani yang terikat dengan makanan halal.",
+        "arabic": "وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ... مَّا كَانُوا لِيُؤْمِنُوا إِلَّا أَن يَشَاءَ اللَّهُ... وَإِن تُطِعْ أَكْثَرَ مَن فِي الْأَرْضِ يُضِلُّوكَ عَن سَبِيلِ اللَّهِ ۚ... وَلَا تَأْكُلُوا مِمَّا لَمْ يُذْكَرِ اسْمُ اللَّهِ عَلَيْهِ وَإِنَّهُ لَفِسْقٌ ۗ...",
+        "translation": "Dan sekalipun Kami turunkan malaikat kepada mereka, dan orang-orang yang mati bercakap dengan mereka... nescaya mereka tidak juga akan beriman, kecuali jika Allah kehendaki... Dan jika engkau menurut kebanyakan orang yang ada di muka bumi, nescaya mereka akan menyesatkanmu dari jalan Allah... Dan janganlah kamu makan dari (sembelihan binatang-binatang halal) yang tidak disebut nama Allah ketika menyembelihnya, kerana sesungguhnya yang sedemikian itu adalah perbuatan fasik... ",
+        "explanation": [
+          "Juz 8 bermula dengan menghancurkan satu alasan biasa: kaum musyrik mendakwa mereka akan beriman jika mereka melihat mukjizat besar yang tidak dapat disangkal. Allah mendedahkan kebenaran yang pahit tentang psikologi manusia. Sekalipun malaikat turun, orang mati bangkit bercakap dengan mereka, dan semua mukjizat dikumpulkan di hadapan mata mereka, orang yang sombong tetap tidak akan beriman melainkan jika Allah menghendakinya. Penolakan mereka adalah masalah hati yang sombong, bukan kerana kekurangan bukti.",
+          "Allah kemudian menjelaskan perang rohani ghaib yang berlaku di sekeliling orang mukmin. Setiap nabi menghadapi musuh: 'Syaitan-syaitan dari jenis manusia dan jin, sebahagian mereka membisikkan kepada sebahagian yang lain perkataan yang indah-indah untuk memperdaya.' Mereka menggunakan hujah yang fasih dan menarik untuk menjadikan kebatilan kelihatan indah. Ayat 116 memberikan amaran besar terhadap tekanan rakan sebaya: 'Dan jika engkau menurut kebanyakan orang yang ada di bumi, nescaya mereka akan menyesatkanmu.' Majoriti bukanlah ukuran kebenaran.",
+          "Petikan ini diakhiri dengan menghubungkan teologi dan pemakanan. Allah memerintahkan orang-orang yang beriman supaya hanya memakan daging yang disebut nama-Nya semasa penyembelihan, dan secara jelas melarang daging yang dikhususkan kepada berhala atau disembelih secara tidak wajar. Syaitan secara aktif menghasut sekutu manusia mereka untuk berdebat dengan orang mukmin mengenai hukum pemakanan ini, cuba menjadikan apa yang dilarang itu kelihatan boleh diterima."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menonjolkan amaran yang mendalam dalam ayat 116. Ibn Kathir menyatakan bahawa kebenaran tidak ditentukan oleh konsensus demokrasi atau populariti. Kebanyakan manusia bertindak berdasarkan andaian dan kebiasaan budaya. Seorang mukmin mesti berpegang teguh kepada wahyu, walaupun mereka mendapati diri mereka berdiri bersendirian."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan 'perkataan yang indah-indah' (Zukhruf al-Qawl) oleh syaitan. Ia merujuk kepada retorik yang sangat digilap dan memujuk, direka khusus untuk memperdaya akal. Ini terpakai kepada kedua-dua bisikan jin dan hujah-hujah canggih manusia yang sesat."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Merenung tentang hubungan antara diet dan hati. As-Sa'di mencatatkan bahawa mengambil sesuatu yang haram (seperti daging yang tidak disembelih kerana Allah) menggelapkan hati secara rohani dan menjadikannya lebih terdedah kepada bisikan Syaitan. Penggunaan yang suci menyemarakkan iman yang suci."
+          }
+        ],
+        "lessons": [
+          "🛑 Ilusi Orang Ramai: Jangan sesekali mendasarkan moral anda pada apa yang 'semua orang lain' lakukan. Majoriti penduduk bumi sering tersesat. Kebenaran ditentukan oleh Tuhan, bukan oleh populariti.",
+          "🗣️ Waspada Kebatilan yang Fasih: Hanya kerana sesuatu hujah kedengaran canggih, indah, atau moden tidak menjadikannya benar. Syaitan pakar dalam menjadikan racun kelihatan seperti ubat.",
+          "🥩 Jaga Makanan Anda: Apa yang anda makan secara fizikal memberi kesan rohani kepada anda. Memastikan makanan anda Halal dan disembelih dengan nama Tuhan adalah pengesahan aktif harian terhadap Tauhid anda."
+        ]
+      }
+    },
+    {
+      "id": "section-02",
+      "type": "passage",
+      "surah_number": 6,
+      "verse_start": 122,
+      "verse_end": 135,
+      "en": {
+        "title": "The Dead Brought to Life & The Plots of the Elite",
+        "theme": "Spiritual resurrection through faith, the inevitable downfall of corrupt leadership, and the ranks of the Hereafter.",
+        "arabic": "أَوَمَن كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِي بِهِ فِي النَّاسِ كَمَن مَّثَلُهُ فِي الظُّلُمَاتِ... وَكَذَٰلِكَ جَعَلْنَا فِي كُلِّ قَرْيَةٍ أَكَابِرَ مُجْرِمِيهَا لِيَمْكُرُوا فِيهَا ۖ...",
+        "translation": "And is one who was dead and We gave him life and made for him light by which to walk among the people like one whose condition is in darkness before he emerges from it?... And thus We have placed within every city the greatest of its criminals to conspire therein... ",
+        "explanation": [
+          "The passage opens with a profound metaphor. Allah compares a person without faith to a walking corpse. When they embrace Islam, they are literally 'brought to life' and given a 'light' (guidance and insight) to navigate through the complexities of society. This illuminated believer can never be compared to someone trapped in the suffocating darkness of ignorance and arrogance.",
+          "The Qur'an then addresses a universal sociological reality: in every major city or civilization, the most intense opposition to truth often comes from its 'greatest criminals'—the wealthy and political elite. They conspire and plot to maintain the status quo and protect their power. However, Allah reassures the believers: 'But they conspire not except against themselves, while they perceive [it] not.'",
+          "The passage emphasizes that Allah knows exactly who is genuinely receptive to His message. The arrogant leaders demand direct miracles or revelation for themselves, feeling entitled to prophethood. Allah dismisses their ego, stating He knows best where to place His message, and warns that severe humiliation awaits those who plot against the truth."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Explains the historical context of verse 122. Many early commentators note this example perfectly described the transformation of Umar bin Al-Khattab or Hamza bin Abdul-Muttalib, who went from being fierce enemies of Islam (spiritually dead) to becoming its greatest, most illuminated defenders."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the nature of the elites' plotting. The 'Akabir' (leaders) use their wealth and influence to spread propaganda, trying to turn the masses against the prophets. But divine justice ensures their plots ultimately orchestrate their own ruin."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Highlights the empowering psychological message for the believer. When you face massive, institutionalized opposition from powerful people, do not despair. It is a historical pattern established by Allah, and their ultimate failure is a guaranteed divine promise."
+          }
+        ],
+        "lessons": [
+          "💡 Walking in Light: True life is not just a beating heart; it is a heart illuminated by revelation. Faith gives you the clarity to see through the world's deceptions.",
+          "🏛️ The Illusion of Elite Power: Do not be intimidated by wealthy or powerful people who aggressively attack the truth. Their conspiracies are self-destructive traps.",
+          "⚖️ Divine Placement: You don't choose the truth based on who delivers it. God knows exactly who is pure enough to carry His message, and He owes no miracles to the arrogant."
+        ]
+      },
+      "ms": {
+        "title": "Yang Mati Dihidupkan & Tipu Daya Golongan Elit",
+        "theme": "Kebangkitan rohani melalui iman, kejatuhan pemimpin yang korup yang tidak dapat dielakkan, dan kedudukan di Akhirat.",
+        "arabic": "أَوَمَن كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِي بِهِ فِي النَّاسِ كَمَن مَّثَلُهُ فِي الظُّلُمَاتِ... وَكَذَٰلِكَ جَعَلْنَا فِي كُلِّ قَرْيَةٍ أَكَابِرَ مُجْرِمِيهَا لِيَمْكُرُوا فِيهَا ۖ...",
+        "translation": "Dan adakah orang yang mati (hatinya dengan kufur), kemudian Kami hidupkan dia semula (dengan hidayah petunjuk), dan Kami jadikan baginya cahaya (iman) yang menerangi (sehingga dapatlah dia membezakan antara yang benar dengan yang salah, dan dia dapat) berjalan dengan suluhan cahaya itu dalam masyarakat manusia, (adakah orang ini) sama seperti yang keadaannya dalam gelap-gelita (kufur)... Dan demikianlah Kami jadikan dalam tiap-tiap negeri orang-orang besar yang jahat supaya mereka melakukan tipu daya di negeri itu... ",
+        "explanation": [
+          "Petikan ini bermula dengan satu metafora yang mendalam. Allah membandingkan seseorang yang tidak beriman seperti mayat yang berjalan. Apabila mereka memeluk Islam, mereka secara harfiah 'dihidupkan' dan diberi 'cahaya' (petunjuk dan wawasan) untuk mengemudi kerumitan masyarakat. Orang mukmin yang diterangi cahaya ini tidak akan pernah dapat disamakan dengan seseorang yang terperangkap dalam kegelapan kejahilan dan kesombongan yang menyesakkan.",
+          "Al-Quran kemudian menangani realiti sosiologi universal: di setiap bandar besar atau tamadun, penentangan paling hebat terhadap kebenaran sering datang daripada 'penjenayah terbesarnya'—golongan elit politik dan kaya. Mereka bersekongkol dan merancang untuk mengekalkan status quo dan melindungi kuasa mereka. Namun, Allah meyakinkan orang-orang yang beriman: 'Padahal mereka hanya memperdayakan diri mereka sendiri, sedang mereka tidak menyedarinya.'",
+          "Petikan ini menekankan bahawa Allah tahu dengan tepat siapa yang benar-benar terbuka untuk menerima mesej-Nya. Pemimpin yang sombong menuntut mukjizat langsung atau wahyu untuk diri mereka sendiri, merasakan mereka berhak mendapat kenabian. Allah menolak ego mereka, menyatakan bahawa Dia lebih mengetahui di mana untuk meletakkan mesej-Nya, dan memberi amaran bahawa kehinaan yang teruk menanti mereka yang merancang menentang kebenaran."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menjelaskan konteks sejarah ayat 122. Ramai pengulas awal mencatatkan bahawa contoh ini dengan sempurna menggambarkan transformasi Umar bin Al-Khattab atau Hamza bin Abdul-Muttalib, yang berubah daripada musuh Islam yang sengit (mati secara rohani) menjadi pembela yang paling hebat dan diterangi cahaya ilahi."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan sifat tipu daya golongan elit. Golongan 'Akabir' (pemimpin) menggunakan kekayaan dan pengaruh mereka untuk menyebarkan propaganda, cuba memalingkan orang ramai daripada para nabi. Tetapi keadilan ilahi memastikan rancangan mereka akhirnya mengatur kehancuran mereka sendiri."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menonjolkan mesej psikologi yang memperkasakan bagi seorang mukmin. Apabila anda menghadapi penentangan besar dan terancang daripada orang yang berkuasa, jangan putus asa. Ia adalah corak sejarah yang ditetapkan oleh Allah, dan kegagalan muktamad mereka adalah janji ilahi yang terjamin."
+          }
+        ],
+        "lessons": [
+          "💡 Berjalan dalam Cahaya: Kehidupan sebenar bukan sekadar jantung yang berdegup; ia adalah hati yang diterangi oleh wahyu. Iman memberi anda kejelasan untuk melihat di sebalik penipuan dunia.",
+          "🏛️ Ilusi Kuasa Elit: Jangan terintimidasi oleh orang kaya atau berkuasa yang secara agresif menyerang kebenaran. Konspirasi mereka adalah perangkap yang memusnahkan diri sendiri.",
+          "⚖️ Penempatan Ilahi: Anda tidak memilih kebenaran berdasarkan siapa yang menyampaikannya. Tuhan tahu dengan tepat siapa yang cukup suci untuk membawa mesej-Nya, dan Dia tidak berhutang mukjizat kepada orang yang sombong."
+        ]
+      }
+    },
+    {
+      "id": "section-03",
+      "type": "passage",
+      "surah_number": 6,
+      "verse_start": 136,
+      "verse_end": 144,
+      "en": {
+        "title": "Exposing Superstitions & The Cruelty of Ignorance",
+        "theme": "The irrationality of man-made religious laws, the tragic consequences of blind tradition, and the sanctity of life.",
+        "arabic": "وَجَعَلُوا لِلَّهِ مِمَّا ذَرَأَ مِنَ الْحَرْثِ وَالْأَنْعَامِ نَصِيبًا فَقَالُوا هَٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَٰذَا لِشُرَكَائِنَا... وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِّنَ الْمُشْرِكِينَ قَتْلَ أَوْلَادِهِمْ شُرَكَاؤُهُمْ...",
+        "translation": "And they assign to Allah from that which He created of crops and livestock a share and say, 'This is for Allah,' by their claim, 'and this is for our partners [associated with Him]...' And likewise, to many of the polytheists their partners have made [to seem] pleasing the killing of their children... ",
+        "explanation": [
+          "The Surah exposes the chaotic, oppressive nature of man-made religion. The pre-Islamic Arabs invented bizarre, arbitrary rules about their crops and livestock. They would divide their harvest, assigning one portion to Allah and another to their idols. If the wind blew Allah's portion into the idol's pile, they left it; but if the idol's portion blew into Allah's, they took it back, using flawed logic to shortchange the Creator.",
+          "This deviation in logic soon escalated into horrific cruelty. The false religious system (and the devils behind it) eventually convinced them that killing their own children—either out of fear of poverty or as a sacrifice to the idols—was a noble, acceptable act. Allah violently condemns this: they destroyed themselves and corrupted their religion entirely.",
+          "The passage continues to mock their intricate, superstitious dietary laws. They declared certain livestock forbidden to women but lawful to men, or forbidden entirely based on arbitrary conditions. The Qur'an dismantles this by listing the 'eight mates' of livestock (sheep, goats, camels, cattle), challenging them to prove exactly when and how God supposedly made any of these specific animals forbidden. It proves that religious innovation only oppresses people."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Traces the psychological descent of Shirk (polytheism). Ibn Kathir explains that Satan's manipulation is gradual. He starts by making people invent minor superstitions about food and livestock. Once their intellect is compromised by these silly rules, he pushes them into the ultimate crime: the murder of their own children."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the grammatical and logical breakdown in the verses dealing with the 'eight mates.' By demanding proof, the Qur'an highlights that making something Halal (lawful) or Haram (prohibited) is the exclusive right of God, not cultural tradition."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Notes how false religions always exploit the weak. The man-made laws of the polytheists conveniently benefited the powerful men while severely restricting the rights and food of women, and ultimately demanding the lives of defenseless children. Divine law protects the vulnerable; man-made law often exploits them."
+          }
+        ],
+        "lessons": [
+          "⚖️ The Danger of Innovation: Inventing religious rules is not a sign of piety; it is an arrogant claim that you know better than God. Keep the religion pure and simple as it was revealed.",
+          "📉 The Slippery Slope: Small superstitions lead to massive oppression. When a society abandons divine logic, it eventually normalizes horrific cruelties, like harming children for economic or ideological reasons.",
+          "👧 Children are a Blessing: A child is never a burden. The same God who creates the child provides the sustenance for that child. Destroying life out of fear of poverty is a severe lack of trust in the Provider."
+        ]
+      },
+      "ms": {
+        "title": "Membongkar Khurafat & Kekejaman Jahiliyyah",
+        "theme": "Ketidakrasionalan undang-undang agama buatan manusia, akibat tragis tradisi membuta tuli, dan kesucian nyawa.",
+        "arabic": "وَجَعَلُوا لِلَّهِ مِمَّا ذَرَأَ مِنَ الْحَرْثِ وَالْأَنْعَامِ نَصِيبًا فَقَالُوا هَٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَٰذَا لِشُرَكَائِنَا... وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِّنَ الْمُشْرِكِينَ قَتْلَ أَوْلَادِهِمْ شُرَكَاؤُهُمْ...",
+        "translation": "Dan mereka (orang-orang musyrik) memperuntukkan bagi Allah satu bahagian dari tanaman dan binatang ternak yang diciptakan oleh Allah, lalu mereka berkata: 'Ini untuk Allah' - menurut anggapan mereka - 'dan ini untuk berhala-berhala kami'... Dan demikianlah juga, berhala-berhala (yang dipercayai) oleh kebanyakan orang-orang musyrik itu telah memperelokkan pada pandangan mereka perbuatan membunuh anak-anak mereka... ",
+        "explanation": [
+          "Surah ini mendedahkan sifat agama buatan manusia yang kucar-kacir dan menindas. Orang Arab pra-Islam mencipta peraturan yang pelik dan sewenang-wenangnya tentang tanaman dan ternakan mereka. Mereka akan membahagikan hasil tuaian mereka, memperuntukkan satu bahagian untuk Allah dan satu bahagian lagi untuk berhala mereka. Jika angin meniup bahagian Allah ke dalam longgokan berhala, mereka membiarkannya; tetapi jika bahagian berhala ditiup ke dalam bahagian Allah, mereka mengambilnya kembali, menggunakan logik cacat untuk menipu Pencipta.",
+          "Penyimpangan logik ini tidak lama kemudian memuncak kepada kekejaman yang mengerikan. Sistem agama yang palsu (dan syaitan di sebaliknya) akhirnya meyakinkan mereka bahawa membunuh anak mereka sendiri—sama ada kerana takut miskin atau sebagai korban kepada berhala—adalah satu tindakan yang mulia dan boleh diterima. Allah mengecam sekeras-kerasnya perkara ini: mereka membinasakan diri mereka sendiri dan merosakkan agama mereka sepenuhnya.",
+          "Petikan ini berterusan mengejek undang-undang pemakanan mereka yang rumit dan berbaur khurafat. Mereka mengisytiharkan ternakan tertentu diharamkan untuk wanita tetapi halal untuk lelaki, atau diharamkan sepenuhnya berdasarkan syarat-syarat yang tidak munasabah. Al-Quran membongkar ini dengan menyenaraikan 'lapan ekor' haiwan ternakan yang berpasangan (biri-biri, kambing, unta, lembu), mencabar mereka untuk membuktikan dengan tepat bila dan bagaimana Tuhan kononnya mengharamkan mana-mana haiwan khusus ini. Ia membuktikan bahawa ciptaan baru dalam agama hanya menindas manusia."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menjejaki kemerosotan psikologi akibat Syirik. Ibn Kathir menjelaskan bahawa manipulasi Syaitan berlaku secara beransur-ansur. Dia bermula dengan membuat manusia mencipta khurafat kecil tentang makanan dan ternakan. Sebaik sahaja akal mereka dirosakkan oleh peraturan bodoh ini, dia menolak mereka kepada jenayah terbesar: pembunuhan anak mereka sendiri."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan pecahan tatabahasa dan logik dalam ayat-ayat yang membincangkan 'lapan pasangan.' Dengan menuntut bukti, al-Quran menonjolkan bahawa menghalalkan atau mengharamkan sesuatu adalah hak mutlak Tuhan, bukan tradisi budaya."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Mencatatkan bagaimana agama palsu sentiasa mengeksploitasi golongan yang lemah. Undang-undang ciptaan manusia golongan musyrik dengan mudah memberi manfaat kepada lelaki yang berkuasa sambil menyekat hak dan makanan wanita, dan akhirnya menuntut nyawa kanak-kanak yang tidak berdaya. Undang-undang ilahi melindungi golongan yang terdedah; undang-undang ciptaan manusia sering mengeksploitasi mereka."
+          }
+        ],
+        "lessons": [
+          "⚖️ Bahaya Bidaah (Inovasi): Mencipta peraturan agama bukanlah tanda ketakwaan; ia adalah dakwaan sombong bahawa anda lebih mengetahui daripada Tuhan. Kekalkan agama dalam keadaan murni dan mudah seperti mana ia diturunkan.",
+          "📉 Cerun yang Licin: Khurafat kecil membawa kepada penindasan yang besar. Apabila sesebuah masyarakat mengabaikan logik ilahi, ia akhirnya menormalisasikan kekejaman yang mengerikan, seperti membahayakan kanak-kanak atas sebab ekonomi atau ideologi.",
+          "👧 Anak adalah Rahmat: Seorang anak tidak pernah menjadi beban. Tuhan yang sama yang mencipta kanak-kanak itu menyediakan rezeki untuknya. Memusnahkan nyawa kerana takut miskin adalah petanda kurangnya tawakal yang teruk kepada Yang Maha Pemberi Rezeki."
+        ]
+      }
+    },
+    {
+      "id": "section-04",
+      "type": "passage",
+      "surah_number": 6,
+      "verse_start": 145,
+      "verse_end": 154,
+      "en": {
+        "title": "The Straight Path & The Ten Commandments",
+        "theme": "The universal ethical foundations of Islam, dismantling restrictive religious innovations, and the unified path of God.",
+        "arabic": "قُلْ تَعَالَوْا أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا ۖ... وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا السُّبُلَ...",
+        "translation": "Say, 'Come, I will recite what your Lord has prohibited to you. [He commands] that you not associate anything with Him, and to parents, good treatment...' And, [moreover], this is My path, which is straight, so follow it; and do not follow [other] ways... ",
+        "explanation": [
+          "After exposing the exhausting maze of man-made rules and superstitions, the Qur'an clears the air. Allah tells the Prophet ﷺ to lay out exactly what is genuinely forbidden. Verse 145 establishes the true dietary prohibitions: carrion, flowing blood, swine, and meat dedicated to false gods. Everything else the polytheists invented was a lie.",
+          "The passage then peaks in verses 151-153, delivering a crystal-clear, universal manifesto of Islamic ethics, often referred to as the 'Ten Commandments' of the Qur'an. They are: 1. Worship only Allah. 2. Treat parents with excellence. 3. Do not kill your children out of poverty. 4. Do not approach immoralities, open or secret. 5. Do not kill unjustly. 6. Protect the wealth of orphans. 7. Give full measure and weight in business. 8. Speak justly, even against relatives. 9. Fulfill the covenant of Allah. 10. Follow the Straight Path.",
+          "Allah concludes by drawing a powerful visual line. 'This is My path, which is straight, so follow it.' He warns believers not to follow divergent, sectarian paths ('Subul') because those side-roads will scatter and divide the Ummah away from the unified, straight highway of truth."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Emphasizes that these ten commandments form the unchangeable core of every single divine revelation. Ibn Kathir notes that these exact ethical laws were given to Musa in the Torah and 'Isa in the Gospel. They represent the universal moral baseline for humanity."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Focuses on the commandment 'do not approach immoralities.' The linguistic choice of 'approach' means believers must not only avoid the actual sin (like adultery), but also avoid the pathways, environments, and situations that lead up to it."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Reflects on the beauty of the 'Straight Path.' As-Sa'di points out that falsehood has thousands of confusing, twisting paths, but truth is a single, clear, straight road. Staying on it guarantees arrival at the destination (Paradise) without getting lost in sectarianism."
+          }
+        ],
+        "lessons": [
+          "📜 The Core of Morality: True religion is not about complex, superstitious rituals; it is about establishing a functional, ethical society where God is honored, parents are respected, and justice is absolute.",
+          "💼 Ethics in the Marketplace: Cheating in business or giving short measure is elevated here to a major sin listed alongside polytheism and murder. Islam demands absolute integrity in all transactions.",
+          "🛣️ Stay on the Highway: Do not get distracted by sectarian debates, weird ideologies, or modern spiritual fads. Stick to the clear, straight path of the Qur'an and Sunnah."
+        ]
+      },
+      "ms": {
+        "title": "Jalan yang Lurus & Sepuluh Perintah",
+        "theme": "Asas etika universal Islam, membongkar inovasi agama yang menyekat, dan jalan Tuhan yang bersatu padu.",
+        "arabic": "قُلْ تَعَالَوْا أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا ۖ... وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا السُّبُلَ...",
+        "translation": "Katakanlah: 'Marilah, supaya aku bacakan apa yang telah diharamkan oleh Tuhan kamu kepada kamu, iaitu janganlah kamu menyekutukan dengan-Nya sesuatupun; dan hendaklah (kamu) berbuat baik kepada ibu bapa...' Dan bahawa sesungguhnya inilah jalan-Ku (ugama Islam) yang lurus, maka hendaklah kamu menurutnya; dan janganlah kamu menurut jalan-jalan (yang lain dari Islam)... ",
+        "explanation": [
+          "Selepas mendedahkan peraturan dan khurafat ciptaan manusia yang memenatkan, al-Quran menjernihkan keadaan. Allah memberitahu Nabi ﷺ untuk membentangkan dengan tepat apa yang benar-benar diharamkan. Ayat 145 menetapkan larangan pemakanan yang sebenar: bangkai, darah yang mengalir, babi, dan daging yang dikhususkan untuk tuhan palsu. Segala perkara lain yang direka oleh kaum musyrik adalah pembohongan.",
+          "Petikan ini kemudian memuncak dalam ayat 151-153, menyampaikan manifesto etika Islam yang sangat jelas dan universal, sering dirujuk sebagai 'Sepuluh Perintah' al-Quran. Ia adalah: 1. Sembah hanya Allah. 2. Berbuat baik kepada ibu bapa. 3. Jangan bunuh anak kerana miskin. 4. Jangan dekati perbuatan keji, terang atau tersembunyi. 5. Jangan membunuh tanpa hak. 6. Lindungi harta anak yatim. 7. Sempurnakan sukatan dan timbangan dalam perniagaan. 8. Bercakap benar/adil, walaupun terhadap saudara mara. 9. Penuhi perjanjian Allah. 10. Ikuti Jalan yang Lurus.",
+          "Allah mengakhiri dengan melukiskan satu garisan visual yang kuat. 'Sesungguhnya inilah jalan-Ku yang lurus, maka hendaklah kamu menurutnya.' Dia memberi amaran kepada orang beriman agar tidak mengikut jalan-jalan yang berpecah dan berpuak-puak ('Subul') kerana jalan-jalan kecil itu akan menyerakkan dan memisahkan Ummah daripada lebuh raya kebenaran yang bersatu dan lurus."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menegaskan bahawa sepuluh perintah ini membentuk teras yang tidak boleh diubah bagi setiap wahyu ilahi. Ibn Kathir mencatatkan bahawa undang-undang etika yang sama ini diberikan kepada Musa dalam Taurat dan 'Isa dalam Injil. Ia mewakili garis asas moral universal untuk manusia."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Memfokuskan kepada perintah 'janganlah kamu menghampiri kejahatan.' Pilihan linguistik 'menghampiri' bermaksud orang mukmin bukan sahaja mesti mengelakkan dosa yang sebenar (seperti zina), tetapi juga mengelakkan laluan, persekitaran, dan situasi yang membawa kepadanya."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Merenung tentang keindahan 'Jalan yang Lurus.' As-Sa'di menunjukkan bahawa kebatilan mempunyai beribu-ribu jalan yang mengelirukan dan berliku-liku, tetapi kebenaran adalah satu jalan lurus yang tunggal dan jelas. Kekal di atasnya menjamin ketibaan di destinasi (Syurga) tanpa tersesat dalam fahaman berpuak-puak."
+          }
+        ],
+        "lessons": [
+          "📜 Teras Moraliti: Agama sebenar bukan tentang ritual yang kompleks dan berbaur khurafat; ia adalah tentang membina sebuah masyarakat yang berfungsi dan beretika di mana Tuhan dimuliakan, ibu bapa dihormati, dan keadilan ditegakkan secara mutlak.",
+          "💼 Etika dalam Pasaran: Menipu dalam perniagaan atau mengurangkan timbangan diangkat di sini sebagai dosa besar yang disenaraikan bersama syirik dan pembunuhan. Islam menuntut integriti mutlak dalam semua urus niaga.",
+          "🛣️ Kekal di Lebuh Raya Utama: Jangan terganggu oleh perdebatan berpuak-puak, ideologi yang pelik, atau trend kerohanian moden. Berpeganglah pada jalan al-Quran dan Sunnah yang jelas dan lurus."
+        ]
+      }
+    },
+    {
+      "id": "section-05",
+      "type": "passage",
+      "surah_number": 6,
+      "verse_start": 155,
+      "verse_end": 165,
+      "en": {
+        "title": "The Division of Sects & The Ultimate Declaration",
+        "theme": "The prohibition of sectarianism, absolute personal accountability, and dedicating every breath to the Creator.",
+        "arabic": "وَهَٰذَا كِتَابٌ أَنزَلْنَاهُ مُبَارَكٌ فَاتَّبِعُوهُ... إِنَّ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعًا لَّسْتَ مِنْهُمْ فِي شَيْءٍ ۚ... قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ ۝ لَا شَرِيكَ لَهُ ۖ...",
+        "translation": "And this is a Book We have revealed [which is] blessed, so follow it... Indeed, those who have divided their religion and become sects - you, [O Muhammad], are not [associated] with them in anything... Say, 'Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allah, Lord of the worlds. No partner has He...' ",
+        "explanation": [
+          "Surah Al-An'am concludes with a severe and uncompromising warning against sectarianism. Allah tells the Prophet ﷺ that anyone who splinters the pure, unified religion into hostile sects (Shi'an) has absolutely no association with him. Islam is a unified highway; creating tribal, political, or ideological splinter groups destroys the Ummah.",
+          "The passage establishes the law of ultimate personal accountability: 'And no bearer of burdens will bear the burden of another.' You cannot blame your leaders, your society, or your ancestors for your choices on the Day of Judgment. You stand alone before God.",
+          "The Surah peaks with one of the most comprehensive, beautiful, and famous declarations of faith in the entire Qur'an (Verse 162). A believer is commanded to say: 'Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allah, Lord of the worlds.' It strips away all worldly ego. A true Muslim does not just pray to God; they live, breathe, and even die entirely for the sake of the Creator. The Surah ends by reminding humanity that they are 'successors upon the earth'—temporary managers being tested with whatever wealth or status they have been given."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Stresses the severity of verse 159 regarding sects. He notes this applies to anyone who abandons the clear, unified path of the Qur'an and Sunnah to follow desires, innovations, or divisive group identities. The Prophet ﷺ is completely absolved of their actions."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the final verse regarding differing ranks. Allah raises some people above others in wealth, intellect, or status not as a reward, but 'to test you in what He has given you.' Every privilege is an examination of gratitude and responsibility."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Reflects on the completeness of verse 162. As-Sa'di notes that mentioning 'my living and my dying' after prayer and sacrifice shows that faith is not a part-time activity confined to a mosque. A believer's career, family life, and eventual death are all intentional acts of worship dedicated to God."
+          }
+        ],
+        "lessons": [
+          "🚫 The Danger of Sects: Splintering into hostile religious groups or obsessing over labels destroys the unity of Islam. Stick to the foundational, clear teachings of the Qur'an.",
+          "⚖️ You Stand Alone: Do not follow the crowd under the illusion that there is safety in numbers. On Judgment Day, no one else will carry your sins.",
+          "🤲 An All-Encompassing Life: True submission means your entire existence is aligned with God's will. When you work, study, or raise a family with the intention of pleasing Him, your entire life becomes an act of worship."
+        ]
+      },
+      "ms": {
+        "title": "Perpecahan Kumpulan & Pengisytiharan Mutlak",
+        "theme": "Larangan berpuak-puak (sektarianisme), kebertanggungjawaban peribadi yang mutlak, dan mendedikasikan setiap nafas kepada Pencipta.",
+        "arabic": "وَهَٰذَا كِتَابٌ أَنزَلْنَاهُ مُبَارَكٌ فَاتَّبِعُوهُ... إِنَّ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعًا لَّسْتَ مِنْهُمْ فِي شَيْءٍ ۚ... قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ ۝ لَا شَرِيكَ لَهُ ۖ...",
+        "translation": "Dan ini sebuah Kitab yang Kami turunkan, yang ada berkatnya, oleh itu turutlah ia... Bahawasanya orang-orang yang mencerai-beraikan ugama mereka, dan mereka menjadi berpuak-puak, tiadalah engkau terkait sedikitpun dalam (perbuatan) mereka... Katakanlah: 'Sesungguhnya sembahyangku, ibadatku, hidupku dan matiku hanyalah untuk Allah, Tuhan yang memelihara dan mentadbirkan sekalian alam. Tiada sekutu bagi-Nya...' ",
+        "explanation": [
+          "Surah Al-An'am diakhiri dengan amaran keras dan tidak berkompromi terhadap perpecahan (sektarianisme). Allah memberitahu Nabi ﷺ bahawa sesiapa yang memecahbelahkan agama yang murni dan bersatu padu kepada kumpulan-kumpulan yang bermusuhan (Syi'ah) sama sekali tiada kaitan dengan baginda. Islam adalah satu lebuh raya yang bersatu; mencipta kumpulan serpihan berasaskan kabilah, politik, atau ideologi akan menghancurkan Ummah.",
+          "Petikan ini menetapkan undang-undang kebertanggungjawaban peribadi yang mutlak: 'Dan seseorang yang boleh memikul tidak akan memikul dosa perbuatan orang lain.' Anda tidak boleh menyalahkan pemimpin, masyarakat, atau nenek moyang anda atas pilihan anda pada Hari Kiamat. Anda berdiri sendirian di hadapan Tuhan.",
+          "Surah ini memuncak dengan salah satu pengisytiharan iman yang paling komprehensif, indah, dan masyhur dalam keseluruhan al-Quran (Ayat 162). Seorang mukmin diperintahkan untuk berkata: 'Sesungguhnya sembahyangku, ibadatku, hidupku dan matiku hanyalah untuk Allah, Tuhan sekalian alam.' Ia menyingkirkan semua ego duniawi. Seorang Muslim sejati bukan sekadar berdoa kepada Tuhan; mereka hidup, bernafas, dan malah mati sepenuhnya demi Pencipta. Surah ini diakhiri dengan mengingatkan umat manusia bahawa mereka adalah 'khalifah di bumi'—pengurus sementara yang diuji dengan apa jua kekayaan atau status yang telah diberikan kepada mereka."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menegaskan ketegasan ayat 159 mengenai kumpulan berpuak-puak. Beliau mencatatkan ini terpakai kepada sesiapa yang meninggalkan jalan al-Quran dan Sunnah yang jelas dan bersatu untuk mengikuti hawa nafsu, bidaah, atau identiti kumpulan yang memecahbelahkan. Nabi ﷺ dilepaskan sepenuhnya daripada tindakan mereka."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan ayat terakhir mengenai perbezaan darjat. Allah mengangkat sebahagian manusia lebih tinggi daripada yang lain dalam kekayaan, akal, atau status bukan sebagai ganjaran, tetapi 'untuk menguji kamu pada apa yang telah dikurniakan-Nya.' Setiap keistimewaan adalah ujian tentang rasa syukur dan tanggungjawab."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Merenung tentang kesempurnaan ayat 162. As-Sa'di mencatatkan bahawa menyebut 'hidupku dan matiku' selepas solat dan ibadah menunjukkan bahawa iman bukanlah aktiviti sambilan yang terhad di masjid. Kerjaya, kehidupan berkeluarga, dan kematian muktamad seorang mukmin semuanya adalah perbuatan ibadah yang disengajakan dan didedikasikan kepada Tuhan."
+          }
+        ],
+        "lessons": [
+          "🚫 Bahaya Berpuak-puak: Berpecah kepada kumpulan agama yang bermusuhan atau terlalu taasub pada label memusnahkan perpaduan Islam. Berpegang teguhlah kepada ajaran asas al-Quran yang jelas.",
+          "⚖️ Anda Berdiri Sendirian: Jangan ikut orang ramai di bawah ilusi bahawa ada keselamatan dalam jumlah yang ramai. Pada Hari Kiamat, tiada siapa yang akan memikul dosa anda.",
+          "🤲 Kehidupan yang Menyeluruh: Penyerahan sebenar bermaksud seluruh kewujudan anda selari dengan kehendak Tuhan. Apabila anda bekerja, belajar, atau membesarkan keluarga dengan niat untuk menyenangkan-Nya, seluruh hidup anda menjadi ibadah."
+        ]
+      }
+    },
+    {
+      "id": "section-06",
+      "type": "surah-intro",
+      "surah_number": 7,
+      "en": {
+        "arabic_name": "الأعراف",
+        "name": "Al-A'raf (The Heights)",
+        "classification": "Makkan",
+        "verses": 206,
+        "epithet": "The Surah of Human History and Divine Covenants",
+        "background": "Revealed in Makkah. It acts as a sweeping historical and narrative continuation of the theological arguments made in Surah Al-An'am.",
+        "desc": "Surah Al-A'raf is an epic, cinematic Surah. If Surah Al-An'am was about theological debates, Surah Al-A'raf is about showing those theology in action across human history. It begins at the absolute dawn of time with the cosmic battle between Adam and Iblis, and then traces the rise and fall of major human civilizations (Nuh, Hud, Salih, Lut, Shu'ayb, and Musa). It famously introduces the concept of 'Al-A'raf'—an elevated wall between Paradise and Hell where people whose good and bad deeds are perfectly equal wait in suspense for Allah's mercy."
+      },
+      "ms": {
+        "arabic_name": "الأعراف",
+        "name": "Al-A'raf (Tempat Tertinggi)",
+        "classification": "Makkiyyah",
+        "verses": 206,
+        "epithet": "Surah Sejarah Manusia dan Perjanjian Ilahi",
+        "background": "Diturunkan di Makkah. Ia bertindak sebagai kesinambungan sejarah dan naratif yang luas kepada hujah-hujah teologi yang dibuat dalam Surah Al-An'am.",
+        "desc": "Surah Al-A'raf ialah sebuah Surah yang epik dan sinematik. Jika Surah Al-An'am adalah mengenai perdebatan teologi, Surah Al-A'raf memaparkan teologi tersebut secara praktikal merentas sejarah manusia. Ia bermula pada fajar masa yang mutlak dengan pertempuran kosmik antara Adam dan Iblis, dan kemudian menjejaki kebangkitan dan kejatuhan tamadun manusia yang besar (Nuh, Hud, Salih, Lut, Syu'aib, dan Musa). Ia dengan masyhurnya memperkenalkan konsep 'Al-A'raf'—sebuah tembok yang tinggi di antara Syurga dan Neraka di mana orang yang kebaikan dan keburukannya seimbang dengan sempurna menunggu dalam keadaan tergantung-gantung mengharapkan rahmat Allah."
+      }
+    },
+    {
+      "id": "section-07",
+      "type": "passage",
+      "surah_number": 7,
+      "verse_start": 1,
+      "verse_end": 25,
+      "en": {
+        "title": "The Fall of Iblis & The Expulsion from Eden",
+        "theme": "The anatomy of arrogance versus the anatomy of repentance, and Satan's multi-directional warfare.",
+        "arabic": "كِتَابٌ أُنزِلَ إِلَيْكَ فَلَا يَكُن فِي صَدْرِكَ حَرَجٌ مِّنْهُ... قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ ۖ قَالَ أَنَا خَيْرٌ مِّنْهُ... قَالَا رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+        "translation": "[This is] a Book revealed to you, so let there not be in your breast distress therefrom... [Allah] said, 'What prevented you from prostrating when I commanded you?' [Satan] said, 'I am better than him.'... They said, 'Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.' ",
+        "explanation": [
+          "Surah Al-A'raf begins by comforting the Prophet ﷺ. The immense weight and opposition to the Qur'an caused a physical 'heaviness' in his chest; Allah commands him not to feel distress, but to boldly warn the people. The narrative then shifts to the origin of human conflict: the creation of Adam.",
+          "When commanded to prostrate to Adam, Iblis refuses. He uses flawed, arrogant logic: 'I am better than him. You created me from fire and created him from clay.' Allah expels him, but Iblis begs for a delay until Judgment Day. Granted the delay, Iblis reveals his military strategy: 'I will come to them from before them and from behind them and on their right and on their left, and You will not find most of them grateful.' He plans to attack humanity from every psychological and physical angle to rob them of gratitude.",
+          "Adam and his wife are placed in Paradise with a single restriction: do not approach one specific tree. Satan does not force them; he 'whispers' to them, swearing a false oath that he is a sincere advisor and that eating from the tree will turn them into angels or grant them immortality. They slip and eat from it. Instantly, their spiritual garments are stripped away. However, unlike Iblis who blamed God ('Because You have put me in error'), Adam and his wife take immediate personal responsibility. They utter the most profound prayer of repentance: 'Our Lord, we have wronged ourselves...'"
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Deeply analyzes Satan's four angles of attack. 'From before them' means making them doubt the Hereafter. 'From behind them' means making them overly attached to worldly wealth and legacy. 'From their right' means confusing them about their religious duties. 'From their left' means making sins look beautiful and appealing."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies how Satan deceived them. He used 'Deceit' (Ghurur). By swearing by Allah that he was a sincere advisor, he exploited their innocence, as Adam could not fathom that anyone would swear a false oath by the name of God."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Contrasts the two reactions to sin. Iblis sinned out of arrogant rebellion and blamed God. Adam sinned out of forgetfulness and desire, and immediately blamed himself. Thus, anyone who justifies their sin imitates Satan, while anyone who admits their flaw and repents imitates their father, Adam."
+          }
+        ],
+        "lessons": [
+          "🛡️ Guard Your Gratitude: Satan's ultimate goal is not just to make you sin, but to make you ungrateful. A complaining, bitter heart is Satan's greatest victory.",
+          "🧠 The Trap of False Advisors: Just because someone sounds caring, or even uses religious language (swearing by God), does not mean they are guiding you correctly. Always weigh advice against God's explicit commands.",
+          "🔄 The Anatomy of Repentance: Making a mistake does not make you evil; it makes you human. True evil is justifying the mistake. The path to redemption is immediate, tearful ownership of your actions: 'Lord, I have wronged myself.'"
+        ]
+      },
+      "ms": {
+        "title": "Kejatuhan Iblis & Pengusiran dari Syurga",
+        "theme": "Anatomi kesombongan berbanding anatomi taubat, dan serangan Syaitan dari pelbagai arah.",
+        "arabic": "كِتَابٌ أُنزِلَ إِلَيْكَ فَلَا يَكُن فِي صَدْرِكَ حَرَجٌ مِّنْهُ... قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ ۖ قَالَ أَنَا خَيْرٌ مِّنْهُ... قَالَا رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+        "translation": "(Al-Quran ini) sebuah Kitab yang diturunkan kepadamu (wahai Muhammad), oleh itu janganlah ada perasaan resah di dadamu mengenainya... Allah berfirman: 'Apakah yang menghalangmu daripada turut sujud ketika Aku perintahmu?' Iblis menjawab: 'Aku lebih baik daripadanya...' Mereka berdua merayu: 'Wahai Tuhan kami, kami telah menzalimi diri kami sendiri, dan kalau Engkau tidak mengampunkan kami dan memberi rahmat kepada kami, nescaya menjadilah kami dari orang-orang yang rugi.'",
+        "explanation": [
+          "Surah Al-A'raf bermula dengan memujuk Nabi ﷺ. Beratnya tekanan dan penentangan terhadap al-Quran menyebabkan rasa 'sempit' secara fizikal di dadanya; Allah memerintahkannya agar tidak merasa resah, tetapi memberi amaran kepada manusia dengan berani. Naratif kemudian beralih kepada asal usul konflik manusia: penciptaan Adam.",
+          "Apabila diperintahkan untuk sujud kepada Adam, Iblis enggan. Dia menggunakan logik yang cacat dan sombong: 'Aku lebih baik daripadanya. Engkau ciptakan aku dari api dan Engkau ciptakan dia dari tanah.' Allah mengusirnya, tetapi Iblis merayu penangguhan sehingga Hari Kiamat. Setelah penangguhan diberikan, Iblis mendedahkan strategi ketenteraannya: 'Aku akan mendatangi mereka dari hadapan mereka serta dari belakang mereka, dan dari kanan mereka serta dari kiri mereka; dan Engkau tidak akan dapati kebanyakan mereka bersyukur.' Dia merancang untuk menyerang manusia dari setiap sudut psikologi dan fizikal untuk merompak rasa syukur mereka.",
+          "Adam dan isterinya ditempatkan di Syurga dengan satu sekatan: jangan dekati satu pokok tertentu. Syaitan tidak memaksa mereka; dia 'membisikkan' kepada mereka, bersumpah palsu bahawa dia adalah penasihat yang ikhlas dan memakan buah dari pokok itu akan menukar mereka menjadi malaikat atau memberikan mereka keabadian. Mereka tergelincir dan memakannya. Serta-merta, pakaian rohani mereka dilucutkan. Namun, tidak seperti Iblis yang menyalahkan Tuhan ('Kerana Engkau telah menjadikan daku sesat'), Adam dan isterinya mengambil tanggungjawab peribadi serta-merta. Mereka mengucapkan doa taubat yang paling mendalam: 'Wahai Tuhan kami, kami telah menzalimi diri kami sendiri...'"
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menganalisis secara mendalam empat arah serangan Syaitan. 'Dari hadapan mereka' bermaksud membuat mereka meragui Akhirat. 'Dari belakang mereka' bermaksud membuat mereka terlalu terikat dengan kekayaan dan warisan dunia. 'Dari kanan mereka' bermaksud mengelirukan mereka tentang tugas agama mereka. 'Dari kiri mereka' bermaksud menjadikan dosa kelihatan indah dan menarik."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan bagaimana Syaitan memperdaya mereka. Dia menggunakan 'Tipu Daya' (Ghurur). Dengan bersumpah atas nama Allah bahawa dia seorang penasihat yang ikhlas, dia mengeksploitasi kepolosan mereka, kerana Adam tidak dapat membayangkan bahawa ada orang yang akan bersumpah palsu dengan nama Tuhan."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Membezakan kedua-dua reaksi terhadap dosa. Iblis berdosa kerana pemberontakan yang sombong dan menyalahkan Tuhan. Adam berdosa kerana terlupa dan hawa nafsu, dan segera menyalahkan dirinya sendiri. Oleh itu, sesiapa yang mencari alasan untuk menghalalkan dosanya sedang meniru Syaitan, manakala sesiapa yang mengakui kelemahannya dan bertaubat sedang meniru bapa mereka, Adam."
+          }
+        ],
+        "lessons": [
+          "🛡️ Jaga Rasa Syukur Anda: Matlamat utama Syaitan bukan sekadar untuk membuat anda berdosa, tetapi untuk menjadikan anda tidak bersyukur. Hati yang selalu mengeluh dan pahit adalah kemenangan terbesar Syaitan.",
+          "🧠 Perangkap Penasihat Palsu: Hanya kerana seseorang itu kedengaran mengambil berat, atau bahkan menggunakan bahasa agama (bersumpah demi Tuhan), tidak bermakna mereka membimbing anda dengan betul. Sentiasa timbang nasihat dengan perintah Tuhan yang jelas.",
+          "🔄 Anatomi Taubat: Melakukan kesilapan tidak menjadikan anda jahat; ia menjadikan anda manusia. Kejahatan sebenar adalah mencipta alasan untuk menghalalkan kesilapan tersebut. Jalan menuju penebusan ialah dengan segera, penuh air mata, mengambil tanggungjawab atas tindakan anda: 'Wahai Tuhanku, aku telah menzalimi diriku.'"
+        ]
+      }
+    },
+    {
+      "id": "section-08",
+      "type": "passage",
+      "surah_number": 7,
+      "verse_start": 26,
+      "verse_end": 39,
+      "en": {
+        "title": "The Garment of Piety & The Dialogue of Hellfire",
+        "theme": "The spiritual and physical necessity of modesty, Satan's ongoing war against human dignity, and the bitter disputes of the damned.",
+        "arabic": "يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي سَوْآتِكُمْ وَرِيشًا ۖ وَلِبَاسُ التَّقْوَىٰ ذَٰلِكَ خَيْرٌ... كُلَّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا ۖ...",
+        "translation": "O children of Adam, We have bestowed upon you clothing to conceal your private parts and as adornment. But the clothing of righteousness - that is best... Every time a nation enters [Hell], it will curse its sister [nation]... ",
+        "explanation": [
+          "Following the story of Adam being stripped of his heavenly garments, Allah directly addresses all humanity ('O children of Adam'). He reminds us that physical clothing is a divine blessing meant to conceal our vulnerabilities and provide dignity (adornment). However, He immediately introduces a higher concept: 'The clothing of righteousness (Taqwa) - that is best.' Physical clothes cover the flaws of the body, but Taqwa covers the flaws of the soul.",
+          "The Qur'an issues a severe warning: Satan’s first successful attack on humanity was stripping them of their modesty. He continues this exact tactic today, trying to normalize shamelessness and convince humans to discard their physical and spiritual coverings to humiliate them.",
+          "The scene then fast-forwards to the Day of Judgment, capturing a terrifying dialogue inside Hellfire. When blind followers are thrown into the Fire, they do not find solidarity with their leaders. Instead, 'every time a nation enters, it will curse its sister.' The followers will scream at God, begging Him to double the punishment of the leaders who misled them. The leaders will ruthlessly reply, 'You have no superiority over us; you chose to follow.' It is the ultimate display of toxic loyalty unraveling into eternal hatred."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Explains the pre-Islamic context of these verses. The pagan Arabs used to perform Tawaf (circumambulation) around the Ka'bah completely naked, claiming they would not worship God in the clothes they committed sins in. The Qur'an dismantled this twisted logic, mandating physical modesty as an essential part of worship."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Analyzes the word 'Reesh' (adornment/feathers). It signifies that clothing is not just functional for survival; Allah permits and provides beautiful clothing for aesthetic joy. The sin is not in dressing well, but in arrogance and extravagance."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Draws a profound connection between the two garments. Just as a person feels deep shame when their physical body is exposed, a believer should feel intense spiritual shame when their lack of Taqwa exposes their soul to sin. A naked soul is far more tragic than a naked body."
+          }
+        ],
+        "lessons": [
+          "👗 Modesty is Divine: The push toward shamelessness and the stripping of physical modesty is not 'modern freedom'; it is the oldest, most literal trick in Satan's playbook to strip humanity of its God-given dignity.",
+          "🧥 Dress the Soul: You can wear the most expensive, beautiful clothes in the world, but if your heart lacks God-consciousness, you are spiritually naked and vulnerable.",
+          "👥 Toxic Leadership: Blindly following corrupt influencers or leaders because it is culturally popular will end in mutual hatred. On Judgment Day, those you compromised your religion for will completely disown you."
+        ]
+      },
+      "ms": {
+        "title": "Pakaian Ketakwaan & Dialog Api Neraka",
+        "theme": "Keperluan fizikal dan rohani untuk kesopanan, perang berterusan Syaitan terhadap maruah manusia, dan pertengkaran sengit golongan yang dilaknat.",
+        "arabic": "يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي سَوْآتِكُمْ وَرِيشًا ۖ وَلِبَاسُ التَّقْوَىٰ ذَٰلِكَ خَيْرٌ... كُلَّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا ۖ...",
+        "translation": "Wahai anak-anak Adam! Sesungguhnya Kami telah menurunkan kepada kamu pakaian untuk menutup aurat kamu, dan pakaian perhiasan. Dan pakaian ketakwaan itulah yang sebaik-baiknya... Tiap-tiap kali masuk suatu umat, ia melaknat umat yang terdahulu daripadanya... ",
+        "explanation": [
+          "Berikutan kisah Adam yang dilucutkan pakaian syurgawinya, Allah secara langsung menyeru seluruh umat manusia ('Wahai anak-anak Adam'). Dia mengingatkan kita bahawa pakaian fizikal adalah rahmat ilahi yang bertujuan untuk menyembunyikan kelemahan kita dan memberikan kemuliaan (perhiasan). Namun, Dia segera memperkenalkan konsep yang lebih tinggi: 'Pakaian ketakwaan - itulah yang sebaik-baiknya.' Pakaian fizikal menutup cacat cela tubuh, tetapi ketakwaan menutup cacat cela jiwa.",
+          "Al-Quran mengeluarkan amaran keras: Serangan pertama Syaitan yang berjaya ke atas manusia adalah melucutkan kesopanan mereka. Dia meneruskan taktik yang sama hari ini, cuba menormalisasikan perbuatan tidak tahu malu dan meyakinkan manusia untuk membuang penutup fizikal dan rohani mereka semata-mata untuk menghina mereka.",
+          "Adegan kemudian bergerak pantas ke Hari Kiamat, merakamkan dialog yang menakutkan di dalam Api Neraka. Apabila pengikut yang taksub dilemparkan ke dalam Neraka, mereka tidak menemui solidariti dengan pemimpin mereka. Sebaliknya, 'tiap-tiap kali masuk suatu umat, ia melaknat umat yang lain.' Para pengikut akan menjerit kepada Tuhan, merayu agar Dia menggandakan azab ke atas pemimpin yang menyesatkan mereka. Pemimpin akan menjawab dengan kejam, 'Kamu tidak mempunyai sebarang kelebihan ke atas kami; kamu yang memilih untuk mengikut.' Ia adalah paparan muktamad kesetiaan toksik yang terlerai menjadi kebencian abadi."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menjelaskan konteks pra-Islam bagi ayat-ayat ini. Orang Arab musyrik dahulunya melakukan Tawaf mengelilingi Kaabah dalam keadaan telanjang bogel, mendakwa mereka tidak akan menyembah Tuhan dengan pakaian yang mereka gunakan untuk melakukan dosa. Al-Quran menghancurkan logik songsang ini, mewajibkan kesopanan fizikal sebagai bahagian penting dalam ibadah."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menganalisis perkataan 'Reesh' (perhiasan/bulu burung). Ia menandakan bahawa pakaian bukan sekadar berfungsi untuk kelangsungan hidup; Allah membenarkan dan menyediakan pakaian yang cantik untuk keseronokan estetika. Dosa bukanlah pada berpakaian cantik, tetapi pada kesombongan dan pembaziran."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Melukiskan hubungan yang mendalam antara dua pakaian tersebut. Sama seperti seseorang berasa sangat malu apabila tubuh fizikal mereka terdedah, seorang mukmin harus berasa malu secara rohani apabila ketiadaan ketakwaan mendedahkan jiwa mereka kepada dosa. Jiwa yang telanjang jauh lebih tragis daripada tubuh yang telanjang."
+          }
+        ],
+        "lessons": [
+          "👗 Kesopanan itu Suci: Dorongan ke arah sikap tidak tahu malu dan pelucutan kesopanan fizikal bukanlah 'kebebasan moden'; ia adalah muslihat tertua dan paling harfiah dalam buku panduan Syaitan untuk merampas maruah manusia kurniaan Tuhan.",
+          "🧥 Pakaikan Jiwa: Anda boleh memakai pakaian yang paling mahal dan cantik di dunia, tetapi jika hati anda kurang ketakwaan, anda telanjang dan terdedah secara rohani.",
+          "👥 Kepimpinan Toksik: Mengikuti secara membuta tuli pempengaruh atau pemimpin yang korup kerana ia popular dalam budaya akan berakhir dengan kebencian antara satu sama lain. Pada Hari Kiamat, mereka yang kerananya anda menggadaikan agama anda akan membuang anda sepenuhnya."
+        ]
+      }
+    },
+    {
+      "id": "section-09",
+      "type": "passage",
+      "surah_number": 7,
+      "verse_start": 40,
+      "verse_end": 53,
+      "en": {
+        "title": "The Gates of Heaven & The People of The Heights",
+        "theme": "The mathematical impossibility of salvation for the arrogant, the profound peace of Paradise, and the suspense of Al-A'raf.",
+        "arabic": "إِنَّ الَّذِينَ كَذَّبُوا بِآيَاتِنَا وَاسْتَكْبَرُوا عَنْهَا لَا تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاءِ وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّىٰ يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ ۚ... وَبَيْنَهُمَا حِجَابٌ ۚ وَعَلَى الْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ ۚ...",
+        "translation": "Indeed, those who deny Our verses and are arrogant toward them - the gates of Heaven will not be opened for them, nor will they enter Paradise until a camel enters into the eye of a needle... And between them will be a partition, and on [its] elevations are men who recognize all by their mark... ",
+        "explanation": [
+          "Verse 40 delivers one of the most famously terrifying metaphors in the Qur'an. For those who arrogantly reject God's signs, their souls will be denied entry into the heavens at the time of death. Furthermore, Allah states they will not enter Paradise 'until a camel enters into the eye of a needle.' It is a declaration of absolute mathematical impossibility. Arrogance completely permanently closes the doors of divine mercy.",
+          "The passage shifts to the believers entering Paradise. In a beautiful echo of Surah Al-Hijr, Allah describes extracting 'Ghill' (resentment and grudges) from their hearts. They will praise Allah, acknowledging that they could never have found this path without His guidance. Their faith and good deeds bought them an eternity of peace.",
+          "The Surah then reveals its namesake: 'Al-A'raf' (The Heights). Between Paradise and Hell stands an elevated partition. On this wall stand a specific group of people. They can see the faces of the people in Paradise and call out to them with greetings of peace, desperately hoping to join them. But when their eyes are forced toward the Fire, they see the horrific faces of the damned and beg God not to place them with the wrongdoers. They exist in a terrifying, suspended state of anticipation."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Identifies the 'Men of Al-A'raf.' Based on Hadith, Ibn Kathir explains that these are people whose good deeds and bad deeds were exactly, mathematically equal on the scale of Judgment. Their good deeds prevented them from Hell, but their bad deeds prevented them from Paradise. They are temporarily detained on the wall, completely dependent on the ultimate mercy of Allah to tip the scale."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Analyzes the dialogue of the Men of Al-A'raf. From the heights, they recognize the arrogant leaders in Hell by their darkened faces. They call down to them, exposing the utter uselessness of the wealth and followers the leaders used to brag about on earth."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Reflects on the 'eye of the needle.' As-Sa'di points out the sheer absurdity of the image: a massive, bulky camel trying to pass through a microscopic hole. It perfectly mirrors the absurdity of an arrogant, ego-bloated human soul trying to enter the pure, refined gates of Paradise."
+          }
+        ],
+        "lessons": [
+          "🐪 The Eye of the Needle: Arrogance is a spiritually fatal disease. An ego inflated with pride is too large to fit through the gates of Paradise. True greatness requires immense humility.",
+          "❤️ Heaven Begins in the Heart: You cannot experience Paradise if you are still holding onto grudges and resentment. The removal of bitterness is a prerequisite for eternal joy.",
+          "⚖️ Every Deed Counts: The People of Al-A'raf are suspended because their scales were tied. Never underestimate a single good deed or a minor sin; one smile or one harsh word could literally be the tie-breaker that determines your eternal destination."
+        ]
+      },
+      "ms": {
+        "title": "Pintu Syurga & Penghuni Tempat Tertinggi (Al-A'raf)",
+        "theme": "Kemustahilan matematik bagi keselamatan orang yang sombong, kedamaian Syurga yang mendalam, dan debaran di Al-A'raf.",
+        "arabic": "إِنَّ الَّذِينَ كَذَّبُوا بِآيَاتِنَا وَاسْتَكْبَرُوا عَنْهَا لَا تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاءِ وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّىٰ يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ ۚ... وَبَيْنَهُمَا حِجَابٌ ۚ وَعَلَى الْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ ۚ...",
+        "translation": "Sesungguhnya orang-orang yang mendustakan ayat-ayat Kami dan yang angkuh (merasa dirinya lebih) daripada mematuhinya, tidak sekali-kali akan dibukakan bagi mereka pintu-pintu langit dan mereka tidak akan masuk Syurga sehingga unta masuk di lubang jarum... Dan di antara keduanya (Syurga dan Neraka) ada tembok penengah, dan di atas tempat-tempat yang tinggi (Al-A'raf) itu ada beberapa orang lelaki yang mengenali tiap-tiap seorang (ahli Syurga dan Neraka) dengan tanda masing-masing... ",
+        "explanation": [
+          "Ayat 40 menyampaikan salah satu metafora yang paling menakutkan dan masyhur dalam al-Quran. Bagi mereka yang dengan sombong menolak tanda-tanda kebesaran Tuhan, roh mereka akan dinafikan kemasukan ke langit pada saat kematian. Lebih-lebih lagi, Allah menyatakan mereka tidak akan memasuki Syurga 'sehingga unta masuk di lubang jarum.' Ia adalah pengisytiharan kemustahilan matematik yang mutlak. Kesombongan secara kekal menutup pintu rahmat ilahi.",
+          "Petikan beralih kepada orang mukmin yang memasuki Syurga. Dalam satu gemaan indah dari Surah Al-Hijr, Allah menggambarkan bagaimana Dia mencabut 'Ghill' (dendam dan rasa tidak puas hati) dari hati mereka. Mereka akan memuji Allah, mengakui bahawa mereka tidak akan pernah menemui jalan ini tanpa hidayah-Nya. Iman dan amal soleh mereka membeli kedamaian abadi untuk mereka.",
+          "Surah ini kemudian mendedahkan nama siranya: 'Al-A'raf' (Tempat Tertinggi). Di antara Syurga dan Neraka terdirinya satu dinding pemisah yang tinggi. Di atas tembok ini berdiri sekumpulan orang yang khusus. Mereka dapat melihat wajah penghuni Syurga dan menyeru mereka dengan ucapan salam sejahtera, sangat berharap untuk menyertai mereka. Tetapi apabila mata mereka dialihkan ke arah Neraka, mereka melihat wajah ngeri golongan yang dilaknat dan merayu agar Tuhan tidak menempatkan mereka bersama orang yang zalim. Mereka wujud dalam keadaan penantian yang menakutkan dan tergantung-gantung."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Mengenal pasti 'Lelaki di Al-A'raf.' Berdasarkan Hadis, Ibn Kathir menjelaskan bahawa mereka adalah orang yang amalan baik dan amalan buruknya adalah sama dan seimbang dari segi matematik pada neraca Kiamat. Kebaikan mereka menghalang mereka daripada Neraka, tetapi keburukan mereka menghalang mereka daripada Syurga. Mereka ditahan sementara di atas tembok, bergantung sepenuhnya kepada rahmat mutlak Allah untuk memberatkan neraca tersebut."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menganalisis dialog Lelaki Al-A'raf. Dari tempat tinggi, mereka mengenali pemimpin yang sombong di dalam Neraka melalui wajah mereka yang gelap. Mereka menyeru pemimpin itu, mendedahkan betapa tidak bergunanya kekayaan dan pengikut yang sering dibanggakan oleh pemimpin itu semasa di bumi."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Merenung tentang 'lubang jarum.' As-Sa'di menunjukkan kemustahilan yang nyata pada gambaran itu: seekor unta yang besar dan sasa cuba melepasi lubang mikroskopik. Ia mencerminkan dengan tepat kemustahilan jiwa manusia yang sombong dan bengkak dengan ego untuk memasuki pintu Syurga yang suci dan halus."
+          }
+        ],
+        "lessons": [
+          "🐪 Lubang Jarum: Kesombongan adalah penyakit rohani yang membawa maut. Ego yang mengembang dengan keangkuhan terlalu besar untuk dimuatkan melalui pintu Syurga. Keagungan sejati memerlukan kerendahan hati yang sangat besar.",
+          "❤️ Syurga Bermula di Hati: Anda tidak boleh merasai Syurga jika anda masih menyimpan dendam dan kebencian. Penyingkiran kepahitan adalah prasyarat untuk kegembiraan abadi.",
+          "⚖️ Setiap Amalan Dikira: Penghuni Al-A'raf tergantung kerana neraca mereka seri. Jangan sesekali memandang remeh satu kebaikan pun atau dosa yang kecil; satu senyuman atau satu kata-kata kesat secara harfiahnya boleh menjadi penentu seri yang menentukan destinasi abadi anda."
+        ]
+      }
+    },
+    {
+      "id": "section-10",
+      "type": "passage",
+      "surah_number": 7,
+      "verse_start": 54,
+      "verse_end": 72,
+      "en": {
+        "title": "The Creation of the Cosmos, Nuh & Hud",
+        "theme": "The absolute majesty of the Creator, the methodology of sincere prayer, and the tragic historical cycle of human rejection.",
+        "arabic": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ... ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ... لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ... وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا ۗ...",
+        "translation": "Indeed, your Lord is Allah, who created the heavens and earth in six days and then established Himself above the Throne... Call upon your Lord in humility and privately... We had certainly sent Noah to his people... And to the 'Aad [We sent] their brother Hud... ",
+        "explanation": [
+          "After describing the ultimate destinations of the Hereafter, the Qur'an zooms out to the grand scale of the cosmos. Verse 54 majestically declares that Allah created the universe in six days and established Himself above the Throne. He plunges the day into the night and subjugates the sun, moon, and stars by His absolute command. The verse ends with a definitive statement: 'Unquestionably, His is the creation and the command.'",
+          "Because God is so majestic, He teaches humanity the correct etiquette of reaching Him: 'Call upon your Lord in humility and privately.' True prayer is not loud, performative, or arrogant. It is an intimate, desperate, and secret conversation between the slave and the Master, balancing fear of His justice and hope for His mercy.",
+          "The Surah then transitions into a cinematic sweep of human history, illustrating how humanity historically responded to this Creator. It begins with Nuh (Noah), who preached to his people for centuries: 'O my people, worship Allah; you have no deity other than Him.' The arrogant elite mocked him as a fool. Allah saved Nuh in the Ark and drowned the rejecters. The timeline immediately moves to the towering civilization of 'Aad and their prophet Hud. Despite their physical superiority and massive wealth, they stubbornly clung to the idols of their ancestors. Like Nuh's people, they too were utterly wiped out, proving that civilizations fall when they sever their connection to God."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Emphasizes the theological rule regarding 'established Himself above the Throne' (Istawa). Ibn Kathir follows the classical approach: believers must accept this divine attribute exactly as it is stated, without altering its meaning, likening God to creation, or asking 'how' it happens, for God is beyond human physical comprehension."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Explains the significance of sending 'their brother.' When Allah sent Hud to 'Aad, He chose someone from their own tribe, who spoke their language and knew their culture intimately. This proves that God provides guidance in the most accessible, undeniable format, leaving no room for excuses."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the etiquette of Dua (prayer). As-Sa'di notes that praying 'privately' (Khufyah) protects the believer from 'Riya' (showing off). When you beg God in secret, it is the ultimate proof of your sincerity, because no one is watching except the One who can answer."
+          }
+        ],
+        "lessons": [
+          "🌌 The Master of Physics: The God who dictates the laws of gravity, orbits the planets, and transitions day into night is the exact same God who dictates the moral laws of human life. His command is inescapable.",
+          "🤫 The Power of the Secret Tear: The most powerful prayers are not the ones shouted through a microphone; they are the desperate, quiet whispers made in the middle of the night when no one else is awake.",
+          "🏛️ The Myth of Invincibility: The people of Nuh and 'Aad thought their intelligence, wealth, and physical strength made them untouchable. History proves that when a civilization abandons ethics and arrogantly rejects God, its collapse is inevitable."
+        ]
+      },
+      "ms": {
+        "title": "Penciptaan Kosmos, Nuh & Hud",
+        "theme": "Keagungan mutlak Pencipta, metodologi doa yang ikhlas, dan kitaran sejarah tragis penolakan manusia.",
+        "arabic": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ... ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ... لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ... وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا ۗ...",
+        "translation": "Sesungguhnya Tuhan kamu ialah Allah yang menciptakan langit dan bumi dalam enam masa lalu Dia bersemayam di atas Arasy... Berdoalah kepada Tuhan kamu dengan merendah diri dan dengan suara perlahan-lahan... Sesungguhnya Kami telah mengutuskan Nabi Nuh kepada kaumnya... Dan kepada kaum Aad (Kami utuskan) saudara mereka: Nabi Hud... ",
+        "explanation": [
+          "Selepas menerangkan destinasi muktamad di Akhirat, al-Quran menyorot keluar kepada skala kosmos yang besar. Ayat 54 dengan megahnya mengisytiharkan bahawa Allah mencipta alam semesta dalam enam hari dan bersemayam di atas Arasy. Dia memasukkan siang ke dalam malam dan menundukkan matahari, bulan, dan bintang dengan perintah mutlak-Nya. Ayat ini berakhir dengan kenyataan yang pasti: 'Ingatlah, kepada Allah jualah tertentunya urusan menciptakan dan urusan memerintah.'",
+          "Oleh kerana Tuhan sangat agung, Dia mengajar manusia adab yang betul untuk mendekati-Nya: 'Berdoalah kepada Tuhan kamu dengan merendah diri dan (dengan suara) perlahan-lahan.' Doa yang sebenar tidak bising, menunjuk-nunjuk, atau sombong. Ia adalah perbualan yang intim, terdesak, dan rahsia antara hamba dan Tuan, menyeimbangkan ketakutan akan keadilan-Nya dan harapan pada rahmat-Nya.",
+          "Surah ini kemudian beralih kepada imbasan sinematik sejarah manusia, menggambarkan bagaimana manusia dari segi sejarah bertindak balas terhadap Pencipta ini. Ia bermula dengan Nuh, yang berdakwah kepada kaumnya selama berabad-abad: 'Wahai kaumku, sembahlah Allah; kamu tidak mempunyai tuhan selain daripada-Nya.' Golongan elit yang sombong mengejeknya sebagai orang bodoh. Allah menyelamatkan Nuh di dalam Bahtera dan menenggelamkan mereka yang ingkar. Garis masa segera bergerak kepada tamadun 'Aad yang menjulang tinggi dan nabi mereka Hud. Walaupun mempunyai kelebihan fizikal dan kekayaan yang besar, mereka dengan degil berpegang kepada berhala nenek moyang mereka. Seperti kaum Nuh, mereka juga disapu bersih sama sekali, membuktikan bahawa tamadun akan tumbang apabila mereka memutuskan hubungan dengan Tuhan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menekankan peraturan teologi berkenaan 'bersemayam di atas Arasy' (Istawa). Ibn Kathir mengikut pendekatan klasik: orang mukmin mesti menerima sifat ilahi ini tepat seperti mana ia dinyatakan, tanpa mengubah maknanya, menyamakan Tuhan dengan makhluk, atau bertanya 'bagaimana' ia berlaku, kerana Tuhan melangkaui pemahaman fizikal manusia."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan kepentingan mengutuskan 'saudara mereka.' Apabila Allah mengutus Hud kepada 'Aad, Dia memilih seseorang dari kabilah mereka sendiri, yang bercakap bahasa mereka dan mengetahui budaya mereka secara mendalam. Ini membuktikan bahawa Tuhan memberikan hidayah dalam format yang paling mudah diakses dan tidak dapat dinafikan, tanpa meninggalkan ruang untuk alasan."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Memfokuskan pada adab berdoa (Dua). As-Sa'di mencatatkan bahawa berdoa 'secara rahsia/perlahan-lahan' (Khufyah) melindungi orang mukmin daripada sifat 'Riya' (menunjuk-nunjuk). Apabila anda merayu kepada Tuhan secara rahsia, ia adalah bukti muktamad keikhlasan anda, kerana tiada sesiapa yang melihat kecuali Yang Maha Mampu memakbulkannya."
+          }
+        ],
+        "lessons": [
+          "🌌 Penguasa Fizik: Tuhan yang menetapkan hukum graviti, mengorbitkan planet, dan menukarkan siang kepada malam adalah Tuhan yang sama yang menetapkan undang-undang moral kehidupan manusia. Perintah-Nya tidak dapat dielakkan.",
+          "🤫 Kuasa Air Mata Rahsia: Doa yang paling berkuasa bukanlah yang diteriakkan melalui mikrofon; ia adalah bisikan terdesak dan perlahan yang dilakukan pada pertengahan malam ketika tiada orang lain yang terjaga.",
+          "🏛️ Mitos Kebal: Kaum Nuh dan 'Aad berfikir bahawa kecerdasan, kekayaan, dan kekuatan fizikal menjadikan mereka kebal. Sejarah membuktikan bahawa apabila sesebuah tamadun mengabaikan etika dan dengan sombong menolak Tuhan, keruntuhannya tidak dapat dielakkan."
+        ]
+      }
+    },
+    {
+      "id": "section-08",
+      "type": "passage",
+      "surah_number": 7,
+      "verse_start": 26,
+      "verse_end": 39,
+      "en": {
+        "title": "The Garment of Piety & The Dialogue of Hellfire",
+        "theme": "The spiritual and physical necessity of modesty, Satan's ongoing war against human dignity, and the bitter disputes of the damned.",
+        "arabic": "يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي سَوْآتِكُمْ وَرِيشًا ۖ وَلِبَاسُ التَّقْوَىٰ ذَٰلِكَ خَيْرٌ... كُلَّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا ۖ...",
+        "translation": "O children of Adam, We have bestowed upon you clothing to conceal your private parts and as adornment. But the clothing of righteousness - that is best... Every time a nation enters [Hell], it will curse its sister [nation]... ",
+        "explanation": [
+          "Following the story of Adam being stripped of his heavenly garments, Allah directly addresses all humanity ('O children of Adam'). He reminds us that physical clothing is a divine blessing meant to conceal our vulnerabilities and provide dignity (adornment). However, He immediately introduces a higher concept: 'The clothing of righteousness (Taqwa) - that is best.' Physical clothes cover the flaws of the body, but Taqwa covers the flaws of the soul.",
+          "The Qur'an issues a severe warning: Satan’s first successful attack on humanity was stripping them of their modesty. He continues this exact tactic today, trying to normalize shamelessness and convince humans to discard their physical and spiritual coverings to humiliate them.",
+          "The scene then fast-forwards to the Day of Judgment, capturing a terrifying dialogue inside Hellfire. When blind followers are thrown into the Fire, they do not find solidarity with their leaders. Instead, 'every time a nation enters, it will curse its sister.' The followers will scream at God, begging Him to double the punishment of the leaders who misled them. The leaders will ruthlessly reply, 'You have no superiority over us; you chose to follow.' It is the ultimate display of toxic loyalty unraveling into eternal hatred."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Explains the pre-Islamic context of these verses. The pagan Arabs used to perform Tawaf (circumambulation) around the Ka'bah completely naked, claiming they would not worship God in the clothes they committed sins in. The Qur'an dismantled this twisted logic, mandating physical modesty as an essential part of worship."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Analyzes the word 'Reesh' (adornment/feathers). It signifies that clothing is not just functional for survival; Allah permits and provides beautiful clothing for aesthetic joy. The sin is not in dressing well, but in arrogance and extravagance."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Draws a profound connection between the two garments. Just as a person feels deep shame when their physical body is exposed, a believer should feel intense spiritual shame when their lack of Taqwa exposes their soul to sin. A naked soul is far more tragic than a naked body."
+          }
+        ],
+        "lessons": [
+          "👗 Modesty is Divine: The push toward shamelessness and the stripping of physical modesty is not 'modern freedom'; it is the oldest, most literal trick in Satan's playbook to strip humanity of its God-given dignity.",
+          "🧥 Dress the Soul: You can wear the most expensive, beautiful clothes in the world, but if your heart lacks God-consciousness, you are spiritually naked and vulnerable.",
+          "👥 Toxic Leadership: Blindly following corrupt influencers or leaders because it is culturally popular will end in mutual hatred. On Judgment Day, those you compromised your religion for will completely disown you."
+        ]
+      },
+      "ms": {
+        "title": "Pakaian Ketakwaan & Dialog Api Neraka",
+        "theme": "Keperluan fizikal dan rohani untuk kesopanan, perang berterusan Syaitan terhadap maruah manusia, dan pertengkaran sengit golongan yang dilaknat.",
+        "arabic": "يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي سَوْآتِكُمْ وَرِيشًا ۖ وَلِبَاسُ التَّقْوَىٰ ذَٰلِكَ خَيْرٌ... كُلَّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا ۖ...",
+        "translation": "Wahai anak-anak Adam! Sesungguhnya Kami telah menurunkan kepada kamu pakaian untuk menutup aurat kamu, dan pakaian perhiasan. Dan pakaian ketakwaan itulah yang sebaik-baiknya... Tiap-tiap kali masuk suatu umat, ia melaknat umat yang terdahulu daripadanya... ",
+        "explanation": [
+          "Berikutan kisah Adam yang dilucutkan pakaian syurgawinya, Allah secara langsung menyeru seluruh umat manusia ('Wahai anak-anak Adam'). Dia mengingatkan kita bahawa pakaian fizikal adalah rahmat ilahi yang bertujuan untuk menyembunyikan kelemahan kita dan memberikan kemuliaan (perhiasan). Namun, Dia segera memperkenalkan konsep yang lebih tinggi: 'Pakaian ketakwaan - itulah yang sebaik-baiknya.' Pakaian fizikal menutup cacat cela tubuh, tetapi ketakwaan menutup cacat cela jiwa.",
+          "Al-Quran mengeluarkan amaran keras: Serangan pertama Syaitan yang berjaya ke atas manusia adalah melucutkan kesopanan mereka. Dia meneruskan taktik yang sama hari ini, cuba menormalisasikan perbuatan tidak tahu malu dan meyakinkan manusia untuk membuang penutup fizikal dan rohani mereka semata-mata untuk menghina mereka.",
+          "Adegan kemudian bergerak pantas ke Hari Kiamat, merakamkan dialog yang menakutkan di dalam Api Neraka. Apabila pengikut yang taksub dilemparkan ke dalam Neraka, mereka tidak menemui solidariti dengan pemimpin mereka. Sebaliknya, 'tiap-tiap kali masuk suatu umat, ia melaknat umat yang lain.' Para pengikut akan menjerit kepada Tuhan, merayu agar Dia menggandakan azab ke atas pemimpin yang menyesatkan mereka. Pemimpin akan menjawab dengan kejam, 'Kamu tidak mempunyai sebarang kelebihan ke atas kami; kamu yang memilih untuk mengikut.' Ia adalah paparan muktamad kesetiaan toksik yang terlerai menjadi kebencian abadi."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menjelaskan konteks pra-Islam bagi ayat-ayat ini. Orang Arab musyrik dahulunya melakukan Tawaf mengelilingi Kaabah dalam keadaan telanjang bogel, mendakwa mereka tidak akan menyembah Tuhan dengan pakaian yang mereka gunakan untuk melakukan dosa. Al-Quran menghancurkan logik songsang ini, mewajibkan kesopanan fizikal sebagai bahagian penting dalam ibadah."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menganalisis perkataan 'Reesh' (perhiasan/bulu burung). Ia menandakan bahawa pakaian bukan sekadar berfungsi untuk kelangsungan hidup; Allah membenarkan dan menyediakan pakaian yang cantik untuk keseronokan estetika. Dosa bukanlah pada berpakaian cantik, tetapi pada kesombongan dan pembaziran."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Melukiskan hubungan yang mendalam antara dua pakaian tersebut. Sama seperti seseorang berasa sangat malu apabila tubuh fizikal mereka terdedah, seorang mukmin harus berasa malu secara rohani apabila ketiadaan ketakwaan mendedahkan jiwa mereka kepada dosa. Jiwa yang telanjang jauh lebih tragis daripada tubuh yang telanjang."
+          }
+        ],
+        "lessons": [
+          "👗 Kesopanan itu Suci: Dorongan ke arah sikap tidak tahu malu dan pelucutan kesopanan fizikal bukanlah 'kebebasan moden'; ia adalah muslihat tertua dan paling harfiah dalam buku panduan Syaitan untuk merampas maruah manusia kurniaan Tuhan.",
+          "🧥 Pakaikan Jiwa: Anda boleh memakai pakaian yang paling mahal dan cantik di dunia, tetapi jika hati anda kurang ketakwaan, anda telanjang dan terdedah secara rohani.",
+          "👥 Kepimpinan Toksik: Mengikuti secara membuta tuli pempengaruh atau pemimpin yang korup kerana ia popular dalam budaya akan berakhir dengan kebencian antara satu sama lain. Pada Hari Kiamat, mereka yang kerananya anda menggadaikan agama anda akan membuang anda sepenuhnya."
+        ]
+      }
+    },
+    {
+      "id": "section-09",
+      "type": "passage",
+      "surah_number": 7,
+      "verse_start": 40,
+      "verse_end": 53,
+      "en": {
+        "title": "The Gates of Heaven & The People of The Heights",
+        "theme": "The mathematical impossibility of salvation for the arrogant, the profound peace of Paradise, and the suspense of Al-A'raf.",
+        "arabic": "إِنَّ الَّذِينَ كَذَّبُوا بِآيَاتِنَا وَاسْتَكْبَرُوا عَنْهَا لَا تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاءِ وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّىٰ يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ ۚ... وَبَيْنَهُمَا حِجَابٌ ۚ وَعَلَى الْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ ۚ...",
+        "translation": "Indeed, those who deny Our verses and are arrogant toward them - the gates of Heaven will not be opened for them, nor will they enter Paradise until a camel enters into the eye of a needle... And between them will be a partition, and on [its] elevations are men who recognize all by their mark... ",
+        "explanation": [
+          "Verse 40 delivers one of the most famously terrifying metaphors in the Qur'an. For those who arrogantly reject God's signs, their souls will be denied entry into the heavens at the time of death. Furthermore, Allah states they will not enter Paradise 'until a camel enters into the eye of a needle.' It is a declaration of absolute mathematical impossibility. Arrogance completely permanently closes the doors of divine mercy.",
+          "The passage shifts to the believers entering Paradise. In a beautiful echo of Surah Al-Hijr, Allah describes extracting 'Ghill' (resentment and grudges) from their hearts. They will praise Allah, acknowledging that they could never have found this path without His guidance. Their faith and good deeds bought them an eternity of peace.",
+          "The Surah then reveals its namesake: 'Al-A'raf' (The Heights). Between Paradise and Hell stands an elevated partition. On this wall stand a specific group of people. They can see the faces of the people in Paradise and call out to them with greetings of peace, desperately hoping to join them. But when their eyes are forced toward the Fire, they see the horrific faces of the damned and beg God not to place them with the wrongdoers. They exist in a terrifying, suspended state of anticipation."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Identifies the 'Men of Al-A'raf.' Based on Hadith, Ibn Kathir explains that these are people whose good deeds and bad deeds were exactly, mathematically equal on the scale of Judgment. Their good deeds prevented them from Hell, but their bad deeds prevented them from Paradise. They are temporarily detained on the wall, completely dependent on the ultimate mercy of Allah to tip the scale."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Analyzes the dialogue of the Men of Al-A'raf. From the heights, they recognize the arrogant leaders in Hell by their darkened faces. They call down to them, exposing the utter uselessness of the wealth and followers the leaders used to brag about on earth."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Reflects on the 'eye of the needle.' As-Sa'di points out the sheer absurdity of the image: a massive, bulky camel trying to pass through a microscopic hole. It perfectly mirrors the absurdity of an arrogant, ego-bloated human soul trying to enter the pure, refined gates of Paradise."
+          }
+        ],
+        "lessons": [
+          "🐪 The Eye of the Needle: Arrogance is a spiritually fatal disease. An ego inflated with pride is too large to fit through the gates of Paradise. True greatness requires immense humility.",
+          "❤️ Heaven Begins in the Heart: You cannot experience Paradise if you are still holding onto grudges and resentment. The removal of bitterness is a prerequisite for eternal joy.",
+          "⚖️ Every Deed Counts: The People of Al-A'raf are suspended because their scales were tied. Never underestimate a single good deed or a minor sin; one smile or one harsh word could literally be the tie-breaker that determines your eternal destination."
+        ]
+      },
+      "ms": {
+        "title": "Pintu Syurga & Penghuni Tempat Tertinggi (Al-A'raf)",
+        "theme": "Kemustahilan matematik bagi keselamatan orang yang sombong, kedamaian Syurga yang mendalam, dan debaran di Al-A'raf.",
+        "arabic": "إِنَّ الَّذِينَ كَذَّبُوا بِآيَاتِنَا وَاسْتَكْبَرُوا عَنْهَا لَا تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاءِ وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّىٰ يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ ۚ... وَبَيْنَهُمَا حِجَابٌ ۚ وَعَلَى الْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ ۚ...",
+        "translation": "Sesungguhnya orang-orang yang mendustakan ayat-ayat Kami dan yang angkuh (merasa dirinya lebih) daripada mematuhinya, tidak sekali-kali akan dibukakan bagi mereka pintu-pintu langit dan mereka tidak akan masuk Syurga sehingga unta masuk di lubang jarum... Dan di antara keduanya (Syurga dan Neraka) ada tembok penengah, dan di atas tempat-tempat yang tinggi (Al-A'raf) itu ada beberapa orang lelaki yang mengenali tiap-tiap seorang (ahli Syurga dan Neraka) dengan tanda masing-masing... ",
+        "explanation": [
+          "Ayat 40 menyampaikan salah satu metafora yang paling menakutkan dan masyhur dalam al-Quran. Bagi mereka yang dengan sombong menolak tanda-tanda kebesaran Tuhan, roh mereka akan dinafikan kemasukan ke langit pada saat kematian. Lebih-lebih lagi, Allah menyatakan mereka tidak akan memasuki Syurga 'sehingga unta masuk di lubang jarum.' Ia adalah pengisytiharan kemustahilan matematik yang mutlak. Kesombongan secara kekal menutup pintu rahmat ilahi.",
+          "Petikan beralih kepada orang mukmin yang memasuki Syurga. Dalam satu gemaan indah dari Surah Al-Hijr, Allah menggambarkan bagaimana Dia mencabut 'Ghill' (dendam dan rasa tidak puas hati) dari hati mereka. Mereka akan memuji Allah, mengakui bahawa mereka tidak akan pernah menemui jalan ini tanpa hidayah-Nya. Iman dan amal soleh mereka membeli kedamaian abadi untuk mereka.",
+          "Surah ini kemudian mendedahkan nama siranya: 'Al-A'raf' (Tempat Tertinggi). Di antara Syurga dan Neraka terdirinya satu dinding pemisah yang tinggi. Di atas tembok ini berdiri sekumpulan orang yang khusus. Mereka dapat melihat wajah penghuni Syurga dan menyeru mereka dengan ucapan salam sejahtera, sangat berharap untuk menyertai mereka. Tetapi apabila mata mereka dialihkan ke arah Neraka, mereka melihat wajah ngeri golongan yang dilaknat dan merayu agar Tuhan tidak menempatkan mereka bersama orang yang zalim. Mereka wujud dalam keadaan penantian yang menakutkan dan tergantung-gantung."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Mengenal pasti 'Lelaki di Al-A'raf.' Berdasarkan Hadis, Ibn Kathir menjelaskan bahawa mereka adalah orang yang amalan baik dan amalan buruknya adalah sama dan seimbang dari segi matematik pada neraca Kiamat. Kebaikan mereka menghalang mereka daripada Neraka, tetapi keburukan mereka menghalang mereka daripada Syurga. Mereka ditahan sementara di atas tembok, bergantung sepenuhnya kepada rahmat mutlak Allah untuk memberatkan neraca tersebut."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menganalisis dialog Lelaki Al-A'raf. Dari tempat tinggi, mereka mengenali pemimpin yang sombong di dalam Neraka melalui wajah mereka yang gelap. Mereka menyeru pemimpin itu, mendedahkan betapa tidak bergunanya kekayaan dan pengikut yang sering dibanggakan oleh pemimpin itu semasa di bumi."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Merenung tentang 'lubang jarum.' As-Sa'di menunjukkan kemustahilan yang nyata pada gambaran itu: seekor unta yang besar dan sasa cuba melepasi lubang mikroskopik. Ia mencerminkan dengan tepat kemustahilan jiwa manusia yang sombong dan bengkak dengan ego untuk memasuki pintu Syurga yang suci dan halus."
+          }
+        ],
+        "lessons": [
+          "🐪 Lubang Jarum: Kesombongan adalah penyakit rohani yang membawa maut. Ego yang mengembang dengan keangkuhan terlalu besar untuk dimuatkan melalui pintu Syurga. Keagungan sejati memerlukan kerendahan hati yang sangat besar.",
+          "❤️ Syurga Bermula di Hati: Anda tidak boleh merasai Syurga jika anda masih menyimpan dendam dan kebencian. Penyingkiran kepahitan adalah prasyarat untuk kegembiraan abadi.",
+          "⚖️ Setiap Amalan Dikira: Penghuni Al-A'raf tergantung kerana neraca mereka seri. Jangan sesekali memandang remeh satu kebaikan pun atau dosa yang kecil; satu senyuman atau satu kata-kata kesat secara harfiahnya boleh menjadi penentu seri yang menentukan destinasi abadi anda."
+        ]
+      }
+    },
+    {
+      "id": "section-10",
+      "type": "passage",
+      "surah_number": 7,
+      "verse_start": 54,
+      "verse_end": 72,
+      "en": {
+        "title": "The Creation of the Cosmos, Nuh & Hud",
+        "theme": "The absolute majesty of the Creator, the methodology of sincere prayer, and the tragic historical cycle of human rejection.",
+        "arabic": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ... ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ... لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ... وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا ۗ...",
+        "translation": "Indeed, your Lord is Allah, who created the heavens and earth in six days and then established Himself above the Throne... Call upon your Lord in humility and privately... We had certainly sent Noah to his people... And to the 'Aad [We sent] their brother Hud... ",
+        "explanation": [
+          "After describing the ultimate destinations of the Hereafter, the Qur'an zooms out to the grand scale of the cosmos. Verse 54 majestically declares that Allah created the universe in six days and established Himself above the Throne. He plunges the day into the night and subjugates the sun, moon, and stars by His absolute command. The verse ends with a definitive statement: 'Unquestionably, His is the creation and the command.'",
+          "Because God is so majestic, He teaches humanity the correct etiquette of reaching Him: 'Call upon your Lord in humility and privately.' True prayer is not loud, performative, or arrogant. It is an intimate, desperate, and secret conversation between the slave and the Master, balancing fear of His justice and hope for His mercy.",
+          "The Surah then transitions into a cinematic sweep of human history, illustrating how humanity historically responded to this Creator. It begins with Nuh (Noah), who preached to his people for centuries: 'O my people, worship Allah; you have no deity other than Him.' The arrogant elite mocked him as a fool. Allah saved Nuh in the Ark and drowned the rejecters. The timeline immediately moves to the towering civilization of 'Aad and their prophet Hud. Despite their physical superiority and massive wealth, they stubbornly clung to the idols of their ancestors. Like Nuh's people, they too were utterly wiped out, proving that civilizations fall when they sever their connection to God."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Emphasizes the theological rule regarding 'established Himself above the Throne' (Istawa). Ibn Kathir follows the classical approach: believers must accept this divine attribute exactly as it is stated, without altering its meaning, likening God to creation, or asking 'how' it happens, for God is beyond human physical comprehension."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Explains the significance of sending 'their brother.' When Allah sent Hud to 'Aad, He chose someone from their own tribe, who spoke their language and knew their culture intimately. This proves that God provides guidance in the most accessible, undeniable format, leaving no room for excuses."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the etiquette of Dua (prayer). As-Sa'di notes that praying 'privately' (Khufyah) protects the believer from 'Riya' (showing off). When you beg God in secret, it is the ultimate proof of your sincerity, because no one is watching except the One who can answer."
+          }
+        ],
+        "lessons": [
+          "🌌 The Master of Physics: The God who dictates the laws of gravity, orbits the planets, and transitions day into night is the exact same God who dictates the moral laws of human life. His command is inescapable.",
+          "🤫 The Power of the Secret Tear: The most powerful prayers are not the ones shouted through a microphone; they are the desperate, quiet whispers made in the middle of the night when no one else is awake.",
+          "🏛️ The Myth of Invincibility: The people of Nuh and 'Aad thought their intelligence, wealth, and physical strength made them untouchable. History proves that when a civilization abandons ethics and arrogantly rejects God, its collapse is inevitable."
+        ]
+      },
+      "ms": {
+        "title": "Penciptaan Kosmos, Nuh & Hud",
+        "theme": "Keagungan mutlak Pencipta, metodologi doa yang ikhlas, dan kitaran sejarah tragis penolakan manusia.",
+        "arabic": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ... ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ... لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ... وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا ۗ...",
+        "translation": "Sesungguhnya Tuhan kamu ialah Allah yang menciptakan langit dan bumi dalam enam masa lalu Dia bersemayam di atas Arasy... Berdoalah kepada Tuhan kamu dengan merendah diri dan dengan suara perlahan-lahan... Sesungguhnya Kami telah mengutuskan Nabi Nuh kepada kaumnya... Dan kepada kaum Aad (Kami utuskan) saudara mereka: Nabi Hud... ",
+        "explanation": [
+          "Selepas menerangkan destinasi muktamad di Akhirat, al-Quran menyorot keluar kepada skala kosmos yang besar. Ayat 54 dengan megahnya mengisytiharkan bahawa Allah mencipta alam semesta dalam enam hari dan bersemayam di atas Arasy. Dia memasukkan siang ke dalam malam dan menundukkan matahari, bulan, dan bintang dengan perintah mutlak-Nya. Ayat ini berakhir dengan kenyataan yang pasti: 'Ingatlah, kepada Allah jualah tertentunya urusan menciptakan dan urusan memerintah.'",
+          "Oleh kerana Tuhan sangat agung, Dia mengajar manusia adab yang betul untuk mendekati-Nya: 'Berdoalah kepada Tuhan kamu dengan merendah diri dan (dengan suara) perlahan-lahan.' Doa yang sebenar tidak bising, menunjuk-nunjuk, atau sombong. Ia adalah perbualan yang intim, terdesak, dan rahsia antara hamba dan Tuan, menyeimbangkan ketakutan akan keadilan-Nya dan harapan pada rahmat-Nya.",
+          "Surah ini kemudian beralih kepada imbasan sinematik sejarah manusia, menggambarkan bagaimana manusia dari segi sejarah bertindak balas terhadap Pencipta ini. Ia bermula dengan Nuh, yang berdakwah kepada kaumnya selama berabad-abad: 'Wahai kaumku, sembahlah Allah; kamu tidak mempunyai tuhan selain daripada-Nya.' Golongan elit yang sombong mengejeknya sebagai orang bodoh. Allah menyelamatkan Nuh di dalam Bahtera dan menenggelamkan mereka yang ingkar. Garis masa segera bergerak kepada tamadun 'Aad yang menjulang tinggi dan nabi mereka Hud. Walaupun mempunyai kelebihan fizikal dan kekayaan yang besar, mereka dengan degil berpegang kepada berhala nenek moyang mereka. Seperti kaum Nuh, mereka juga disapu bersih sama sekali, membuktikan bahawa tamadun akan tumbang apabila mereka memutuskan hubungan dengan Tuhan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menekankan peraturan teologi berkenaan 'bersemayam di atas Arasy' (Istawa). Ibn Kathir mengikut pendekatan klasik: orang mukmin mesti menerima sifat ilahi ini tepat seperti mana ia dinyatakan, tanpa mengubah maknanya, menyamakan Tuhan dengan makhluk, atau bertanya 'bagaimana' ia berlaku, kerana Tuhan melangkaui pemahaman fizikal manusia."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan kepentingan mengutuskan 'saudara mereka.' Apabila Allah mengutus Hud kepada 'Aad, Dia memilih seseorang dari kabilah mereka sendiri, yang bercakap bahasa mereka dan mengetahui budaya mereka secara mendalam. Ini membuktikan bahawa Tuhan memberikan hidayah dalam format yang paling mudah diakses dan tidak dapat dinafikan, tanpa meninggalkan ruang untuk alasan."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Memfokuskan pada adab berdoa (Dua). As-Sa'di mencatatkan bahawa berdoa 'secara rahsia/perlahan-lahan' (Khufyah) melindungi orang mukmin daripada sifat 'Riya' (menunjuk-nunjuk). Apabila anda merayu kepada Tuhan secara rahsia, ia adalah bukti muktamad keikhlasan anda, kerana tiada sesiapa yang melihat kecuali Yang Maha Mampu memakbulkannya."
+          }
+        ],
+        "lessons": [
+          "🌌 Penguasa Fizik: Tuhan yang menetapkan hukum graviti, mengorbitkan planet, dan menukarkan siang kepada malam adalah Tuhan yang sama yang menetapkan undang-undang moral kehidupan manusia. Perintah-Nya tidak dapat dielakkan.",
+          "🤫 Kuasa Air Mata Rahsia: Doa yang paling berkuasa bukanlah yang diteriakkan melalui mikrofon; ia adalah bisikan terdesak dan perlahan yang dilakukan pada pertengahan malam ketika tiada orang lain yang terjaga.",
+          "🏛️ Mitos Kebal: Kaum Nuh dan 'Aad berfikir bahawa kecerdasan, kekayaan, dan kekuatan fizikal menjadikan mereka kebal. Sejarah membuktikan bahawa apabila sesebuah tamadun mengabaikan etika dan dengan sombong menolak Tuhan, keruntuhannya tidak dapat dielakkan."
+        ]
+      }
+    }
+  ]
+}
