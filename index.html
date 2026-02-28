@@ -1,0 +1,1006 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Qur'ān Tafsir Guide — All 30 Juz</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --gold: #c9a84c;
+    --gold-light: #e8c97a;
+    --gold-pale: #f5e8c0;
+    --gold-dark: #8a6a1f;
+    --transition: 0.3s ease;
+  }
+
+  [data-theme="dark"] {
+    --bg: #1a1510;
+    --bg-card: #231e16;
+    --bg-card-hover: #2e2718;
+    --bg-card2: #2a2218;
+    --text: #e8dcc8;
+    --text-muted: #a89878;
+    --text-arabic: #f0e6c8;
+    --border: #3d3020;
+    --border-hover: #6a5020;
+    --shadow: rgba(0,0,0,0.55);
+    --shadow-hover: rgba(0,0,0,0.75);
+    --pill-bg: rgba(201,168,76,0.12);
+    --pill-border: rgba(201,168,76,0.28);
+    --section-line: #2a2218;
+  }
+
+  [data-theme="light"] {
+    --bg: #faf6ee;
+    --bg-card: #fff8eb;
+    --bg-card-hover: #fff3d5;
+    --bg-card2: #fef5e0;
+    --text: #2d2415;
+    --text-muted: #7a6035;
+    --text-arabic: #1a1208;
+    --border: #e0c87a;
+    --border-hover: #c9a84c;
+    --shadow: rgba(100,70,0,0.12);
+    --shadow-hover: rgba(100,70,0,0.22);
+    --pill-bg: rgba(201,168,76,0.14);
+    --pill-border: rgba(201,168,76,0.4);
+    --section-line: #ede3c8;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-size: 20px;
+    line-height: 1.7;
+    background: var(--bg);
+    color: var(--text);
+    transition: background var(--transition), color var(--transition);
+    min-height: 100vh;
+  }
+
+  /* ─── THEME TOGGLE ─── */
+  #theme-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1000;
+    background: var(--bg-card);
+    border: 1.5px solid var(--gold);
+    color: var(--gold);
+    border-radius: 50px;
+    padding: 0.4rem 1rem;
+    font-family: 'Crimson Pro', serif;
+    font-size: 0.85rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    transition: all var(--transition);
+    box-shadow: 0 2px 12px var(--shadow);
+  }
+  #theme-toggle:hover { background: var(--gold); color: #1a1510; }
+
+  /* ─── HERO ─── */
+  .hero {
+    background: linear-gradient(160deg, #080600 0%, #16110a 35%, #231a09 65%, #0d0b06 100%);
+    border-bottom: 2px solid var(--gold-dark);
+    padding: 5rem 1.5rem 4rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  [data-theme="light"] .hero {
+    background: linear-gradient(160deg, #201500 0%, #3a2808 35%, #5a3f0f 65%, #201500 100%);
+  }
+  .hero::before {
+    content: '';
+    position: absolute; inset: 0;
+    background:
+      radial-gradient(ellipse 70% 50% at 50% -5%, rgba(201,168,76,0.22) 0%, transparent 65%),
+      radial-gradient(ellipse 40% 30% at 80% 100%, rgba(201,168,76,0.08) 0%, transparent 60%),
+      repeating-linear-gradient(60deg, transparent, transparent 60px, rgba(201,168,76,0.025) 60px, rgba(201,168,76,0.025) 61px);
+    pointer-events: none;
+  }
+  /* Decorative geometric ring */
+  .hero::after {
+    content: '';
+    position: absolute;
+    width: 420px; height: 420px;
+    border-radius: 50%;
+    border: 1px solid rgba(201,168,76,0.1);
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    box-shadow: 0 0 0 60px rgba(201,168,76,0.03), 0 0 0 120px rgba(201,168,76,0.015);
+  }
+
+  .hero-eyebrow {
+    font-family: 'Crimson Pro', serif;
+    font-size: 0.85rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--gold);
+    opacity: 0.75;
+    margin-bottom: 1.2rem;
+    position: relative;
+  }
+  .hero-arabic-main {
+    font-family: 'Amiri', serif;
+    font-size: clamp(2.2rem, 7vw, 4.5rem);
+    color: var(--gold-light);
+    text-shadow: 0 0 40px rgba(201,168,76,0.35);
+    line-height: 1.3;
+    position: relative;
+    margin-bottom: 0.5rem;
+  }
+  .hero h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(1.8rem, 5vw, 3.2rem);
+    font-weight: 900;
+    color: var(--gold-pale);
+    line-height: 1.2;
+    position: relative;
+    margin-bottom: 0.8rem;
+  }
+  .hero-sub {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: clamp(1rem, 2.5vw, 1.25rem);
+    color: var(--text-muted);
+    max-width: 560px;
+    margin: 0 auto 1.8rem;
+    position: relative;
+    line-height: 1.6;
+  }
+  .hero-stats {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    position: relative;
+  }
+  .hero-stat {
+    background: rgba(201,168,76,0.1);
+    border: 1px solid rgba(201,168,76,0.28);
+    border-radius: 24px;
+    padding: 0.35rem 1.1rem;
+    font-size: 0.88rem;
+    color: var(--gold-light);
+    letter-spacing: 0.03em;
+  }
+
+  /* ─── TOP CARDS ─── */
+  .top-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2rem;
+    max-width: 680px;
+    margin: 2.5rem auto 0;
+    padding: 0 1.5rem;
+  }
+  @media(max-width: 500px) { .top-cards { grid-template-columns: 1fr; } }
+
+  .card-ramadan {
+    background: linear-gradient(135deg, #b8860b 0%, #daa520 35%, #f5c842 60%, #b8860b 100%);
+    border-radius: 14px;
+    padding: 1.2rem 1.5rem;
+    text-align: center;
+    color: #1a1000;
+    box-shadow: 0 4px 20px rgba(201,168,76,0.45);
+    position: relative;
+    overflow: hidden;
+  }
+  .card-ramadan::after {
+    content: '☽';
+    position: absolute;
+    right: 0.8rem; top: 0.3rem;
+    font-size: 2.8rem;
+    opacity: 0.2;
+  }
+  .card-label {
+    font-family: 'Playfair Display', serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+    opacity: 0.72;
+  }
+  .card-ramadan .card-value {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 900;
+    line-height: 1.2;
+  }
+  .card-ramadan .card-sub { font-size: 0.8rem; opacity: 0.72; margin-top: 0.2rem; }
+
+  .card-reader {
+    background: var(--bg-card);
+    border: 1.5px solid var(--gold-dark);
+    border-radius: 14px;
+    padding: 1.2rem 1.5rem;
+    text-align: center;
+    box-shadow: 0 4px 20px var(--shadow);
+    position: relative;
+    overflow: hidden;
+  }
+  .card-reader::after {
+    content: '📖';
+    position: absolute;
+    right: 0.8rem; top: 0.6rem;
+    font-size: 1.8rem;
+    opacity: 0.28;
+  }
+  .card-reader .card-label { color: var(--gold); }
+  .card-reader .card-value {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1.2;
+  }
+  .card-reader .card-sub { font-size: 0.85rem; color: var(--text-muted); margin-top: 0.2rem; }
+
+  /* ─── PROGRESS BAR ─── */
+  .progress-section {
+    max-width: 860px;
+    margin: 3rem auto 0;
+    padding: 0 1.5rem;
+  }
+  .progress-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 0.6rem;
+  }
+  .progress-label {
+    font-family: 'Playfair Display', serif;
+    font-size: 0.88rem;
+    color: var(--gold);
+    letter-spacing: 0.06em;
+  }
+  .progress-count { font-size: 0.85rem; color: var(--text-muted); }
+  .progress-track {
+    background: var(--border);
+    border-radius: 999px;
+    height: 6px;
+    overflow: hidden;
+  }
+  .progress-fill {
+    height: 100%;
+    border-radius: 999px;
+    background: linear-gradient(90deg, var(--gold-dark), var(--gold-light));
+    transition: width 0.8s cubic-bezier(.4,0,.2,1);
+  }
+
+  /* ─── MAIN CONTAINER ─── */
+  .container {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 0 1.2rem 4rem;
+  }
+
+  /* ─── SECTION LABEL ─── */
+  .section-label {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 2.8rem 0 1.4rem;
+  }
+  .section-label h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--gold);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  .section-line {
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  /* ─── JUZ GRID ─── */
+  .juz-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1rem;
+  }
+
+  /* ─── JUZ CARD ─── */
+  .juz-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 1.25rem 1.4rem;
+    text-decoration: none;
+    color: var(--text);
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    position: relative;
+    overflow: hidden;
+    transition: background var(--transition), border-color var(--transition), box-shadow var(--transition), transform var(--transition);
+    box-shadow: 0 2px 10px var(--shadow);
+    cursor: pointer;
+  }
+  .juz-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--gold), transparent);
+    opacity: 0;
+    transition: opacity var(--transition);
+  }
+  .juz-card:hover {
+    background: var(--bg-card-hover);
+    border-color: var(--border-hover);
+    box-shadow: 0 6px 28px var(--shadow-hover);
+    transform: translateY(-2px);
+  }
+  .juz-card:hover::before { opacity: 1; }
+
+  /* Available vs Coming Soon */
+  .juz-card.available { }
+  .juz-card.coming-soon {
+    opacity: 0.55;
+    cursor: default;
+    pointer-events: none;
+  }
+  .juz-card.coming-soon:hover { transform: none; }
+
+  .juz-card-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.5rem;
+  }
+  .juz-number {
+    font-family: 'Playfair Display', serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--gold);
+    opacity: 0.85;
+  }
+  .juz-badge {
+    font-size: 0.68rem;
+    padding: 0.18rem 0.6rem;
+    border-radius: 20px;
+    font-family: 'Crimson Pro', serif;
+    letter-spacing: 0.04em;
+    font-weight: 600;
+  }
+  .juz-badge.ready {
+    background: rgba(100,200,120,0.15);
+    border: 1px solid rgba(100,200,120,0.35);
+    color: #88c89a;
+  }
+  .juz-badge.soon {
+    background: var(--pill-bg);
+    border: 1px solid var(--pill-border);
+    color: var(--text-muted);
+  }
+
+  .juz-arabic {
+    font-family: 'Amiri', serif;
+    font-size: 1.4rem;
+    color: var(--text-arabic);
+    line-height: 1.4;
+    direction: rtl;
+    text-align: right;
+  }
+  .juz-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1.3;
+  }
+  .juz-surahs {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    line-height: 1.4;
+  }
+  .juz-verse-range {
+    font-size: 0.78rem;
+    color: var(--gold-dark);
+    font-style: italic;
+    margin-top: 0.1rem;
+  }
+  .juz-arrow {
+    position: absolute;
+    bottom: 1rem; right: 1.2rem;
+    color: var(--gold);
+    font-size: 1rem;
+    opacity: 0;
+    transform: translateX(-4px);
+    transition: opacity var(--transition), transform var(--transition);
+  }
+  .juz-card:hover .juz-arrow { opacity: 1; transform: translateX(0); }
+
+  /* ─── LEGEND ─── */
+  .legend {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin: 1.8rem 0 0;
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    align-items: center;
+  }
+  .legend-item { display: flex; align-items: center; gap: 0.4rem; }
+  .legend-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .legend-dot.ready { background: #88c89a; }
+  .legend-dot.soon { background: var(--gold-dark); opacity: 0.5; }
+
+  /* ─── ABOUT SECTION ─── */
+  .about-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 1.8rem 2rem;
+    margin: 2rem 0;
+  }
+  .about-card h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.15rem;
+    color: var(--gold);
+    margin-bottom: 0.8rem;
+    display: flex; align-items: center; gap: 0.5rem;
+  }
+  .about-card p {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    line-height: 1.75;
+    margin-bottom: 0.7rem;
+  }
+  .about-card p:last-child { margin-bottom: 0; }
+  .scholar-chips {
+    display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.8rem;
+  }
+  .scholar-chip {
+    background: var(--pill-bg);
+    border: 1px solid var(--pill-border);
+    border-radius: 20px;
+    padding: 0.2rem 0.8rem;
+    font-size: 0.8rem;
+    color: var(--gold-light);
+  }
+
+  /* ─── ORNAMENT ─── */
+  .ornamental-divider {
+    text-align: center;
+    color: var(--gold-dark);
+    font-size: 1.1rem;
+    margin: 2rem 0;
+    opacity: 0.55;
+    letter-spacing: 0.4em;
+  }
+
+  /* ─── FOOTER ─── */
+  footer {
+    text-align: center;
+    padding: 2.5rem 1rem;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    border-top: 1px solid var(--border);
+  }
+  footer .footer-arabic {
+    font-family: 'Amiri', serif;
+    font-size: 1.5rem;
+    color: var(--gold);
+    display: block;
+    margin-bottom: 0.6rem;
+  }
+
+  /* ─── RESPONSIVE ─── */
+  @media(max-width: 600px) {
+    .juz-grid { grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+    .juz-card { padding: 1rem 1.1rem; }
+    body { font-size: 18px; }
+    .about-card { padding: 1.3rem; }
+  }
+  @media(max-width: 380px) {
+    .juz-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<!-- Theme Toggle -->
+<button id="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme">
+  <span id="theme-icon">☀️</span> <span id="theme-label">Light</span>
+</button>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-eyebrow">Verse-by-Verse Tafsir Guide</div>
+  <div class="hero-arabic-main">القرآن الكريم</div>
+  <h1>Complete Qur'ān Tafsir<br>All 30 Juz</h1>
+  <p class="hero-sub">Classical commentary from Ibn Kathīr, Al-Jalālayn & As-Sa'dī — in plain, accessible English</p>
+  <div class="hero-stats">
+    <span class="hero-stat">📖 30 Juz</span>
+    <span class="hero-stat">🕌 114 Surahs</span>
+    <span class="hero-stat">✨ 3 Classical Scholars</span>
+    <span class="hero-stat">🌙 Ramadan 2026</span>
+  </div>
+</section>
+
+<!-- TOP CARDS -->
+<div class="top-cards">
+  <div class="card-ramadan">
+    <div class="card-label">🌙 Special Edition</div>
+    <div class="card-value">Ramadan 2026</div>
+    <div class="card-sub">One juz a day, all month</div>
+  </div>
+  <div class="card-reader">
+    <div class="card-label">Read by</div>
+    <div class="card-value">Mira</div>
+    <div class="card-sub">May every verse bring light</div>
+  </div>
+</div>
+
+<!-- PROGRESS BAR -->
+<div class="progress-section">
+  <div class="progress-header">
+    <span class="progress-label">📚 Completion Progress</span>
+    <span class="progress-count" id="progress-text">1 of 30 complete</span>
+  </div>
+  <div class="progress-track">
+    <div class="progress-fill" id="progress-fill" style="width: 3.33%"></div>
+  </div>
+</div>
+
+<!-- MAIN CONTAINER -->
+<div class="container">
+
+  <!-- About -->
+  <div class="about-card">
+    <h2>📜 About This Guide</h2>
+    <p>Each Juz guide contains Arabic text, English translation, plain-language explanation, and direct scholar commentary for every major passage. Key lessons are highlighted at the end of each section.</p>
+    <p>Commentary is drawn from three foundational works of classical tafsīr:</p>
+    <div class="scholar-chips">
+      <span class="scholar-chip">📜 Tafsīr Ibn Kathīr</span>
+      <span class="scholar-chip">📜 Tafsīr Al-Jalālayn</span>
+      <span class="scholar-chip">📜 Tafsīr As-Sa'dī</span>
+    </div>
+  </div>
+
+  <div class="ornamental-divider">✦ ✦ ✦</div>
+
+  <!-- Section: Juz 1–10 -->
+  <div class="section-label">
+    <h2>Juz 1–10</h2>
+    <div class="section-line"></div>
+  </div>
+
+  <div class="juz-grid">
+
+    <a href="juz1.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 1</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">الْحَمْدُ لِلَّهِ</div>
+      <div class="juz-title">Al-Fātiḥah & Al-Baqarah</div>
+      <div class="juz-surahs">Surahs 1–2</div>
+      <div class="juz-verse-range">Al-Fātiḥah 1:1 – Al-Baqarah 2:141</div>
+    </a>
+
+    <a href="juz2.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 2</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">سَيَقُولُ</div>
+      <div class="juz-title">Al-Baqarah (cont.)</div>
+      <div class="juz-surahs">Surah 2</div>
+      <div class="juz-verse-range">Al-Baqarah 2:142–252</div>
+    </a>
+
+    <a href="juz3.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 3</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">تِلْكَ الرُّسُلُ</div>
+      <div class="juz-title">Al-Baqarah & Āl 'Imrān</div>
+      <div class="juz-surahs">Surahs 2–3</div>
+      <div class="juz-verse-range">Al-Baqarah 2:253 – Āl 'Imrān 3:92</div>
+    </a>
+
+    <a href="juz4.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 4</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">لَن تَنَالُوا</div>
+      <div class="juz-title">Āl 'Imrān & An-Nisā'</div>
+      <div class="juz-surahs">Surahs 3–4</div>
+      <div class="juz-verse-range">Āl 'Imrān 3:93 – An-Nisā' 4:23</div>
+    </a>
+
+    <a href="juz5.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 5</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">وَالْمُحْصَنَاتُ</div>
+      <div class="juz-title">An-Nisā' & Al-Mā'idah</div>
+      <div class="juz-surahs">Surahs 4–5</div>
+      <div class="juz-verse-range">An-Nisā' 4:24 – Al-Mā'idah 5:81</div>
+    </a>
+
+    <a href="juz6.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 6</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">لَا يُحِبُّ اللَّهُ</div>
+      <div class="juz-title">Al-Mā'idah & Al-An'ām</div>
+      <div class="juz-surahs">Surahs 5–6</div>
+      <div class="juz-verse-range">Al-Mā'idah 5:82 – Al-An'ām 6:110</div>
+    </a>
+
+    <a href="juz7.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 7</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">وَإِذَا سَمِعُوا</div>
+      <div class="juz-title">Al-An'ām & Al-A'rāf</div>
+      <div class="juz-surahs">Surahs 6–7</div>
+      <div class="juz-verse-range">Al-An'ām 6:111 – Al-A'rāf 7:87</div>
+    </a>
+
+    <a href="juz8.html" class="juz-card available">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 8</span>
+        <span class="juz-badge soon">Available</span>
+      </div>
+      <div class="juz-arabic">وَلَوْ أَنَّنَا</div>
+      <div class="juz-title">Al-A'rāf & Al-Anfāl</div>
+      <div class="juz-surahs">Surahs 7–8</div>
+      <div class="juz-verse-range">Al-A'rāf 7:88 – Al-Anfāl 8:40</div>
+    </a>
+
+    <a href="juz9.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 9</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">قَالَ الْمَلَأُ</div>
+      <div class="juz-title">Al-Anfāl & At-Tawbah</div>
+      <div class="juz-surahs">Surahs 8–9</div>
+      <div class="juz-verse-range">Al-Anfāl 8:41 – At-Tawbah 9:92</div>
+    </a>
+
+    <a href="juz10.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 10</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">وَاعْلَمُوا</div>
+      <div class="juz-title">At-Tawbah & Yūnus</div>
+      <div class="juz-surahs">Surahs 9–10</div>
+      <div class="juz-verse-range">At-Tawbah 9:93 – Yūnus 10:109</div>
+    </a>
+
+  </div>
+
+  <!-- Section: Juz 11–20 -->
+  <div class="section-label">
+    <h2>Juz 11–20</h2>
+    <div class="section-line"></div>
+  </div>
+
+  <div class="juz-grid">
+
+    <a href="juz11.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 11</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">يَعْتَذِرُونَ</div>
+      <div class="juz-title">Hūd & Yūsuf</div>
+      <div class="juz-surahs">Surahs 11–12</div>
+      <div class="juz-verse-range">Hūd 11:1 – Yūsuf 12:52</div>
+    </a>
+
+    <a href="juz12.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 12</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">وَمَا مِن دَابَّةٍ</div>
+      <div class="juz-title">Yūsuf, Ar-Ra'd & Ibrāhīm</div>
+      <div class="juz-surahs">Surahs 12–14</div>
+      <div class="juz-verse-range">Yūsuf 12:53 – Ibrāhīm 14:52</div>
+    </a>
+
+    <a href="juz13.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 13</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">وَمَا أُبَرِّئُ</div>
+      <div class="juz-title">Al-Ḥijr & An-Naḥl</div>
+      <div class="juz-surahs">Surahs 15–16</div>
+      <div class="juz-verse-range">Al-Ḥijr 15:1 – An-Naḥl 16:128</div>
+    </a>
+
+    <a href="juz14.html" class="juz-card available">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 14</span>
+        <span class="juz-badge soon">Available</span>
+      </div>
+      <div class="juz-arabic">رُبَمَا</div>
+      <div class="juz-title">Al-Isrā' & Al-Kahf</div>
+      <div class="juz-surahs">Surahs 17–18</div>
+      <div class="juz-verse-range">Al-Isrā' 17:1 – Al-Kahf 18:74</div>
+    </a>
+
+    <a href="juz15.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 15</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">سُبْحَانَ الَّذِي</div>
+      <div class="juz-title">Al-Kahf, Maryam & Ṭā-Hā</div>
+      <div class="juz-surahs">Surahs 18–20</div>
+      <div class="juz-verse-range">Al-Kahf 18:75 – Ṭā-Hā 20:135</div>
+    </a>
+
+    <a href="juz16.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 16</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">قَالَ أَلَمْ</div>
+      <div class="juz-title">Al-Anbiyā' & Al-Ḥajj</div>
+      <div class="juz-surahs">Surahs 21–22</div>
+      <div class="juz-verse-range">Al-Anbiyā' 21:1 – Al-Ḥajj 22:78</div>
+    </a>
+
+    <a href="juz17.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 17</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">اقْتَرَبَ</div>
+      <div class="juz-title">Al-Mu'minūn & An-Nūr</div>
+      <div class="juz-surahs">Surahs 23–24</div>
+      <div class="juz-verse-range">Al-Mu'minūn 23:1 – An-Nūr 24:64</div>
+    </a>
+
+    <a href="juz18.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 18</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">قَدْ أَفْلَحَ</div>
+      <div class="juz-title">Al-Furqān, Ash-Shu'arā' & An-Naml</div>
+      <div class="juz-surahs">Surahs 25–27</div>
+      <div class="juz-verse-range">Al-Furqān 25:1 – An-Naml 27:55</div>
+    </a>
+
+    <a href="juz19.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 19</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">وَقَالَ الَّذِينَ</div>
+      <div class="juz-title">An-Naml, Al-Qaṣaṣ & Al-'Ankabūt</div>
+      <div class="juz-surahs">Surahs 27–29</div>
+      <div class="juz-verse-range">An-Naml 27:56 – Al-'Ankabūt 29:45</div>
+    </a>
+
+    <a href="juz20.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 20</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">أَمَّنْ خَلَقَ</div>
+      <div class="juz-title">Al-'Ankabūt, Ar-Rūm, Luqmān & As-Sajdah</div>
+      <div class="juz-surahs">Surahs 29–32</div>
+      <div class="juz-verse-range">Al-'Ankabūt 29:46 – As-Sajdah 32:30</div>
+    </a>
+
+  </div>
+
+  <!-- Section: Juz 21–30 -->
+  <div class="section-label">
+    <h2>Juz 21–30</h2>
+    <div class="section-line"></div>
+  </div>
+
+  <div class="juz-grid">
+
+    <a href="juz21.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 21</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">اتْلُ مَا أُوحِيَ</div>
+      <div class="juz-title">Al-Aḥzāb & Saba'</div>
+      <div class="juz-surahs">Surahs 33–34</div>
+      <div class="juz-verse-range">Al-Aḥzāb 33:1 – Saba' 34:54</div>
+    </a>
+
+    <a href="juz22.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 22</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">وَمَن يَقْنُتْ</div>
+      <div class="juz-title">Fāṭir & Yā-Sīn (beginning)</div>
+      <div class="juz-surahs">Surahs 35–36</div>
+      <div class="juz-verse-range">Fāṭir 35:1 – Yā-Sīn 36:21</div>
+    </a>
+
+    <!-- JUZ 23 — AVAILABLE -->
+    <a href="juz23.html" class="juz-card available">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 23</span>
+        <span class="juz-badge ready">✓ Available</span>
+      </div>
+      <div class="juz-arabic">وَمَا لِيَ</div>
+      <div class="juz-title">Yā-Sīn, Aṣ-Ṣāffāt, Ṣād & Az-Zumar</div>
+      <div class="juz-surahs">Surahs 36–39</div>
+      <div class="juz-verse-range">Yā-Sīn 36:22 – Az-Zumar 39:31</div>
+      <span class="juz-arrow">→</span>
+    </a>
+
+    <a href="juz24.html" class="juz-card available">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 24</span>
+        <span class="juz-badge soon">Available</span>
+      </div>
+      <div class="juz-arabic">فَمَنْ أَظْلَمُ</div>
+      <div class="juz-title">Az-Zumar, Ghāfir & Fuṣṣilat</div>
+      <div class="juz-surahs">Surahs 39–41</div>
+      <div class="juz-verse-range">Az-Zumar 39:32 – Fuṣṣilat 41:46</div>
+    </a>
+
+    <a href="juz25.html" class="juz-card available">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 25</span>
+        <span class="juz-badge soon">Available</span>
+      </div>
+      <div class="juz-arabic">إِلَيْهِ يُرَدُّ</div>
+      <div class="juz-title">Fuṣṣilat, Ash-Shūrā, Az-Zukhruf & Ad-Dukhān</div>
+      <div class="juz-surahs">Surahs 41–44</div>
+      <div class="juz-verse-range">Fuṣṣilat 41:47 – Ad-Dukhān 44:59</div>
+    </a>
+
+    <a href="juz26.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 26</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">حم</div>
+      <div class="juz-title">Al-Jāthiyah, Al-Aḥqāf, Muḥammad & Al-Fatḥ</div>
+      <div class="juz-surahs">Surahs 45–48</div>
+      <div class="juz-verse-range">Al-Jāthiyah 45:1 – Al-Fatḥ 48:29</div>
+    </a>
+
+    <a href="juz27.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 27</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">قَالَ فَمَا خَطْبُكُمْ</div>
+      <div class="juz-title">Al-Ḥujurāt through Adh-Dhāriyāt</div>
+      <div class="juz-surahs">Surahs 49–51</div>
+      <div class="juz-verse-range">Al-Ḥujurāt 49:1 – Adh-Dhāriyāt 51:30</div>
+    </a>
+
+    <a href="juz28.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 28</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">قَدْ سَمِعَ اللَّهُ</div>
+      <div class="juz-title">Al-Mujādilah through At-Taḥrīm</div>
+      <div class="juz-surahs">Surahs 58–66</div>
+      <div class="juz-verse-range">Al-Mujādilah 58:1 – At-Taḥrīm 66:12</div>
+    </a>
+
+    <a href="juz29.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 29</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">تَبَارَكَ الَّذِي</div>
+      <div class="juz-title">Al-Mulk through Al-Mursalāt</div>
+      <div class="juz-surahs">Surahs 67–77</div>
+      <div class="juz-verse-range">Al-Mulk 67:1 – Al-Mursalāt 77:50</div>
+    </a>
+
+    <a href="juz30.html" class="juz-card coming-soon">
+      <div class="juz-card-top">
+        <span class="juz-number">Juz 30</span>
+        <span class="juz-badge soon">Coming Soon</span>
+      </div>
+      <div class="juz-arabic">عَمَّ يَتَسَاءَلُونَ</div>
+      <div class="juz-title">An-Naba' through An-Nās</div>
+      <div class="juz-surahs">Surahs 78–114</div>
+      <div class="juz-verse-range">An-Naba' 78:1 – An-Nās 114:6</div>
+    </a>
+
+  </div>
+
+  <!-- Legend -->
+  <div class="legend">
+    <div class="legend-item">
+      <div class="legend-dot ready"></div>
+      <span>Available to read</span>
+    </div>
+    <div class="legend-item">
+      <div class="legend-dot soon"></div>
+      <span>Coming soon</span>
+    </div>
+  </div>
+
+  <div class="ornamental-divider" style="margin-top: 2.5rem;">✦ ✦ ✦</div>
+
+</div><!-- /container -->
+
+<footer>
+  <span class="footer-arabic">إِنَّ هَٰذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ</span>
+  "Indeed, this Qur'ān guides to that which is most suitable." (17:9)
+  <br><br>
+  Ramadan 2026 Tafsir Guide · Commentary from Ibn Kathīr, Al-Jalālayn & As-Sa'dī
+  <br>
+  <small style="opacity:0.5; margin-top:0.5rem; display:block;">Arabic translations are approximate. Always refer to qualified scholars for religious rulings.</small>
+</footer>
+
+<script>
+  // ─── THEME TOGGLE ───
+  function getTheme() {
+    return localStorage.getItem('juz23-theme') || 'dark';
+  }
+  function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    const icon = document.getElementById('theme-icon');
+    const label = document.getElementById('theme-label');
+    if (theme === 'dark') {
+      icon.textContent = '☀️';
+      label.textContent = 'Light';
+    } else {
+      icon.textContent = '🌙';
+      label.textContent = 'Dark';
+    }
+  }
+  function toggleTheme() {
+    const current = getTheme();
+    const next = current === 'dark' ? 'light' : 'dark';
+    localStorage.setItem('juz23-theme', next);
+    applyTheme(next);
+  }
+  applyTheme(getTheme());
+
+  // ─── PROGRESS ───
+  // Count available cards
+  const available = document.querySelectorAll('.juz-card.available').length;
+  const total = 30;
+  const pct = (available / total * 100).toFixed(2);
+  document.getElementById('progress-fill').style.width = pct + '%';
+  document.getElementById('progress-text').textContent = available + ' of ' + total + ' complete';
+</script>
+</body>
+</html>
