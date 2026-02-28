@@ -1,0 +1,1872 @@
+{
+  "juz": 1,
+  "meta": {
+    "title": {
+      "en": "Juz 1 — The Opening",
+      "ms": "Juz 1 — Pembuka"
+    },
+    "arabic_name": "الجزء الأول",
+    "night": 1,
+    "reader": "A",
+    "quote": {
+      "en": "\"Indeed, the Qur'an guides to that which is most suitable.\"",
+      "ms": "\"Sesungguhnya Al-Quran ini memberi petunjuk ke jalan yang lebih lurus.\"",
+      "ref": "17:9"
+    }
+  },
+  "toc": [
+    {
+      "id": "section-01",
+      "en": "Surah Al-Fatiha — Introduction",
+      "ms": "Surah Al-Fatiha — Pengenalan"
+    },
+    {
+      "id": "section-02",
+      "en": "Basmalah, Praise & The Names of Allah",
+      "ms": "Basmalah, Pujian & Nama-nama Allah"
+    },
+    {
+      "id": "section-03",
+      "en": "Master of the Day & Sole Worship",
+      "ms": "Tuan Hari Pembalasan & Ibadah Eksklusif"
+    },
+    {
+      "id": "section-04",
+      "en": "The Straight Path — The Ultimate Supplication",
+      "ms": "Jalan yang Lurus — Doa yang Paling Agung"
+    },
+    {
+      "id": "section-05",
+      "en": "Surah Al-Baqarah — Introduction",
+      "ms": "Surah Al-Baqarah — Pengenalan"
+    },
+    {
+      "id": "section-06",
+      "en": "The Muqaṭṭa'āt & Portrait of the True Believers",
+      "ms": "Muqaṭṭa'āt & Gambaran Orang-orang Beriman yang Sejati"
+    },
+    {
+      "id": "section-07",
+      "en": "The Disbelievers — Sealed Hearts",
+      "ms": "Orang-orang Kafir — Hati yang Disegel"
+    },
+    {
+      "id": "section-08",
+      "en": "The Hypocrites — The Most Dangerous Category",
+      "ms": "Orang-orang Munafik — Golongan yang Paling Berbahaya"
+    },
+    {
+      "id": "section-09",
+      "en": "O Humanity — The Universal Call & The Qur'anic Challenge",
+      "ms": "Wahai Manusia — Seruan Universal & Cabaran Al-Quran"
+    },
+    {
+      "id": "section-10",
+      "en": "Allegories in the Qur'an & Creation of the Universe",
+      "ms": "Perumpamaan-perumpamaan dalam Al-Quran & Penciptaan Alam Semesta"
+    },
+    {
+      "id": "section-11",
+      "en": "The Creation of Adam — Humanity's Dignity & First Trial",
+      "ms": "Penciptaan Adam — Kemuliaan Manusia & Ujian Pertama"
+    },
+    {
+      "id": "section-12",
+      "en": "Children of Israel I — The Covenant Renewed",
+      "ms": "Bani Israel I — Pembaharuan Perjanjian"
+    },
+    {
+      "id": "section-13",
+      "en": "Divine Favours Bestowed on Banī Isrā'īl & Their Ingratitude",
+      "ms": "Nikmat-nikmat Ilahi kepada Banī Isrā'īl & Keingkaran Mereka"
+    },
+    {
+      "id": "section-14",
+      "en": "Miracles of Musa & The Parable of the Slaughtered Cow",
+      "ms": "Mukjizat-mukjizat Musa & Perumpamaan Lembu Betina yang Disembelih"
+    },
+    {
+      "id": "section-15",
+      "en": "Corruption of Scripture, Hardened Hearts & False Security",
+      "ms": "Pemalsuan Kitab Suci, Hati yang Keras & Rasa Aman yang Palsu"
+    },
+    {
+      "id": "section-16",
+      "en": "A Chain of Prophets Rejected",
+      "ms": "Rangkaian Para Nabi yang Ditolak"
+    },
+    {
+      "id": "section-17",
+      "en": "Harūt & Marūt — Magic vs. True Faith",
+      "ms": "Hārūt & Mārūt — Sihir vs. Iman yang Sejati"
+    },
+    {
+      "id": "section-18",
+      "en": "Jewish & Christian Claims & Allah's Universal Sovereignty",
+      "ms": "Dakwaan Yahudi & Kristian & Kedaulatan Universal Allah"
+    },
+    {
+      "id": "section-19",
+      "en": "Ibrāhīm — Father of Prophets & The Building of the Ka'bah",
+      "ms": "Ibrāhīm — Bapa Para Nabi & Pembinaan Ka'bah"
+    },
+    {
+      "id": "section-20",
+      "en": "The Muslim Declaration of Universal Faith & The Qiblah",
+      "ms": "Pengisytiharan Iman Universal Muslim & Kiblat"
+    },
+    {
+      "id": "section-21",
+      "en": "Overarching Themes of Juz 1",
+      "ms": "Tema-tema Utama Juz 1"
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-01",
+      "type": "surah-intro",
+      "surah_number": 1,
+      "en": {
+        "arabic_name": "سُورَةُ الْفَاتِحَة",
+        "name": "Al-Fatiha — The Opening",
+        "classification": "Makkan",
+        "verses": 7,
+        "epithet": "Umm Al-Kitab (The Mother of the Book)",
+        "background": "Al-Fatiha is the gateway to the Qur'an — a perfect, seven-verse prayer that encapsulates the entire message of Islam. It is recited in every unit (*rak'ah*) of every prayer, making it the most repeated passage in all of Islamic worship.\n\nThe Prophet ﷺ called it by several names:\n- **Umm Al-Kitab** — the Mother of the Book\n- **Al-Sab' Al-Mathani** — the Seven Oft-Repeated Verses\n- **Al-Qur'an Al-'Aẓīm** — the Great Qur'an\n\nHe also said: *\"There is no prayer for one who does not recite Al-Fatiha.\"* (Bukhari & Muslim)\n\n---",
+        "desc": "Al-Fatiha is the gateway to the Qur'an — a perfect, seven-verse prayer that encapsulates the entire message of Islam. It is recited in every unit (*rak'ah*) of every prayer, making it the most repeated passage in all of Islamic worship."
+      },
+      "ms": {
+        "arabic_name": "سُورَةُ الْفَاتِحَة",
+        "name": "Al-Fatiha — Pembuka",
+        "classification": "Makkiyyah",
+        "verses": 7,
+        "epithet": "Umm Al-Kitab (Induk Al-Kitab)",
+        "background": "Al-Fatiha adalah pintu gerbang Al-Quran — sebuah doa tujuh ayat yang sempurna, merangkumi keseluruhan mesej Islam. Ia dibaca pada setiap rakaat setiap solat, menjadikannya petikan yang paling banyak diulang dalam seluruh ibadah Islam.\n\nNabi ﷺ menamainya dengan beberapa nama:\n- **Umm Al-Kitab** — Induk Al-Kitab\n- **Al-Sab' Al-Mathani** — Tujuh Ayat yang Sering Diulang\n- **Al-Qur'an Al-'Aẓīm** — Al-Quran yang Agung\n\nBaginda juga bersabda: *\"Tidak sah solat bagi sesiapa yang tidak membaca Al-Fatiha.\"* (Bukhari & Muslim)\n\n---",
+        "desc": "Al-Fatiha adalah pintu gerbang Al-Quran — sebuah doa tujuh ayat yang sempurna, merangkumi keseluruhan mesej Islam. Ia dibaca pada setiap rakaat setiap solat, menjadikannya petikan yang paling banyak diulang dalam seluruh ibadah Islam."
+      }
+    },
+    {
+      "id": "section-02",
+      "type": "passage",
+      "surah_number": 1,
+      "verse_start": 1,
+      "verse_end": 3,
+      "en": {
+        "title": "Basmalah, Praise & The Names of Allah",
+        "theme": "The opening praise — establishing who Allah is before we ask anything of Him",
+        "translation": "In the name of Allah, the Most Gracious, the Most Merciful. (1) All praise is due to Allah, Lord of all the worlds. (2) The Most Gracious, the Most Merciful. (3)",
+        "explanation": [
+          "The surah opens with the *Basmalah* — the sacred formula **Bismillāh ir-Raḥmān ir-Raḥīm**. Three key names/attributes are presented:",
+          "- **Allāh** — the proper name of God. It is not derived from any descriptive quality but is the name He chose for Himself alone. No human, idol, or created being may share this name. - **Ar-Raḥmān** (the Most Gracious) — His all-encompassing mercy that reaches every created being: Muslim, non-Muslim, animal, insect, even the smallest organism. - **Ar-Raḥīm** (the Most Merciful) — the special, sustained mercy He reserves specifically for the believers in the Hereafter.",
+          "Verse 2 opens with **Al-Hamd** — complete, perfect praise — and assigns it solely to Allah. The word *Rabb* (Lord) is beautifully comprehensive: it means the One who creates, sustains, nurtures, manages, and perfects everything.",
+          "**Al-'Ālamīn** (all the worlds) is vast — scholars enumerate it as every type of creation: worlds of humans, jinn, angels, animals, plants, and galaxies beyond our knowledge.",
+          "The repetition of *ar-Raḥmān ar-Raḥīm* in verse 3, after it appeared in the Basmalah, is intentional emphasis — drilling into our hearts that the Lord of all creation is, above all else, defined by His mercy."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir explains that Ar-Raḥmān is a name exclusive to Allah and cannot be given to any created being, while Ar-Raḥīm can also describe a merciful human. He quotes the hadith: \"Allah has one hundred mercies, and He has sent down one of them between jinn, mankind, animals, and insects — by which they show affection to one another and by which wild animals care for their offspring. Allah has kept ninety-nine mercies with which He will show mercy to His servants on the Day of Resurrection.\""
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn notes that Al-Hamd encompasses both praise (thanā') and gratitude (shukr). By attributing it exclusively to Allah, the verse establishes that every good, every blessing, every beauty in existence ultimately originates from Him — so all genuine praise belongs to Him alone."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Shaykh As-Sa'di beautifully observes that beginning the Qur'an with Bismillah teaches us that all important matters should begin with Allah's name. He also notes that the conjunction of Rabb al-'ālamīn with Ar-Raḥmān combines both the divine attribute of supreme power (lordship) and overflowing compassion — so we approach Allah neither through fear alone, nor through hope alone, but through both together."
+          }
+        ],
+        "lessons": [
+          "🌿 Begin all important actions with *Bismillah* — this is a Sunnah that connects every deed to Allah.",
+          "🌊 Allah's mercy vastly outweighs His wrath — His mercy precedes and encompasses everything.",
+          "👑 *Rabb* means Allah is not just Creator but active Sustainer — He is involved in every moment of your life.",
+          "🌍 *Al-'Ālamīn* reminds us of our smallness and the vastness of Allah's dominion.",
+          "🙏 All praise belongs to Allah because He is the ultimate source of all good."
+        ],
+        "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَٰنِ الرَّحِيمِ ﴿٣﴾"
+      },
+      "ms": {
+        "title": "Basmalah, Pujian & Nama-nama Allah",
+        "theme": "Pujian pembuka — menetapkan siapa Allah sebelum kita memohon apa-apa daripada-Nya",
+        "translation": "Dengan nama Allah, Yang Maha Pemurah, lagi Maha Mengasihani. (1) Segala puji bagi Allah, Tuhan semesta alam. (2) Yang Maha Pemurah, lagi Maha Mengasihani. (3)",
+        "explanation": [
+          "Surah ini dimulakan dengan *Basmalah* — formula suci **Bismillāh ir-Raḥmān ir-Raḥīm**. Tiga nama/sifat utama diperkenalkan:",
+          "- **Allāh** — nama diri bagi Allah. Ia tidak terbitan daripada sebarang kualiti deskriptif tetapi adalah nama yang dipilih-Nya untuk diri-Nya sendiri. Tiada manusia, berhala, atau makhluk yang diciptakan boleh berkongsi nama ini. - **Ar-Raḥmān** (Yang Maha Pemurah) — rahmat-Nya yang menyeluruh yang merangkumi setiap makhluk: Muslim, bukan Muslim, haiwan, serangga, malah organisma yang terkecil. - **Ar-Raḥīm** (Yang Maha Mengasihani) — rahmat khusus dan berterusan yang dikhaskan-Nya untuk orang-orang beriman di Akhirat.",
+          "Ayat 2 dibuka dengan **Al-Hamd** — pujian yang sempurna dan menyeluruh — dan menisbahkannya semata-mata kepada Allah. Perkataan *Rabb* (Tuhan) amat komprehensif: ia bermaksud Dia yang mencipta, menghidupkan, memelihara, mengurus, dan menyempurnakan segala sesuatu.",
+          "**Al-'Ālamīn** (semesta alam) adalah luas — para ulama mengklasifikasikannya sebagai setiap jenis ciptaan: alam manusia, jin, malaikat, haiwan, tumbuhan, dan galaksi-galaksi yang melampaui pengetahuan kita.",
+          "Pengulangan *ar-Raḥmān ar-Raḥīm* dalam ayat 3, selepas ia muncul dalam Basmalah, adalah penekanan yang disengajakan — menanam dalam hati kita bahawa Tuhan semesta alam, di atas segalanya, dicirikan oleh rahmat-Nya."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir menjelaskan bahawa Ar-Raḥmān adalah nama yang eksklusif bagi Allah dan tidak boleh diberikan kepada sebarang makhluk, manakala Ar-Raḥīm boleh juga menggambarkan manusia yang penyayang. Beliau meriwayatkan hadis: \"Allah memiliki seratus rahmat, dan Dia telah menurunkan satu daripadanya antara jin, manusia, haiwan, dan serangga — dengannya mereka menunjukkan kasih sayang antara satu sama lain dan dengannya haiwan liar menjaga anak-anak mereka. Allah menyimpan sembilan puluh sembilan rahmat yang dengannya Dia akan menunjukkan rahmat kepada hamba-hamba-Nya pada Hari Kiamat.\""
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn menyatakan bahawa Al-Hamd merangkumi pujian (thanā') dan kesyukuran (shukr). Dengan menisbahkannya secara eksklusif kepada Allah, ayat ini menetapkan bahawa setiap kebaikan, setiap nikmat, setiap keindahan dalam kewujudan akhirnya berasal daripada-Nya — maka segala pujian yang tulen hanya milik-Nya."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Syeikh As-Sa'di dengan indah menyatakan bahawa memulakan Al-Quran dengan Bismillah mengajar kita bahawa semua perkara penting hendaklah dimulakan dengan nama Allah. Beliau juga menyatakan bahawa penggabungan Rabb al-'ālamīn dengan Ar-Raḥmān menyatukan sifat Ilahi berupa kekuasaan tertinggi (ketuhanan) dan belas kasihan yang melimpah — jadi kita mendekati Allah bukan melalui rasa takut semata-mata, bukan melalui harapan semata-mata, tetapi melalui kedua-duanya sekali."
+          }
+        ],
+        "lessons": [
+          "🌿 Mulakan semua tindakan penting dengan *Bismillah* — ini adalah Sunnah yang menghubungkan setiap amalan kepada Allah.",
+          "🌊 Rahmat Allah jauh mengatasi murka-Nya — rahmat-Nya mendahului dan merangkumi segalanya.",
+          "👑 *Rabb* bermaksud Allah bukan sahaja Pencipta tetapi juga Pemelihara yang aktif — Dia terlibat dalam setiap detik kehidupanmu.",
+          "🌍 *Al-'Ālamīn* mengingatkan kita tentang keciilan kita dan keluasan kekuasaan Allah.",
+          "🙏 Segala pujian adalah milik Allah kerana Dia adalah sumber segala kebaikan."
+        ]
+      }
+    },
+    {
+      "id": "section-03",
+      "type": "passage",
+      "surah_number": 1,
+      "verse_start": 4,
+      "verse_end": 5,
+      "en": {
+        "title": "Master of the Day & Sole Worship",
+        "theme": "Divine sovereignty on the Day of Judgement; the covenant of exclusive worship",
+        "translation": "Master of the Day of Judgement. (4) You alone we worship, and You alone we ask for help. (5)",
+        "explanation": [
+          "**Māliki yawm id-dīn** — the word *mālik* (master/owner) emphasises that on the Day of Judgement, all apparent authority collapses. Kings, presidents, wealth, influence — all gone. Only Allah's ownership of that Day remains absolute. *Yawm ad-dīn* (the Day of Recompense) is the day when every deed, every hidden intention, every whispered word is repaid in full justice.",
+          "Verse 5 is the pivot of the surah — and indeed of the entire Qur'an. The phrasing **Iyyāka** (You alone) places the object **before** the verb in Arabic — a powerful grammatical construction expressing exclusivity. We are not simply saying \"we worship\" — we are saying \"to YOU and none other do we direct our worship.\"",
+          "This single verse defines the core of Islamic monotheism: *tawhīd al-'ibādah* — the Oneness of Allah in worship.",
+          "The shift from third-person (\"Lord of the worlds\") to second-person (\"You alone\") in verse 5 is theologically profound. Having praised Allah in the first verses, the worshipper now turns **directly** to Him — a spiritual intimacy achieved through praise. Prayer is a conversation, not a monologue."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir notes the powerful grammatical emphasis of placing iyyāka first: it restricts worship and help-seeking exclusively to Allah, eliminating every form of shirk. He records the Hadith Qudsi regarding this surah: \"When My servant says 'iyyāka na'budu wa iyyāka nasta'in' — this is between Me and My servant, and My servant shall have what he asks for.\" This verse is the very heart of the covenant between the servant and his Lord."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn explains that nasta'in (we seek help) encompasses seeking Allah's aid in all matters — worship, livelihood, knowledge, and every affair of life. No human being is self-sufficient; ultimate dependency belongs only to Allah."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Shaykh As-Sa'di writes that this verse unites the two greatest obligations on the servant: 'ibādah (worship) and tawakkul (reliance on Allah). Worship is the goal; seeking His help is the means to achieve that goal. Together they represent the complete religion — establishing the right of Allah and acknowledging our own utter need."
+          }
+        ],
+        "lessons": [
+          "⚖️ The Day of Judgement is real — every action we take today will be accounted for.",
+          "🕌 True worship means directing all devotion, hope, fear, love, and obedience to Allah alone.",
+          "🤲 *Nasta'in* — never forget that you need Allah's help in everything, even in worshipping Him.",
+          "🔄 The shift from third to second person teaches us: praising Allah draws you closer to Him in intimate conversation.",
+          "🚫 Shirk — giving anyone Allah's rights of worship — is the only unforgivable sin (if died upon). This verse guards us from it."
+        ],
+        "arabic": "مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾"
+      },
+      "ms": {
+        "title": "Tuan Hari Pembalasan & Ibadah Eksklusif",
+        "theme": "Kedaulatan Ilahi pada Hari Kiamat; perjanjian ibadah yang eksklusif",
+        "translation": "Yang Menguasai Hari Pembalasan. (4) Hanya Engkaulah yang kami sembah, dan hanya kepada Engkaulah kami memohon pertolongan. (5)",
+        "explanation": [
+          "**Māliki yawm id-dīn** — perkataan *mālik* (tuan/pemilik) menekankan bahawa pada Hari Kiamat, semua kekuasaan yang kelihatan akan runtuh. Raja-raja, presiden, kekayaan, pengaruh — semuanya lenyap. Hanya pemilikan Allah terhadap Hari itu yang kekal mutlak. *Yawm ad-dīn* (Hari Pembalasan) adalah hari apabila setiap amalan, setiap niat tersembunyi, setiap kata yang dibisikkan dibalas dengan keadilan yang sempurna.",
+          "Ayat 5 adalah titik tengah surah — dan sesungguhnya seluruh Al-Quran. Ungkapan **Iyyāka** (hanya Engkau) meletakkan objek **sebelum** kata kerja dalam bahasa Arab — satu binaan tatabahasa yang kuat yang menyatakan eksklusiviti. Kita bukan sekadar berkata \"kami menyembah\" — kita berkata \"kepada ENGKAU dan bukan selain-Mu kami tujukan ibadah kami.\"",
+          "Satu ayat ini mentakrifkan teras tauhid Islam: *tawhīd al-'ibādah* — Keesaan Allah dalam ibadah.",
+          "Peralihan daripada orang ketiga (\"Tuhan semesta alam\") kepada orang kedua (\"hanya Engkau\") dalam ayat 5 adalah sungguh mendalam dari segi teologi. Setelah memuji Allah dalam ayat-ayat awal, si hamba kini berpaling **terus** kepada-Nya — satu keintiman rohani yang dicapai melalui pujian. Solat adalah perbualan, bukan monolog."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir menyatakan penekanan tatabahasa yang kuat dengan meletakkan iyyāka dahulu: ia mengehadkan ibadah dan permohonan pertolongan secara eksklusif kepada Allah, menghapuskan setiap bentuk syirik. Beliau meriwayatkan Hadith Qudsi berkenaan surah ini: \"Apabila hamba-Ku berkata 'iyyāka na'budu wa iyyāka nasta'in' — ini adalah antara Aku dan hamba-Ku, dan hamba-Ku akan mendapat apa yang dimintanya.\" Ayat ini adalah jantung perjanjian antara hamba dan Tuhannya."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn menjelaskan bahawa nasta'in (kami memohon pertolongan) merangkumi memohon pertolongan Allah dalam semua perkara — ibadah, rezeki, ilmu, dan setiap urusan kehidupan. Tiada manusia yang berjiwa merdeka; kebergantungan mutlak hanya kepada Allah."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Syeikh As-Sa'di menulis bahawa ayat ini menyatukan dua kewajipan terbesar ke atas hamba: 'ibādah (ibadah) dan tawakkul (bertawakkal kepada Allah). Ibadah adalah matlamat; memohon pertolongan-Nya adalah wasilah untuk mencapai matlamat itu. Bersama-sama keduanya mewakili agama yang lengkap — menegakkan hak Allah dan mengakui keperluan kita yang mutlak."
+          }
+        ],
+        "lessons": [
+          "⚖️ Hari Kiamat adalah nyata — setiap tindakan yang kita lakukan hari ini akan dipertanggungjawabkan.",
+          "🕌 Ibadah yang sejati bermaksud mengarahkan semua pengabdian, harapan, rasa takut, cinta, dan ketaatan hanya kepada Allah.",
+          "🤲 *Nasta'in* — jangan sesekali lupa bahawa kamu memerlukan pertolongan Allah dalam segalanya, bahkan dalam beribadah kepada-Nya.",
+          "🔄 Peralihan daripada orang ketiga kepada orang kedua mengajar kita: memuji Allah mendekatkan kamu kepada-Nya dalam perbualan yang intim.",
+          "🚫 Syirik — memberikan hak ibadah Allah kepada mana-mana pihak lain — adalah satu-satunya dosa yang tidak diampunkan (jika mati di atasnya). Ayat ini memelihara kita daripadanya."
+        ]
+      }
+    },
+    {
+      "id": "section-04",
+      "type": "passage",
+      "surah_number": 1,
+      "verse_start": 6,
+      "verse_end": 7,
+      "en": {
+        "title": "The Straight Path — The Ultimate Supplication",
+        "theme": "Asking Allah for guidance, and understanding the three paths humanity walks",
+        "translation": "Guide us to the straight path — (6) the path of those upon whom You have bestowed favour, not of those who have evoked anger, nor of those who are astray. (7)",
+        "explanation": [
+          "The surah climaxes with the most comprehensive supplication a human being can make: **\"Guide us to the straight path.\"**",
+          "The Arabic word *ihdināa* is remarkably deep — it means not just \"show us the path\" but \"grant us success on it, keep us firm upon it, enable us to traverse it fully.\" We are asking for guidance as a **continuous, living gift** — not a one-time event.",
+          "*As-ṣirāṭ al-mustaqīm* (the straight path) is then defined as the way of those whom Allah has blessed — the prophets, the truthful, the martyrs, the righteous (see 4:69). It is the path of correct belief (*aqīdah*), sincere worship, good character, and righteous deeds.",
+          "The final verse identifies **two paths to avoid**:",
+          "| Path | Arabic Term | Description | |---|---|---| | Those who earned anger | *al-maghḍūb 'alayhim* | Knew the truth but rejected and disobeyed it | | Those who went astray | *aḍ-ḍāllīn* | Followed religion without proper knowledge, fell into deviation despite sincerity |",
+          "The congregation says *Āmeen* after this verse — meaning \"O Allah, answer our supplication.\" The Prophet ﷺ said: *\"When the imam says Āmeen, say Āmeen, for whoever's Āmeen coincides with the angels' Āmeen, all his past sins are forgiven.\"* (Bukhari)"
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir records the authentic narration that identifies al-maghḍūb 'alayhim as those who had knowledge but acted contrary to it — such as certain groups among the People of the Book who knew the Prophet ﷺ was true but rejected him out of arrogance. Aḍ-ḍāllīn are those who acted out of ignorance without sound knowledge. He emphasises that both errors — arrogant rejection of truth and ignorant deviation — are dangers for this ummah too, not just for past nations."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn highlights that asking for guidance to the straight path — even when one is already a believer — is a request for increase, firmness, and consistency. The Muslim needs guidance constantly, not just at the beginning of their journey. This is why we ask seventeen or more times every single day."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Shaykh As-Sa'di beautifully writes: \"The fact that Allah commanded us to make this supplication seventeen times a day in prayer — and more for those who pray sunnah prayers — shows how desperately our hearts need constant guidance, and how Allah loves that His servants return to Him in this need again and again.\" He also notes that the straight path requires both correct knowledge AND sincere action — one without the other leads to deviation. Knowledge without action = path of anger. Action without knowledge = path of straying."
+          }
+        ],
+        "lessons": [
+          "🛤️ Guidance (*hidāyah*) is the greatest gift — we ask for it at least seventeen times daily.",
+          "📚 Knowledge without action leads to anger; action without knowledge leads to going astray. We need both.",
+          "🤝 The path is not walked alone — it's the path of prophets, companions, and the righteous throughout history.",
+          "🔁 Even those who are already guided need to keep asking for guidance — faith needs constant renewal.",
+          "😇 Saying *Āmeen* loudly in prayer connects us to the angels' supplication and earns forgiveness."
+        ],
+        "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾"
+      },
+      "ms": {
+        "title": "Jalan yang Lurus — Doa yang Paling Agung",
+        "theme": "Memohon hidayah daripada Allah, dan memahami tiga jalan yang ditempuhi manusia",
+        "translation": "Tunjukilah kami jalan yang lurus — (6) iaitu jalan orang-orang yang telah Engkau kurniakan nikmat ke atas mereka, bukan jalan mereka yang dimurkai, dan bukan pula jalan mereka yang sesat. (7)",
+        "explanation": [
+          "Surah ini memuncak dengan doa yang paling menyeluruh yang boleh dilafazkan oleh manusia: **\"Tunjukilah kami jalan yang lurus.\"**",
+          "Perkataan Arab *ihdināa* adalah amat mendalam — ia bukan sekadar bermaksud \"tunjukkan kami jalannya\" tetapi \"kurniakanlah kami kejayaan di atasnya, tetapkan kami kukuh di atasnya, izinkan kami melaluinya dengan sepenuhnya.\" Kita memohon hidayah sebagai **kurnia yang berterusan dan hidup** — bukan suatu peristiwa sekali sahaja.",
+          "*As-ṣirāṭ al-mustaqīm* (jalan yang lurus) kemudiannya ditakrifkan sebagai jalan mereka yang telah diberkati Allah — para nabi, orang-orang yang benar, para syahid, orang-orang soleh (lihat 4:69). Ia adalah jalan akidah yang betul, ibadah yang ikhlas, akhlak yang baik, dan amal soleh.",
+          "Ayat terakhir mengenal pasti **dua jalan yang perlu dielakkan**:",
+          "| Jalan | Istilah Arab | Keterangan | |---|---|---| | Mereka yang mendapat kemurkaan | *al-maghḍūb 'alayhim* | Mengetahui kebenaran tetapi menolak dan menderhaka kepadanya | | Mereka yang sesat | *aḍ-ḍāllīn* | Mengikuti agama tanpa ilmu yang betul, terjerumus ke dalam kesesatan walaupun bersungguh-sungguh |",
+          "Jamaah mengucapkan *Āmeen* selepas ayat ini — bermaksud \"Ya Allah, perkenankanlah doa kami.\" Nabi ﷺ bersabda: *\"Apabila imam mengucapkan Āmeen, ucapkanlah Āmeen, kerana sesiapa yang ucapan Āmeen-nya bertepatan dengan ucapan Āmeen para malaikat, semua dosanya yang lalu diampunkan.\"* (Bukhari)"
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir meriwayatkan riwayat yang sahih yang mengenal pasti al-maghḍūb 'alayhim sebagai mereka yang memiliki ilmu tetapi bertindak bertentangan dengannya — seperti sesetengah golongan dalam kalangan Ahli Kitab yang mengetahui bahawa Nabi ﷺ adalah benar tetapi menolaknya kerana kesombongan. Aḍ-ḍāllīn adalah mereka yang bertindak atas kejahilan tanpa ilmu yang sahih. Beliau menekankan bahawa kedua-dua kesilapan ini — penolakan kebenaran dengan sombong dan kesesatan akibat kejahilan — adalah bahaya bagi umat ini juga, bukan hanya bagi bangsa-bangsa terdahulu."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn menyerlahkan bahawa memohon hidayah ke jalan yang lurus — walaupun seseorang sudah beriman — adalah permohonan untuk pertambahan, keteguhan, dan konsistensi. Muslim memerlukan hidayah secara berterusan, bukan hanya pada permulaan perjalanannya. Inilah sebabnya kita memohonnya tujuh belas kali atau lebih setiap hari."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Syeikh As-Sa'di dengan indah menulis: \"Hakikat bahawa Allah memerintahkan kita untuk membuat doa ini tujuh belas kali sehari dalam solat — dan lebih bagi mereka yang mendirikan solat sunat — menunjukkan betapa sangat hati kita memerlukan hidayah yang berterusan, dan betapa Allah suka apabila hamba-hamba-Nya kembali kepada-Nya dalam keperluan ini berulang kali.\" Beliau juga menyatakan bahawa jalan yang lurus memerlukan ilmu yang betul DAN amal yang ikhlas — satu tanpa yang lain membawa kepada kesesatan. Ilmu tanpa amal = jalan kemurkaan. Amal tanpa ilmu = jalan kesesatan."
+          }
+        ],
+        "lessons": [
+          "🛤️ Hidayah (*hidāyah*) adalah kurnia yang terbesar — kita memohonnya sekurang-kurangnya tujuh belas kali sehari.",
+          "📚 Ilmu tanpa amal membawa kemurkaan; amal tanpa ilmu membawa kesesatan. Kita memerlukan kedua-duanya.",
+          "🤝 Jalan ini tidak ditempuhi bersendirian — ia adalah jalan para nabi, sahabat, dan orang-orang soleh sepanjang sejarah.",
+          "🔁 Walaupun mereka yang sudah mendapat hidayah perlu terus memohon hidayah — iman perlu diperbaharui secara berterusan.",
+          "😇 Mengucapkan *Āmeen* dengan kuat dalam solat menghubungkan kita dengan doa para malaikat dan mendatangkan keampunan."
+        ]
+      }
+    },
+    {
+      "id": "section-05",
+      "type": "surah-intro",
+      "surah_number": 2,
+      "en": {
+        "arabic_name": "سُورَةُ الْبَقَرَة",
+        "name": "Al-Baqarah — The Cow",
+        "classification": "Madinan",
+        "verses": 286,
+        "epithet": "The longest surah in the Qur'an",
+        "background": "Al-Baqarah is the longest surah in the Qur'an, revealed mostly in Madinah after the Hijra (the Prophet's migration from Makkah). It was revealed over a period of approximately ten years and represents the most comprehensive legislative and theological document in the Qur'an.\n\nThe Prophet ﷺ said about it:\n\n> *\"Recite Al-Baqarah, for taking to it is a blessing and leaving it is a cause of grief, and the magicians cannot confront it.\"* (Muslim)\n\n> *\"The Qur'an will come on the Day of Resurrection and will intercede for its companions. Al-Baqarah and Āl 'Imrān will come like two clouds or two shades or two flocks of birds in ranks, pleading for those who recited them.\"* (Muslim)\n\n---",
+        "desc": "Al-Baqarah is the longest surah in the Qur'an, revealed mostly in Madinah after the Hijra (the Prophet's migration from Makkah). It was revealed over a period of approximately ten years and represents the most comprehensive legislative and theological document in the Qur'an."
+      },
+      "ms": {
+        "arabic_name": "سُورَةُ الْبَقَرَة",
+        "name": "Al-Baqarah — Lembu Betina",
+        "classification": "Madaniyyah",
+        "verses": 286,
+        "epithet": "",
+        "background": "Al-Baqarah adalah surah terpanjang dalam Al-Quran, diturunkan kebanyakannya di Madinah selepas Hijrah (penghijrahan Nabi daripada Makkah). Ia diturunkan sepanjang tempoh lebih kurang sepuluh tahun dan merupakan dokumen perundangan dan teologi yang paling komprehensif dalam Al-Quran.\n\nNabi ﷺ bersabda tentangnya:\n\n> *\"Bacalah Al-Baqarah, kerana membacanya adalah berkat dan meninggalkannya adalah penyebab kesedihan, dan tukang-tukang sihir tidak mampu menentangnya.\"* (Muslim)\n\n> *\"Al-Quran akan datang pada Hari Kiamat dan akan memberi syafaat bagi pengikut-pengikutnya. Al-Baqarah dan Āl 'Imrān akan datang seperti dua awan atau dua naungan atau dua kumpulan burung dalam barisan, membela mereka yang membacanya.\"* (Muslim)\n\n---",
+        "desc": "Al-Baqarah adalah surah terpanjang dalam Al-Quran, diturunkan kebanyakannya di Madinah selepas Hijrah (penghijrahan Nabi daripada Makkah). Ia diturunkan sepanjang tempoh lebih kurang sepuluh tahun dan merupakan dokumen perundangan dan teologi yang paling komprehensif dalam Al-Quran."
+      }
+    },
+    {
+      "id": "section-06",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": null,
+      "verse_end": null,
+      "en": {
+        "title": "The Muqaṭṭa'āt & Portrait of the True Believers",
+        "theme": "The disconnected letters, the Qur'an's divine authority, and the defining qualities of the God-conscious",
+        "translation": "Alif. Lam. Mim. (1) This is the Book about which there is no doubt, a guidance for those conscious of Allah — (2) who believe in the unseen, establish prayer, and spend from what We have provided for them, (3) and who believe in what has been revealed to you, and what was revealed before you, and of the Hereafter they are certain. (4) Those are upon right guidance from their Lord, and it is those who are the successful. (5)",
+        "explanation": [
+          "**Alif. Lām. Mīm.** — These are the *muqaṭṭa'āt*, the \"disconnected letters\" that open several surahs. Their precise meaning is known only to Allah. Scholars note they serve as a challenge: the Qur'an is composed of the same Arabic letters you use daily — yet you cannot produce anything like it.",
+          "*Dhālika al-kitāb* — \"That is the Book\" — uses the distant demonstrative *dhālika* to indicate the elevated, lofty status of the Qur'an. **Lā rayba fīh** — there is no doubt in it — is an absolute, confident declaration.",
+          "The Qur'an then paints a vivid portrait of the *muttaqīn* — the God-conscious — in four qualities:",
+          "| Quality | Meaning | |---|---| | Believe in the unseen (*ghayb*) | Faith in Allah, angels, paradise, hell — realities the eyes cannot verify | | Establish prayer | Praying properly, consistently, with presence of heart | | Spend from Allah's provision | Acknowledging wealth is a trust, not ownership | | Believe in all scriptures & the Hereafter | Universal prophetic faith with certainty of the afterlife |"
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir explains that the muttaqīn are those who place a protective shield between themselves and Allah's punishment by obeying His commands and avoiding His prohibitions — taqwā comes from the root wiqāyah (protection). He also notes that 'establishing prayer' means giving it its full rights: proper times, complete ablution, correct recitation, deep focus, and consistent performance."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Regarding al-ghayb, Al-Jalalayn explains this as everything beyond human perception that Allah has informed us of — the divine essence, angels, the events of Barzakh (the state between death and resurrection), paradise, hell, the preserved tablet, and divine decree. Faith in these unseen realities is the bedrock of Islamic belief."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di beautifully observes that the Qur'an guides specifically those who approach it with taqwā — an open, sincere, humble heart. Those who approach it with arrogance or an agenda will not benefit. The rain falls on both fertile soil and rock, but only the soil blooms."
+          }
+        ],
+        "lessons": [
+          "📖 The Qur'an's authority is beyond doubt — approach it with conviction, not suspicion.",
+          "👁️ Believing in the unseen (*ghayb*) separates mere intellectual religion from living faith.",
+          "🕌 Prayer is listed first among actions — it is the pillar of the deen.",
+          "💰 Spending from what Allah gave you purifies your wealth and your heart from greed.",
+          "🌟 True success (*falāḥ*) belongs to those who combine belief with consistent action."
+        ],
+        "arabic": "الم ﴿١﴾ ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ ﴿٢﴾ الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ ﴿٣﴾ وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ ﴿٤﴾ أُولَٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ ﴿٥﴾"
+      },
+      "ms": {
+        "title": "Muqaṭṭa'āt & Gambaran Orang-orang Beriman yang Sejati",
+        "theme": "Huruf-huruf terputus, kewibawaan Ilahi Al-Quran, dan sifat-sifat penentu orang yang bertakwa",
+        "translation": "Alif. Lam. Mim. (1) Kitab ini tidak ada keraguan padanya; ia adalah petunjuk bagi orang-orang yang bertakwa — (2) iaitu mereka yang beriman dengan yang ghaib, mendirikan solat, dan membelanjakan sebahagian daripada apa yang Kami kurniakan kepada mereka, (3) dan mereka yang beriman dengan apa yang diturunkan kepadamu, dan apa yang diturunkan sebelum kamu, dan mereka yakin akan Akhirat. (4) Mereka itulah yang berada di atas petunjuk daripada Tuhan mereka, dan merekalah orang-orang yang berjaya. (5)",
+        "explanation": [
+          "**Alif. Lām. Mīm.** — Ini adalah *muqaṭṭa'āt*, \"huruf-huruf terputus\" yang membuka beberapa surah. Maknanya yang tepat hanya diketahui oleh Allah. Para ulama menyatakan bahawa ia berfungsi sebagai cabaran: Al-Quran terdiri daripada huruf-huruf Arab yang sama yang kamu gunakan setiap hari — namun kamu tidak dapat menghasilkan sesuatu yang menyerupainya.",
+          "*Dhālika al-kitāb* — \"Itulah Kitab\" — menggunakan kata tunjuk jauh *dhālika* untuk menunjukkan status Al-Quran yang tinggi dan mulia. **Lā rayba fīh** — tiada keraguan padanya — adalah pernyataan yang mutlak dan penuh keyakinan.",
+          "Al-Quran kemudian melukiskan gambaran yang jelas tentang *muttaqīn* — orang-orang yang bertakwa — dalam empat sifat:",
+          "| Sifat | Makna | |---|---| | Beriman dengan yang ghaib (*ghayb*) | Iman kepada Allah, malaikat, syurga, neraka — realiti yang tidak dapat dibuktikan oleh mata | | Mendirikan solat | Bersolat dengan betul, konsisten, dengan kehadiran hati | | Membelanjakan daripada rezeki Allah | Mengakui bahawa harta adalah amanah, bukan pemilikan | | Beriman dengan semua kitab & Akhirat | Iman kenabian yang universal dengan keyakinan terhadap kehidupan selepas mati |"
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir menjelaskan bahawa muttaqīn adalah mereka yang meletakkan perisai pelindung antara diri mereka dengan azab Allah dengan mematuhi perintah-Nya dan menjauhi larangan-Nya — taqwā berasal dari akar kata wiqāyah (perlindungan). Beliau juga menyatakan bahawa 'mendirikan solat' bermaksud memberikan hak-haknya sepenuhnya: waktu yang betul, wudhu yang sempurna, bacaan yang betul, tumpuan yang mendalam, dan pelaksanaan yang konsisten."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Mengenai al-ghayb, Al-Jalalayn menjelaskannya sebagai segala sesuatu yang melampaui persepsi manusia yang telah Allah beritahu kita — zat Ilahi, malaikat, peristiwa-peristiwa Barzakh (keadaan antara kematian dan kebangkitan), syurga, neraka, luh mahfuz, dan takdir Ilahi. Iman kepada realiti-realiti ghaib ini adalah asas kepercayaan Islam."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di dengan indah menyatakan bahawa Al-Quran memberi petunjuk khusus kepada mereka yang mendekatinya dengan taqwā — hati yang terbuka, ikhlas, dan rendah hati. Mereka yang mendekatinya dengan sombong atau dengan agenda tertentu tidak akan mendapat manfaat. Hujan turun ke atas tanah yang subur dan batu karang, tetapi hanya tanah yang berbunga."
+          }
+        ],
+        "lessons": [
+          "📖 Kewibawaan Al-Quran adalah di luar keraguan — dekatinya dengan keyakinan, bukan dengan syak wasangka.",
+          "👁️ Beriman dengan yang ghaib (*ghayb*) memisahkan agama yang semata-mata intelektual daripada iman yang hidup.",
+          "🕌 Solat disenaraikan pertama di antara amalan-amalan — ia adalah tiang agama.",
+          "💰 Membelanjakan daripada apa yang Allah berikan menyucikan harta dan hatimu daripada sifat tamak.",
+          "🌟 Kejayaan sejati (*falāḥ*) adalah milik mereka yang menggabungkan iman dengan amal yang konsisten."
+        ]
+      }
+    },
+    {
+      "id": "section-07",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": null,
+      "verse_end": null,
+      "en": {
+        "title": "The Disbelievers — Sealed Hearts",
+        "theme": "The consequence of persistent rejection of truth — what it means for a heart to be 'sealed'",
+        "translation": "Indeed, those who disbelieve — it is all the same for them whether you warn them or do not warn them — they will not believe. (6) Allah has set a seal upon their hearts and upon their hearing, and over their vision is a veil. And for them is a great punishment. (7)",
+        "explanation": [
+          "This passage describes a specific category of disbelievers — those who have stubbornly, persistently, and consciously rejected faith after seeing clear evidence.",
+          "The \"sealing\" of hearts and hearing is **not** Allah arbitrarily blocking people from faith. It is the **consequence** of their own repeated choices to reject truth. When a person continually chooses darkness, light eventually cannot penetrate.",
+          "> Think of it like a lock: Allah does not lock the door without the person first inserting the key of rejection themselves. As another verse states: *\"So when they deviated, Allah caused their hearts to deviate\"* (61:5). The sealing is a result, not an initial cause.",
+          "The three faculties sealed represent the complete spiritual apparatus:",
+          "| Faculty | Role | |---|---| | Heart | Understanding and internalising truth | | Hearing | Receiving revelation and advice | | Sight | Witnessing signs of Allah in creation |",
+          "All three channels through which guidance could arrive are shut — as a divine consequence of wilful, prolonged rejection."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir clarifies that these verses were revealed about specific leaders of the Quraysh who had deep knowledge of the Prophet's truthfulness but rejected him out of pride and tribalism. The 'sealing' was the divine consequence of their own adamant refusal. He quotes Ibn 'Abbas: 'The seal on the heart means that it cannot accept or understand good.'"
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn notes the linguistic precision: on the heart and hearing there is a khatm (seal — like a stamp that prevents entry), while on the eyes there is a ghishāwah (covering — like a veil). The imagery describes complete spiritual impermeability on multiple levels."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di emphasises the comforting side for the Prophet ﷺ — the verse reassures him that his grief over those who reject Islam is misplaced in this case. Some have chosen their path so firmly that no effort will avail. For us today: this is a warning to never allow our hearts to become calloused through persistent sin and rejection of truth."
+          }
+        ],
+        "lessons": [
+          "🔒 A heart can be sealed — not by Allah's initial choice but as the consequence of our own repeated rejection of truth.",
+          "⚠️ Guard your heart: every sin leaves a stain; consistent sin layers darkness until light can't enter.",
+          "💔 Do not grieve excessively over those who refuse guidance — we convey, Allah guides.",
+          "👂 Use your eyes, ears, and heart to receive guidance while they are still open.",
+          "🙏 Make du'a daily: 'O Turner of hearts, keep my heart firm upon Your deen.'"
+        ],
+        "arabic": "إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ ﴿٦﴾ خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ ﴿٧﴾"
+      },
+      "ms": {
+        "title": "Orang-orang Kafir — Hati yang Disegel",
+        "theme": "Akibat penolakan kebenaran yang berterusan — apa maksudnya apabila hati 'disegel'",
+        "translation": "Sesungguhnya orang-orang yang kafir — sama sahaja bagi mereka sama ada kamu memberi peringatan kepada mereka atau tidak memberi peringatan kepada mereka — mereka tidak akan beriman. (6) Allah telah mengecop hati mereka dan pendengaran mereka, dan pada penglihatan mereka ada tutupan. Dan bagi mereka azab yang besar. (7)",
+        "explanation": [
+          "Petikan ini menggambarkan satu kategori khusus orang-orang kafir — mereka yang dengan keras, berterusan, dan secara sedar menolak iman setelah melihat bukti yang jelas.",
+          "\"Penyegelan\" hati dan pendengaran bukanlah Allah yang secara sewenang-wenangnya menghalang orang daripada beriman. Ia adalah **akibat** daripada pilihan berulang mereka sendiri untuk menolak kebenaran. Apabila seseorang berterusan memilih kegelapan, cahaya akhirnya tidak dapat menembusi.",
+          "> Bayangkan ia seperti kunci: Allah tidak mengunci pintu itu tanpa orang itu terlebih dahulu memasukkan kunci penolakan itu sendiri. Sebagaimana dinyatakan dalam ayat lain: *\"Maka apabila mereka berpaling, Allah memalingkan hati mereka\"* (61:5). Penyegelan adalah akibat, bukan punca awal.",
+          "Tiga fakulti yang disegel mewakili keseluruhan peralatan rohani:",
+          "| Fakulti | Peranan | |---|---| | Hati | Memahami dan menghayati kebenaran | | Pendengaran | Menerima wahyu dan nasihat | | Penglihatan | Menyaksikan tanda-tanda Allah dalam ciptaan |",
+          "Ketiga-tiga saluran yang boleh digunakan hidayah untuk tiba semuanya ditutup — sebagai akibat Ilahi daripada penolakan yang disengajakan dan berpanjangan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir menjelaskan bahawa ayat-ayat ini diturunkan berkenaan pemimpin-pemimpin tertentu Quraisy yang mempunyai pengetahuan mendalam tentang kebenaran Nabi ﷺ tetapi menolaknya atas dasar kesombongan dan fanatik kesukuan. 'Penyegelan' itu adalah akibat Ilahi daripada keengganan mereka sendiri yang keras kepala. Beliau meriwayatkan Ibn 'Abbas: \"Segel pada hati bermaksud ia tidak dapat menerima atau memahami kebaikan.\""
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn menyatakan ketepatan linguistik: pada hati dan pendengaran terdapat khatm (segel — seperti cap yang menghalang kemasukan), manakala pada mata terdapat ghishāwah (penutup — seperti tabir). Gambaran itu menggambarkan ketidakbolehtembusan rohani yang menyeluruh pada pelbagai peringkat."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di menekankan sisi yang menghiburkan bagi Nabi ﷺ — ayat ini meyakinkan baginda bahawa kesedihannya terhadap mereka yang menolak Islam adalah tidak tepat dalam kes ini. Ada yang telah memilih jalan mereka dengan begitu teguh sehingga tiada usaha yang berguna. Bagi kita hari ini: ini adalah amaran agar tidak membiarkan hati kita menjadi keras melalui dosa yang berterusan dan penolakan kebenaran."
+          }
+        ],
+        "lessons": [
+          "🔒 Hati boleh disegel — bukan oleh pilihan awal Allah tetapi sebagai akibat penolakan berulang kita sendiri terhadap kebenaran.",
+          "⚠️ Jaga hatimu: setiap dosa meninggalkan kotoran; dosa yang berterusan menumpuk kegelapan sehingga cahaya tidak dapat masuk.",
+          "💔 Jangan bersedih berlebihan terhadap mereka yang menolak hidayah — kita menyampaikan, Allah yang memberi hidayah.",
+          "👂 Gunakan mata, telinga, dan hatimu untuk menerima hidayah selagi ia masih terbuka.",
+          "🙏 Berdoalah setiap hari: 'Wahai Yang Membolak-balikkan hati, tetapkanlah hatiku di atas agama-Mu.'"
+        ]
+      }
+    },
+    {
+      "id": "section-08",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": null,
+      "verse_end": null,
+      "en": {
+        "title": "The Hypocrites — The Most Dangerous Category",
+        "theme": "The nature of hypocrisy, its spiritual disease, and the two vivid parables of those who live in it",
+        "translation": "And of the people are some who say, 'We believe in Allah and the Last Day,' but they are not believers. (8) They deceive Allah and those who believe, but they deceive not except themselves and perceive it not. (9) In their hearts is disease, and Allah has increased their disease; and for them is a painful punishment because they habitually lied. (10)",
+        "explanation": [
+          "This lengthy passage (2:8–20) introduces the third and most dangerous category: the *munāfiqīn* (hypocrites) — people who publicly declare faith while concealing disbelief.",
+          "In Madinah, this group became a genuine threat: they gathered intelligence for enemies, sowed division, weakened morale, and exploited the protection of Islamic society.",
+          "> **Why more verses on hypocrites than open disbelievers?** The Qur'an devotes more verses to hypocrisy because it is more subtle, more destructive, and harder to detect. An open enemy is known and guarded against; the hypocrite operates from within.",
+          "The hypocrite suffers from *maraḍ al-qalb* (disease of the heart) — a moral and spiritual sickness that compounds itself. Every lie, every act of deception, darkens the heart further until it loses the ability to return.",
+          "**Two parables of the hypocrite:**",
+          "1. **The extinguished fire (2:17):** Someone lights a fire in the dark — then Allah extinguishes it. They are left in complete darkness, confused and lost. The fire = their temporary, shallow \"faith\" that cannot sustain itself.",
+          "2. **The storm at night (2:19–20):** Caught in a heavy rainstorm — when lightning flashes they take a few steps, then total darkness returns. Intermittent glimpses of truth, swiftly overwhelmed by their own darkness and fear."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir notes that the Qur'an devotes the first 13 verses of Al-Baqarah to three groups — 4 for believers, 2 for disbelievers, and 13 for hypocrites. This proportion itself is a lesson: hypocrisy requires the most extensive treatment because it is the most complex spiritual disease. He also observes that the hypocrite's self-deception is total — they believe their own disguise is working, when in reality it only destroys themselves."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "On the parable of the lightning storm, Al-Jalalayn explains that the flashes of lightning represent the moments when the hypocrite's heart is briefly touched by faith — perhaps during Jumu'ah or a moving recitation — but the darkness of their hypocrisy always returns and overwhelms. The 'thunder' represents the terrifying realities of death, resurrection, and judgement they cannot escape."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di draws a profound lesson for believers: we must guard against every form of internal hypocrisy — the subtle hypocrisy of doing good deeds for show, or saying we believe while our actions contradict our words. The hypocrite described here is an extreme case, but there are lesser forms of nifāq in character and action that every Muslim must examine themselves for."
+          }
+        ],
+        "lessons": [
+          "🎭 Hypocrisy is the most spiritually dangerous condition — it involves deceiving yourself, not just others.",
+          "🤒 Heart disease is progressive — every lie and every act of deception deepens it.",
+          "🔍 Examine yourself: do your actions match your beliefs? Do you worship in public but ignore Allah in private?",
+          "⚡ Even moments of spiritual awakening are lost if we don't act on them — the lightning that illuminates but we refuse to walk by.",
+          "🧭 Consistency, not brilliance, defines the believer: steady worship in public AND private is the antidote to nifāq."
+        ],
+        "arabic": "وَمِنَ النَّاسِ مَن يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ وَمَا هُم بِمُؤْمِنِينَ ﴿٨﴾ يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنفُسَهُمْ وَمَا يَشْعُرُونَ ﴿٩﴾ فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ ﴿١٠﴾"
+      },
+      "ms": {
+        "title": "Orang-orang Munafik — Golongan yang Paling Berbahaya",
+        "theme": "Sifat nifaq, penyakit rohaninya, dan dua perumpamaan vivid tentang mereka yang hidup di dalamnya",
+        "translation": "Dan di antara manusia ada yang berkata, 'Kami beriman kepada Allah dan Hari Akhirat,' padahal mereka bukanlah orang-orang yang beriman. (8) Mereka hendak menipu Allah dan orang-orang yang beriman, padahal mereka tidak menipu melainkan diri mereka sendiri, sedang mereka tidak menyedarinya. (9) Dalam hati mereka ada penyakit, lalu Allah menambah penyakit itu; dan bagi mereka azab yang pedih disebabkan mereka berdusta. (10)",
+        "explanation": [
+          "Petikan panjang ini (2:8–20) memperkenalkan golongan ketiga dan paling berbahaya: *munāfiqīn* (orang-orang munafik) — orang yang secara terbuka mengisytiharkan iman sambil menyembunyikan kekafiran.",
+          "Di Madinah, kumpulan ini menjadi ancaman yang nyata: mereka mengumpul maklumat perisikan untuk musuh, menabur perpecahan, melemahkan semangat, dan mengeksploitasi perlindungan masyarakat Islam.",
+          "> **Mengapa lebih banyak ayat tentang orang munafik berbanding orang kafir yang terang-terangan?** Al-Quran memperuntukkan lebih banyak ayat untuk nifaq kerana ia lebih halus, lebih merosakkan, dan lebih sukar dikesan. Musuh yang terang-terangan dikenali dan dijaga; munafik beroperasi dari dalam.",
+          "Munafik menderita *maraḍ al-qalb* (penyakit hati) — penyakit akhlak dan rohani yang memburuk dengan sendirinya. Setiap pembohongan, setiap perbuatan penipuan, semakin menghitamkan hati sehingga ia kehilangan kemampuan untuk kembali.",
+          "**Dua perumpamaan tentang munafik:**",
+          "1. **Api yang dipadamkan (2:17):** Seseorang menyalakan api dalam gelap — kemudian Allah memadamkannya. Mereka dibiarkan dalam kegelapan yang sempurna, keliru dan sesat. Api itu = \"iman\" mereka yang sementara dan cetek yang tidak dapat menampung dirinya.",
+          "2. **Ribut pada malam hari (2:19–20):** Terperangkap dalam hujan lebat — apabila kilat menyambar mereka melangkah beberapa langkah, kemudian kegelapan total kembali. Sekilas pandang kebenaran yang sekali-sekala, cepat ditenggelami kegelapan dan ketakutan mereka sendiri."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir menyatakan bahawa Al-Quran memperuntukkan 13 ayat pertama Al-Baqarah kepada tiga kumpulan — 4 untuk orang beriman, 2 untuk orang kafir, dan 13 untuk orang munafik. Nisbah ini sendiri adalah suatu pengajaran: nifaq memerlukan perlakuan yang paling meluas kerana ia adalah penyakit rohani yang paling kompleks. Beliau juga menyatakan bahawa penipuan diri munafik adalah menyeluruh — mereka percaya bahawa penyamaran mereka berjaya, sedangkan sebenarnya ia hanya menghancurkan diri mereka sendiri."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Tentang perumpamaan ribut kilat, Al-Jalalayn menjelaskan bahawa kilatan cahaya mewakili saat-saat apabila hati munafik disentuh sebentar oleh iman — mungkin semasa Jumaat atau bacaan yang menyentuh hati — tetapi kegelapan nifaq mereka sentiasa kembali dan menguasai. 'Guruh' mewakili realiti-realiti yang menakutkan tentang kematian, kebangkitan, dan penghakiman yang tidak dapat mereka elakkan."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di menarik satu pengajaran yang mendalam bagi orang beriman: kita mesti menjaga diri daripada setiap bentuk nifaq dalaman — nifaq yang halus berupa melakukan amal kebaikan untuk dipamer, atau berkata kita beriman sementara tindakan kita menafikan kata-kata kita. Munafik yang digambarkan di sini adalah kes yang melampau, tetapi terdapat bentuk-bentuk nifāq yang lebih kecil dalam akhlak dan perbuatan yang mesti diperiksa oleh setiap Muslim dalam diri mereka sendiri."
+          }
+        ],
+        "lessons": [
+          "🎭 Nifaq adalah keadaan yang paling berbahaya secara rohani — ia melibatkan penipuan diri sendiri, bukan hanya orang lain.",
+          "🤒 Penyakit hati bersifat progresif — setiap pembohongan dan setiap perbuatan penipuan memperdalamkannya.",
+          "🔍 Periksa diri sendiri: adakah tindakanmu selaras dengan kepercayaanmu? Adakah kamu beribadah di khalayak ramai tetapi mengabaikan Allah secara peribadi?",
+          "⚡ Walaupun saat kebangkitan rohani akan hilang jika kita tidak bertindak berdasarkannya — kilat yang menerangi tetapi kita enggan berjalan dengannya.",
+          "🧭 Konsistensi, bukan kecemerlangan, yang mentakrifkan orang beriman: ibadah yang stabil di khalayak ramai DAN secara peribadi adalah penawar kepada nifaq."
+        ]
+      }
+    },
+    {
+      "id": "section-09",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": null,
+      "verse_end": null,
+      "en": {
+        "title": "O Humanity — The Universal Call & The Qur'anic Challenge",
+        "theme": "The logical argument for worship, and the eternal challenge that has never been met",
+        "translation": "O mankind, worship your Lord, who created you and those before you, that you may become righteous — (21) He who made for you the earth a resting place and the sky a canopy, and sent down from the sky rain and brought forth thereby fruits as provision for you. So do not attribute to Allah equals while you know. (22)",
+        "explanation": [
+          "After addressing three specific groups, the Qur'an now addresses all of humanity: *Yā ayyuha an-nās*. This universality is a hallmark of Islam — its message is not for one tribe, one nation, or one era, but for **every human being ever born**.",
+          "The argument for worship is beautifully logical: - Allah created you and every generation before you - He laid the earth as a resting place - Stretched the sky as a canopy - Sent rain - Provided fruit and food",
+          "Every breath, every meal, every sunrise is a gift from Him. You owe your very existence to Allah. How can you then give the devotion that belongs to Him to stones, idols, desires, or anything else?",
+          "**The *Taḥaddī* — The Eternal Challenge (2:23–24)**",
+          "> *\"And if you are in doubt about what We have sent down upon Our Servant, then produce a surah the like thereof and call upon your witnesses other than Allah, if you should be truthful. But if you do not — and you will never be able to — then fear the Fire.\"*",
+          "This challenge has stood for **1,400+ years**. Every poet, linguist, and civilisation has been unable to meet it. This is one of the most powerful proofs of the Qur'an's divine origin."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir notes that verse 22 lists the foundations of physical life that Allah provides — a stable earth, a protective sky, life-giving rain, nourishing food — to establish that the God who sustains you in every material need is the same God deserving all your devotion. He also notes that the Arabs of Quraysh — the greatest masters of eloquence in history — were rendered completely silent in the face of the Qur'an despite their desperate motivation to disprove it."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn emphasises that the phrase 'while you know' (wa antum ta'lamūn) at the end of verse 22 is a powerful rebuke: setting up partners with Allah is not mere ignorance — it is committed despite knowing better. The argument from creation is so clear that disbelief becomes a wilful choice against one's own intellect."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "On the eternal Qur'anic challenge, As-Sa'di writes that the Arabs tried every means to counter the Prophet ﷺ — ridicule, torture, war, assassination, economic boycott. The one thing they never attempted was to produce something like the Qur'an — because they knew, better than anyone, that it was impossible. Their silence on this point was itself the loudest testimony to its divine origin."
+          }
+        ],
+        "lessons": [
+          "🌍 Islam's call is universal — not for Arabs, not for a tribe, but for every human soul.",
+          "🌧️ Count your blessings: air, water, food, earth — all from Allah. Gratitude naturally leads to worship.",
+          "📜 The Qur'an's inimitability (*i'jāz*) is an eternal proof of its divine origin — a challenge never met.",
+          "🚫 Shirk is not just religiously wrong — it is logically incoherent given all Allah has given us.",
+          "🌱 The goal of worship is *taqwā* — not ritual performance but a life transformed by God-consciousness."
+        ],
+        "arabic": "يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ وَالَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ ﴿٢١﴾ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً وَأَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ ۖ فَلَا تَجْعَلُوا لِلَّهِ أَندَادًا وَأَنتُمْ تَعْلَمُونَ ﴿٢٢﴾"
+      },
+      "ms": {
+        "title": "Wahai Manusia — Seruan Universal & Cabaran Al-Quran",
+        "theme": "Hujah logik untuk beribadah, dan cabaran abadi yang tidak pernah dipenuhi",
+        "translation": "Wahai manusia, sembahlah Tuhanmu yang telah menciptakanmu dan orang-orang sebelummu, agar kamu bertakwa — (21) Dialah yang menjadikan bumi sebagai hamparan bagimu dan langit sebagai bangunan, dan menurunkan air dari langit, lalu Dia keluarkan dengan air itu buah-buahan sebagai rezeki untukmu. Maka janganlah kamu menjadikan sekutu-sekutu bagi Allah sedangkan kamu mengetahui. (22)",
+        "explanation": [
+          "Setelah menyapa tiga kumpulan khusus, Al-Quran kini menyapa seluruh manusia: *Yā ayyuha an-nās*. Keuniversalan ini adalah ciri khas Islam — mesejnya bukan untuk satu suku, satu bangsa, atau satu zaman sahaja, tetapi untuk **setiap manusia yang pernah dilahirkan**.",
+          "Hujah untuk beribadah adalah amat logik dan indah: - Allah menciptakanmu dan setiap generasi sebelummu - Dia menjadikan bumi sebagai hamparan - Merentangkan langit sebagai bumbung - Menurunkan hujan - Menyediakan buah-buahan dan makanan",
+          "Setiap nafas, setiap hidangan, setiap matahari terbit adalah kurnia daripada-Nya. Kamu berhutang kewujudanmu kepada Allah. Bagaimana kamu boleh memberikan pengabdian yang menjadi hak-Nya kepada batu-batu, berhala-berhala, hawa nafsu, atau apa sahaja selain-Nya?",
+          "**Cabaran *Taḥaddī* — Cabaran Abadi (2:23–24)**",
+          "> *\"Dan jika kamu meragui apa yang Kami turunkan kepada hamba Kami, maka datangkanlah satu surah yang serupa dengannya dan panggillah saksi-saksimu selain Allah, jika kamu orang-orang yang benar. Tetapi jika kamu tidak mampu — dan kamu tidak akan pernah mampu — maka takutlah Neraka.\"*",
+          "Cabaran ini telah berdiri selama **1,400+ tahun**. Setiap penyair, ahli bahasa, dan tamadun tidak dapat memenuhinya. Ini adalah salah satu bukti terkuat tentang asal-usul Ilahi Al-Quran."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir menyatakan bahawa ayat 22 menyenaraikan asas-asas kehidupan fizikal yang Allah sediakan — bumi yang stabil, langit yang pelindung, hujan yang menghidupkan, makanan yang menguatkan — untuk menetapkan bahawa Tuhan yang memenuhi setiap keperluan materialmu adalah Tuhan yang sama yang berhak mendapat semua pengabdianmu. Beliau juga menyatakan bahawa orang-orang Arab Quraisy — pakar terhebat dalam seni balaghah dalam sejarah — dibungkam sepenuhnya di hadapan Al-Quran walaupun motivasi mereka yang amat kuat untuk menentangnya."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn menekankan bahawa frasa 'sedangkan kamu mengetahui' (wa antum ta'lamūn) di hujung ayat 22 adalah satu tegahan yang kuat: menjadikan sekutu bagi Allah bukan sekadar kejahilan — ia dilakukan walaupun mengetahui yang lebih baik. Hujah daripada penciptaan adalah begitu jelas sehingga kekafiran menjadi pilihan yang disengajakan menentang akal fikiran sendiri."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Tentang cabaran Al-Quran yang abadi, As-Sa'di menulis bahawa orang-orang Arab mencuba setiap cara untuk menentang Nabi ﷺ — cemuhan, penyeksaan, peperangan, pembunuhan, boikot ekonomi. Satu perkara yang tidak pernah mereka cuba adalah menghasilkan sesuatu yang menyerupai Al-Quran — kerana mereka tahu, lebih daripada sesiapa pun, bahawa ia adalah mustahil. Kebisuan mereka mengenai perkara ini sendiri adalah kesaksian terkuat terhadap asal-usul Ilahi-Nya."
+          }
+        ],
+        "lessons": [
+          "🌍 Seruan Islam adalah universal — bukan untuk orang Arab, bukan untuk satu suku, tetapi untuk setiap jiwa manusia.",
+          "🌧️ Hitung nikmat-nikmatmu: udara, air, makanan, bumi — semuanya daripada Allah. Rasa syukur secara semula jadi membawa kepada ibadah.",
+          "📜 Ketidakmampuan Al-Quran untuk ditandingi (*i'jāz*) adalah bukti abadi tentang asal-usul Ilahinya — satu cabaran yang tidak pernah dipenuhi.",
+          "🚫 Syirik bukan sahaja salah secara agama — ia tidak logik memandangkan semua yang Allah berikan kepada kita.",
+          "🌱 Matlamat ibadah adalah *taqwā* — bukan pelaksanaan ritual semata-mata tetapi kehidupan yang disaluti kesedaran terhadap Allah."
+        ]
+      }
+    },
+    {
+      "id": "section-10",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": null,
+      "verse_end": null,
+      "en": {
+        "title": "Allegories in the Qur'an & Creation of the Universe",
+        "theme": "Why Allah uses humble examples, and the cosmic scale of His creation",
+        "translation": "Indeed, Allah is not shy to present an example — that of a mosquito or what is smaller than it. And those who have believed know that it is the truth from their Lord. But as for those who disbelieve, they say, 'What did Allah intend by this as an example?' (26)",
+        "explanation": [
+          "This passage responds to a criticism raised: why does the Qur'an use examples of lowly things like flies and spiders?",
+          "The Qur'an's response is majestic: Allah is not \"shy\" — He uses whatever example best conveys the truth, regardless of whether the object is grand or humble. In fact, modern science has revealed that the mosquito, with its astounding biological complexity, is one of the most sophisticated organisms on earth — a living proof of Allah's craftsmanship in the miniature.",
+          "The same example **separates believers from disbelievers**: the believer sees wisdom and truth; the doubter sees only mockery. The same sun that melts butter hardens clay. The response to the Qur'an is a test of the heart's condition.",
+          "**Verse 29 — A Cosmological Statement:**",
+          "> *\"It is He who created for you all of that which is on the earth. Then He directed Himself to the heaven, and made them seven heavens, and He is Knowing of all things.\"*",
+          "The earth was created **for us** — an enormous divine gift. Then Allah turned to the heaven and fashioned the cosmos in seven layers. The full meaning of \"seven heavens\" extends beyond what science can measure, though it invites reflection on the layered vastness of Allah's creation."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir records that the mushrikīn and People of the Book mocked the Qur'an for mentioning a fly and a spider. This verse was revealed in response. He notes the great wisdom: even the smallest creature contains infinite signs of Allah's power and precision. The believer extracts lessons from everything; the doubter finds fault in everything."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di writes powerfully: 'The Qur'an's parables are not random — they are perfectly calibrated to the truth being conveyed. A mosquito's example may carry greater wisdom than an example of a mountain, depending on the lesson. Those who object to Qur'anic parables reveal only their own arrogance, not any deficiency in the Book.' He also draws our attention to verse 29: the earth was created for us — an enormous divine gift that demands gratitude."
+          }
+        ],
+        "lessons": [
+          "🦟 Never dismiss the small as insignificant — the greatest wisdom can be wrapped in the humblest example.",
+          "🔭 The Qur'an mentions 'seven heavens' — an invitation to reflect on the vastness and precision of Allah's creation.",
+          "🌏 The earth was created for humanity as a gift and a test — we are stewards, not owners.",
+          "💡 How you react to the Qur'an reflects the state of your heart — guidance or hardening depends on what you bring to it."
+        ],
+        "arabic": "إِنَّ اللَّهَ لَا يَسْتَحْيِي أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا ۚ فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ ۖ وَأَمَّا الَّذِينَ كَفَرُوا فَيَقُولُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا ﴿٢٦﴾"
+      },
+      "ms": {
+        "title": "Perumpamaan-perumpamaan dalam Al-Quran & Penciptaan Alam Semesta",
+        "theme": "Mengapa Allah menggunakan contoh-contoh yang sederhana, dan skala kosmik ciptaan-Nya",
+        "translation": "Sesungguhnya Allah tidak malu untuk membuat perumpamaan — iaitu nyamuk atau yang lebih kecil daripadanya. Adapun orang-orang yang beriman, mereka tahu bahawa ia adalah kebenaran daripada Tuhan mereka. Tetapi orang-orang yang kafir berkata, 'Apa yang Allah maksudkan dengan perumpamaan ini?' (26)",
+        "explanation": [
+          "Petikan ini menjawab kritikan yang dikemukakan: mengapa Al-Quran menggunakan contoh-contoh tentang perkara yang hina seperti lalat dan labah-labah?",
+          "Jawapan Al-Quran adalah agung: Allah tidak \"malu\" — Dia menggunakan contoh apa pun yang paling baik menyampaikan kebenaran, tanpa mengira sama ada objek itu besar atau kecil. Malah, sains moden telah mendedahkan bahawa nyamuk, dengan kerumitan biologinya yang menakjubkan, adalah salah satu organisma yang paling canggih di bumi — satu bukti hidup tentang keahlian Allah dalam perkara yang kecil.",
+          "Contoh yang sama **memisahkan orang beriman daripada orang kafir**: orang beriman melihat hikmah dan kebenaran; si ragu-ragu hanya melihat ejekan. Matahari yang sama yang mencairkan mentega mengeraskan tanah liat. Respon terhadap Al-Quran adalah ujian keadaan hati.",
+          "**Ayat 29 — Pernyataan Kosmologi:**",
+          "> *\"Dialah yang menciptakan untuk kamu semua yang ada di bumi. Kemudian Dia menuju ke langit, dan menjadikannya tujuh langit, dan Dia Maha Mengetahui segala sesuatu.\"*",
+          "Bumi diciptakan **untuk kita** — kurnia Ilahi yang amat besar. Kemudian Allah menuju ke langit dan membentuk kosmos dalam tujuh lapisan. Makna penuh \"tujuh langit\" melampaui apa yang dapat diukur oleh sains, walaupun ia mengundang renungan tentang keluasan ciptaan Allah yang berlapis-lapis."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir meriwayatkan bahawa orang-orang musyrik dan Ahli Kitab mengejek Al-Quran kerana menyebut lalat dan labah-labah. Ayat ini diturunkan sebagai jawapan. Beliau menyatakan hikmah yang agung: walaupun makhluk yang terkecil mengandungi tanda-tanda kekuasaan dan ketepatan Allah yang tidak terhingga. Orang beriman mengambil pengajaran daripada segala sesuatu; si ragu-ragu mencari kesalahan dalam segala sesuatu."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di menulis dengan penuh semangat: 'Perumpamaan-perumpamaan Al-Quran bukan rawak — ia disesuaikan dengan sempurna untuk kebenaran yang hendak disampaikan. Contoh nyamuk mungkin membawa hikmah yang lebih besar daripada contoh gunung, bergantung kepada pengajarannya. Mereka yang membantah perumpamaan-perumpamaan Al-Quran hanya mendedahkan kesombongan mereka sendiri, bukan sebarang kekurangan dalam Kitab itu.' Beliau juga menarik perhatian kita kepada ayat 29: bumi diciptakan untuk kita — kurnia Ilahi yang amat besar yang menuntut rasa syukur."
+          }
+        ],
+        "lessons": [
+          "🦟 Jangan pernah meremehkan yang kecil sebagai tidak bermakna — hikmah yang terbesar boleh tersimpan dalam contoh yang paling sederhana.",
+          "🔭 Al-Quran menyebut 'tujuh langit' — satu jemputan untuk merenungkan keluasan dan ketepatan ciptaan Allah.",
+          "🌏 Bumi diciptakan untuk manusia sebagai kurnia dan ujian — kita adalah penjaga, bukan pemilik.",
+          "💡 Cara kamu bertindak balas terhadap Al-Quran mencerminkan keadaan hatimu — hidayah atau pengerasan bergantung kepada apa yang kamu bawa kepadanya."
+        ]
+      }
+    },
+    {
+      "id": "section-11",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": 30,
+      "verse_end": 39,
+      "en": {
+        "title": "The Creation of Adam — Humanity's Dignity & First Trial",
+        "theme": "The cosmic significance of human creation, our role as stewards, and the lessons of Adam's trial",
+        "translation": "And when your Lord said to the angels, \"Indeed, I will make upon the earth a successive authority (khalifah).\" They said, \"Will You place upon it one who causes corruption therein and sheds blood, while we declare Your praise and sanctify You?\" He said, \"Indeed, I know that which you do not know.\" (30)",
+        "explanation": [
+          "This passage narrates one of the most consequential moments in cosmic history: the creation of Adam عليه السلام and the appointment of humanity as *khalīfah* (steward/vicegerent) on earth.",
+          "The angels' question is not rebellion — it is genuine enquiry. Allah's response — *\"I know what you do not know\"* — is the foundational principle: **trust in Allah's wisdom beyond what we can see**.",
+          "**The Teaching of the Names (2:31–33)**",
+          "Allah taught Adam the names of all things — knowledge being the first gift to humanity, setting us apart. When Allah asked the angels to name things, they could not. But Adam could. This established humanity's unique capacity for knowledge, language, and conceptual thought — the basis of civilization, science, and spiritual understanding.",
+          "**The Sin of Iblīs (2:34)**",
+          "Iblīs (Shaitan) refused to prostrate to Adam, claiming superiority: *\"I am better than him; You created me from fire and created him from clay\"* (7:12). This was the first act of **arrogance** in creation — the root of all evil. He was expelled and declared war on humanity.",
+          "**Adam's Trial and Tawbah (2:35–37)**",
+          "Adam and Hawwa were placed in paradise but warned of a forbidden tree. Shaitān whispered and they ate. Their response was fundamentally different from Iblīs: - **Iblīs:** sinned → doubled down in defiance - **Adam:** sinned → immediately repented with the words Allah taught him",
+          "Allah forgave them. The lesson: **the first sin was not their downfall — their tawbah became their elevation.**"
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir explains that Allah's teaching of the names to Adam demonstrates that knowledge is the essential distinction of humanity. He also notes that the command to the angels to prostrate to Adam was a prostration of honour (sujūd taḥiyyah), not worship. Iblīs's refusal was the origin of all arrogance, envy, and hatred in creation."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn highlights the profound contrast between Adam's sin and Iblīs's sin. Adam sinned through weakness and Shaitān's whispers — then immediately repented. Iblīs sinned through deliberate arrogance — then doubled down with defiance. The sin is secondary; the response to sin defines the soul."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di draws powerful lessons: \"The story of Adam teaches us that our role on earth is stewardship, not ownership. It also teaches us that sin followed by sincere tawbah can elevate a person — Adam left paradise as a sinner but returned to Allah's mercy as a repentant, forgiven prophet.\" The words Adam was taught for repentance (2:37) became a model for all forgiveness-seeking throughout human history."
+          }
+        ],
+        "lessons": [
+          "👑 Humanity is honoured by Allah — we are stewards of creation, not its masters nor its servants.",
+          "📚 Knowledge is our first and greatest gift — pursue it as an act of worship.",
+          "😈 Arrogance (*kibr*) was Shaitān's first and defining sin — it is the root of all evil. Avoid it at all costs.",
+          "🙏 The difference between Adam and Iblīs: Adam sinned and repented; Iblīs sinned and doubled down. Always choose Adam's path.",
+          "🌱 Tawbah (repentance) is not weakness — it is the most courageous and transformative act a human can make.",
+          "🛡️ Know your enemy: Shaitān declared war on humanity at creation. Remain vigilant."
+        ],
+        "arabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً ۖ قَالُوا أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ ﴿٣٠﴾"
+      },
+      "ms": {
+        "title": "Penciptaan Adam — Kemuliaan Manusia & Ujian Pertama",
+        "theme": "Kepentingan kosmik penciptaan manusia, peranan kita sebagai khalifah, dan pengajaran daripada ujian Adam",
+        "translation": "Dan ingatlah ketika Tuhanmu berkata kepada para malaikat, \"Sesungguhnya Aku hendak menjadikan seorang khalifah di bumi.\" Mereka berkata, \"Apakah Engkau hendak menjadikan orang yang akan membuat kerosakan di sana dan menumpahkan darah, sedangkan kami bertasbih memuji-Mu dan menyucikan-Mu?\" Dia berkata, \"Sesungguhnya Aku mengetahui apa yang kamu tidak ketahui.\" (30)",
+        "explanation": [
+          "Petikan ini meriwayatkan salah satu detik paling penting dalam sejarah kosmik: penciptaan Adam عليه السلام dan pelantikan manusia sebagai *khalīfah* (penjaga/wakil) di bumi.",
+          "Pertanyaan para malaikat bukanlah suatu penderhakaan — ia adalah pertanyaan yang tulus. Jawapan Allah — *\"Aku mengetahui apa yang kamu tidak ketahui\"* — adalah prinsip asas: **percaya kepada hikmah Allah di luar apa yang dapat kita lihat**.",
+          "**Pengajaran Nama-nama (2:31–33)**",
+          "Allah mengajar Adam nama-nama segala sesuatu — ilmu pengetahuan sebagai kurnia pertama kepada manusia, yang membezakan kita. Apabila Allah meminta para malaikat menamakan sesuatu, mereka tidak dapat. Tetapi Adam dapat. Ini menetapkan keupayaan unik manusia dalam ilmu pengetahuan, bahasa, dan pemikiran konseptual — asas tamadun, sains, dan pemahaman rohani.",
+          "**Dosa Iblīs (2:34)**",
+          "Iblīs (Syaitan) enggan bersujud kepada Adam, mendakwa keunggulan: *\"Aku lebih baik daripadanya; Engkau menciptakanku daripada api dan menciptakannya daripada tanah\"* (7:12). Ini adalah perbuatan **kesombongan** yang pertama dalam ciptaan — punca segala kejahatan. Dia diusir dan mengisytiharkan perang terhadap manusia.",
+          "**Ujian Adam dan Taubat (2:35–37)**",
+          "Adam dan Hawa ditempatkan di syurga tetapi diperingatkan tentang sebatang pokok yang dilarang. Syaitan membisikkan dan mereka makan. Respon mereka pada asasnya berbeza daripada Iblīs: - **Iblīs:** berdosa → bertekad dalam keingkaran - **Adam:** berdosa → segera bertaubat dengan kata-kata yang Allah ajarkan kepadanya",
+          "Allah mengampuni mereka. Pengajarannya: **dosa pertama bukanlah kejatuhan mereka — taubat mereka menjadi ketinggian mereka.**"
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir menjelaskan bahawa pengajaran Allah kepada Adam tentang nama-nama menunjukkan bahawa ilmu pengetahuan adalah perbezaan penting manusia. Beliau juga menyatakan bahawa perintah kepada para malaikat untuk bersujud kepada Adam adalah sujud penghormatan (sujūd taḥiyyah), bukan ibadah. Keengganan Iblīs adalah asal usul semua kesombongan, dengki, dan kebencian dalam ciptaan."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn menyerlahkan perbandingan yang mendalam antara dosa Adam dan dosa Iblīs. Adam berdosa kerana kelemahan dan bisikan Syaitan — kemudian segera bertaubat. Iblīs berdosa kerana kesombongan yang disengajakan — kemudian bertekad dengan ingkar. Dosa itu adalah perkara kedua; respon terhadap dosa yang mentakrifkan jiwa."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di menarik pengajaran yang kuat: \"Kisah Adam mengajar kita bahawa peranan kita di bumi adalah pengurusan, bukan pemilikan. Ia juga mengajar kita bahawa dosa yang diikuti dengan taubat yang ikhlas dapat meninggikan seseorang — Adam meninggalkan syurga sebagai orang yang berdosa tetapi kembali kepada rahmat Allah sebagai nabi yang bertaubat dan diampuni.\" Kata-kata yang diajar kepada Adam untuk bertaubat (2:37) menjadi model untuk setiap permohonan keampunan sepanjang sejarah manusia."
+          }
+        ],
+        "lessons": [
+          "👑 Manusia dimuliakan oleh Allah — kita adalah penjaga ciptaan, bukan tuannya mahupun hambanya.",
+          "📚 Ilmu pengetahuan adalah kurnia pertama dan terbesar kita — tuntutlah ia sebagai satu bentuk ibadah.",
+          "😈 Kesombongan (*kibr*) adalah dosa pertama dan paling menentukan Syaitan — ia adalah punca segala kejahatan. Elakkannya dengan segala daya upaya.",
+          "🙏 Perbezaan antara Adam dan Iblīs: Adam berdosa dan bertaubat; Iblīs berdosa dan bertekad. Sentiasa pilih jalan Adam.",
+          "🌱 Taubat bukanlah kelemahan — ia adalah perbuatan paling berani dan paling transformatif yang boleh dilakukan oleh manusia.",
+          "🛡️ Kenali musuhmu: Syaitan mengisytiharkan perang terhadap manusia sejak penciptaan. Tetaplah berwaspada."
+        ]
+      }
+    },
+    {
+      "id": "section-12",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": 40,
+      "verse_end": 46,
+      "en": {
+        "title": "Children of Israel I — The Covenant Renewed",
+        "theme": "Allah's address to Banī Isrā'īl — reminding them of their covenant and pointing them to the Prophet ﷺ",
+        "translation": "O Children of Israel, remember My favour which I have bestowed upon you and fulfil My covenant; I will fulfil your covenant — and be afraid of none but Me. (40)",
+        "explanation": [
+          "With verse 40, the Qur'an begins an extended address to Banī Isrā'īl that spans over 100 verses. Allah reminds them of an extraordinary history of divine favour: prophets, scriptures, miracles, and divine protection.",
+          "**The Covenant** referenced here is the covenant Allah made with Banī Isrā'īl: worship Allah alone, follow His prophets, establish justice. Allah promises to fulfil His side — guidance, victory, and the Hereafter — if they fulfil theirs. But their history is a story of repeatedly breaking this covenant.",
+          "**Verse 41** makes a pointed appeal: the Qur'an *confirms* the Torah — it does not contradict it. The Madinan Jews had prophecies of the coming prophet in their own scriptures. Selling those truths for \"a small price\" — positions of religious authority, financial gain, tribal loyalty — was a betrayal of their own heritage.",
+          "**The Prescription (2:45–46)**",
+          "> *\"Seek help through patience and prayer; indeed, it is burdensome except for the humbly submissive — who are certain that they will meet their Lord and that they will return to Him.\"*",
+          "This is a universal divine prescription: when faced with hardship, the twin anchors are *ṣabr* (patience) and *ṣalāh* (prayer)."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir explains that the long section on Banī Isrā'īl serves as a mirror for the Muslim community: as you read about their failures — breaking covenants, preferring worldly gain over truth, worshipping false gods after witnessing miracles — you are meant to ask yourself if you are doing the same. The Qur'an tells their story not to condemn a people but to warn all believers against the same traps."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "On \"selling My verses for a small price,\" Al-Jalalayn notes this refers to the rabbis who changed the description of the Prophet ﷺ in their scriptures to maintain their religious authority and income. They gained the world's approval and lost the Hereafter — the worst possible exchange."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di focuses on verses 45–46: patience grounds you in the present; prayer connects you to Allah for strength. The key is yaqīn — certainty that you will meet Allah. Without that certainty, neither patience nor prayer has deep roots."
+          }
+        ],
+        "lessons": [
+          "📜 Covenants with Allah are serious — failing to honour them has consequences in this life and the next.",
+          "💸 Never trade truth for worldly gain — religious scholars especially carry a grave responsibility to speak truth regardless of cost.",
+          "🔮 The story of Banī Isrā'īl is a mirror — every sin they fell into is a sin Muslims can fall into too.",
+          "🧘 When life is hard: seek help through *ṣabr* and *ṣalāh* — this is a divine prescription.",
+          "⏳ Certainty in the meeting with Allah transforms how you live — it puts every test in perspective."
+        ],
+        "arabic": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ وَإِيَّايَ فَارْهَبُونِ ﴿٤٠﴾"
+      },
+      "ms": {
+        "title": "Bani Israel I — Pembaharuan Perjanjian",
+        "theme": "Firman Allah kepada Banī Isrā'īl — mengingatkan mereka tentang perjanjian mereka dan menunjukkan mereka kepada Nabi ﷺ",
+        "translation": "Wahai Bani Israel, ingatlah nikmat-Ku yang telah Aku kurniakan kepada kamu dan penuhilah perjanjian-Ku; Aku akan memenuhi perjanjianmu — dan hendaklah kamu hanya takut kepada-Ku. (40)",
+        "explanation": [
+          "Dengan ayat 40, Al-Quran memulakan satu ucapan panjang kepada Banī Isrā'īl yang merentangi lebih dari 100 ayat. Allah mengingatkan mereka tentang sejarah yang luar biasa tentang nikmat Ilahi: para nabi, kitab-kitab suci, mukjizat-mukjizat, dan perlindungan Ilahi.",
+          "**Perjanjian** yang dirujuk di sini adalah perjanjian yang Allah buat dengan Banī Isrā'īl: sembah Allah semata-mata, ikut para nabi-Nya, tegakkan keadilan. Allah berjanji untuk memenuhi bahagian-Nya — hidayah, kemenangan, dan Akhirat — jika mereka memenuhi bahagian mereka. Tetapi sejarah mereka adalah kisah berulang kali memungkiri perjanjian ini.",
+          "**Ayat 41** membuat rayuan yang tepat: Al-Quran *mengesahkan* Taurat — ia tidak menentangnya. Orang-orang Yahudi Madinah mempunyai nubuat-nubuat tentang nabi yang akan datang dalam kitab suci mereka sendiri. Menjual kebenaran-kebenaran itu untuk \"harga yang kecil\" — kedudukan autoriti agama, keuntungan kewangan, kesetiaan kesukuan — adalah pengkhianatan terhadap warisan mereka sendiri.",
+          "**Preskripsi (2:45–46)**",
+          "> *\"Mintalah pertolongan dengan sabar dan solat; sesungguhnya ia berat kecuali bagi orang-orang yang khusyuk — mereka yang yakin bahawa mereka akan bertemu Tuhan mereka dan bahawa mereka akan kembali kepada-Nya.\"*",
+          "Ini adalah preskripsi Ilahi yang universal: apabila menghadapi kesulitan, dua sauh kembar adalah *ṣabr* (kesabaran) dan *ṣalāh* (solat)."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir menjelaskan bahawa bahagian panjang tentang Banī Isrā'īl berfungsi sebagai cermin bagi umat Islam: apabila kamu membaca tentang kegagalan mereka — memungkiri perjanjian, mengutamakan keuntungan duniawi berbanding kebenaran, menyembah tuhan-tuhan palsu selepas menyaksikan mukjizat-mukjizat — kamu dimaksudkan untuk bertanya kepada diri sendiri sama ada kamu melakukan perkara yang sama. Al-Quran menceritakan kisah mereka bukan untuk mengutuk satu bangsa tetapi untuk memperingatkan semua orang beriman terhadap jerat-jerat yang sama."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Mengenai \"menjual ayat-ayat-Ku dengan harga yang kecil,\" Al-Jalalayn menyatakan ini merujuk kepada para rabbi yang mengubah gambaran Nabi ﷺ dalam kitab suci mereka untuk mengekalkan autoriti agama dan pendapatan mereka. Mereka mendapat persetujuan dunia dan kehilangan Akhirat — pertukaran yang paling buruk."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di menumpukan perhatian kepada ayat 45–46: kesabaran menambatkan kamu pada masa kini; solat menghubungkan kamu kepada Allah untuk mendapat kekuatan. Kuncinya adalah yaqīn — keyakinan bahawa kamu akan bertemu Allah. Tanpa keyakinan itu, tiada kesabaran mahupun solat yang mempunyai akar yang kukuh."
+          }
+        ],
+        "lessons": [
+          "📜 Perjanjian-perjanjian dengan Allah adalah serius — gagal menghormatinya membawa akibat dalam kehidupan ini dan kehidupan akhirat.",
+          "💸 Jangan sekali-kali menukar kebenaran demi keuntungan duniawi — ulama agama terutamanya memikul tanggungjawab yang berat untuk berkata benar.",
+          "🔮 Kisah Banī Isrā'īl adalah cermin — setiap dosa yang mereka jatuh ke dalamnya adalah dosa yang boleh dilakukan oleh orang Islam juga.",
+          "🧘 Apabila hidup susah: mohonlah pertolongan melalui *ṣabr* dan *ṣalāh* — ini adalah preskripsi Ilahi.",
+          "⏳ Keyakinan dalam pertemuan dengan Allah mengubah cara kamu menjalani hidup — ia meletakkan setiap ujian dalam perspektif yang betul."
+        ]
+      }
+    },
+    {
+      "id": "section-13",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": 47,
+      "verse_end": 59,
+      "en": {
+        "title": "Divine Favours Bestowed on Banī Isrā'īl & Their Ingratitude",
+        "theme": "An inventory of Allah's extraordinary gifts — and the pattern of human forgetfulness",
+        "translation": "O Children of Israel, remember My favour that I bestowed upon you and that I preferred you over the worlds. (47)",
+        "explanation": [
+          "These verses recount the extraordinary favours given to Banī Isrā'īl:",
+          "| Favour | Reference | |---|---| | Rescue from Pharaoh's persecution | 2:49 | | Parting of the Red Sea | 2:50 | | Guidance through Musa عليه السلام and the Torah | 2:53 | | Miraculous manna and quail in the desert | 2:57 | | Water from twelve springs | 2:60 |",
+          "Each favour was followed by ingratitude, testing, and rebellion.",
+          "**The Golden Calf (2:51–54)**",
+          "While Musa was on Mount Sinai receiving the Torah, his people fashioned a golden calf and worshipped it — just weeks after witnessing the parting of the Red Sea. This is a profound illustration of how quickly the human heart can drift from gratitude to forgetfulness without constant renewal of faith.",
+          "**Verse 48 — The Day No One Can Help Another:**",
+          "> *\"And fear a Day when no soul will suffice for another soul at all, and no intercession will be accepted from it, nor will justice be taken from it, nor will they be aided.\"*",
+          "This sobering reminder directly challenged the false security some in Banī Isrā'īl felt — assuming their ancestry from Ibrāhīm guaranteed salvation. On the Day of Judgement, every person stands alone."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir recounts the Golden Calf episode in detail. He notes that Sāmirī, the instigator, told them: \"This is your god and the god of Moses.\" Musa's fury on his return and his grief are deeply moving. Allah forgave them on condition of genuine repentance — demonstrating that even the gravest sins can be forgiven with sincere return to Allah."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di reflects: \"Banī Isrā'īl were privileged above all nations of their time — yet their privileges did not protect them from sin. This teaches us that proximity to knowledge and religious tradition is not immunity from spiritual failure. What protects is genuine taqwā, not pedigree or position.\" He also notes that verse 48's description of the Day of Judgement directly corrects any group that believes shared identity provides automatic salvation."
+          }
+        ],
+        "lessons": [
+          "🙈 The human heart forgets quickly — gratitude must be actively renewed through remembrance (*dhikr*) and prayer.",
+          "🐄 Even eyewitnesses of miracles can fall into the worst sins — miracles don't substitute for a living faith.",
+          "🏛️ Religious privilege and family background mean nothing on the Day of Judgement — only deeds matter.",
+          "🤝 No one can carry your spiritual burden — your relationship with Allah is personal and non-transferable.",
+          "🔁 Even the greatest sins can be forgiven with sincere tawbah — Allah's forgiveness surpasses our worst failures."
+        ],
+        "arabic": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ ﴿٤٧﴾"
+      },
+      "ms": {
+        "title": "Nikmat-nikmat Ilahi kepada Banī Isrā'īl & Keingkaran Mereka",
+        "theme": "Senarai kurnia-kurnia luar biasa Allah — dan corak kelupaan manusia",
+        "translation": "Wahai Bani Israel, ingatlah nikmat-Ku yang telah Aku kurniakan kepada kamu dan bahawa Aku telah melebihkan kamu di atas semesta alam. (47)",
+        "explanation": [
+          "Ayat-ayat ini meriwayatkan nikmat-nikmat yang luar biasa yang diberikan kepada Banī Isrā'īl:",
+          "| Nikmat | Rujukan | |---|---| | Penyelamatan daripada penindasan Firaun | 2:49 | | Pembelahan Laut Merah | 2:50 | | Petunjuk melalui Musa عليه السلام dan Taurat | 2:53 | | Mann dan salwa yang ajaib di padang pasir | 2:57 | | Air daripada dua belas mata air | 2:60 |",
+          "Setiap nikmat diikuti dengan keingkaran, ujian, dan pemberontakan.",
+          "**Anak Lembu Emas (2:51–54)**",
+          "Sementara Musa sedang berada di Bukit Sinai menerima Taurat, kaumnya membuat patung anak lembu emas dan menyembahnya — hanya beberapa minggu selepas menyaksikan pembelahan Laut Merah. Ini adalah ilustrasi yang mendalam tentang betapa cepatnya hati manusia boleh tergelincir daripada rasa syukur kepada kelupaan tanpa pembaharuan iman yang berterusan.",
+          "**Ayat 48 — Hari Apabila Tiada Siapa Boleh Membantu Orang Lain:**",
+          "> *\"Dan takutlah Hari yang mana tiada jiwa yang dapat mewakili jiwa yang lain sedikit pun, dan tiada syafaat yang akan diterima daripadanya, dan tidak akan diambil daripadanya sebarang pampasan, dan mereka tidak akan ditolong.\"*",
+          "Peringatan yang membuka mata ini menentang rasa selamat palsu yang dirasai sebahagian Banī Isrā'īl — beranggapan bahawa keturunan mereka daripada Ibrāhīm menjamin keselamatan. Pada Hari Kiamat, setiap orang berdiri bersendirian."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir meriwayatkan episod Anak Lembu Emas dengan terperinci. Beliau menyatakan bahawa Sāmirī, sang penghasut, berkata kepada mereka: \"Inilah tuhan kamu dan tuhan Musa.\" Kemarahan Musa semasa kepulangannya dan kesedihannya adalah amat mengharukan. Allah mengampuni mereka dengan syarat taubat yang tulen — menunjukkan bahawa walaupun dosa-dosa yang paling besar boleh diampunkan dengan kembali kepada Allah yang ikhlas."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di merenungkan: \"Banī Isrā'īl mendapat keistimewaan di atas semua bangsa pada zaman mereka — namun keistimewaan mereka tidak melindungi mereka daripada dosa. Ini mengajar kita bahawa kedekatan dengan ilmu pengetahuan dan tradisi agama bukanlah imuniti daripada kegagalan rohani. Yang melindungi adalah taqwā yang tulen, bukan keturunan atau kedudukan.\" Beliau juga menyatakan bahawa gambaran Hari Kiamat dalam ayat 48 secara langsung membetulkan mana-mana kumpulan yang percaya bahawa identiti bersama memberikan keselamatan secara automatik."
+          }
+        ],
+        "lessons": [
+          "🙈 Hati manusia cepat lupa — rasa syukur mesti diperbaharui secara aktif melalui zikir dan solat.",
+          "🐄 Walaupun saksi mata mukjizat-mukjizat boleh jatuh ke dalam dosa-dosa yang paling teruk — mukjizat tidak menggantikan iman yang hidup.",
+          "🏛️ Keistimewaan agama dan latar belakang keluarga tidak bermakna apa-apa pada Hari Kiamat — hanya amal yang penting.",
+          "🤝 Tiada siapa yang boleh memikul beban rohanimu — hubunganmu dengan Allah adalah peribadi dan tidak boleh dipindahkan.",
+          "🔁 Walaupun dosa-dosa yang paling besar boleh diampunkan dengan taubat yang ikhlas — keampunan Allah mengatasi kegagalan kita yang terburuk."
+        ]
+      }
+    },
+    {
+      "id": "section-14",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": 60,
+      "verse_end": 74,
+      "en": {
+        "title": "Miracles of Musa & The Parable of the Slaughtered Cow",
+        "theme": "Divine provision, the danger of unnecessary questioning, and the hardened heart",
+        "translation": "And when Moses prayed for water for his people, We said, \"Strike with your staff the rock.\" And there gushed forth from it twelve springs, and every people knew its watering place. (60)",
+        "explanation": [
+          "**The Twelve Springs** — twelve springs from a single rock for twelve tribes. Yet even this extraordinary favour was met with complaint: *\"We are tired of one kind of food; pray to your Lord to bring us what the earth produces\"* (2:61). The reply: \"Would you exchange what is better for what is less?\"",
+          "**The Story of the Cow (2:67–74)** — the incident after which the surah is named.",
+          "When a man was murdered, dispute arose over the killer. Allah commanded: slaughter a cow and strike the dead man with part of it, and he will testify to his killer. But Banī Isrā'īl asked endless unnecessary questions: - What age should the cow be? - What colour? - Has it ploughed?",
+          "Each question made the command more specific and the task more burdensome — **through their own complication**. The lesson: when Allah commands, the response should be immediate obedience, not endless interrogation.",
+          "**Verse 74 — The Hardened Heart:**",
+          "> *\"Then your hearts hardened after that, being like stones or even harder. For indeed, there are rocks from which rivers burst forth, and there are some that split open and water comes out, and there are some that fall down out of the fear of Allah.\"*",
+          "Rocks respond to Allah; yet some human hearts do not. This is a devastating comparison."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir notes the profound legal lesson: had Banī Isrā'īl simply gone and slaughtered any cow, they would have fulfilled the command. Their excessive questioning made the obligation progressively harder. He quotes the hadith: \"If I had commanded you with something, do of it what you are able, and if I forbade you something, leave it.\" Unnecessary questioning of divine commands complicates the straightforward path of obedience."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "On verse 74, Al-Jalalayn explains that even inanimate creation — rivers, rocks, mountains — responds to Allah in its own manner. The rock that \"falls down out of fear of Allah\" is a profound image. If creation glorifies and responds to Allah, how much more should the human heart — the most honoured of creations — respond with awe and devotion?"
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di writes: \"The comparison of hardened hearts to rocks — and then noting that rocks are better, because they still split with water and fall with fear of Allah — is a devastating indictment. To have a heart harder than rock is a catastrophic spiritual state. The antidote is constant engagement with the Qur'an, which softens what sin has hardened.\""
+          }
+        ],
+        "lessons": [
+          "⚡ When Allah commands, act immediately — excessive questioning complicates what was simple and loses blessings.",
+          "🪨 Even rocks are better than a hardened heart — nature glorifies Allah; let us not fall below the level of stones.",
+          "🌊 The Qur'an is water for hard hearts — regular recitation and reflection is the cure for spiritual hardness.",
+          "😤 The worst ingratitude is complaining in the midst of blessing.",
+          "🔍 Seeking miracles instead of simply obeying is a sign of weak faith — faith acts on trust, not on proof."
+        ],
+        "arabic": "وَإِذِ اسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِ فَقُلْنَا اضْرِب بِّعَصَاكَ الْحَجَرَ ۖ فَانفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ ﴿٦٠﴾"
+      },
+      "ms": {
+        "title": "Mukjizat-mukjizat Musa & Perumpamaan Lembu Betina yang Disembelih",
+        "theme": "Rezeki Ilahi, bahaya mempersoalkan yang tidak perlu, dan hati yang mengeras",
+        "translation": "Dan ingatlah ketika Musa memohon air untuk kaumnya, Kami berfirman, \"Pukullah batu itu dengan tongkatmu.\" Lalu memancar dari batu itu dua belas mata air, dan setiap kaum mengetahui tempat minumnya. (60)",
+        "explanation": [
+          "**Dua Belas Mata Air** — dua belas mata air dari sebiji batu untuk dua belas suku. Namun walaupun nikmat yang luar biasa ini disambut dengan aduan: *\"Kami bosan dengan satu jenis makanan; berdoalah kepada Tuhanmu agar Dia keluarkan apa yang bumi hasilkan\"* (2:61). Jawapannya: \"Mahukah kamu menukarkan yang lebih baik dengan yang lebih rendah?\"",
+          "**Kisah Lembu Betina (2:67–74)** — kejadian yang dinamakan sempena surah ini.",
+          "Apabila seorang lelaki dibunuh, pertikaian timbul tentang siapa pembunuhnya. Allah memerintahkan: sembelihlah seekor lembu betina dan pukul si mati dengan sebahagian daripadanya, dan dia akan bersaksi tentang pembunuhnya. Tetapi Banī Isrā'īl bertanya soalan-soalan yang tidak perlu tanpa henti: - Berapakah usianya? - Apa warnanya? - Adakah ia pernah membajak?",
+          "Setiap soalan menjadikan perintah itu lebih khusus dan tugas itu lebih membebankan — **melalui perbuatan mereka sendiri yang menyulitkan**. Pengajarannya: apabila Allah memerintahkan, jawapannya haruslah ketaatan yang segera, bukan pertanyaan yang tidak berkesudahan.",
+          "**Ayat 74 — Hati yang Mengeras:**",
+          "> *\"Kemudian hati kamu mengeras selepas itu, menjadi seperti batu atau bahkan lebih keras. Kerana sesungguhnya ada batu-batu yang daripadanya memancar sungai-sungai, dan ada yang terbelah lalu keluar air, dan ada yang jatuh kerana takut kepada Allah.\"*",
+          "Batu-batu menyahut seruan Allah; namun sesetengah hati manusia tidak. Ini adalah perbandingan yang memusnahkan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir menyatakan pengajaran perundangan yang mendalam: sekiranya Banī Isrā'īl hanya pergi dan menyembelih mana-mana lembu betina, mereka sudah memenuhi perintah. Pertanyaan berlebihan mereka menjadikan kewajipan itu semakin sukar secara progresif. Beliau meriwayatkan hadis: \"Jika aku memerintahkan kamu dengan sesuatu, lakukanlah apa yang kamu mampu, dan jika aku melarang kamu sesuatu, tinggalkanlah ia.\" Pertanyaan yang tidak perlu tentang perintah-perintah Ilahi menyulitkan jalan ketaatan yang mudah."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Mengenai ayat 74, Al-Jalalayn menjelaskan bahawa walaupun ciptaan yang tidak bernyawa — sungai, batu, gunung — menyahut Allah dengan caranya sendiri. Batu yang \"jatuh kerana takut kepada Allah\" adalah gambaran yang mendalam. Jika ciptaan memuliakan dan menyahut Allah, betapa lebih seharusnya hati manusia — makhluk yang paling dimuliakan — menyahut dengan rasa hormat dan pengabdian?"
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di menulis: \"Perbandingan hati yang mengeras dengan batu-batu — kemudian menyatakan bahawa batu-batu itu lebih baik, kerana ia masih terbelah dengan air dan jatuh kerana takut kepada Allah — adalah satu pertuduhan yang menghancurkan. Mempunyai hati yang lebih keras daripada batu adalah keadaan rohani yang bencana. Penawarnya adalah penglibatan yang berterusan dengan Al-Quran, yang melembutkan apa yang telah dikeraskan oleh dosa.\""
+          }
+        ],
+        "lessons": [
+          "⚡ Apabila Allah memerintahkan, bertindaklah dengan serta-merta — pertanyaan berlebihan menyulitkan apa yang mudah dan menghilangkan keberkatan.",
+          "🪨 Walaupun batu-batu lebih baik daripada hati yang mengeras — alam bertasbih kepada Allah; janganlah kita jatuh di bawah tahap batu-batu.",
+          "🌊 Al-Quran adalah air bagi hati yang keras — bacaan dan renungan yang kerap adalah penawar bagi kekerasan rohani.",
+          "😤 Ingratitude yang paling teruk adalah mengadu di tengah-tengah nikmat.",
+          "🔍 Mencari mukjizat berbanding sekadar mentaati adalah tanda iman yang lemah — iman bertindak atas dasar kepercayaan, bukan bukti."
+        ]
+      }
+    },
+    {
+      "id": "section-15",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": 75,
+      "verse_end": 86,
+      "en": {
+        "title": "Corruption of Scripture, Hardened Hearts & False Security",
+        "theme": "The grave sin of distorting divine revelation and the danger of complacency about one's spiritual standing",
+        "translation": "Do you expect them to believe you when a group of them used to hear the words of Allah and then distort it after they had understood it while they knew? (75)",
+        "explanation": [
+          "**The Deliberate Distortion of Revelation**",
+          "Some among the religious scholars of Banī Isrā'īl would hear Allah's words clearly, understand them correctly, and then *consciously alter them* to serve their interests — changing rulings, removing prophecies of the Prophet ﷺ, adjusting laws that were inconvenient.",
+          "Verse 79 delivers a devastating warning: > *\"So woe to those who write the 'scripture' with their own hands, then say, 'This is from Allah,' in order to exchange it for a small price.\"*",
+          "This applies to any person who attributes their own fabrications to divine authority for worldly gain — one of the most serious sins in Islamic theology.",
+          "**False Certainty (2:80–86)**",
+          "Some held the belief: \"The Fire will only touch us for a few days.\" Allah's response: \"Have you taken a covenant with Allah? — for Allah never breaks His covenant. Or do you say about Allah what you do not know?\"",
+          "False certainty about one's spiritual standing is a dangerous form of arrogance. The Muslim tradition warns against this through the concept of *khashyah* — reverent fear that keeps one vigilant even while maintaining hope."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir warns that this sin is not exclusive to Banī Isrā'īl — any religious scholar who changes religious rulings to please rulers, to earn money, or to avoid social consequences is committing the same crime. The Qur'an was protected by Allah's promise (15:9) from such corruption — a unique divine guarantee that distinguishes it from all previous scriptures."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "On the false claim that the Fire would only touch them for a few days, Al-Jalalayn explains this was a fabricated belief with no basis in divine revelation — a self-comforting theology invented to justify continued sin. Without a covenant from Allah, no such guarantee exists. Wishful thinking about the afterlife does not change divine justice."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di draws the lesson for religious authorities: the scholar who changes rulings for a \"small price\" — financial benefit, political safety, or social acceptance — has committed a sin graver than the layperson who simply sins out of weakness. The abuse of religious authority multiplies harm across an entire community. True scholarship demands courage."
+          }
+        ],
+        "lessons": [
+          "✍️ Attributing fabrications to Allah is one of the gravest sins — never speak of religion without knowledge.",
+          "🛡️ The Qur'an is divinely preserved (15:9) — unlike previous scriptures, it has been protected from corruption.",
+          "⚠️ False certainty about your spiritual state is dangerous — maintain healthy fear alongside hope.",
+          "👨‍🏫 Religious scholars bear a heavier burden — they must speak truth even when it costs them.",
+          "🏦 Trading divine truth for worldly gain is the worst possible transaction."
+        ],
+        "arabic": "أَفَتَطْمَعُونَ أَن يُؤْمِنُوا لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِّنْهُمْ يَسْمَعُونَ كَلَامَ اللَّهِ ثُمَّ يُحَرِّفُونَهُ مِن بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ ﴿٧٥﴾"
+      },
+      "ms": {
+        "title": "Pemalsuan Kitab Suci, Hati yang Keras & Rasa Aman yang Palsu",
+        "theme": "Dosa besar memesongkan wahyu Ilahi dan bahaya sikap puas diri tentang kedudukan rohani seseorang",
+        "translation": "Apakah kamu mengharapkan mereka akan mempercayaimu sedangkan sebahagian daripada mereka dahulu mendengar firman Allah kemudian memesongkannya selepas mereka memahaminya, sedangkan mereka mengetahuinya? (75)",
+        "explanation": [
+          "**Pemesونgan Wahyu yang Disengajakan**",
+          "Sebahagian daripada ulama agama Banī Isrā'īl mendengar kata-kata Allah dengan jelas, memahaminya dengan betul, dan kemudian *secara sedar mengubahnya* untuk kepentingan mereka — mengubah hukum-hakam, menghapus nubuat tentang Nabi ﷺ, menyesuaikan undang-undang yang menyusahkan.",
+          "Ayat 79 menyampaikan amaran yang menghancurkan: > *\"Maka celakalah orang-orang yang menulis 'kitab suci' dengan tangan mereka sendiri, kemudian berkata, 'Ini daripada Allah,' untuk menukarnya dengan harga yang kecil.\"*",
+          "Ini berlaku kepada mana-mana orang yang menisbahkan reka-rekaan mereka sendiri kepada autoriti Ilahi demi keuntungan duniawi — salah satu dosa yang paling serius dalam teologi Islam.",
+          "**Keyakinan Palsu (2:80–86)**",
+          "Ada yang memegang kepercayaan: \"Api neraka hanya akan menyentuh kami beberapa hari sahaja.\" Jawapan Allah: \"Adakah kamu telah mengambil perjanjian dengan Allah? — kerana Allah tidak pernah memungkiri perjanjian-Nya. Atau adakah kamu berkata tentang Allah apa yang kamu tidak ketahui?\"",
+          "Keyakinan palsu tentang kedudukan rohani seseorang adalah satu bentuk kesombongan yang berbahaya. Tradisi Islam memberi amaran tentang perkara ini melalui konsep *khashyah* — rasa takut yang penuh hormat yang membuat seseorang tetap berwaspada walaupun sambil mengekalkan harapan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir memberi amaran bahawa dosa ini tidak eksklusif kepada Banī Isrā'īl — mana-mana ulama agama yang mengubah hukum-hakam agama untuk menyenangkan pemerintah, untuk mendapat wang, atau untuk menghindari akibat sosial melakukan jenayah yang sama. Al-Quran dilindungi oleh janji Allah (15:9) daripada pemesونgan seperti itu — suatu jaminan Ilahi yang unik yang membezakannya daripada semua kitab suci sebelumnya."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Mengenai dakwaan palsu bahawa api neraka hanya akan menyentuh mereka beberapa hari sahaja, Al-Jalalayn menjelaskan ini adalah kepercayaan yang direka-reka tanpa asas dalam wahyu Ilahi — teologi yang menghiburkan diri sendiri yang dicipta untuk membenarkan dosa yang berterusan. Tanpa perjanjian daripada Allah, tiada jaminan sedemikian wujud. Angan-angan tentang akhirat tidak mengubah keadilan Ilahi."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di menarik pengajaran bagi autoriti agama: ulama yang mengubah hukum-hakam untuk \"harga yang kecil\" — manfaat kewangan, keselamatan politik, atau penerimaan sosial — telah melakukan dosa yang lebih besar daripada orang awam yang sekadar berdosa atas dasar kelemahan. Penyalahgunaan autoriti agama melipatgandakan kemudaratan ke atas seluruh komuniti. Ilmu yang sejati menuntut keberanian."
+          }
+        ],
+        "lessons": [
+          "✍️ Menisbahkan rekaan kepada Allah adalah salah satu dosa yang paling besar — jangan pernah bercakap tentang agama tanpa ilmu.",
+          "🛡️ Al-Quran dipelihara secara Ilahi (15:9) — tidak seperti kitab-kitab suci sebelumnya, ia telah dilindungi daripada pemesونgan.",
+          "⚠️ Keyakinan palsu tentang keadaan rohanimu adalah berbahaya — kekalkan rasa takut yang sihat bersama-sama harapan.",
+          "👨‍🏫 Ulama agama memikul beban yang lebih berat — mereka mesti berkata benar walaupun ia memakan kos.",
+          "🏦 Menukar kebenaran Ilahi demi keuntungan duniawi adalah urusan niaga yang paling buruk."
+        ]
+      }
+    },
+    {
+      "id": "section-16",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": 87,
+      "verse_end": 101,
+      "en": {
+        "title": "A Chain of Prophets Rejected",
+        "theme": "The tragic human pattern of rejecting divine guidance even when it comes repeatedly and clearly",
+        "translation": "And We did give Moses the Scripture and followed up after him with messengers. And We gave Jesus, son of Mary, clear proofs and supported him with the Pure Spirit. (87)",
+        "explanation": [
+          "This passage surveys the entire prophetic chain — from Musa to the later prophets to 'Isa عليه السلام. Each prophet came with clear signs. Each was rejected — some were called liars, some were killed. The verse captures the tragic pattern: divine mercy sends guidance; human arrogance rejects it.",
+          "**Verse 88** contains the chilling claim: > *\"Our hearts are wrapped\"* — meaning, nothing more will penetrate them, we have heard enough.",
+          "Allah's response: *\"Rather, Allah has cursed them for their disbelief, so little is it that they believe.\"*",
+          "**The Angel Jibrīl (2:97–98)**",
+          "Some among the Jews of Madinah claimed Jibrīl was their \"enemy.\" Allah responds: > *\"Say, whoever is an enemy to Jibrīl — it is he who has brought the Qur'an down upon your heart by permission of Allah.\"*",
+          "Hostility to the angel who brought the final revelation is hostility to the revelation itself. You cannot accept Allah while rejecting His messenger.",
+          "**Verse 101** — When the Prophet ﷺ came as the fulfilment of all their scriptures had promised, *\"a party of the People of the Book threw the book of Allah behind their backs, as though they do not know.\"*"
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir records that some Jewish scholars in Madinah said they were enemies of Jibrīl because he always brought punishment and severity, while they preferred Mika'il who brought rain and mercy. Allah's response clarifies: you cannot selectively accept the angels based on what they bring — all are honoured messengers of Allah."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di notes that the pattern of rejecting prophets is presented not just as historical information but as a warning to the Muslim community: do not repeat this pattern. Do not reject parts of the Sunnah you find inconvenient. Do not throw the Qur'an \"behind your backs\" by learning it without living it. The danger is always present."
+          }
+        ],
+        "lessons": [
+          "🕊️ All prophets came with the same core message — rejecting any prophet is rejecting them all.",
+          "💬 Saying \"our hearts are wrapped\" — claiming you've heard enough — is spiritual arrogance of the worst kind.",
+          "📚 Reading the Qur'an without living it is its own form of \"throwing it behind your back.\"",
+          "⚖️ You cannot select which parts of revelation to accept and which to reject — faith requires comprehensive submission.",
+          "🤲 All the angels work in service of Allah — respect for His messengers, visible and invisible, is part of faith."
+        ],
+        "arabic": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ وَقَفَّيْنَا مِن بَعْدِهِ بِالرُّسُلِ ۖ وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ ﴿٨٧﴾"
+      },
+      "ms": {
+        "title": "Rangkaian Para Nabi yang Ditolak",
+        "theme": "Corak tragis manusia yang menolak hidayah Ilahi walaupun ia datang berulang kali dan dengan jelas",
+        "translation": "Dan sesungguhnya Kami telah memberikan Musa Al-Kitab dan Kami susulkan selepasnya dengan para rasul. Dan Kami memberikan Isa putera Maryam bukti-bukti yang nyata dan Kami perkuatkan dia dengan Ruh Al-Quds. (87)",
+        "explanation": [
+          "Petikan ini meninjau seluruh rantaian kenabian — dari Musa kepada nabi-nabi kemudian hingga 'Isa عليه السلام. Setiap nabi datang dengan tanda-tanda yang jelas. Setiap seorang ditolak — ada yang didustakan, ada yang dibunuh. Ayat ini menangkap corak yang tragis: rahmat Ilahi menghantar hidayah; kesombongan manusia menolaknya.",
+          "**Ayat 88** mengandungi dakwaan yang mengerikan: > *\"Hati kami tertutup\"* — bermaksud, tiada lagi yang akan menembusinya, kami sudah cukup mendengar.",
+          "Jawapan Allah: *\"Bahkan, Allah telah melaknati mereka kerana kekafiran mereka, maka amat sedikit yang mereka percaya.\"*",
+          "**Malaikat Jibrīl (2:97–98)**",
+          "Sebahagian daripada orang-orang Yahudi Madinah mendakwa Jibrīl adalah \"musuh\" mereka. Allah menjawab: > *\"Katakanlah, sesiapa yang menjadi musuh kepada Jibrīl — maka sesungguhnya dialah yang telah menurunkan Al-Quran ke dalam hatimu dengan izin Allah.\"*",
+          "Permusuhan terhadap malaikat yang membawa wahyu terakhir adalah permusuhan terhadap wahyu itu sendiri. Kamu tidak dapat menerima Allah sambil menolak utusannya.",
+          "**Ayat 101** — Apabila Nabi ﷺ datang sebagai penggenapan semua yang telah dijanjikan oleh kitab suci mereka, *\"segolongan daripada Ahli Kitab membuang kitab Allah ke belakang mereka, seolah-olah mereka tidak mengetahuinya.\"*"
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir meriwayatkan bahawa sebahagian ulama Yahudi di Madinah berkata mereka adalah musuh Jibrīl kerana dia sentiasa membawa azab dan kekerasan, manakala mereka lebih suka Mika'il yang membawa hujan dan rahmat. Jawapan Allah menjelaskan: kamu tidak boleh menerima para malaikat secara selektif berdasarkan apa yang mereka bawa — semua adalah utusan Allah yang dimuliakan."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di menyatakan bahawa corak menolak para nabi dipersembahkan bukan sekadar sebagai maklumat sejarah tetapi sebagai amaran kepada umat Islam: jangan ulangi corak ini. Jangan tolak bahagian-bahagian Sunnah yang kamu dapati tidak selesa. Jangan buang Al-Quran \"ke belakang\" dengan mempelajarinya tanpa menghayatinya. Bahayanya sentiasa ada."
+          }
+        ],
+        "lessons": [
+          "🕊️ Semua nabi membawa mesej teras yang sama — menolak mana-mana nabi sama dengan menolak mereka semua.",
+          "💬 Berkata \"hati kami tertutup\" — mendakwa sudah cukup mendengar — adalah kesombongan rohani yang paling buruk.",
+          "📚 Membaca Al-Quran tanpa menghayatinya adalah satu bentuk \"membuangnya ke belakang\" tersendiri.",
+          "⚖️ Kamu tidak boleh memilih bahagian wahyu yang hendak diterima dan yang hendak ditolak — iman menuntut penyerahan yang menyeluruh.",
+          "🤲 Semua malaikat berkhidmat kepada Allah — menghormati utusan-utusan-Nya, yang kelihatan mahupun yang tidak kelihatan, adalah sebahagian daripada iman."
+        ]
+      }
+    },
+    {
+      "id": "section-17",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": 102,
+      "verse_end": 112,
+      "en": {
+        "title": "Harūt & Marūt — Magic vs. True Faith",
+        "theme": "The prohibition of magic, the limits of harm, and the universal criterion of true salvation",
+        "translation": "And they followed what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic. (102)",
+        "explanation": [
+          "**Clearing Sulaymān عليه السلام**",
+          "A slander circulated that Sulaymān (Solomon) was a sorcerer. The Qur'an categorically clears his name: Solomon did not disbelieve; the devils disbelieved by teaching people magic against his will. His extraordinary dominion over wind, animals, and jinn was a divine gift, not sorcery.",
+          "**Hārūt and Mārūt**",
+          "Two beings (majority of scholars say angels) sent to Babylon as a divine test — they taught magic, but warned every single person: *\"We are only a trial; do not disbelieve.\"* Those who pursued this forbidden knowledge harmed themselves.",
+          "Key principle: *\"They could not harm anyone except by permission of Allah.\"*",
+          "No power in the universe — including magic — operates outside Allah's absolute sovereignty.",
+          "**Verse 112 — The Universal Criterion:**",
+          "> *\"Whoever submits himself to Allah while doing good — his reward is with his Lord. No fear shall come upon them, nor shall they grieve.\"*",
+          "*Aslama wajhahu* — to \"submit the face\" — means holding nothing back. The face is the most expressive, most exposed part of the body. To submit your face to Allah means complete, humble surrender. Combined with *muḥsin* (doing good): this is the complete definition of one who attains eternal success."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir extensively discusses magic (siḥr), concluding that learning and practising magic is forbidden (ḥarām) and in certain forms constitutes disbelief. He emphasises: \"they could not harm anyone except by permission of Allah.\" No power in the universe operates outside Allah's absolute sovereignty — a source of both comfort and perspective for believers."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn focuses on the warning given to every person who approached Hārūt and Mārūt: \"We are only a trial.\" The knowledge was available but the choice was the person's own. Those who pursued what they knew was forbidden have no one to blame. This principle applies broadly: temptation presents itself; the choice to follow it is ours."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di beautifully explains that submitting one's face (wajh) to Allah means total, humble surrender. Combined with iḥsān (excellence in action), this combination of correct belief and righteous action is the complete definition of the one who attains eternal success — not tribal membership, not inherited tradition."
+          }
+        ],
+        "lessons": [
+          "🪄 Magic is forbidden in Islam — it involves seeking power from other than Allah and causes real harm.",
+          "🛡️ No harm can befall you except by Allah's permission — this is a shield of faith against fear of evil forces.",
+          "🌍 Paradise is not the exclusive property of any group — it belongs to those who sincerely submit and do good.",
+          "🎭 Every temptation is labelled \"trial\" — the choice to pursue forbidden paths is always ours.",
+          "☀️ True submission (*islām*) means giving your entire self — face, heart, and actions — to Allah."
+        ],
+        "arabic": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ ﴿١٠٢﴾"
+      },
+      "ms": {
+        "title": "Hārūt & Mārūt — Sihir vs. Iman yang Sejati",
+        "theme": "Pengharaman sihir, had-had kemudaratan, dan kriteria universal keselamatan yang sejati",
+        "translation": "Dan mereka mengikuti apa yang dibacakan oleh syaitan-syaitan semasa pemerintahan Sulaiman. Bukanlah Sulaiman yang kafir, tetapi syaitan-syaitanlah yang kafir, mengajar manusia sihir. (102)",
+        "explanation": [
+          "**Membersihkan Nama Sulaymān عليه السلام**",
+          "Satu fitnah beredar bahawa Sulayman (Nabi Solomon) adalah seorang ahli sihir. Al-Quran secara kategorikal membersihkan namanya: Solomon tidak kafir; syaitan-syaitanlah yang kafir dengan mengajar manusia sihir tanpa izinnya. Kekuasaannya yang luar biasa ke atas angin, haiwan, dan jin adalah kurnia Ilahi, bukan sihir.",
+          "**Hārūt dan Mārūt**",
+          "Dua makhluk (majoriti ulama berkata malaikat) yang dihantar ke Babylon sebagai ujian Ilahi — mereka mengajar sihir, tetapi memberi amaran kepada setiap orang: *\"Kami hanyalah fitnah; janganlah kamu kafir.\"* Mereka yang mengejar ilmu yang diharamkan ini menyakiti diri mereka sendiri.",
+          "Prinsip utama: *\"Mereka tidak dapat memudharatkan sesiapa pun melainkan dengan izin Allah.\"*",
+          "Tiada kuasa dalam alam semesta — termasuk sihir — yang beroperasi di luar kedaulatan mutlak Allah.",
+          "**Ayat 112 — Kriteria Universal:**",
+          "> *\"Sesiapa yang menyerahkan dirinya kepada Allah sambil berbuat baik — pahalanya ada di sisi Tuhannya. Tiada rasa takut yang akan menimpa mereka, dan mereka tidak akan bersedih.\"*",
+          "*Aslama wajhahu* — untuk \"menyerahkan wajah\" — bermaksud tidak menahan apa-apa. Wajah adalah bahagian tubuh yang paling ekspresif dan paling terdedah. Menyerahkan wajahmu kepada Allah bermaksud penyerahan yang lengkap dan rendah hati. Digabungkan dengan *muḥsin* (berbuat baik): inilah definisi lengkap orang yang mencapai kejayaan abadi."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir membincangkan sihir (siḥr) secara panjang lebar, menyimpulkan bahawa mempelajari dan mengamalkan sihir adalah haram (ḥarām) dan dalam bentuk-bentuk tertentu merupakan kekafiran. Beliau menekankan: \"mereka tidak dapat memudharatkan sesiapa pun melainkan dengan izin Allah.\" Tiada kuasa dalam alam semesta yang beroperasi di luar kedaulatan mutlak Allah — sumber keselesaan sekaligus perspektif bagi orang beriman."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn menumpukan perhatian kepada amaran yang diberikan kepada setiap orang yang mendekati Hārūt dan Mārūt: \"Kami hanyalah fitnah.\" Ilmunya ada tetapi pilihannya adalah pada orang itu sendiri. Mereka yang mengejar apa yang mereka tahu adalah terlarang tidak mempunyai siapa untuk dipersalahkan. Prinsip ini berlaku secara luas: godaan mempersembahkan dirinya; pilihan untuk mengikutinya adalah milik kita."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di dengan indah menjelaskan bahawa menyerahkan wajah (wajh) kepada Allah bermaksud penyerahan yang total dan rendah hati. Digabungkan dengan iḥsān (kecemerlangan dalam amal), gabungan kepercayaan yang betul dan amal soleh ini adalah definisi lengkap orang yang mencapai kejayaan abadi — bukan keahlian kesukuan, bukan tradisi yang diwarisi."
+          }
+        ],
+        "lessons": [
+          "🪄 Sihir adalah haram dalam Islam — ia melibatkan mencari kuasa daripada selain Allah dan menyebabkan kemudaratan yang nyata.",
+          "🛡️ Tiada kemudaratan yang menimpa kamu melainkan dengan izin Allah — ini adalah perisai iman daripada rasa takut terhadap kuasa-kuasa jahat.",
+          "🌍 Syurga bukan hak milik eksklusif mana-mana kumpulan — ia milik mereka yang dengan ikhlas menyerahkan diri dan berbuat baik.",
+          "🎭 Setiap godaan berlabel \"fitnah\" — pilihan untuk mengejar jalan-jalan yang terlarang sentiasa milik kita.",
+          "☀️ Penyerahan yang sejati (*islām*) bermaksud memberikan seluruh diri — wajah, hati, dan amal — kepada Allah."
+        ]
+      }
+    },
+    {
+      "id": "section-18",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": 113,
+      "verse_end": 123,
+      "en": {
+        "title": "Jewish & Christian Claims & Allah's Universal Sovereignty",
+        "theme": "Sectarian arrogance rebuked; the cosmic scale of Allah's dominion over all directions and peoples",
+        "translation": "The Jews say \"The Christians have nothing to stand on,\" and the Christians say \"The Jews have nothing to stand on,\" although they both recite the Scripture. (113)",
+        "explanation": [
+          "**The Sectarian Trap**",
+          "This verse captures an eternal human dynamic: religious communities claiming exclusive ownership of truth while dismissing one another — even when they share a common scripture. The irony: they both read the same Book (the Old Testament), yet each dismisses the other. Their mutual condemnation is mirrored by those with no knowledge at all.",
+          "**The Divine Correction (2:115–117)**",
+          "> *\"To Allah belongs the east and the west. Whithersoever you turn, there is the face of Allah. Indeed Allah is All-Encompassing, All-Knowing.\"*",
+          "No single group, no single building, no single direction contains Allah. He transcends all human categories and tribal claims.",
+          "> *\"The Originator of the heavens and the earth. When He decrees a matter, He only says to it, 'Be!' — and it is.\"*",
+          "*Kun fa-yakūn* — The One who speaks and galaxies appear is far above any petty human dispute about who \"owns\" religion.",
+          "**Verse 120 — The Critical Warning:**",
+          "> *\"And never will the Jews or the Christians approve of you until you follow their religion.\"*",
+          "A powerful reminder: seeking human approval at the cost of divine approval is the deepest form of loss. Those who demand you compromise your faith will always demand more."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir notes this verse was revealed in the context of Madinan interfaith disputes. The universal lesson: any religious community that dismisses all others while reading a common scripture is falling into the same trap. The criterion of truth is not \"which community are you from?\" but \"what does the revelation actually say, and are you following it sincerely?\""
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di comments powerfully on verse 120: \"Never seek their approval over Allah's approval. The one who chases human satisfaction at the cost of divine satisfaction has lost both — people are never fully satisfied, and Allah's pleasure has been forfeited.\" This applies to any believer who dilutes their faith to please surrounding culture."
+          }
+        ],
+        "lessons": [
+          "🌐 Allah is not confined to one direction, one building, or one group — He encompasses everything.",
+          "⚡ *Kun fa-yakūn* — remember the One you worship. He speaks and galaxies obey.",
+          "🤐 Sectarian arrogance — claiming only my group is right — is the same as speaking without knowledge.",
+          "🎯 Never sacrifice truth to win approval. Those who demand you compromise will demand more, endlessly.",
+          "📖 The measure of truth is the revelation — not tribal membership or inherited tradition."
+        ],
+        "arabic": "وَقَالَتِ الْيَهُودُ لَيْسَتِ النَّصَارَىٰ عَلَىٰ شَيْءٍ وَقَالَتِ النَّصَارَىٰ لَيْسَتِ الْيَهُودُ عَلَىٰ شَيْءٍ وَهُمْ يَتْلُونَ الْكِتَابَ ﴿١١٣﴾"
+      },
+      "ms": {
+        "title": "Dakwaan Yahudi & Kristian & Kedaulatan Universal Allah",
+        "theme": "Kesombongan sektarian ditegur; skala kosmik dominion Allah ke atas semua arah dan semua bangsa",
+        "translation": "Orang-orang Yahudi berkata \"Orang-orang Kristian tidak mempunyai landasan apa pun,\" dan orang-orang Kristian berkata \"Orang-orang Yahudi tidak mempunyai landasan apa pun,\" walaupun mereka berdua membaca Kitab Suci. (113)",
+        "explanation": [
+          "**Perangkap Sektarian**",
+          "Ayat ini menangkap satu dinamika manusia yang abadi: komuniti-komuniti agama yang mendakwa pemilikan eksklusif terhadap kebenaran sambil menolak satu sama lain — walaupun mereka berkongsi kitab suci yang sama. Ironinya: mereka berdua membaca kitab yang sama (Perjanjian Lama), namun setiap satu menolak yang lain. Kecaman bersama mereka dicerminkan oleh mereka yang tidak mempunyai ilmu langsung.",
+          "**Pembetulan Ilahi (2:115–117)**",
+          "> *\"Kepunyaan Allah-lah timur dan barat. Ke manapun kamu menghadap, di sanalah wajah Allah. Sesungguhnya Allah Maha Luas lagi Maha Mengetahui.\"*",
+          "Tiada satu kumpulan, tiada satu bangunan, tiada satu arah yang mengandungi Allah. Dia melampaui semua kategori manusia dan semua tuntutan kesukuan.",
+          "> *\"Pencipta langit dan bumi. Apabila Dia memutuskan suatu urusan, Dia hanya berkata kepadanya, 'Jadilah!' — maka jadilah ia.\"*",
+          "*Kun fa-yakūn* — Yang berbicara dan galaksi-galaksi muncul adalah jauh di atas sebarang pertikaian manusia yang kecil tentang siapa yang \"memiliki\" agama.",
+          "**Ayat 120 — Amaran yang Kritikal:**",
+          "> *\"Dan orang-orang Yahudi dan Kristian tidak akan sekali-kali redha kepadamu sehingga kamu mengikuti agama mereka.\"*",
+          "Satu peringatan yang kuat: mencari keredhaan manusia dengan mengorbankan keredhaan Ilahi adalah bentuk kerugian yang paling mendalam. Mereka yang menuntut kamu berkompromi dengan imanmu akan sentiasa menuntut lebih."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir menyatakan ayat ini diturunkan dalam konteks pertikaian antara agama di Madinah. Pengajaran universal: mana-mana komuniti agama yang menolak semua pihak lain sambil membaca kitab suci yang sama sedang jatuh ke dalam perangkap yang sama. Kriteria kebenaran bukan \"kamu dari komuniti mana?\" tetapi \"apa yang sebenarnya dikatakan oleh wahyu, dan adakah kamu mengikutinya dengan ikhlas?\""
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di mengulas dengan kuat tentang ayat 120: \"Jangan sekali-kali mencari keredhaan mereka melebihi keredhaan Allah. Orang yang mengejar kepuasan manusia dengan mengorbankan kepuasan Ilahi telah kehilangan kedua-duanya — manusia tidak pernah berpuas hati sepenuhnya, dan keredhaan Allah pula telah digadaikan.\" Ini berlaku kepada mana-mana orang beriman yang menghakis imannya untuk menyenangkan budaya sekeliling."
+          }
+        ],
+        "lessons": [
+          "🌐 Allah tidak terbatas kepada satu arah, satu bangunan, atau satu kumpulan — Dia merangkumi segala sesuatu.",
+          "⚡ *Kun fa-yakūn* — ingatlah kepada siapa kamu menyembah. Dia berbicara dan galaksi-galaksi taat.",
+          "🤐 Kesombongan sektarian — mendakwa hanya kumpulanku yang benar — sama seperti berkata tanpa ilmu.",
+          "🎯 Jangan sekali-kali korbankan kebenaran untuk memenangi persetujuan. Mereka yang menuntut kamu berkompromi akan menuntut lebih, tanpa henti.",
+          "📖 Ukuran kebenaran adalah wahyu — bukan keahlian kesukuan atau tradisi yang diwarisi."
+        ]
+      }
+    },
+    {
+      "id": "section-19",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": 124,
+      "verse_end": 135,
+      "en": {
+        "title": "Ibrāhīm — Father of Prophets & The Building of the Ka'bah",
+        "theme": "The trials and triumph of Ibrāhīm عليه السلام, the Ka'bah as the focal point of worship, and a prayer answered 2,500 years later",
+        "translation": "And when Abraham was tried by his Lord with words and he fulfilled them. He said, \"Indeed, I will make you a leader for the people.\" [Abraham] said, \"And of my descendants?\" He said, \"My covenant does not include the wrongdoers.\" (124)",
+        "explanation": [
+          "**Ibrāhīm's Trials**",
+          "The \"words\" (trials) Allah tested Ibrāhīm عليه السلام with included: - Leaving his homeland - Building the Ka'bah - Leaving his wife Hājar and infant Ismā'īl in the barren valley of Makkah - Being commanded to sacrifice his son",
+          "He passed every test — earning the title **Imām lin-nās** (a leader for all humanity) and **Khalīlullāh** (the intimate friend of Allah).",
+          "**The Profound Principle (2:124)**",
+          "Ibrāhīm's request — \"and of my descendants?\" — is beautifully human. Allah's answer sets a fundamental rule: **divine leadership is not hereditary**. Righteousness is not transmitted through bloodlines. \"My covenant does not include the wrongdoers.\" This directly undermines any claim of automatic spiritual privilege through ancestry.",
+          "**The Building of the Ka'bah (2:125–129)**",
+          "As Ibrāhīm and Ismā'īl raised the Ka'bah's foundations, they made one of the most beautiful prayers in the Qur'an:",
+          "> *\"Our Lord, accept this from us. Indeed You are the Hearing, the Knowing. Our Lord, make us Muslims in submission to You and from our descendants a Muslim nation... Our Lord, and send among them a Messenger from themselves who will recite to them Your verses and teach them the Book and wisdom and purify them.\"*",
+          "This prayer — made thousands of years ago — was answered in the Prophet Muhammad ﷺ. A du'a answered 2,500 years later. Never despair of your supplication."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir reflects on the prayer of Ibrāhīm for the Prophet ﷺ being answered 2,500+ years later — proof that the du'a of the prophets is always answered, even if the answer comes generations later. He also explains the Ka'bah: it is not a physical home for Allah — He is far above that — but a spiritual focal point, a qiblah that unifies the Muslim ummah in worship."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn notes that the tests placed before Ibrāhīm — including leaving his wife and infant in the barren valley of Makkah, and being asked to sacrifice that same son — are among the greatest trials ever placed before a human being. His consistent, calm, grateful submission through all of them is why he earned the title Khalīlullāh — the intimate friend of Allah."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di draws the lesson: even while doing one of the greatest acts of worship in human history — building the Ka'bah — Ibrāhīm prays \"accept this from us.\" Even the greatest people are most aware of their dependence on Allah's mercy in their best moments. This is the opposite of arrogance. The truly devoted soul always approaches Allah with humility, however great their deeds."
+          }
+        ],
+        "lessons": [
+          "🔥 Spiritual leadership is earned through trials and righteousness, not inherited through bloodlines.",
+          "🕌 The Ka'bah is the heart of Islamic unity — billions face it in prayer, connecting every Muslim across time and space.",
+          "🙏 Ibrāhīm's du'a while building the Ka'bah was answered 2,500 years later — never despair of your du'a!",
+          "👨‍👦 Even the greatest acts of worship need \"O Allah, accept from us\" — humility before Allah always.",
+          "⚡ The \"tests\" of Allah are gifts in disguise — they elevate those who pass them to stations otherwise unreachable."
+        ],
+        "arabic": "وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا ۖ قَالَ وَمِن ذُرِّيَّتِي ۖ قَالَ لَا يَنَالُ عَهْدِي الظَّالِمِينَ ﴿١٢٤﴾"
+      },
+      "ms": {
+        "title": "Ibrāhīm — Bapa Para Nabi & Pembinaan Ka'bah",
+        "theme": "Ujian-ujian dan kemenangan Ibrāhīm عليه السلام, Ka'bah sebagai titik pusat ibadah, dan doa yang dijawab 2,500 tahun kemudian",
+        "translation": "Dan ingatlah ketika Ibrahim diuji oleh Tuhannya dengan beberapa perintah, lalu dia menyempurnakannya. Dia berfirman, \"Sesungguhnya Aku akan menjadikanmu pemimpin bagi manusia.\" [Ibrahim] berkata, \"Dan daripada keturunanku?\" Dia berfirman, \"Perjanjian-Ku tidak meliputi orang-orang yang zalim.\" (124)",
+        "explanation": [
+          "**Ujian-ujian Ibrāhīm**",
+          "\"Perintah-perintah\" (ujian-ujian) yang Allah uji ke atas Ibrāhīm عليه السلام termasuk: - Meninggalkan tanah airnya - Membina Ka'bah - Meninggalkan isterinya Hājar dan bayi Ismā'īl di lembah Makkah yang tandus - Diperintahkan untuk menyembelih anaknya",
+          "Beliau lulus setiap ujian — mendapatkan gelaran **Imām lin-nās** (pemimpin bagi seluruh manusia) dan **Khalīlullāh** (sahabat karib Allah).",
+          "**Prinsip yang Mendalam (2:124)**",
+          "Permintaan Ibrāhīm — \"dan daripada keturunanku?\" — sangat manusiawi. Jawapan Allah menetapkan satu kaedah asas: **kepimpinan Ilahi tidak diwarisi**. Kesolehanan tidak dipindahkan melalui keturunan. \"Perjanjian-Ku tidak meliputi orang-orang yang zalim.\" Ini secara langsung menolak sebarang tuntutan keistimewaan rohani secara automatik melalui keturunan.",
+          "**Pembinaan Ka'bah (2:125–129)**",
+          "Semasa Ibrāhīm dan Ismā'īl meninggikan asas-asas Ka'bah, mereka memanjatkan salah satu doa yang paling indah dalam Al-Quran:",
+          "> *\"Ya Tuhan kami, terimalah daripada kami. Sesungguhnya Engkaulah Yang Maha Mendengar lagi Maha Mengetahui. Ya Tuhan kami, jadikanlah kami orang-orang yang berserah diri kepada-Mu dan daripada keturunan kami umat yang berserah diri kepada-Mu... Ya Tuhan kami, dan utuslah kepada mereka seorang Rasul daripada kalangan mereka sendiri, yang akan membacakan kepada mereka ayat-ayat-Mu dan mengajar mereka Al-Kitab dan hikmah serta menyucikan mereka.\"*",
+          "Doa ini — yang dipanjatkan ribuan tahun lalu — dijawab pada Nabi Muhammad ﷺ. Sebuah doa yang dijawab 2,500 tahun kemudian. Jangan sesekali berputus asa dengan doamu."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir merenungkan tentang doa Ibrāhīm untuk Nabi ﷺ yang dijawab lebih 2,500 tahun kemudian — bukti bahawa doa para nabi sentiasa dijawab, walaupun jawapannya datang generasi kemudian. Beliau juga menjelaskan Ka'bah: ia bukan rumah fizikal bagi Allah — Dia jauh di atas itu — tetapi titik fokus rohani, kiblat yang menyatukan umat Islam di seluruh dunia dalam ibadah."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Al-Jalalayn menyatakan bahawa ujian-ujian yang diletakkan ke atas Ibrāhīm — termasuk meninggalkan isteri dan bayi di lembah Makkah yang tandus, dan diminta menyembelih anak yang sama itu — termasuk dalam ujian-ujian terbesar yang pernah diletakkan ke atas seorang manusia. Penyerahan dirinya yang konsisten, tenang, dan bersyukur melalui semua itu adalah sebabnya mendapat gelaran Khalīlullāh — sahabat karib Allah."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di menarik pengajaran: walaupun sedang melakukan salah satu amal ibadah terbesar dalam sejarah manusia — membina Ka'bah — Ibrāhīm berdoa \"terimalah daripada kami.\" Walaupun orang-orang terbesar paling menyedari kebergantungan mereka kepada rahmat Allah pada saat-saat terbaik mereka. Ini adalah kebalikan daripada kesombongan. Jiwa yang benar-benar berdedikasi sentiasa mendekati Allah dengan kerendahan hati, betapa pun besar amal mereka."
+          }
+        ],
+        "lessons": [
+          "🔥 Kepimpinan rohani diperoleh melalui ujian dan kesolehanan, bukan diwarisi melalui keturunan.",
+          "🕌 Ka'bah adalah jantung perpaduan Islam — berbilion-bilion orang menghadapnya dalam solat, menghubungkan setiap Muslim merentasi masa dan ruang.",
+          "🙏 Doa Ibrāhīm semasa membina Ka'bah dijawab 2,500 tahun kemudian — jangan sekali-kali berputus asa dengan doamu!",
+          "👨‍👦 Walaupun amal ibadah yang terbesar pun memerlukan \"Ya Allah, terimalah daripada kami\" — kerendahan hati di hadapan Allah selalu.",
+          "⚡ \"Ujian-ujian\" Allah adalah kurnia yang tersembunyi — ia meninggikan mereka yang lulus kepada kedudukan yang tidak dapat dicapai selainnya."
+        ]
+      }
+    },
+    {
+      "id": "section-20",
+      "type": "passage",
+      "surah_number": 2,
+      "verse_start": 136,
+      "verse_end": 141,
+      "en": {
+        "title": "The Muslim Declaration of Universal Faith & The Qiblah",
+        "theme": "Islam's unique declaration of faith in all prophets, the primordial nature of submission, and individual accountability",
+        "translation": "Say: \"We have believed in Allah and what has been revealed to us and what was revealed to Abraham, Ishmael, Isaac, Jacob, and the Descendants, and what was given to Moses and Jesus and what was given to the prophets from their Lord. We make no distinction between any of them, and we are Muslims in submission to Him.\" (136)",
+        "explanation": [
+          "**The Muslim Declaration of Universal Prophetic Faith**",
+          "Verse 136 contains something unique: Islam requires belief in **all** prior prophets — from Adam to Ibrāhīm, from Musa to 'Isa — as part of its very definition. A Muslim who rejects Moses or Jesus as prophets has left the fold of Islam. *\"We make no distinction between any of them\"* — no prophet is demoted, none elevated beyond prophethood.",
+          "**Verse 137 — The Universal Standard:**",
+          "> *\"If they believe in the same as you have believed in, then they have been rightly guided.\"*",
+          "Guidance is not cultural, ethnic, or historical. Anyone who sincerely believes in Allah and all His prophets is on the straight path.",
+          "**Ṣibghat Allāh — The Dyeing of Allah (2:138)**",
+          "> *\"[We take our] colouring from Allah. And who is better than Allah in colouring? And we are worshippers of Him.\"*",
+          "*Ṣibghat Allāh* — the \"dye of Allah\" — refers to the *fiṭrah*: the natural, original colouring of the human soul shaped by divine guidance. Every human is born inclined toward monotheism, justice, and submission to their Creator. Islam does not impose an alien system — it calls people back to their truest selves.",
+          "**Verse 141 — Individual Accountability:**",
+          "> *\"That was a nation that has passed on. It will have what it earned, and you will have what you have earned. You will not be asked about what they used to do.\"*",
+          "Every soul answers for itself. This is a consolation (you don't bear others' failures) and a responsibility (you can't coast on others' righteousness)."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir explains that the Muslim's declaration of faith in all prophets is a defining feature of Islam. Islam is not a new religion but the final, complete form of the one eternal religion of submission to Allah — a chain of revelation that began with Adam and was perfected with Muhammad ﷺ."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "On ṣibghat Allāh in verse 138, Al-Jalalayn explains this as the fiṭrah — the innate, original nature with which every human is born: inclined toward monotheism, justice, and submission to their Creator. Islam does not impose an alien system — it calls people back to their truest selves."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di reflects on verse 141's closing principle: \"Do not rely on the righteousness of your parents, your shaykh, your community, or your nation. The Day of Judgement is an individual examination. This should inspire personal accountability in every believer and prevent the false security of group identity.\" Verse 141 is also a consolation: you are not responsible for the failures of those before you — only for your own response to the truth."
+          }
+        ],
+        "lessons": [
+          "☪️✡️✝️ Muslims are unique in being required to honour ALL prophets — rejection of any prophet contradicts Islam itself.",
+          "🎨 *Ṣibghat Allāh* — you were born with an innate inclination to know and love Allah. Nurture it; don't suppress it.",
+          "🌿 Ibrāhīm, Musa, and 'Isa were all Muslims — submission to Allah alone predates every named religion.",
+          "📝 You answer for yourself — not for your ancestors, your community, or your group. Prepare your own account.",
+          "🤝 Guidance is universal — anyone anywhere who sincerely submits to Allah and follows His messengers is rightly guided."
+        ],
+        "arabic": "قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَىٰ وَعِيسَىٰ وَمَا أُوتِيَ النَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ ﴿١٣٦﴾"
+      },
+      "ms": {
+        "title": "Pengisytiharan Iman Universal Muslim & Kiblat",
+        "theme": "Pengisytiharan unik Islam tentang iman kepada semua nabi, sifat semula jadi penyerahan, dan akauntabiliti individu",
+        "translation": "Katakanlah: \"Kami beriman kepada Allah dan apa yang diturunkan kepada kami dan apa yang diturunkan kepada Ibrahim, Ismail, Ishak, Yaakub, dan keturunan mereka, dan apa yang diberikan kepada Musa dan Isa dan apa yang diberikan kepada para nabi daripada Tuhan mereka. Kami tidak membeza-bezakan antara seorang pun daripada mereka, dan kami adalah orang-orang yang berserah diri kepada-Nya.\" (136)",
+        "explanation": [
+          "**Pengisytiharan Iman Kenabian Universal Muslim**",
+          "Ayat 136 mengandungi sesuatu yang unik: Islam menghendaki iman kepada **semua** nabi terdahulu — dari Adam kepada Ibrāhīm, dari Musa kepada 'Isa — sebagai sebahagian daripada takrifnya. Seorang Muslim yang menolak Musa atau Isa sebagai nabi telah keluar daripada lingkungan Islam. *\"Kami tidak membeza-bezakan antara seorang pun daripada mereka\"* — tiada nabi yang direndahkan, tiada yang ditinggikan melebihi kenabian.",
+          "**Ayat 137 — Piawaian Universal:**",
+          "> *\"Jika mereka beriman seperti yang kamu imani, maka sungguh mereka telah mendapat petunjuk.\"*",
+          "Hidayah bukan bersifat budaya, etnik, atau sejarah. Sesiapa yang dengan ikhlas beriman kepada Allah dan semua nabi-Nya berada di jalan yang lurus.",
+          "**Ṣibghat Allāh — Celupan Allah (2:138)**",
+          "> *\"[Kami mengambil] celupan daripada Allah. Dan siapakah yang lebih baik celupannya daripada Allah? Dan kami adalah penyembah-penyembah-Nya.\"*",
+          "*Ṣibghat Allāh* — \"celupan Allah\" — merujuk kepada *fiṭrah*: pewarnaan semula jadi dan asal jiwa manusia yang dibentuk oleh hidayah Ilahi. Setiap manusia dilahirkan dengan kecenderungan ke arah tauhid, keadilan, dan penyerahan kepada Penciptanya. Islam tidak mengenakan satu sistem yang asing — ia memanggil manusia kembali kepada diri mereka yang paling sejati.",
+          "**Ayat 141 — Akauntabiliti Individu:**",
+          "> *\"Itu adalah umat yang telah berlalu. Bagi mereka apa yang telah mereka usahakan, dan bagi kamu apa yang telah kamu usahakan. Kamu tidak akan ditanya tentang apa yang mereka lakukan.\"*",
+          "Setiap jiwa bertanggungjawab ke atas dirinya sendiri. Ini adalah satu penghiburan (kamu tidak menanggung kegagalan orang lain) dan satu tanggungjawab (kamu tidak boleh bergantung kepada kesolehanan orang lain)."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Ibn Kathir menjelaskan bahawa pengisytiharan iman Muslim kepada semua nabi adalah ciri penentu Islam. Islam bukan satu agama baru tetapi bentuk terakhir dan sempurna daripada satu agama penyerahan kepada Allah yang abadi — satu rantaian wahyu yang bermula dengan Adam dan disempurnakan dengan Muhammad ﷺ."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Mengenai ṣibghat Allāh dalam ayat 138, Al-Jalalayn menjelaskannya sebagai fiṭrah — sifat asal dan semula jadi yang setiap manusia dilahirkan dengannya: cenderung kepada tauhid, keadilan, dan penyerahan kepada Penciptanya. Islam tidak mengenakan satu sistem yang asing — ia memanggil manusia kembali kepada diri mereka yang paling sejati."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "As-Sa'di merenungkan prinsip penutup ayat 141: \"Jangan bergantung kepada kesolehanan ibu bapamu, syaykhmu, komunitimu, atau bangsamu. Hari Kiamat adalah peperiksaan individu. Ini haruslah membangkitkan akauntabiliti peribadi dalam diri setiap orang beriman dan menghalang rasa selamat palsu atas identiti kumpulan.\" Ayat 141 juga merupakan satu penghiburan: kamu tidak bertanggungjawab atas kegagalan mereka yang sebelummu — hanya atas responmu sendiri terhadap kebenaran."
+          }
+        ],
+        "lessons": [
+          "☪️✡️✝️ Orang Islam adalah unik kerana diwajibkan menghormati SEMUA nabi — menolak mana-mana nabi bertentangan dengan Islam itu sendiri.",
+          "🎨 *Ṣibghat Allāh* — kamu dilahirkan dengan kecenderungan semula jadi untuk mengenal dan mencintai Allah. Peliharanya; jangan sekatnya.",
+          "🌿 Ibrāhīm, Musa, dan 'Isa semuanya adalah Muslim — penyerahan kepada Allah semata-mata mendahului setiap agama yang dinamakan.",
+          "📝 Kamu bertanggungjawab ke atas dirimu sendiri — bukan ke atas nenek moyangmu, komunitimu, atau kumpulanmu. Sediakan akaunmu sendiri.",
+          "🤝 Hidayah adalah universal — sesiapa sahaja di mana-mana jua yang dengan ikhlas menyerahkan diri kepada Allah dan mengikuti rasul-rasul-Nya berada di jalan yang lurus."
+        ]
+      }
+    },
+    {
+      "id": "section-21",
+      "type": "themes-summary",
+      "en": {
+        "title": "Overarching Themes of Juz 1",
+        "opening_quote": {
+          "text": "\"This is the Book about which there is no doubt, a guidance for those conscious of Allah.\"",
+          "ref": "Al-Baqarah 2:2"
+        },
+        "themes": [
+          {
+            "icon": "🕌",
+            "title": "Tawhīd — Pure Monotheism",
+            "body": "From Al-Fatiha's \"You alone we worship\" to Al-Baqarah's refutation of idolatry and sectarianism, the foundational message is the absolute oneness of Allah — in His nature (dhāt), His attributes (ṣifāt), and His exclusive deserving of all worship ('ibādah). Every passage in Juz 1 circles back to this: whether describing the believers who direct all devotion to Allah, warning against the shirk of idolaters, or rebuking sectarians who claim tribal ownership of religion — the answer is always tawhīd.",
+            "table": null
+          },
+          {
+            "icon": "🪞",
+            "title": "Banī Isrā'īl as a Mirror",
+            "body": "The extended narrative of the Children of Israel (covering over 60 verses of Juz 1) is not history for its own sake. It is a divine mirror held up to the Muslim community. Every pattern they exhibited is a warning:",
+            "table": [
+              {
+                "col1": "Their Failure",
+                "col2": "The Trap for Muslims"
+              },
+              {
+                "col1": "Breaking covenants",
+                "col2": "Abandoning obligations of deen"
+              },
+              {
+                "col1": "Ingratitude after miracles",
+                "col2": "Heedlessness after Allah's blessings"
+              },
+              {
+                "col1": "Complicating simple commands",
+                "col2": "Excessive questioning instead of obedience"
+              },
+              {
+                "col1": "Religious scholars distorting truth for worldly gain",
+                "col2": "Scholars giving rulings to please rather than guide"
+              },
+              {
+                "col1": "Claiming ancestry guarantees salvation",
+                "col2": "Assuming community membership replaces personal righteousness"
+              }
+            ]
+          },
+          {
+            "icon": "📖",
+            "title": "The Qur'an's Divine Authority",
+            "body": "Multiple proofs of the Qur'an's divine origin are established in Juz 1: - The eternal, unchallenged linguistic miracle (i'jāz) - Its preservation (15:9) unlike previous scriptures - Its perfect alignment with human nature (fiṭrah) - Its confirmation of previous revelations - The detailed Hadith Qudsi showing Allah's personal response to its recitation in prayer",
+            "table": null
+          },
+          {
+            "icon": "👤",
+            "title": "Human Dignity & Individual Accountability",
+            "body": "From Adam's creation and divine honour to the Day of Judgement where every soul stands alone — Juz 1 establishes a profound paradox: humanity is elevated and simultaneously fully responsible. - We are khalifah on earth — stewards of creation, honoured above the angels - We were taught knowledge as our first divine gift - We will stand alone before Allah — no intercession, no ancestry, no group membership will substitute",
+            "table": null
+          },
+          {
+            "icon": "💧",
+            "title": "Tawbah — The Open Door",
+            "body": "Adam sinned and was forgiven. Banī Isrā'īl sinned repeatedly and were offered forgiveness each time. The theme of repentance and Allah's mercy is woven throughout Juz 1 with a consistent message: > The door of tawbah remains open before death. No sin is too great for Allah's forgiveness if met with sincere return. The contrast between Adam (sinned → repented immediately → forgiven, elevated) and Iblīs (sinned → doubled down → cursed forever) is the sharpest illustration of this theme.",
+            "table": null
+          },
+          {
+            "icon": "🌍",
+            "title": "Universal Prophethood",
+            "body": "Islam's recognition of all prophets — Adam, Ibrāhīm, Musa, 'Isa, and all others — as one continuous divine mission culminating in Muhammad ﷺ is a defining characteristic of the faith. Juz 1 establishes that: - All prophets brought the same core message: worship Allah alone - Rejecting any prophet is rejecting them all - Ibrāhīm, Musa, and 'Isa were all muslimūn — submitters — predating both Judaism and Christianity as named religions - The prayer of Ibrāhīm while building the Ka'bah (2:129) was answered in the Prophet Muhammad ﷺ",
+            "table": null
+          },
+          {
+            "icon": "⚖️",
+            "title": "Justice, Covenant & Divine Reciprocity",
+            "body": "Allah's covenants are real and serious. Breaking them has consequences; fulfilling them brings divine reward. The relationship between Allah and humanity is fundamentally covenantal — built on mutual obligations. - Allah's side: guidance, sustenance, mercy, the Hereafter - Our side: worship, gratitude, following the prophets, upholding justice When Banī Isrā'īl broke their side — the covenant consequences followed. This is not cruelty but divine consistency — the same consistency that rewards those who fulfil their side.",
+            "table": null
+          },
+          {
+            "icon": "🔥",
+            "title": "The Three Human Types",
+            "body": "The opening of Al-Baqarah classifies all humanity into three categories: Every reader must honestly examine: which category do my actions (not just my words) currently align with?",
+            "table": [
+              {
+                "col1": "Type",
+                "col2": "Characteristics"
+              },
+              {
+                "col1": "**Believers**",
+                "col2": "Taqwā, belief in ghayb, prayer, charity, faith in all prophets"
+              },
+              {
+                "col1": "**Disbelievers**",
+                "col2": "Persistent conscious rejection of truth"
+              },
+              {
+                "col1": "**Hypocrites**",
+                "col2": "Two-faced; internal rejection, external profession"
+              }
+            ]
+          }
+        ],
+        "summary_table": [
+          {
+            "principle": "Worship Allah alone",
+            "verse": "1:5, 2:21"
+          },
+          {
+            "principle": "The Qur'an is beyond doubt",
+            "verse": "2:2"
+          },
+          {
+            "principle": "Heart disease grows through sin",
+            "verse": "2:10"
+          },
+          {
+            "principle": "Human beings are honoured stewards",
+            "verse": "2:30"
+          },
+          {
+            "principle": "Knowledge is humanity's first gift",
+            "verse": "2:31"
+          },
+          {
+            "principle": "Arrogance is the root sin",
+            "verse": "2:34"
+          },
+          {
+            "principle": "Tawbah is always possible",
+            "verse": "2:37"
+          },
+          {
+            "principle": "No soul bears another's burden",
+            "verse": "2:48"
+          },
+          {
+            "principle": "Act on commands without over-questioning",
+            "verse": "2:68–71"
+          },
+          {
+            "principle": "Magic is forbidden",
+            "verse": "2:102"
+          },
+          {
+            "principle": "Salvation is by sincere submission + good deeds",
+            "verse": "2:112"
+          },
+          {
+            "principle": "Allah encompasses all directions",
+            "verse": "2:115"
+          },
+          {
+            "principle": "Spiritual leadership is earned, not inherited",
+            "verse": "2:124"
+          },
+          {
+            "principle": "Every soul answers for itself",
+            "verse": "2:141"
+          }
+        ],
+        "closing_reflection": {
+          "text": "\"Our Lord, accept from us. Indeed, You are the Hearing, the Knowing. Our Lord, make us Muslims in submission to You and from our descendants a Muslim nation. And show us our rites and accept our repentance. Indeed, You are the Accepting of Repentance, the Merciful.\"",
+          "ref": "Al-Baqarah 2:127–128"
+        }
+      },
+      "ms": {
+        "title": "Tema-tema Utama Juz 1",
+        "opening_quote": {
+          "text": "\"Kitab ini tidak ada keraguan padanya; ia adalah petunjuk bagi orang-orang yang bertakwa.\"",
+          "ref": "Al-Baqarah 2:2"
+        },
+        "themes": [
+          {
+            "icon": "🕌",
+            "title": "Tauhid — Monoteisme Murni",
+            "body": "Daripada \"Hanya Engkaulah yang kami sembah\" dalam Al-Fatiha hingga penolakan Al-Baqarah terhadap kesyirikan dan sektarianisme, mesej asasnya adalah keesaan Allah yang mutlak — dalam zat-Nya (dhāt), dalam sifat-sifat-Nya (ṣifāt), dan dalam hak eksklusif-Nya untuk menerima semua ibadah ('ibādah). Setiap petikan dalam Juz 1 kembali kepada ini: sama ada menggambarkan orang-orang beriman yang mengarahkan semua pengabdian kepada Allah, memberi amaran terhadap syirik orang-orang musyrik, atau menegur para sektarian yang mendakwa pemilikan kesukuan terhadap agama — jawapannya sentiasa tauhid.",
+            "table": null
+          },
+          {
+            "icon": "🪞",
+            "title": "Banī Isrā'īl sebagai Cermin",
+            "body": "Naratif panjang tentang Bani Israel (merangkumi lebih dari 60 ayat Juz 1) bukan sejarah semata-mata. Ia adalah cermin Ilahi yang diacukan kepada komuniti Muslim. Setiap corak yang mereka tunjukkan adalah amaran:",
+            "table": [
+              {
+                "col1": "Kegagalan Mereka",
+                "col2": "Perangkap bagi Orang Islam"
+              },
+              {
+                "col1": "Memungkiri perjanjian",
+                "col2": "Mengabaikan kewajipan agama"
+              },
+              {
+                "col1": "Kufur nikmat selepas menerima mukjizat",
+                "col2": "Kelalaian selepas menerima nikmat Allah"
+              },
+              {
+                "col1": "Mempersulit perintah yang mudah",
+                "col2": "Bertanya berlebihan berbanding taat"
+              },
+              {
+                "col1": "Ulama agama yang memesongkan kebenaran demi keuntungan duniawi",
+                "col2": "Ulama yang memberi fatwa untuk menyenangkan bukan memberi panduan"
+              },
+              {
+                "col1": "Mendakwa keturunan menjamin keselamatan",
+                "col2": "Menganggap keahlian komuniti menggantikan kesolehanan peribadi"
+              }
+            ]
+          },
+          {
+            "icon": "📖",
+            "title": "Kewibawaan Ilahi Al-Quran",
+            "body": "Pelbagai bukti tentang asal-usul Ilahi Al-Quran ditetapkan dalam Juz 1: - Mukjizat linguistik yang abadi dan tidak pernah dicabar (i'jāz) - Pemeliharaannya (15:9) tidak seperti kitab-kitab suci sebelumnya - Keselarasannya yang sempurna dengan fitrah manusia (fiṭrah) - Pengesahannya terhadap wahyu-wahyu sebelumnya - Hadith Qudsi yang terperinci yang menunjukkan respon peribadi Allah terhadap bacaannya dalam solat",
+            "table": null
+          },
+          {
+            "icon": "👤",
+            "title": "Kemuliaan Manusia & Akauntabiliti Individu",
+            "body": "Daripada penciptaan Adam dan kemuliaan Ilahi hingga Hari Kiamat di mana setiap jiwa berdiri bersendirian — Juz 1 menetapkan satu paradoks yang mendalam: manusia ditinggikan dan pada masa yang sama sepenuhnya bertanggungjawab. - Kita adalah khalifah di bumi — penjaga ciptaan, dimuliakan di atas para malaikat - Kita diajar ilmu pengetahuan sebagai kurnia Ilahi yang pertama - Kita akan berdiri bersendirian di hadapan Allah — tiada syafaat, tiada keturunan, tiada keahlian kumpulan yang akan menggantikannya",
+            "table": null
+          },
+          {
+            "icon": "💧",
+            "title": "Taubat — Pintu yang Terbuka",
+            "body": "Adam berdosa dan diampunkan. Banī Isrā'īl berdosa berulang kali dan ditawarkan keampunan setiap kali. Tema taubat dan rahmat Allah dianyam sepanjang Juz 1 dengan mesej yang konsisten: > Pintu taubat kekal terbuka sebelum kematian. Tiada dosa yang terlalu besar untuk keampunan Allah jika disertai dengan kembali yang tulus. Perbandingan antara Adam (berdosa → segera bertaubat → diampunkan, ditinggikan) dan Iblīs (berdosa → bertekad → dilaknat selama-lamanya) adalah ilustrasi yang paling tajam tentang tema ini.",
+            "table": null
+          },
+          {
+            "icon": "🌍",
+            "title": "Kenabian Universal",
+            "body": "Pengiktirafan Islam terhadap semua nabi — Adam, Ibrāhīm, Musa, 'Isa, dan semua yang lain — sebagai satu misi Ilahi yang berterusan yang memuncak pada Muhammad ﷺ adalah ciri penentu agama ini. Juz 1 menetapkan bahawa: - Semua nabi membawa mesej teras yang sama: sembah Allah semata-mata - Menolak mana-mana nabi sama dengan menolak mereka semua - Ibrāhīm, Musa, dan 'Isa semuanya adalah muslimūn — orang-orang yang menyerahkan diri — mendahului Yahudi dan Kristian sebagai agama yang dinamakan - Doa Ibrāhīm semasa membina Ka'bah (2:129) dijawab pada Nabi Muhammad ﷺ",
+            "table": null
+          },
+          {
+            "icon": "⚖️",
+            "title": "Keadilan, Perjanjian & Timbal Balas Ilahi",
+            "body": "Perjanjian-perjanjian Allah adalah nyata dan serius. Melanggarnya membawa akibat; memenuhinya membawa ganjaran Ilahi. Hubungan antara Allah dan manusia pada asasnya bersifat perjanjian — dibina atas kewajipan bersama. - Pihak Allah: hidayah, rezeki, rahmat, Akhirat - Pihak kita: ibadah, syukur, mengikuti para nabi, menegakkan keadilan Apabila Banī Isrā'īl memungkiri pihak mereka — akibat perjanjian mengikuti. Ini bukan kekejaman tetapi konsistensi Ilahi — konsistensi yang sama yang memberi ganjaran kepada mereka yang memenuhi pihak mereka.",
+            "table": null
+          },
+          {
+            "icon": "🔥",
+            "title": "Tiga Jenis Manusia",
+            "body": "Pembukaan Al-Baqarah mengklasifikasikan seluruh manusia kepada tiga kategori: Setiap pembaca mesti memeriksa dengan jujur: kategori manakah yang tindakan-tindakan saya (bukan sekadar kata-kata saya) selari dengannya sekarang?",
+            "table": [
+              {
+                "col1": "Jenis",
+                "col2": "Ciri-ciri"
+              },
+              {
+                "col1": "**Orang Beriman**",
+                "col2": "Taqwa, iman kepada ghaib, solat, sedekah, iman kepada semua nabi"
+              },
+              {
+                "col1": "**Orang Kafir**",
+                "col2": "Penolakan kebenaran yang berterusan dan sedar"
+              },
+              {
+                "col1": "**Orang Munafik**",
+                "col2": "Berwajah dua; penolakan dalaman, pengakuan luaran"
+              }
+            ]
+          }
+        ],
+        "summary_table": [
+          {
+            "principle": "Sembah Allah semata-mata",
+            "verse": "1:5, 2:21"
+          },
+          {
+            "principle": "Al-Quran tidak diragui",
+            "verse": "2:2"
+          },
+          {
+            "principle": "Penyakit hati bertambah melalui dosa",
+            "verse": "2:10"
+          },
+          {
+            "principle": "Manusia adalah khalifah yang dimuliakan",
+            "verse": "2:30"
+          },
+          {
+            "principle": "Ilmu pengetahuan adalah kurnia pertama manusia",
+            "verse": "2:31"
+          },
+          {
+            "principle": "Kesombongan adalah dosa akar",
+            "verse": "2:34"
+          },
+          {
+            "principle": "Taubat sentiasa mungkin",
+            "verse": "2:37"
+          },
+          {
+            "principle": "Tiada jiwa yang menanggung beban jiwa lain",
+            "verse": "2:48"
+          },
+          {
+            "principle": "Bertindak atas perintah tanpa mempersoalkan berlebihan",
+            "verse": "2:68–71"
+          },
+          {
+            "principle": "Sihir diharamkan",
+            "verse": "2:102"
+          },
+          {
+            "principle": "Keselamatan adalah melalui penyerahan yang ikhlas + amal soleh",
+            "verse": "2:112"
+          },
+          {
+            "principle": "Allah merangkumi semua arah",
+            "verse": "2:115"
+          },
+          {
+            "principle": "Kepimpinan rohani diperoleh, bukan diwarisi",
+            "verse": "2:124"
+          },
+          {
+            "principle": "Setiap jiwa bertanggungjawab ke atas dirinya",
+            "verse": "2:141"
+          }
+        ],
+        "closing_reflection": {
+          "text": "\"Ya Tuhan kami, terimalah daripada kami. Sesungguhnya Engkaulah Yang Maha Mendengar lagi Maha Mengetahui. Ya Tuhan kami, jadikanlah kami orang-orang yang berserah diri kepada-Mu dan daripada keturunan kami umat yang berserah diri kepada-Mu. Dan tunjukkanlah kepada kami cara-cara ibadah kami dan terimalah taubat kami. Sesungguhnya Engkaulah Yang Maha Penerima Taubat lagi Maha Mengasihani.\"",
+          "ref": "Al-Baqarah 2:127–128"
+        }
+      }
+    }
+  ]
+}

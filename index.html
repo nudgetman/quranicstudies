@@ -596,10 +596,10 @@
       <div class="juz-verse-range">Al-Fātiḥah 1:1 – Al-Baqarah 2:141</div>
     </a>
 
-    <a href="juz2.html" class="juz-card coming-soon">
+    <a href="juz-page.html?juz=2" class="juz-card available">
       <div class="juz-card-top">
         <span class="juz-number">Juz 2</span>
-        <span class="juz-badge soon">Coming Soon</span>
+        <span class="juz-badge ready">✓ Available</span>
       </div>
       <div class="juz-arabic">سَيَقُولُ</div>
       <div class="juz-title">Al-Baqarah (cont.)</div>
@@ -967,7 +967,7 @@
 <script>
   // ─── THEME TOGGLE ───
   function getTheme() {
-    return localStorage.getItem('juz23-theme') || 'dark';
+    return localStorage.getItem('tafsir-theme') || 'dark';
   }
   function applyTheme(theme) {
     document.documentElement.setAttribute('data-theme', theme);
@@ -984,7 +984,7 @@
   function toggleTheme() {
     const current = getTheme();
     const next = current === 'dark' ? 'light' : 'dark';
-    localStorage.setItem('juz23-theme', next);
+    localStorage.setItem('tafsir-theme', next);
     applyTheme(next);
   }
   applyTheme(getTheme());

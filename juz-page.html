@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Juz — Verse-by-Verse Tafsir Guide</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,400&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet"/>
+<!-- Early theme application to avoid flash -->
+<script>document.documentElement.setAttribute('data-theme', localStorage.getItem('tafsir-theme') || 'dark');</script>
+<style>
+/* ─── CSS Variables ──────────────────────────────────────────────────────── */
+:root {
+  --gold:         #c9a84c;
+  --gold-light:   #e8cc80;
+  --gold-dark:    #8a6a1e;
+  --gold-pale:    #f5e6b8;
+  --trans: 0.3s ease;
+}
+
+[data-theme="dark"] {
+  --bg:           #100d07;
+  --bg-card:      #1c1609;
+  --bg-card2:     #231b0c;
+  --bg-banner:    #0d0a05;
+  --border:       #3a2d10;
+  --text:         #ede0c4;
+  --text-muted:   #9a8660;
+  --text-strong:  #f5e6b8;
+  --arabic-color: #e8cc80;
+  --scholar-bg:   #1a1408;
+  --scholar-border:#5a4010;
+  --lesson-bg:    #16120a;
+  --lesson-border:#6b4e15;
+  --toc-bg:       #1a1408;
+  --hero-overlay: rgba(0,0,0,0.72);
+  --shadow:       0 4px 32px rgba(0,0,0,0.6);
+}
+
+[data-theme="light"] {
+  --bg:           #faf6ed;
+  --bg-card:      #fff9ee;
+  --bg-card2:     #fdf4de;
+  --bg-banner:    #f5ead0;
+  --border:       #d4b87a;
+  --text:         #2e2010;
+  --text-muted:   #7a5c28;
+  --text-strong:  #1a1000;
+  --arabic-color: #7a4800;
+  --scholar-bg:   #fffbf0;
+  --scholar-border:#c9a84c;
+  --lesson-bg:    #fff9e8;
+  --lesson-border:#c9a84c;
+  --toc-bg:       #fef8e8;
+  --hero-overlay: rgba(0,0,0,0.48);
+  --shadow:       0 4px 24px rgba(100,60,0,0.18);
+}
+
+/* ─── Reset & Base ───────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Crimson Pro', Georgia, serif;
+  font-size: 20px;
+  line-height: 1.75;
+  background: var(--bg);
+  color: var(--text);
+  transition: background var(--trans), color var(--trans);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', Georgia, serif;
+  color: var(--text-strong);
+  transition: color var(--trans);
+}
+
+a { color: var(--gold); text-decoration: none; }
+a:hover { color: var(--gold-light); }
+
+/* ─── Dark/Light Toggle ──────────────────────────────────────────────────── */
+#theme-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 9999;
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  color: var(--gold);
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.3rem;
+  display: flex; align-items: center; justify-content: center;
+  transition: background var(--trans), border-color var(--trans), transform 0.2s;
+  box-shadow: var(--shadow);
+}
+#theme-toggle:hover { transform: scale(1.1); }
+
+/* ─── Language Toggle ────────────────────────────────────────────────────── */
+#lang-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 4.5rem;
+  z-index: 9999;
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  color: var(--gold);
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 700;
+  font-family: 'Crimson Pro', serif;
+  letter-spacing: 0.05em;
+  display: flex; align-items: center; justify-content: center;
+  transition: background var(--trans), border-color var(--trans), transform 0.2s;
+  box-shadow: var(--shadow);
+}
+#lang-toggle:hover { transform: scale(1.1); }
+
+/* ─── Hero Banner ────────────────────────────────────────────────────────── */
+.hero {
+  position: relative;
+  min-height: 420px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  text-align: center;
+  padding: 5rem 1.5rem 4rem;
+  overflow: hidden;
+  background: var(--bg-banner);
+}
+
+.hero-bg {
+  position: absolute; inset: 0;
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(201,168,76,0.22) 0%, transparent 65%),
+    radial-gradient(ellipse at 20% 80%, rgba(201,168,76,0.10) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+/* Geometric ornament */
+.hero-ornament {
+  width: 260px; height: 260px;
+  position: absolute; top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0.06;
+  pointer-events: none;
+}
+.hero-ornament svg { width: 100%; height: 100%; }
+
+.hero-tag {
+  font-family: 'Crimson Pro', serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 1rem;
+}
+
+.hero h1 {
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  color: var(--gold-light);
+  line-height: 1.15;
+  margin-bottom: 0.5rem;
+  position: relative;
+}
+
+.hero-arabic {
+  font-family: 'Amiri', serif;
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  color: var(--arabic-color);
+  margin-bottom: 1.2rem;
+  direction: rtl;
+}
+
+.hero-sub {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  max-width: 560px;
+  font-style: italic;
+  position: relative;
+}
+
+.hero-line {
+  width: 80px; height: 2px;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+  margin: 1.5rem auto;
+}
+
+/* ─── Info Cards Row ─────────────────────────────────────────────────────── */
+.info-cards {
+  display: flex; gap: 1.2rem; flex-wrap: wrap; justify-content: center;
+  padding: 2rem 1.5rem;
+  max-width: 900px; margin: 0 auto;
+}
+
+.info-card {
+  flex: 1; min-width: 220px; max-width: 380px;
+  border-radius: 14px;
+  padding: 1.4rem 1.8rem;
+  border: 1.5px solid var(--border);
+  transition: transform 0.2s, box-shadow 0.2s, background var(--trans), border-color var(--trans);
+  position: relative; overflow: hidden;
+}
+.info-card:hover { transform: translateY(-3px); box-shadow: var(--shadow); }
+
+/* Gold gradient card — used for schedule / juz info */
+.info-card.ramadan {
+  background: linear-gradient(135deg, #c9a84c 0%, #8a5e10 40%, #5a3a08 100%);
+  border-color: #e8cc80;
+  color: #fff8e8;
+}
+.info-card.ramadan .card-label { color: rgba(255,248,232,0.7); font-size:0.8rem; letter-spacing:0.2em; text-transform:uppercase; }
+.info-card.ramadan .card-title { font-family:'Playfair Display',serif; font-size:1.6rem; font-weight:700; color:#fff; margin-top:0.3rem; }
+.info-card.ramadan .card-sub   { font-size:0.92rem; color:rgba(255,248,232,0.8); margin-top:0.4rem; }
+.info-card.ramadan::after {
+  content:'☪';
+  position:absolute; right:1rem; bottom:-0.5rem;
+  font-size:4.5rem; opacity:0.15; pointer-events:none;
+}
+
+/* Muted card — used for reader / quote info */
+.info-card.reader {
+  background: var(--bg-card);
+  border-color: var(--border);
+}
+.info-card.reader .card-label { color:var(--text-muted); font-size:0.8rem; letter-spacing:0.2em; text-transform:uppercase; }
+.info-card.reader .card-title { font-family:'Playfair Display',serif; font-size:1.6rem; font-weight:700; color:var(--gold-light); margin-top:0.3rem; }
+.info-card.reader .card-sub   { font-size:0.92rem; color:var(--text-muted); margin-top:0.4rem; font-style:italic; }
+.info-card.reader::after {
+  content:'"';
+  position:absolute; right:1rem; bottom:-1rem;
+  font-family:'Playfair Display',serif;
+  font-size:7rem; opacity:0.07; pointer-events:none;
+  color:var(--gold);
+}
+
+/* ─── Table of Contents ──────────────────────────────────────────────────── */
+.toc-wrap {
+  max-width: 860px; margin: 0 auto 2.5rem;
+  padding: 0 1.5rem;
+}
+
+.toc-box {
+  background: var(--toc-bg);
+  border: 1.5px solid var(--border);
+  border-radius: 14px;
+  padding: 2rem 2.2rem;
+  transition: background var(--trans), border-color var(--trans);
+}
+
+.toc-box h2 {
+  font-size: 1.25rem;
+  color: var(--gold);
+  margin-bottom: 1.2rem;
+  letter-spacing: 0.08em;
+}
+
+.toc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 0.5rem 1.5rem;
+}
+
+.toc-item {
+  display: flex; align-items: baseline; gap: 0.6rem;
+  font-size: 0.95rem;
+  padding: 0.3rem 0;
+  border-bottom: 1px dashed var(--border);
+  transition: border-color var(--trans);
+}
+.toc-item:hover a { color: var(--gold-light); }
+.toc-num { color: var(--text-muted); font-size: 0.82rem; min-width: 24px; }
+
+/* ─── Main Content ───────────────────────────────────────────────────────── */
+.main {
+  max-width: 860px; margin: 0 auto;
+  padding: 0 1.5rem 4rem;
+}
+
+/* ─── Surah Banner ───────────────────────────────────────────────────────── */
+.surah-banner {
+  background: linear-gradient(135deg, var(--bg-card2) 0%, var(--bg-banner) 100%);
+  border: 1.5px solid var(--border);
+  border-radius: 18px;
+  padding: 2.5rem 2rem;
+  text-align: center;
+  margin: 2.5rem 0 2rem;
+  position: relative; overflow: hidden;
+  transition: background var(--trans), border-color var(--trans);
+}
+.surah-banner::before {
+  content:'';
+  position:absolute; inset:0;
+  background: radial-gradient(ellipse at 50% 0%, rgba(201,168,76,0.14) 0%, transparent 70%);
+  pointer-events:none;
+}
+.surah-banner .s-num  { font-size: 0.82rem; letter-spacing: 0.25em; text-transform: uppercase; color: var(--gold); margin-bottom: 0.5rem; }
+.surah-banner .s-name-ar { font-family: 'Amiri', serif; font-size: clamp(2.2rem, 6vw, 3.2rem); color: var(--arabic-color); direction: rtl; margin-bottom: 0.3rem; transition: color var(--trans); }
+.surah-banner .s-name-en { font-family: 'Playfair Display', serif; font-size: 1.6rem; color: var(--gold-light); margin-bottom: 0.6rem; }
+.surah-banner .s-meta    { font-size: 0.92rem; color: var(--text-muted); font-style: italic; }
+.surah-banner .s-desc    { font-size: 0.97rem; color: var(--text); margin-top: 0.8rem; max-width: 600px; margin-inline: auto; line-height: 1.7; transition: color var(--trans); }
+
+/* ─── Passage Block ──────────────────────────────────────────────────────── */
+.passage {
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  border-radius: 16px;
+  padding: 2.2rem 2.2rem 1.8rem;
+  margin: 2rem 0;
+  position: relative;
+  transition: background var(--trans), border-color var(--trans);
+  box-shadow: var(--shadow);
+}
+
+.passage-header {
+  display: flex; align-items: center; gap: 0.8rem;
+  margin-bottom: 1.5rem; padding-bottom: 0.9rem;
+  border-bottom: 1px solid var(--border);
+}
+.passage-ref {
+  background: linear-gradient(135deg, var(--gold-dark), var(--gold));
+  color: #fff8e0;
+  font-size: 0.78rem; letter-spacing: 0.15em; text-transform: uppercase;
+  padding: 0.3rem 0.9rem; border-radius: 999px;
+  font-family: 'Crimson Pro', serif; font-weight: 600;
+  white-space: nowrap;
+}
+.passage h3 {
+  font-size: 1.18rem; color: var(--text-strong);
+  flex: 1;
+}
+
+.passage-theme {
+  font-size: 0.92rem;
+  color: var(--text-muted);
+  font-style: italic;
+  margin: -0.8rem 0 1.2rem;
+  transition: color var(--trans);
+}
+
+/* Arabic text block */
+.arabic-block {
+  direction: rtl;
+  font-family: 'Amiri', serif;
+  font-size: clamp(1.5rem, 4vw, 2.1rem);
+  line-height: 2.1;
+  color: var(--arabic-color);
+  text-align: right;
+  padding: 1.2rem 1.5rem;
+  background: var(--bg-card2);
+  border-radius: 10px;
+  margin-bottom: 1.4rem;
+  border-right: 4px solid var(--gold);
+  transition: background var(--trans), color var(--trans), border-color var(--trans);
+}
+
+/* Translation */
+.translation-label {
+  font-size: 0.78rem; letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--gold); margin-bottom: 0.4rem; font-weight: 600;
+}
+.translation {
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--text);
+  padding: 0.9rem 1.2rem;
+  border-left: 3px solid var(--gold-dark);
+  margin-bottom: 1.5rem;
+  background: var(--bg-card2);
+  border-radius: 0 8px 8px 0;
+  transition: background var(--trans), color var(--trans);
+}
+
+/* Explanation */
+.explanation {
+  font-size: 1.0rem;
+  color: var(--text);
+  line-height: 1.8;
+  margin-bottom: 1.6rem;
+  transition: color var(--trans);
+}
+.explanation p { margin-bottom: 0.8rem; }
+
+/* Markdown: tables */
+.md-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.5rem 0 0.8rem;
+  font-size: 0.95rem;
+}
+.md-table th {
+  text-align: left;
+  padding: 0.6rem 0.8rem;
+  border-bottom: 2px solid var(--gold-dark);
+  color: var(--gold);
+  font-family: 'Playfair Display', serif;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+.md-table td {
+  padding: 0.5rem 0.8rem;
+  border-bottom: 1px solid var(--border);
+  color: var(--text);
+  transition: color var(--trans);
+}
+.md-table tr:last-child td { border-bottom: none; }
+
+/* Markdown: blockquotes */
+.md-quote {
+  padding: 0.8rem 1.2rem;
+  border-left: 3px solid var(--gold);
+  background: var(--bg-card2);
+  border-radius: 0 8px 8px 0;
+  margin: 0.5rem 0 0.8rem;
+  font-style: italic;
+  color: var(--text);
+  transition: background var(--trans), color var(--trans);
+}
+
+/* Markdown: list items rendered inside explanation */
+.md-ol-item { padding-left: 1.2rem; margin-bottom: 0.6rem; }
+.md-ul-item { padding-left: 1.5rem; margin-bottom: 0.4rem; position: relative; }
+.md-ul-item::before { content: '\2022'; position: absolute; left: 0.3rem; color: var(--gold); }
+
+/* Scholar Callouts */
+.scholars { margin: 1.4rem 0; display: flex; flex-direction: column; gap: 0.9rem; }
+
+.scholar-card {
+  background: var(--scholar-bg);
+  border: 1px solid var(--scholar-border);
+  border-radius: 10px;
+  padding: 1.1rem 1.3rem;
+  transition: background var(--trans), border-color var(--trans);
+}
+.scholar-name {
+  font-family: 'Playfair Display', serif;
+  font-size: 0.88rem; font-weight: 600;
+  color: var(--gold);
+  letter-spacing: 0.05em;
+  margin-bottom: 0.35rem;
+  display: flex; align-items: center; gap: 0.5rem;
+}
+.scholar-name::before {
+  content: '';
+  display: inline-block; width: 8px; height: 8px;
+  border-radius: 50%;
+  background: var(--gold);
+}
+.scholar-text {
+  font-size: 0.96rem; color: var(--text);
+  line-height: 1.7; font-style: italic;
+  transition: color var(--trans);
+}
+
+/* Key Lessons */
+.lessons-box {
+  background: var(--lesson-bg);
+  border: 1.5px solid var(--lesson-border);
+  border-radius: 12px;
+  padding: 1.3rem 1.5rem;
+  margin-top: 1.5rem;
+  transition: background var(--trans), border-color var(--trans);
+}
+.lessons-box .lessons-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 0.95rem; font-weight: 700;
+  color: var(--gold);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 0.8rem;
+}
+.lessons-box ul {
+  list-style: none; padding: 0;
+  display: flex; flex-direction: column; gap: 0.45rem;
+}
+.lessons-box li {
+  font-size: 0.97rem; color: var(--text);
+  line-height: 1.65; transition: color var(--trans);
+}
+
+/* ─── Summary / Themes Card ──────────────────────────────────────────────── */
+.summary-card {
+  background: linear-gradient(135deg, var(--bg-card) 0%, var(--bg-card2) 100%);
+  border: 1.5px solid var(--gold-dark);
+  border-radius: 18px;
+  padding: 2.5rem 2.2rem;
+  margin: 3rem 0;
+  position: relative; overflow: hidden;
+  transition: background var(--trans), border-color var(--trans);
+}
+.summary-card::before {
+  content:'';
+  position:absolute; inset:0;
+  background: radial-gradient(ellipse at 50% 100%, rgba(201,168,76,0.1) 0%, transparent 65%);
+  pointer-events:none;
+}
+.summary-card h2 {
+  font-size: 1.5rem; color: var(--gold-light);
+  margin-bottom: 1.5rem; text-align: center;
+  position: relative;
+}
+.summary-quote {
+  text-align: center;
+  font-style: italic;
+  color: var(--text-muted);
+  margin-bottom: 1.5rem;
+  font-size: 0.97rem;
+  position: relative;
+  transition: color var(--trans);
+}
+.summary-quote .ref { font-size: 0.85rem; }
+.themes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 1rem;
+  position: relative;
+}
+.theme-item {
+  background: var(--bg-card2);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem 1.2rem;
+  transition: background var(--trans), border-color var(--trans);
+}
+.theme-item .ti-icon  { font-size: 1.6rem; margin-bottom: 0.4rem; }
+.theme-item .ti-title { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 700; color: var(--gold); margin-bottom: 0.3rem; }
+.theme-item .ti-text  { font-size: 0.92rem; color: var(--text-muted); line-height: 1.6; transition: color var(--trans); }
+
+/* ─── Ornament Divider ───────────────────────────────────────────────────── */
+.ornament-divider {
+  text-align: center;
+  color: var(--gold);
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  opacity: 0.5;
+  letter-spacing: 0.5em;
+}
+
+/* ─── Footer ─────────────────────────────────────────────────────────────── */
+footer {
+  text-align: center;
+  padding: 2rem 1.5rem 3rem;
+  color: var(--text-muted);
+  font-size: 0.88rem;
+  border-top: 1px solid var(--border);
+  transition: border-color var(--trans);
+}
+
+/* ─── Scroll anchor offset ───────────────────────────────────────────────── */
+.section-anchor { scroll-margin-top: 1.5rem; }
+
+/* ─── Responsive ─────────────────────────────────────────────────────────── */
+@media (max-width: 600px) {
+  body { font-size: 18px; }
+  .passage { padding: 1.4rem 1.2rem 1.2rem; }
+  .arabic-block { font-size: 1.5rem; padding: 1rem 1rem; }
+  .toc-grid { grid-template-columns: 1fr; }
+  .themes-grid { grid-template-columns: 1fr; }
+  .info-cards { flex-direction: column; align-items: stretch; }
+  .info-card { max-width: 100%; }
+  .scholars { gap: 0.7rem; }
+  #lang-toggle { right: 4rem; width: 42px; height: 42px; font-size: 0.78rem; }
+  #theme-toggle { width: 42px; height: 42px; font-size: 1.1rem; }
+}
+</style>
+</head>
+<body>
+
+<!-- Fixed buttons -->
+<button id="lang-toggle" title="Switch language">EN</button>
+<button id="theme-toggle" title="Toggle dark/light mode">🌙</button>
+
+<!-- Dynamic containers -->
+<header id="hero" class="hero"></header>
+<div id="info-cards" class="info-cards"></div>
+<div id="toc-wrap" class="toc-wrap"></div>
+<main id="main-content" class="main"></main>
+<footer id="footer"></footer>
+
+<script>
+// ─── Static UI Strings ──────────────────────────────────────────────────────
+const UI = {
+  en: {
+    seriesTag: "Qur\u2019anic Tafsir Series",
+    subtitle: 'A verse-by-verse guide drawing on Ibn Kathir, Al-Jalalayn, and As-Sa\u2019di',
+    tocPrefix: '\u{1F4D6} Contents of',
+    translation: 'Translation',
+    lessons: '\u2728 Key Lessons',
+    schedule: 'Reading Schedule',
+    year: 'Ramadan 2026',
+    preparedFor: 'Prepared For',
+    readBy: 'Read by',
+    khatm: 'Khatm Al-Qur\u2019an',
+    footerRef: 'Compiled with reference to',
+    footerPraise: 'All praise belongs to Allah. May this be a benefit in this life and a witness on the Day of Judgement.',
+    footerVerse: '\u201COur Lord, accept from us. Indeed, You are the Hearing, the Knowing.\u201D \u2014 2:127'
+  },
+  ms: {
+    seriesTag: 'Siri Tafsir Al-Quran',
+    subtitle: 'Panduan ayat demi ayat berdasarkan Ibn Kathir, Al-Jalalayn, dan As-Sa\u2019di',
+    tocPrefix: '\u{1F4D6} Kandungan',
+    translation: 'Terjemahan',
+    lessons: '\u2728 Pengajaran Utama',
+    schedule: 'Jadual Bacaan',
+    year: 'Ramadan 2026',
+    preparedFor: 'Disediakan Untuk',
+    readBy: 'Dibaca oleh',
+    khatm: 'Khatam Al-Quran',
+    footerRef: 'Disusun dengan rujukan kepada',
+    footerPraise: 'Segala puji bagi Allah. Semoga ini menjadi manfaat di dunia dan saksi pada Hari Pengadilan.',
+    footerVerse: '\u201CWahai Tuhan kami, terimalah daripada kami. Sesungguhnya Engkaulah Yang Maha Mendengar, Maha Mengetahui.\u201D \u2014 2:127'
+  }
+};
+
+let DATA = null;
+let LANG = localStorage.getItem('tafsir-lang') || 'en';
+
+// ─── Boot ───────────────────────────────────────────────────────────────────
+const juzNum = new URLSearchParams(location.search).get('juz') || '1';
+
+fetch('data/juz' + juzNum + '.json')
+  .then(function (r) { if (!r.ok) throw new Error('Load failed'); return r.json(); })
+  .then(function (data) {
+    DATA = data;
+    renderPage(data, LANG);
+    initThemeToggle();
+    initLangToggle();
+    initTocHighlight();
+  })
+  .catch(function () {
+    document.getElementById('main-content').innerHTML =
+      '<p style="text-align:center;padding:4rem 1rem;color:var(--text-muted)">Could not load Juz ' + juzNum + ' data.</p>';
+  });
+
+// ─── Markdown → HTML Helpers ────────────────────────────────────────────────
+function mdInline(text) {
+  if (!text) return '';
+  // Bold first (before italic)
+  text = text.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  // Italic
+  text = text.replace(/\*(.+?)\*/g, '<em>$1</em>');
+  return text;
+}
+
+function mdTable(text) {
+  // Find separator row  |---|---|
+  var sepMatch = text.match(/\|[\s-]+\|(?:[\s-]+\|)*/); 
+  if (!sepMatch) return '<p>' + mdInline(text) + '</p>';
+  var sepIdx = text.indexOf(sepMatch[0]);
+  var headerStr = text.substring(0, sepIdx);
+  var dataStr = text.substring(sepIdx + sepMatch[0].length);
+  var headers = headerStr.split('|').map(function(s){return s.trim();}).filter(Boolean);
+  var colCount = headers.length;
+  var dataCells = dataStr.split('|').map(function(s){return s.trim();}).filter(Boolean);
+  var html = '<table class="md-table"><thead><tr>';
+  headers.forEach(function(h){ html += '<th>' + mdInline(h) + '</th>'; });
+  html += '</tr></thead><tbody>';
+  for (var i = 0; i < dataCells.length; i += colCount) {
+    html += '<tr>';
+    for (var j = 0; j < colCount && (i+j) < dataCells.length; j++) {
+      html += '<td>' + mdInline(dataCells[i+j]) + '</td>';
+    }
+    html += '</tr>';
+  }
+  html += '</tbody></table>';
+  return html;
+}
+
+function md(text) {
+  if (!text) return '';
+  // Table
+  if (text.charAt(0) === '|') return mdTable(text);
+  // Blockquote
+  if (text.charAt(0) === '>') {
+    return '<blockquote class="md-quote">' + mdInline(text.replace(/^>\s*/, '')) + '</blockquote>';
+  }
+  // Numbered list item
+  if (/^\d+\.\s/.test(text)) {
+    return '<div class="md-ol-item">' + mdInline(text) + '</div>';
+  }
+  // Unordered list item
+  if (text.indexOf('- ') === 0) {
+    return '<div class="md-ul-item">' + mdInline(text.substring(2)) + '</div>';
+  }
+  // Default paragraph
+  return '<p>' + mdInline(text) + '</p>';
+}
+
+// ─── Render Full Page ───────────────────────────────────────────────────────
+function renderPage(data, lang) {
+  document.documentElement.lang = lang === 'ms' ? 'ms' : 'en';
+  document.title = data.meta.title[lang] + ' \u2014 Verse-by-Verse Tafsir Guide';
+  document.getElementById('lang-toggle').textContent = lang.toUpperCase();
+  renderHero(data, lang);
+  renderInfoCards(data, lang);
+  renderTOC(data, lang);
+  renderSections(data, lang);
+  renderFooter(lang);
+}
+
+// ─── Hero ───────────────────────────────────────────────────────────────────
+function renderHero(data, lang) {
+  var ui = UI[lang];
+  document.getElementById('hero').innerHTML =
+    '<div class="hero-bg"></div>' +
+    '<div class="hero-ornament"><svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="0.8">' +
+      '<circle cx="100" cy="100" r="95"/><circle cx="100" cy="100" r="75"/><circle cx="100" cy="100" r="55"/>' +
+      '<polygon points="100,10 118,65 175,65 130,100 148,155 100,120 52,155 70,100 25,65 82,65" stroke-width="0.6"/>' +
+      '<rect x="30" y="30" width="140" height="140" transform="rotate(45 100 100)"/>' +
+    '</svg></div>' +
+    '<p class="hero-tag">' + ui.seriesTag + '</p>' +
+    '<h1>' + data.meta.title[lang] + '</h1>' +
+    '<div class="hero-arabic">' + data.meta.arabic_name + '</div>' +
+    '<div class="hero-line"></div>' +
+    '<p class="hero-sub">' + ui.subtitle + '</p>';
+}
+
+// ─── Info Cards ─────────────────────────────────────────────────────────────
+function renderInfoCards(data, lang) {
+  var ui = UI[lang];
+  var q = data.meta.quote;
+  document.getElementById('info-cards').innerHTML =
+    '<div class="info-card ramadan">' +
+      '<div class="card-label">' + ui.schedule + '</div>' +
+      '<div class="card-title">' + ui.year + '</div>' +
+      '<div class="card-sub">Juz ' + data.juz + ' \u00B7 Night ' + data.meta.night + ' \u2014 ' + ui.khatm + '</div>' +
+    '</div>' +
+    '<div class="info-card reader">' +
+      '<div class="card-label">' + ui.preparedFor + '</div>' +
+      '<div class="card-title">' + ui.readBy + ': ' + data.meta.reader + '</div>' +
+      '<div class="card-sub">\u201C' + q[lang] + '\u201D \u2014 ' + q.ref + '</div>' +
+    '</div>';
+}
+
+// ─── Table of Contents ──────────────────────────────────────────────────────
+function renderTOC(data, lang) {
+  var ui = UI[lang];
+  var items = '';
+  data.toc.forEach(function (item, i) {
+    var num = String(i + 1).padStart(2, '0');
+    items += '<div class="toc-item"><span class="toc-num">' + num + '</span><a href="#' + item.id + '">' + item[lang] + '</a></div>';
+  });
+  document.getElementById('toc-wrap').innerHTML =
+    '<div class="toc-box">' +
+      '<h2>' + ui.tocPrefix + ' ' + data.meta.title[lang] + '</h2>' +
+      '<div class="toc-grid">' + items + '</div>' +
+    '</div>';
+}
+
+// ─── Sections ───────────────────────────────────────────────────────────────
+function renderSections(data, lang) {
+  var main = document.getElementById('main-content');
+  main.innerHTML = '';
+  data.sections.forEach(function (section, i) {
+    if (section.type === 'surah-intro') {
+      main.appendChild(buildSurahBanner(section, lang));
+    } else if (section.type === 'passage') {
+      if (i > 0 && data.sections[i - 1].type === 'passage') {
+        var divider = document.createElement('div');
+        divider.className = 'ornament-divider';
+        divider.textContent = '\u00B7 \u00B7 \u00B7';
+        main.appendChild(divider);
+      }
+      main.appendChild(buildPassage(section, lang));
+    } else if (section.type === 'themes-summary') {
+      main.appendChild(buildThemesSummary(section, lang));
+    }
+  });
+}
+
+// ─── Build: Surah Banner ────────────────────────────────────────────────────
+function buildSurahBanner(section, lang) {
+  var d = section[lang];
+  var el = document.createElement('div');
+  el.id = section.id;
+  el.className = 'surah-banner section-anchor';
+  var html = '<div class="s-num">Surah ' + section.surah_number + '</div>';
+  if (d.arabic_name) html += '<div class="s-name-ar">' + d.arabic_name + '</div>';
+  if (d.name) html += '<div class="s-name-en">' + d.name + '</div>';
+  var meta = [];
+  if (d.classification) meta.push(d.classification);
+  if (d.verses) meta.push(d.verses + ' Verses');
+  if (d.epithet) meta.push(d.epithet);
+  if (meta.length) html += '<div class="s-meta">' + meta.join(' \u00B7 ') + '</div>';
+  if (d.background) html += '<div class="s-desc">' + d.background + '</div>';
+  if (d.desc) html += '<div class="s-desc">' + d.desc + '</div>';
+  el.innerHTML = html;
+  return el;
+}
+
+// ─── Build: Passage ─────────────────────────────────────────────────────────
+function buildPassage(section, lang) {
+  var d = section[lang];
+  var ui = UI[lang];
+  var el = document.createElement('div');
+  el.id = section.id;
+  el.className = 'passage section-anchor';
+
+  var vs = section.verse_start;
+  var ve = section.verse_end;
+  var ref = vs === ve
+    ? section.surah_number + ' : ' + vs
+    : section.surah_number + ' : ' + vs + ' \u2013 ' + ve;
+
+  var html =
+    '<div class="passage-header">' +
+      '<span class="passage-ref">' + ref + '</span>' +
+      '<h3>' + d.title + '</h3>' +
+    '</div>';
+
+  if (d.theme) {
+    html += '<div class="passage-theme">' + d.theme + '</div>';
+  }
+
+  var arabic = d.arabic || (section.en && section.en.arabic) || '';
+  html += '<div class="arabic-block">' + arabic + '</div>';
+
+  html += '<div class="translation-label">' + ui.translation + '</div>';
+  html += '<div class="translation">' + (d.translation || '') + '</div>';
+
+  html += '<div class="explanation">';
+  (d.explanation || []).forEach(function (p) { html += md(p); });
+  html += '</div>';
+
+  if (d.scholars && d.scholars.length) {
+    html += '<div class="scholars">';
+    d.scholars.forEach(function (s) {
+      html +=
+        '<div class="scholar-card">' +
+          '<div class="scholar-name">' + s.name + '</div>' +
+          '<div class="scholar-text">' + mdInline(s.text) + '</div>' +
+        '</div>';
+    });
+    html += '</div>';
+  }
+
+  if (d.lessons && d.lessons.length) {
+    html += '<div class="lessons-box"><div class="lessons-title">' + ui.lessons + '</div><ul>';
+    d.lessons.forEach(function (l) { html += '<li>' + mdInline(l) + '</li>'; });
+    html += '</ul></div>';
+  }
+
+  el.innerHTML = html;
+  return el;
+}
+
+// ─── Build: Themes Summary ──────────────────────────────────────────────────
+function buildThemesSummary(section, lang) {
+  var d = section[lang];
+  var el = document.createElement('div');
+  el.id = section.id;
+  el.className = 'summary-card section-anchor';
+
+  var html = '<h2>\u2726 ' + d.title + '</h2>';
+
+  if (d.opening_quote) {
+    html += '<div class="summary-quote">\u201C' + d.opening_quote.text + '\u201D <span class="ref">\u2014 ' + d.opening_quote.ref + '</span></div>';
+  }
+
+  html += '<div class="themes-grid">';
+  (d.themes || []).forEach(function (t) {
+    html +=
+      '<div class="theme-item">' +
+        '<div class="ti-icon">' + t.icon + '</div>' +
+        '<div class="ti-title">' + t.title + '</div>' +
+        '<div class="ti-text">' + t.body + '</div>' +
+      '</div>';
+  });
+  html += '</div>';
+
+  if (d.closing_reflection) {
+    html += '<div class="summary-quote" style="margin-top:1.5rem;margin-bottom:0;">\u201C' + d.closing_reflection.text + '\u201D <span class="ref">\u2014 ' + d.closing_reflection.ref + '</span></div>';
+  }
+
+  el.innerHTML = html;
+  return el;
+}
+
+// ─── Footer ─────────────────────────────────────────────────────────────────
+function renderFooter(lang) {
+  var ui = UI[lang];
+  var and = lang === 'ms' ? 'dan' : 'and';
+  document.getElementById('footer').innerHTML =
+    '<div class="hero-line" style="max-width:200px;"></div>' +
+    '<p style="margin-top:1rem;">' + ui.footerRef + ' <em>Tafsir Ibn Kathir</em>, <em>Tafsir Al-Jalalayn</em>, ' + and + ' <em>Tafsir As-Sa\u2019di</em></p>' +
+    '<p style="margin-top:0.4rem;">' + ui.footerPraise + '</p>' +
+    '<p style="margin-top:0.8rem; font-size:0.82rem; opacity:0.6;">\u0631\u064E\u0628\u064E\u0651\u0646\u064E\u0627 \u062A\u064E\u0642\u064E\u0628\u064E\u0651\u0644\u0652 \u0645\u0650\u0646\u064E\u0651\u0627 \u06D6 \u0625\u0650\u0646\u064E\u0651\u0643\u064E \u0623\u064E\u0646\u062A\u064E \u0627\u0644\u0633\u064E\u0651\u0645\u0650\u064A\u0639\u064F \u0627\u0644\u0652\u0639\u064E\u0644\u0650\u064A\u0645\u064F</p>' +
+    '<p style="margin-top:0.3rem; font-size:0.82rem; opacity:0.6;">' + ui.footerVerse + '</p>';
+}
+
+// ─── Theme Toggle ───────────────────────────────────────────────────────────
+function initThemeToggle() {
+  var btn = document.getElementById('theme-toggle');
+  var root = document.documentElement;
+
+  function apply(theme) {
+    root.setAttribute('data-theme', theme);
+    btn.textContent = theme === 'dark' ? '\u2600\uFE0F' : '\uD83C\uDF19';
+  }
+
+  apply(localStorage.getItem('tafsir-theme') || 'dark');
+
+  btn.addEventListener('click', function () {
+    var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    apply(next);
+    localStorage.setItem('tafsir-theme', next);
+  });
+}
+
+// ─── Language Toggle ────────────────────────────────────────────────────────
+function initLangToggle() {
+  document.getElementById('lang-toggle').addEventListener('click', function () {
+    LANG = LANG === 'en' ? 'ms' : 'en';
+    localStorage.setItem('tafsir-lang', LANG);
+    renderPage(DATA, LANG);
+    initTocHighlight();
+  });
+}
+
+// ─── ToC Active Highlight on Scroll ─────────────────────────────────────────
+var tocObserver = null;
+
+function initTocHighlight() {
+  if (tocObserver) tocObserver.disconnect();
+
+  var tocLinks = document.querySelectorAll('.toc-item a');
+  var sectionEls = [];
+  tocLinks.forEach(function (link) {
+    var id = link.getAttribute('href').slice(1);
+    var el = document.getElementById(id);
+    if (el) sectionEls.push({ el: el, link: link });
+  });
+
+  tocObserver = new IntersectionObserver(function (entries) {
+    entries.forEach(function (entry) {
+      if (entry.isIntersecting) {
+        var match = sectionEls.find(function (s) { return s.el === entry.target; });
+        if (match) {
+          tocLinks.forEach(function (l) { l.style.fontWeight = ''; });
+          match.link.style.fontWeight = '700';
+        }
+      }
+    });
+  }, { rootMargin: '-10% 0px -80% 0px' });
+
+  sectionEls.forEach(function (s) { tocObserver.observe(s.el); });
+}
+</script>
+</body>
+</html>

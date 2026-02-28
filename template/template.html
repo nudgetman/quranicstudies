@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>[JUZ NUMBER] — Verse-by-Verse Tafsir Guide</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,400&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet"/>
+<style>
+/* ─── CSS Variables ──────────────────────────────────────────────────────── */
+:root {
+  --gold:         #c9a84c;
+  --gold-light:   #e8cc80;
+  --gold-dark:    #8a6a1e;
+  --gold-pale:    #f5e6b8;
+  --trans: 0.3s ease;
+}
+
+[data-theme="dark"] {
+  --bg:           #100d07;
+  --bg-card:      #1c1609;
+  --bg-card2:     #231b0c;
+  --bg-banner:    #0d0a05;
+  --border:       #3a2d10;
+  --text:         #ede0c4;
+  --text-muted:   #9a8660;
+  --text-strong:  #f5e6b8;
+  --arabic-color: #e8cc80;
+  --scholar-bg:   #1a1408;
+  --scholar-border:#5a4010;
+  --lesson-bg:    #16120a;
+  --lesson-border:#6b4e15;
+  --toc-bg:       #1a1408;
+  --hero-overlay: rgba(0,0,0,0.72);
+  --shadow:       0 4px 32px rgba(0,0,0,0.6);
+}
+
+[data-theme="light"] {
+  --bg:           #faf6ed;
+  --bg-card:      #fff9ee;
+  --bg-card2:     #fdf4de;
+  --bg-banner:    #f5ead0;
+  --border:       #d4b87a;
+  --text:         #2e2010;
+  --text-muted:   #7a5c28;
+  --text-strong:  #1a1000;
+  --arabic-color: #7a4800;
+  --scholar-bg:   #fffbf0;
+  --scholar-border:#c9a84c;
+  --lesson-bg:    #fff9e8;
+  --lesson-border:#c9a84c;
+  --toc-bg:       #fef8e8;
+  --hero-overlay: rgba(0,0,0,0.48);
+  --shadow:       0 4px 24px rgba(100,60,0,0.18);
+}
+
+/* ─── Reset & Base ───────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Crimson Pro', Georgia, serif;
+  font-size: 20px;
+  line-height: 1.75;
+  background: var(--bg);
+  color: var(--text);
+  transition: background var(--trans), color var(--trans);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', Georgia, serif;
+  color: var(--text-strong);
+  transition: color var(--trans);
+}
+
+a { color: var(--gold); text-decoration: none; }
+a:hover { color: var(--gold-light); }
+
+/* ─── Dark/Light Toggle ──────────────────────────────────────────────────── */
+#theme-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 9999;
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  color: var(--gold);
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.3rem;
+  display: flex; align-items: center; justify-content: center;
+  transition: background var(--trans), border-color var(--trans), transform 0.2s;
+  box-shadow: var(--shadow);
+}
+#theme-toggle:hover { transform: scale(1.1); }
+
+/* ─── Hero Banner ────────────────────────────────────────────────────────── */
+.hero {
+  position: relative;
+  min-height: 420px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  text-align: center;
+  padding: 5rem 1.5rem 4rem;
+  overflow: hidden;
+  background: var(--bg-banner);
+}
+
+.hero-bg {
+  position: absolute; inset: 0;
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(201,168,76,0.22) 0%, transparent 65%),
+    radial-gradient(ellipse at 20% 80%, rgba(201,168,76,0.10) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+/* Geometric ornament */
+.hero-ornament {
+  width: 260px; height: 260px;
+  position: absolute; top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0.06;
+  pointer-events: none;
+}
+.hero-ornament svg { width: 100%; height: 100%; }
+
+.hero-tag {
+  font-family: 'Crimson Pro', serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 1rem;
+}
+
+.hero h1 {
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  color: var(--gold-light);
+  line-height: 1.15;
+  margin-bottom: 0.5rem;
+  position: relative;
+}
+
+.hero-arabic {
+  font-family: 'Amiri', serif;
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  color: var(--arabic-color);
+  margin-bottom: 1.2rem;
+  direction: rtl;
+}
+
+.hero-sub {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  max-width: 560px;
+  font-style: italic;
+  position: relative;
+}
+
+.hero-line {
+  width: 80px; height: 2px;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+  margin: 1.5rem auto;
+}
+
+/* ─── Info Cards Row ─────────────────────────────────────────────────────── */
+.info-cards {
+  display: flex; gap: 1.2rem; flex-wrap: wrap; justify-content: center;
+  padding: 2rem 1.5rem;
+  max-width: 900px; margin: 0 auto;
+}
+
+.info-card {
+  flex: 1; min-width: 220px; max-width: 380px;
+  border-radius: 14px;
+  padding: 1.4rem 1.8rem;
+  border: 1.5px solid var(--border);
+  transition: transform 0.2s, box-shadow 0.2s, background var(--trans), border-color var(--trans);
+  position: relative; overflow: hidden;
+}
+.info-card:hover { transform: translateY(-3px); box-shadow: var(--shadow); }
+
+/* Gold gradient card — used for schedule / juz info */
+.info-card.ramadan {
+  background: linear-gradient(135deg, #c9a84c 0%, #8a5e10 40%, #5a3a08 100%);
+  border-color: #e8cc80;
+  color: #fff8e8;
+}
+.info-card.ramadan .card-label { color: rgba(255,248,232,0.7); font-size:0.8rem; letter-spacing:0.2em; text-transform:uppercase; }
+.info-card.ramadan .card-title { font-family:'Playfair Display',serif; font-size:1.6rem; font-weight:700; color:#fff; margin-top:0.3rem; }
+.info-card.ramadan .card-sub   { font-size:0.92rem; color:rgba(255,248,232,0.8); margin-top:0.4rem; }
+.info-card.ramadan::after {
+  content:'☪';
+  position:absolute; right:1rem; bottom:-0.5rem;
+  font-size:4.5rem; opacity:0.15; pointer-events:none;
+}
+
+/* Muted card — used for reader / quote info */
+.info-card.reader {
+  background: var(--bg-card);
+  border-color: var(--border);
+}
+.info-card.reader .card-label { color:var(--text-muted); font-size:0.8rem; letter-spacing:0.2em; text-transform:uppercase; }
+.info-card.reader .card-title { font-family:'Playfair Display',serif; font-size:1.6rem; font-weight:700; color:var(--gold-light); margin-top:0.3rem; }
+.info-card.reader .card-sub   { font-size:0.92rem; color:var(--text-muted); margin-top:0.4rem; font-style:italic; }
+.info-card.reader::after {
+  content:'"';
+  position:absolute; right:1rem; bottom:-1rem;
+  font-family:'Playfair Display',serif;
+  font-size:7rem; opacity:0.07; pointer-events:none;
+  color:var(--gold);
+}
+
+/* ─── Table of Contents ──────────────────────────────────────────────────── */
+.toc-wrap {
+  max-width: 860px; margin: 0 auto 2.5rem;
+  padding: 0 1.5rem;
+}
+
+.toc-box {
+  background: var(--toc-bg);
+  border: 1.5px solid var(--border);
+  border-radius: 14px;
+  padding: 2rem 2.2rem;
+  transition: background var(--trans), border-color var(--trans);
+}
+
+.toc-box h2 {
+  font-size: 1.25rem;
+  color: var(--gold);
+  margin-bottom: 1.2rem;
+  letter-spacing: 0.08em;
+}
+
+.toc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 0.5rem 1.5rem;
+}
+
+.toc-item {
+  display: flex; align-items: baseline; gap: 0.6rem;
+  font-size: 0.95rem;
+  padding: 0.3rem 0;
+  border-bottom: 1px dashed var(--border);
+  transition: border-color var(--trans);
+}
+.toc-item:hover a { color: var(--gold-light); }
+.toc-num { color: var(--text-muted); font-size: 0.82rem; min-width: 24px; }
+
+/* ─── Main Content ───────────────────────────────────────────────────────── */
+.main {
+  max-width: 860px; margin: 0 auto;
+  padding: 0 1.5rem 4rem;
+}
+
+/* ─── Surah Banner ───────────────────────────────────────────────────────── */
+.surah-banner {
+  background: linear-gradient(135deg, var(--bg-card2) 0%, var(--bg-banner) 100%);
+  border: 1.5px solid var(--border);
+  border-radius: 18px;
+  padding: 2.5rem 2rem;
+  text-align: center;
+  margin: 2.5rem 0 2rem;
+  position: relative; overflow: hidden;
+  transition: background var(--trans), border-color var(--trans);
+}
+.surah-banner::before {
+  content:'';
+  position:absolute; inset:0;
+  background: radial-gradient(ellipse at 50% 0%, rgba(201,168,76,0.14) 0%, transparent 70%);
+  pointer-events:none;
+}
+.surah-banner .s-num  { font-size: 0.82rem; letter-spacing: 0.25em; text-transform: uppercase; color: var(--gold); margin-bottom: 0.5rem; }
+.surah-banner .s-name-ar { font-family: 'Amiri', serif; font-size: clamp(2.2rem, 6vw, 3.2rem); color: var(--arabic-color); direction: rtl; margin-bottom: 0.3rem; transition: color var(--trans); }
+.surah-banner .s-name-en { font-family: 'Playfair Display', serif; font-size: 1.6rem; color: var(--gold-light); margin-bottom: 0.6rem; }
+.surah-banner .s-meta    { font-size: 0.92rem; color: var(--text-muted); font-style: italic; }
+.surah-banner .s-desc    { font-size: 0.97rem; color: var(--text); margin-top: 0.8rem; max-width: 600px; margin-inline: auto; line-height: 1.7; transition: color var(--trans); }
+
+/* ─── Passage Block ──────────────────────────────────────────────────────── */
+.passage {
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  border-radius: 16px;
+  padding: 2.2rem 2.2rem 1.8rem;
+  margin: 2rem 0;
+  position: relative;
+  transition: background var(--trans), border-color var(--trans);
+  box-shadow: var(--shadow);
+}
+
+.passage-header {
+  display: flex; align-items: center; gap: 0.8rem;
+  margin-bottom: 1.5rem; padding-bottom: 0.9rem;
+  border-bottom: 1px solid var(--border);
+}
+.passage-ref {
+  background: linear-gradient(135deg, var(--gold-dark), var(--gold));
+  color: #fff8e0;
+  font-size: 0.78rem; letter-spacing: 0.15em; text-transform: uppercase;
+  padding: 0.3rem 0.9rem; border-radius: 999px;
+  font-family: 'Crimson Pro', serif; font-weight: 600;
+}
+.passage h3 {
+  font-size: 1.18rem; color: var(--text-strong);
+  flex: 1;
+}
+
+/* Arabic text block */
+.arabic-block {
+  direction: rtl;
+  font-family: 'Amiri', serif;
+  font-size: clamp(1.5rem, 4vw, 2.1rem);
+  line-height: 2.1;
+  color: var(--arabic-color);
+  text-align: right;
+  padding: 1.2rem 1.5rem;
+  background: var(--bg-card2);
+  border-radius: 10px;
+  margin-bottom: 1.4rem;
+  border-right: 4px solid var(--gold);
+  transition: background var(--trans), color var(--trans), border-color var(--trans);
+}
+
+/* Translation */
+.translation-label {
+  font-size: 0.78rem; letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--gold); margin-bottom: 0.4rem; font-weight: 600;
+}
+.translation {
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--text);
+  padding: 0.9rem 1.2rem;
+  border-left: 3px solid var(--gold-dark);
+  margin-bottom: 1.5rem;
+  background: var(--bg-card2);
+  border-radius: 0 8px 8px 0;
+  transition: background var(--trans), color var(--trans);
+}
+
+/* Explanation */
+.explanation {
+  font-size: 1.0rem;
+  color: var(--text);
+  line-height: 1.8;
+  margin-bottom: 1.6rem;
+  transition: color var(--trans);
+}
+.explanation p { margin-bottom: 0.8rem; }
+
+/* Scholar Callouts */
+.scholars { margin: 1.4rem 0; display: flex; flex-direction: column; gap: 0.9rem; }
+
+.scholar-card {
+  background: var(--scholar-bg);
+  border: 1px solid var(--scholar-border);
+  border-radius: 10px;
+  padding: 1.1rem 1.3rem;
+  transition: background var(--trans), border-color var(--trans);
+}
+.scholar-name {
+  font-family: 'Playfair Display', serif;
+  font-size: 0.88rem; font-weight: 600;
+  color: var(--gold);
+  letter-spacing: 0.05em;
+  margin-bottom: 0.35rem;
+  display: flex; align-items: center; gap: 0.5rem;
+}
+.scholar-name::before {
+  content: '';
+  display: inline-block; width: 8px; height: 8px;
+  border-radius: 50%;
+  background: var(--gold);
+}
+.scholar-text {
+  font-size: 0.96rem; color: var(--text);
+  line-height: 1.7; font-style: italic;
+  transition: color var(--trans);
+}
+
+/* Key Lessons */
+.lessons-box {
+  background: var(--lesson-bg);
+  border: 1.5px solid var(--lesson-border);
+  border-radius: 12px;
+  padding: 1.3rem 1.5rem;
+  margin-top: 1.5rem;
+  transition: background var(--trans), border-color var(--trans);
+}
+.lessons-box .lessons-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 0.95rem; font-weight: 700;
+  color: var(--gold);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 0.8rem;
+}
+.lessons-box ul {
+  list-style: none; padding: 0;
+  display: flex; flex-direction: column; gap: 0.45rem;
+}
+.lessons-box li {
+  font-size: 0.97rem; color: var(--text);
+  line-height: 1.65; transition: color var(--trans);
+}
+
+/* ─── Summary / Themes Card ──────────────────────────────────────────────── */
+.summary-card {
+  background: linear-gradient(135deg, var(--bg-card) 0%, var(--bg-card2) 100%);
+  border: 1.5px solid var(--gold-dark);
+  border-radius: 18px;
+  padding: 2.5rem 2.2rem;
+  margin: 3rem 0;
+  position: relative; overflow: hidden;
+  transition: background var(--trans), border-color var(--trans);
+}
+.summary-card::before {
+  content:'';
+  position:absolute; inset:0;
+  background: radial-gradient(ellipse at 50% 100%, rgba(201,168,76,0.1) 0%, transparent 65%);
+  pointer-events:none;
+}
+.summary-card h2 {
+  font-size: 1.5rem; color: var(--gold-light);
+  margin-bottom: 1.5rem; text-align: center;
+}
+.themes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 1rem;
+}
+.theme-item {
+  background: var(--bg-card2);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem 1.2rem;
+  transition: background var(--trans), border-color var(--trans);
+}
+.theme-item .ti-icon  { font-size: 1.6rem; margin-bottom: 0.4rem; }
+.theme-item .ti-title { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 700; color: var(--gold); margin-bottom: 0.3rem; }
+.theme-item .ti-text  { font-size: 0.92rem; color: var(--text-muted); line-height: 1.6; transition: color var(--trans); }
+
+/* ─── Ornament Divider ───────────────────────────────────────────────────── */
+.ornament-divider {
+  text-align: center;
+  color: var(--gold);
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  opacity: 0.5;
+  letter-spacing: 0.5em;
+}
+
+/* ─── Footer ─────────────────────────────────────────────────────────────── */
+footer {
+  text-align: center;
+  padding: 2rem 1.5rem 3rem;
+  color: var(--text-muted);
+  font-size: 0.88rem;
+  border-top: 1px solid var(--border);
+  transition: border-color var(--trans);
+}
+
+/* ─── Scroll anchor offset ───────────────────────────────────────────────── */
+.section-anchor { scroll-margin-top: 1.5rem; }
+
+/* ─── Responsive ─────────────────────────────────────────────────────────── */
+@media (max-width: 600px) {
+  body { font-size: 18px; }
+  .passage { padding: 1.4rem 1.2rem 1.2rem; }
+  .arabic-block { font-size: 1.5rem; padding: 1rem 1rem; }
+  .toc-grid { grid-template-columns: 1fr; }
+  .themes-grid { grid-template-columns: 1fr; }
+  .info-cards { flex-direction: column; align-items: stretch; }
+  .info-card { max-width: 100%; }
+  .scholars { gap: 0.7rem; }
+}
+</style>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     THEME TOGGLE — fixed top-right, persists via localStorage
+════════════════════════════════════════════════════════════════════════ -->
+<button id="theme-toggle" title="Toggle dark/light mode">🌙</button>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     HERO BANNER
+     · hero-tag     → series label (e.g. "Qur'anic Tafsir Series")
+     · h1           → juz title (e.g. "Juz 2 — The Cow")
+     · hero-arabic  → Arabic juz name
+     · hero-sub     → subtitle / scope description
+════════════════════════════════════════════════════════════════════════ -->
+<header class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-ornament">
+    <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="0.8">
+      <circle cx="100" cy="100" r="95"/>
+      <circle cx="100" cy="100" r="75"/>
+      <circle cx="100" cy="100" r="55"/>
+      <polygon points="100,10 118,65 175,65 130,100 148,155 100,120 52,155 70,100 25,65 82,65" stroke-width="0.6"/>
+      <rect x="30" y="30" width="140" height="140" transform="rotate(45 100 100)"/>
+    </svg>
+  </div>
+  <p class="hero-tag">Qur'anic Tafsir Series</p>
+  <h1>[JUZ NUMBER] — [JUZ TITLE]</h1>
+  <div class="hero-arabic">[ARABIC JUZ NAME]</div>
+  <div class="hero-line"></div>
+  <p class="hero-sub">[Subtitle — e.g. "A verse-by-verse guide drawing on Ibn Kathir, Al-Jalalayn, and As-Sa'di"]</p>
+</header>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     INFO CARDS ROW
+     Two cards side-by-side:
+     · .ramadan  → gold gradient — use for schedule / juz metadata
+     · .reader   → muted card    — use for reader name / opening quote
+════════════════════════════════════════════════════════════════════════ -->
+<div class="info-cards">
+  <div class="info-card ramadan">
+    <div class="card-label">Reading Schedule</div>
+    <div class="card-title">Ramadan [YEAR]</div>
+    <div class="card-sub">Juz [N] · Night [N] — Khatm Al-Qur'an</div>
+  </div>
+  <div class="info-card reader">
+    <div class="card-label">Prepared For</div>
+    <div class="card-title">Read by: [NAME]</div>
+    <div class="card-sub">"[Opening quote or ayah]" — [Reference]</div>
+  </div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     TABLE OF CONTENTS
+     · Each .toc-item links to a section anchor via href="#id"
+     · .toc-num  → zero-padded index number
+     · The JS at the bottom auto-highlights the active section on scroll
+════════════════════════════════════════════════════════════════════════ -->
+<div class="toc-wrap">
+  <div class="toc-box">
+    <h2>📖 Contents of [JUZ NAME]</h2>
+    <div class="toc-grid">
+      <div class="toc-item"><span class="toc-num">01</span><a href="#section-01">[Surah Name] — Introduction</a></div>
+      <div class="toc-item"><span class="toc-num">02</span><a href="#section-02">[Surah] [X–Y] · [Section Title]</a></div>
+      <div class="toc-item"><span class="toc-num">03</span><a href="#section-03">[Surah] [X–Y] · [Section Title]</a></div>
+      <div class="toc-item"><span class="toc-num">04</span><a href="#section-04">[Surah] [X–Y] · [Section Title]</a></div>
+      <div class="toc-item"><span class="toc-num">05</span><a href="#themes">Overarching Themes</a></div>
+      <!-- Add more .toc-item rows as needed -->
+    </div>
+  </div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     MAIN CONTENT
+════════════════════════════════════════════════════════════════════════ -->
+<main class="main">
+
+  <!-- ════════════════════════════════════════════════════════════════════
+       SURAH BANNER
+       Marks the start of a new surah. Repeat for each surah in the juz.
+       · s-num      → "Surah [N]"
+       · s-name-ar  → Arabic surah name (direction: rtl is built into CSS)
+       · s-name-en  → English surah name and meaning
+       · s-meta     → Classification · Verses · Notable epithets
+       · s-desc     → 2–3 sentence introduction to the surah
+  ════════════════════════════════════════════════════════════════════════ -->
+  <div id="section-01" class="surah-banner section-anchor">
+    <div class="s-num">Surah [N]</div>
+    <div class="s-name-ar">[Arabic Surah Name]</div>
+    <div class="s-name-en">[Surah Name] — [Meaning]</div>
+    <div class="s-meta">[Makkan/Madinan] · [N] Verses · [Notable Epithet if any]</div>
+    <div class="s-desc">[2–3 sentence introduction to the surah — background, significance, and what this juz covers of it.]</div>
+  </div>
+
+
+  <!-- ════════════════════════════════════════════════════════════════════
+       PASSAGE BLOCK
+       One block per passage / group of verses. Contains:
+         1. passage-header  → verse reference badge + section title
+         2. arabic-block    → the original Arabic text (RTL)
+         3. translation     → English rendering (italic, left-bordered)
+         4. explanation     → plain-language commentary (<p> tags)
+         5. scholars        → 2–3 scholar callout cards
+         6. lessons-box     → bulleted key takeaways
+       Repeat this entire block for each passage section.
+  ════════════════════════════════════════════════════════════════════════ -->
+  <div id="section-02" class="passage section-anchor">
+
+    <!-- Header: verse reference pill + section title -->
+    <div class="passage-header">
+      <span class="passage-ref">[S] : [X] – [Y]</span>
+      <h3>[Section Title — e.g. "The Opening Praise and Names of Allah"]</h3>
+    </div>
+
+    <!-- Arabic Text — paste the original Arabic here -->
+    <div class="arabic-block">
+      [Arabic verse text — e.g. بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ﴿١﴾]
+    </div>
+
+    <!-- Translation -->
+    <div class="translation-label">Translation</div>
+    <div class="translation">
+      [English translation of the verses, including verse numbers in brackets e.g. (1)]
+    </div>
+
+    <!-- Explanation: use <p> tags for each paragraph -->
+    <div class="explanation">
+      <p>[First paragraph of commentary — context, linguistic notes, key concepts.]</p>
+      <p>[Second paragraph — deeper analysis, cross-references, thematic links.]</p>
+      <p>[Third paragraph if needed — application, historical context, etc.]</p>
+    </div>
+
+    <!-- Scholar Callouts: one .scholar-card per scholar -->
+    <div class="scholars">
+      <div class="scholar-card">
+        <div class="scholar-name">Tafsir Ibn Kathir</div>
+        <div class="scholar-text">[Ibn Kathir's commentary on this passage — narration-based, hadith references, sanad-grounded insights.]</div>
+      </div>
+      <div class="scholar-card">
+        <div class="scholar-name">Tafsir Al-Jalalayn</div>
+        <div class="scholar-text">[Al-Jalalayn's commentary — linguistic precision, Arabic grammar notes, concise meaning.]</div>
+      </div>
+      <div class="scholar-card">
+        <div class="scholar-name">Tafsir As-Sa'di</div>
+        <div class="scholar-text">[As-Sa'di's commentary — practical lessons, spiritual reflection, accessible application.]</div>
+      </div>
+    </div>
+
+    <!-- Key Lessons: emoji bullet list -->
+    <div class="lessons-box">
+      <div class="lessons-title">✨ Key Lessons</div>
+      <ul>
+        <li>[Emoji] [First key lesson — concise, actionable.]</li>
+        <li>[Emoji] [Second key lesson.]</li>
+        <li>[Emoji] [Third key lesson.]</li>
+        <li>[Emoji] [Fourth key lesson.]</li>
+        <li>[Emoji] [Fifth key lesson — optional.]</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Ornament divider between passage blocks (optional) -->
+  <div class="ornament-divider">· · ·</div>
+
+  <!-- ── Additional passage blocks: copy the block above and update IDs ── -->
+  <div id="section-03" class="passage section-anchor">
+    <div class="passage-header">
+      <span class="passage-ref">[S] : [X] – [Y]</span>
+      <h3>[Section Title]</h3>
+    </div>
+    <div class="arabic-block">[Arabic text]</div>
+    <div class="translation-label">Translation</div>
+    <div class="translation">[Translation text]</div>
+    <div class="explanation">
+      <p>[Commentary paragraph.]</p>
+    </div>
+    <div class="scholars">
+      <div class="scholar-card">
+        <div class="scholar-name">Tafsir Ibn Kathir</div>
+        <div class="scholar-text">[Commentary]</div>
+      </div>
+      <div class="scholar-card">
+        <div class="scholar-name">Tafsir Al-Jalalayn</div>
+        <div class="scholar-text">[Commentary]</div>
+      </div>
+      <div class="scholar-card">
+        <div class="scholar-name">Tafsir As-Sa'di</div>
+        <div class="scholar-text">[Commentary]</div>
+      </div>
+    </div>
+    <div class="lessons-box">
+      <div class="lessons-title">✨ Key Lessons</div>
+      <ul>
+        <li>[Emoji] [Lesson]</li>
+        <li>[Emoji] [Lesson]</li>
+        <li>[Emoji] [Lesson]</li>
+      </ul>
+    </div>
+  </div>
+
+
+  <!-- ════════════════════════════════════════════════════════════════════
+       SUMMARY / THEMES CARD
+       Placed at the end of the juz. Contains a grid of theme items:
+         · ti-icon  → emoji icon
+         · ti-title → short theme name
+         · ti-text  → 2–3 sentence description
+  ════════════════════════════════════════════════════════════════════════ -->
+  <div id="themes" class="summary-card section-anchor">
+    <h2>✦ Overarching Themes of [JUZ NAME]</h2>
+    <div class="themes-grid">
+      <div class="theme-item">
+        <div class="ti-icon">🕌</div>
+        <div class="ti-title">[Theme 1 Title]</div>
+        <div class="ti-text">[2–3 sentence description of this theme and how it runs through the juz.]</div>
+      </div>
+      <div class="theme-item">
+        <div class="ti-icon">🪞</div>
+        <div class="ti-title">[Theme 2 Title]</div>
+        <div class="ti-text">[Description]</div>
+      </div>
+      <div class="theme-item">
+        <div class="ti-icon">📖</div>
+        <div class="ti-title">[Theme 3 Title]</div>
+        <div class="ti-text">[Description]</div>
+      </div>
+      <div class="theme-item">
+        <div class="ti-icon">👤</div>
+        <div class="ti-title">[Theme 4 Title]</div>
+        <div class="ti-text">[Description]</div>
+      </div>
+      <div class="theme-item">
+        <div class="ti-icon">💧</div>
+        <div class="ti-title">[Theme 5 Title]</div>
+        <div class="ti-text">[Description]</div>
+      </div>
+      <div class="theme-item">
+        <div class="ti-icon">⚖️</div>
+        <div class="ti-title">[Theme 6 Title]</div>
+        <div class="ti-text">[Description]</div>
+      </div>
+      <!-- Add or remove .theme-item blocks as needed -->
+    </div>
+  </div>
+
+</main>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════════════════════════════════════ -->
+<footer>
+  <div class="hero-line" style="max-width:200px;"></div>
+  <p style="margin-top:1rem;">Compiled with reference to <em>Tafsir Ibn Kathir</em>, <em>Tafsir Al-Jalalayn</em>, and <em>Tafsir As-Sa'di</em></p>
+  <p style="margin-top:0.4rem;">All praise belongs to Allah. May this be a benefit in this life and a witness on the Day of Judgement.</p>
+  <p style="margin-top:0.8rem; font-size:0.82rem; opacity:0.6;">رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ</p>
+  <p style="margin-top:0.3rem; font-size:0.82rem; opacity:0.6;">"Our Lord, accept from us. Indeed, You are the Hearing, the Knowing." — 2:127</p>
+</footer>
+
+
+<script>
+// ─── Theme Toggle ─────────────────────────────────────────────────────────
+const btn  = document.getElementById('theme-toggle');
+const html = document.documentElement;
+
+function applyTheme(theme) {
+  html.setAttribute('data-theme', theme);
+  btn.textContent = theme === 'dark' ? '☀️' : '🌙';
+}
+
+const saved = localStorage.getItem('tafsir-theme') || 'dark';
+applyTheme(saved);
+
+btn.addEventListener('click', () => {
+  const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+  applyTheme(next);
+  localStorage.setItem('tafsir-theme', next);
+});
+
+// ─── ToC Active Highlight on Scroll ──────────────────────────────────────
+const tocLinks = document.querySelectorAll('.toc-item a');
+const sections  = [];
+tocLinks.forEach(link => {
+  const id = link.getAttribute('href').slice(1);
+  const el = document.getElementById(id);
+  if (el) sections.push({ el, link });
+});
+
+const obs = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      const match = sections.find(s => s.el === entry.target);
+      if (match) {
+        tocLinks.forEach(l => l.style.fontWeight = '');
+        match.link.style.fontWeight = '700';
+      }
+    }
+  });
+}, { rootMargin: '-10% 0px -80% 0px' });
+
+sections.forEach(s => obs.observe(s.el));
+</script>
+</body>
+</html>
