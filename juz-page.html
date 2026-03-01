@@ -654,19 +654,30 @@ let LANG = 'en'; // Will be set from URL path
 let juzNum = '1'; // Will be set from URL path
 
 // ─── Boot ───────────────────────────────────────────────────────────────────
-// Parse path: /en/juz2 or /ms/juz14 (with optional base path)
-const pathPattern = BASE_PATH
-  ? new RegExp('^' + BASE_PATH.replace(/\//g, '\\/') + '\/(en|ms)\/juz(\\d{1,2})\\/?$')
-  : /^\/(en|ms)\/juz(\d{1,2})\/?$/;
-const pathMatch = location.pathname.match(pathPattern);
-if (pathMatch) {
-  LANG = pathMatch[1];
-  juzNum = pathMatch[2];
+// Check if we were redirected from a 404 page
+var redirectPath = sessionStorage.getItem('redirect-path');
+if (redirectPath) {
+  sessionStorage.removeItem('redirect-path');
+  var redirectMatch = redirectPath.match(/\/(en|ms)\/juz(\d{1,2})\/?$/);
+  if (redirectMatch) {
+    LANG = redirectMatch[1];
+    juzNum = redirectMatch[2];
+  }
 } else {
-  // Fallback: try localStorage, default to 'en'
-  LANG = localStorage.getItem('tafsir-lang') || 'en';
-  // Try URL params as fallback
-  juzNum = new URLSearchParams(location.search).get('juz') || '1';
+  // Parse path: /en/juz2 or /ms/juz14 (with optional base path)
+  const pathPattern = BASE_PATH
+    ? new RegExp('^' + BASE_PATH.replace(/\//g, '\\/') + '\/(en|ms)\/juz(\\d{1,2})\\/?$')
+    : /^\/(en|ms)\/juz(\d{1,2})\/?$/;
+  const pathMatch = location.pathname.match(pathPattern);
+  if (pathMatch) {
+    LANG = pathMatch[1];
+    juzNum = pathMatch[2];
+  } else {
+    // Fallback: try localStorage, default to 'en'
+    LANG = localStorage.getItem('tafsir-lang') || 'en';
+    // Try URL params as fallback
+    juzNum = new URLSearchParams(location.search).get('juz') || '1';
+  }
 }
 
 fetch(BASE_PATH + '/data/juz' + juzNum + '.json')

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Redirecting...</title>
+<script>
+  // GitHub Pages SPA redirect
+  // Store the intended path and redirect to juz-page.html
+  (function() {
+    var path = window.location.pathname;
+    var hash = window.location.hash;
+    
+    // Check if this looks like a juz page route
+    var juzMatch = path.match(/\/(en|ms)\/juz(\d{1,2})\/?$/);
+    
+    if (juzMatch) {
+      // Store the original path for juz-page.html to read
+      sessionStorage.setItem('redirect-path', path);
+      
+      // Get the base path (everything before /en/ or /ms/)
+      var basePath = path.substring(0, path.indexOf('/' + juzMatch[1]));
+      
+      // Redirect to juz-page.html
+      window.location.replace(basePath + '/juz-page.html' + hash);
+    } else {
+      // For other 404s, redirect to home
+      var basePath = path.includes('/quranicstudies') ? '/quranicstudies' : '';
+      window.location.replace(basePath + '/');
+    }
+  })();
+</script>
+</head>
+<body>
+<p style="text-align:center;padding:2rem;font-family:sans-serif;">Redirecting...</p>
+</body>
+</html>
