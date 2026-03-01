@@ -970,6 +970,19 @@
 </footer>
 
 <script>
+  // ─── BASE PATH DETECTION ───
+  const BASE_PATH = location.hostname === 'localhost' || location.hostname === '127.0.0.1'
+    ? ''
+    : '/quranicstudies';
+
+  // ─── UPDATE ALL JUZ LINKS ───
+  document.querySelectorAll('.juz-card').forEach(function(card) {
+    const href = card.getAttribute('href');
+    if (href && href.startsWith('/')) {
+      card.setAttribute('href', BASE_PATH + href);
+    }
+  });
+
   // ─── THEME TOGGLE ───
   function getTheme() {
     return localStorage.getItem('tafsir-theme') || 'dark';

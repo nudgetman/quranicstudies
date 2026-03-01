@@ -595,7 +595,7 @@ footer {
 <body>
 
 <!-- Fixed buttons -->
-<a href="/" id="home-button" title="Back to home">🏠</a>
+<a href="#" id="home-button" title="Back to home">🏠</a>
 <button id="lang-toggle" title="Switch language">EN</button>
 <button id="theme-toggle" title="Toggle dark/light mode">🌙</button>
 
@@ -607,6 +607,14 @@ footer {
 <footer id="footer"></footer>
 
 <script>
+// ─── Detect base path ───────────────────────────────────────────────────────
+const BASE_PATH = location.hostname === 'localhost' || location.hostname === '127.0.0.1'
+  ? ''
+  : '/quranicstudies';
+
+// Set home button href
+document.getElementById('home-button').href = BASE_PATH + '/';
+
 // ─── Static UI Strings ──────────────────────────────────────────────────────
 const UI = {
   en: {
@@ -646,8 +654,11 @@ let LANG = 'en'; // Will be set from URL path
 let juzNum = '1'; // Will be set from URL path
 
 // ─── Boot ───────────────────────────────────────────────────────────────────
-// Parse path: /en/juz2 or /ms/juz14
-const pathMatch = location.pathname.match(/^\/(en|ms)\/juz(\d{1,2})\/?$/);
+// Parse path: /en/juz2 or /ms/juz14 (with optional base path)
+const pathPattern = BASE_PATH
+  ? new RegExp('^' + BASE_PATH.replace(/\//g, '\\/') + '\/(en|ms)\/juz(\\d{1,2})\\/?$')
+  : /^\/(en|ms)\/juz(\d{1,2})\/?$/;
+const pathMatch = location.pathname.match(pathPattern);
 if (pathMatch) {
   LANG = pathMatch[1];
   juzNum = pathMatch[2];
@@ -658,7 +669,7 @@ if (pathMatch) {
   juzNum = new URLSearchParams(location.search).get('juz') || '1';
 }
 
-fetch('/data/juz' + juzNum + '.json')
+fetch(BASE_PATH + '/data/juz' + juzNum + '.json')
   .then(function (r) { if (!r.ok) throw new Error('Load failed'); return r.json(); })
   .then(function (data) {
     DATA = data;
@@ -949,7 +960,7 @@ function initLangToggle() {
     localStorage.setItem('tafsir-lang', LANG);
     
     // Update URL path to /{newLang}/juz{N}, preserve hash
-    var newPath = '/' + LANG + '/juz' + juzNum;
+    var newPath = BASE_PATH + '/' + LANG + '/juz' + juzNum;
     var hash = location.hash;
     history.replaceState(null, '', newPath + hash);
     
