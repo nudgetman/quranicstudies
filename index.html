@@ -86,6 +86,29 @@
   }
   #theme-toggle:hover { background: var(--gold); color: #1a1510; }
 
+  /* ─── LANGUAGE TOGGLE ─── */
+  #lang-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 7.5rem;
+    z-index: 1000;
+    background: var(--bg-card);
+    border: 1.5px solid var(--gold);
+    color: var(--gold);
+    border-radius: 50px;
+    padding: 0.4rem 1rem;
+    font-family: 'Crimson Pro', serif;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    transition: all var(--transition);
+    box-shadow: 0 2px 12px var(--shadow);
+  }
+  #lang-toggle:hover { background: var(--gold); color: #1a1510; }
+
   /* ─── HERO ─── */
   .hero {
     background: linear-gradient(160deg, #080600 0%, #16110a 35%, #231a09 65%, #0d0b06 100%);
@@ -513,6 +536,8 @@
     .juz-card { padding: 1rem 1.1rem; }
     body { font-size: 18px; }
     .about-card { padding: 1.3rem; }
+    #theme-toggle, #lang-toggle { font-size: 0.78rem; padding: 0.3rem 0.7rem; }
+    #lang-toggle { right: 6rem; }
   }
   @media(max-width: 380px) {
     .juz-grid { grid-template-columns: 1fr; }
@@ -639,16 +664,21 @@
   <span id="theme-icon">☀️</span> <span id="theme-label">Light</span>
 </button>
 
+<!-- Language Toggle -->
+<button id="lang-toggle" onclick="toggleLang()" aria-label="Switch language">
+  <span id="lang-label">EN</span>
+</button>
+
 <!-- HERO -->
 <section class="hero">
-  <div class="hero-eyebrow">Verse-by-Verse Tafsir Guide</div>
+  <div class="hero-eyebrow" data-i18n="heroEyebrow">Verse-by-Verse Tafsir Guide</div>
   <div class="hero-arabic-main">القرآن الكريم</div>
-  <h1>Complete Qur'ān Tafsir<br>All 30 Juz</h1>
-  <p class="hero-sub">Classical commentary from Ibn Kathīr, Al-Jalālayn & As-Sa'dī — in plain, accessible English</p>
+  <h1 data-i18n="heroTitle" data-i18n-html>Complete Qur’ān Tafsir<br>All 30 Juz</h1>
+  <p class="hero-sub" data-i18n="heroSub">Classical commentary from Ibn Kathīr, Al-Jalālayn & As-Sa’dī — in plain, accessible English</p>
   <div class="hero-stats">
     <span class="hero-stat">📖 30 Juz</span>
-    <span class="hero-stat">🕌 114 Surahs</span>
-    <span class="hero-stat">✨ 3 Classical Scholars</span>
+    <span class="hero-stat" data-i18n="statSurahs">🕌 114 Surahs</span>
+    <span class="hero-stat" data-i18n="statScholars">✨ 3 Classical Scholars</span>
     <span class="hero-stat">🌙 Ramadan 2026</span>
   </div>
 </section>
@@ -656,16 +686,16 @@
 <!-- TOP CARDS -->
 <div class="top-cards">
     <div class="card-ramadan" style="grid-column: 1 / -1;">
-        <div class="card-label">🌙 Special Edition</div>
+        <div class="card-label" data-i18n="cardLabel">🌙 Special Edition</div>
         <div class="card-value">Ramadan 2026</div>
-        <div class="card-sub">One juz a day, all month</div>
+        <div class="card-sub" data-i18n="cardSub">One juz a day, all month</div>
     </div>
 </div>
 
 <!-- PROGRESS BAR -->
 <div class="progress-section">
   <div class="progress-header">
-    <span class="progress-label">📚 Completion Progress</span>
+    <span class="progress-label" data-i18n="progressLabel">📚 Completion Progress</span>
     <span class="progress-count" id="progress-text">9 of 30 complete</span>
   </div>
   <div class="progress-track">
@@ -678,9 +708,9 @@
 
   <!-- About -->
   <div class="about-card">
-    <h2>📜 About This Guide</h2>
-    <p>Each Juz guide contains Arabic text, English translation, plain-language explanation, and direct scholar commentary for every major passage. Key lessons are highlighted at the end of each section.</p>
-    <p>Commentary is drawn from three foundational works of classical tafsīr:</p>
+    <h2 data-i18n="aboutTitle">📜 About This Guide</h2>
+    <p data-i18n="aboutP1">Each Juz guide contains Arabic text, English translation, plain-language explanation, and direct scholar commentary for every major passage. Key lessons are highlighted at the end of each section.</p>
+    <p data-i18n="aboutP2">Commentary is drawn from three foundational works of classical tafsīr:</p>
     <div class="scholar-chips">
       <span class="scholar-chip">📜 Tafsīr Ibn Kathīr</span>
       <span class="scholar-chip">📜 Tafsīr Al-Jalālayn</span>
@@ -982,26 +1012,28 @@
       <span class="juz-arrow">→</span>
     </a>
 
-    <a href="/en/juz24" class="juz-card coming-soon">
+    <a href="/en/juz24" class="juz-card available">
       <div class="juz-card-top">
         <span class="juz-number">Juz 24</span>
-        <span class="juz-badge soon">Coming Soon</span>
+        <span class="juz-badge ready">✓ Available</span>
       </div>
       <div class="juz-arabic">فَمَنْ أَظْلَمُ</div>
       <div class="juz-title">Az-Zumar, Ghāfir & Fuṣṣilat</div>
       <div class="juz-surahs">Surahs 39–41</div>
       <div class="juz-verse-range">Az-Zumar 39:32 – Fuṣṣilat 41:46</div>
+      <span class="juz-arrow">→</span>
     </a>
 
-    <a href="/en/juz25" class="juz-card coming-soon">
+    <a href="/en/juz25" class="juz-card available">
       <div class="juz-card-top">
         <span class="juz-number">Juz 25</span>
-        <span class="juz-badge soon">Coming Soon</span>
+        <span class="juz-badge ready">✓ Available</span>
       </div>
       <div class="juz-arabic">إِلَيْهِ يُرَدُّ</div>
       <div class="juz-title">Fuṣṣilat, Ash-Shūrā, Az-Zukhruf & Ad-Dukhān</div>
       <div class="juz-surahs">Surahs 41–44</div>
       <div class="juz-verse-range">Fuṣṣilat 41:47 – Ad-Dukhān 44:59</div>
+      <span class="juz-arrow">→</span>
     </a>
 
     <a href="/en/juz26" class="juz-card coming-soon">
@@ -1065,11 +1097,11 @@
   <div class="legend">
     <div class="legend-item">
       <div class="legend-dot ready"></div>
-      <span>Available to read</span>
+      <span data-i18n="legendAvailable">Available to read</span>
     </div>
     <div class="legend-item">
       <div class="legend-dot soon"></div>
-      <span>Coming soon</span>
+      <span data-i18n="legendSoon">Coming soon</span>
     </div>
   </div>
 
@@ -1078,27 +1110,133 @@
 </div><!-- /container -->
 
 <footer>
-  <span class="footer-arabic">إِنَّ هَٰذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ</span>
-  "Indeed, this Qur'ān guides to that which is most suitable." (17:9)
+  <span class="footer-arabic">إِنَّ هَٰذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ</span>
+  <span data-i18n="footerVerse">"Indeed, this Qur’ān guides to that which is most suitable." (17:9)</span>
   <br><br>
-  Ramadan 2026 Tafsir Guide · Commentary from Ibn Kathīr, Al-Jalālayn & As-Sa'dī
+  <span data-i18n="footerLine">Ramadan 2026 Tafsir Guide · Commentary from Ibn Kathīr, Al-Jalālayn & As-Sa’dī</span>
   <br>
-  <small style="opacity:0.5; margin-top:0.5rem; display:block;">Arabic translations are approximate. Always refer to qualified scholars for religious rulings.</small>
+  <small style="opacity:0.5; margin-top:0.5rem; display:block;" data-i18n="footerDisclaimer">Arabic translations are approximate. Always refer to qualified scholars for religious rulings.</small>
 </footer>
 
 <script>
   // ─── BASE PATH DETECTION ───
-  const BASE_PATH = location.hostname === 'localhost' || location.hostname === '127.0.0.1'
+  var BASE_PATH = location.hostname === 'localhost' || location.hostname === '127.0.0.1'
     ? ''
     : '/quranicstudies';
 
-  // ─── UPDATE ALL JUZ LINKS ───
+  // ─── PREPEND BASE PATH TO JUZ LINKS (once) ───
   document.querySelectorAll('.juz-card').forEach(function(card) {
-    const href = card.getAttribute('href');
+    var href = card.getAttribute('href');
     if (href && href.startsWith('/')) {
       card.setAttribute('href', BASE_PATH + href);
     }
   });
+
+  // ─── TRANSLATION DICTIONARY ───
+  var HOME_UI = {
+    en: {
+      heroEyebrow:    'Verse-by-Verse Tafsir Guide',
+      heroTitle:      'Complete Qur\u2019\u0101n Tafsir<br>All 30 Juz',
+      heroSub:        'Classical commentary from Ibn Kath\u012br, Al-Jal\u0101layn & As-Sa\u2019d\u012b \u2014 in plain, accessible English',
+      statSurahs:     '\ud83d\udd4c 114 Surahs',
+      statScholars:   '\u2728 3 Classical Scholars',
+      cardLabel:      '\ud83c\udf19 Special Edition',
+      cardSub:        'One juz a day, all month',
+      progressLabel:  '\ud83d\udcda Completion Progress',
+      progressOf:     ' of ',
+      progressDone:   ' complete',
+      aboutTitle:     '\ud83d\udcdc About This Guide',
+      aboutP1:        'Each Juz guide contains Arabic text, English translation, plain-language explanation, and direct scholar commentary for every major passage. Key lessons are highlighted at the end of each section.',
+      aboutP2:        'Commentary is drawn from three foundational works of classical tafs\u012br:',
+      badgeAvailable: '\u2713 Available',
+      badgeSoon:      'Coming Soon',
+      legendAvailable:'Available to read',
+      legendSoon:     'Coming soon',
+      footerVerse:    '"Indeed, this Qur\u2019\u0101n guides to that which is most suitable." (17:9)',
+      footerLine:     'Ramadan 2026 Tafsir Guide \u00b7 Commentary from Ibn Kath\u012br, Al-Jal\u0101layn & As-Sa\u2019d\u012b',
+      footerDisclaimer:'Arabic translations are approximate. Always refer to qualified scholars for religious rulings.',
+      pageTitle:      'Qur\u2019\u0101n Tafsir Guide \u2014 All 30 Juz'
+    },
+    ms: {
+      heroEyebrow:    'Panduan Tafsir Ayat demi Ayat',
+      heroTitle:      'Tafsir Al-Quran Lengkap<br>Semua 30 Juz',
+      heroSub:        'Ulasan klasik daripada Ibn Kath\u012br, Al-Jal\u0101layn & As-Sa\u2019d\u012b \u2014 dalam bahasa yang mudah difahami',
+      statSurahs:     '\ud83d\udd4c 114 Surah',
+      statScholars:   '\u2728 3 Ulama Klasik',
+      cardLabel:      '\ud83c\udf19 Edisi Khas',
+      cardSub:        'Satu juz sehari, sepanjang bulan',
+      progressLabel:  '\ud83d\udcda Kemajuan Penyelesaian',
+      progressOf:     ' daripada ',
+      progressDone:   ' selesai',
+      aboutTitle:     '\ud83d\udcdc Tentang Panduan Ini',
+      aboutP1:        'Setiap panduan Juz mengandungi teks Arab, terjemahan, penerangan ringkas, dan ulasan langsung daripada para ulama untuk setiap petikan utama. Pengajaran utama diketengahkan di akhir setiap bahagian.',
+      aboutP2:        'Ulasan diambil daripada tiga karya tafsir klasik yang muktabar:',
+      badgeAvailable: '\u2713 Sedia Diakses',
+      badgeSoon:      'Akan Datang',
+      legendAvailable:'Sedia diakses',
+      legendSoon:     'Akan datang',
+      footerVerse:    '"Sesungguhnya Al-Quran ini membimbing ke jalan yang paling lurus." (17:9)',
+      footerLine:     'Panduan Tafsir Ramadan 2026 \u00b7 Ulasan daripada Ibn Kath\u012br, Al-Jal\u0101layn & As-Sa\u2019d\u012b',
+      footerDisclaimer:'Terjemahan Arab adalah anggaran. Sentiasa rujuk kepada ulama yang berkelayakan untuk hukum agama.',
+      pageTitle:      'Panduan Tafsir Al-Quran \u2014 Semua 30 Juz'
+    }
+  };
+
+  // ─── LANGUAGE STATE ───
+  var LANG = localStorage.getItem('tafsir-lang') || 'en';
+
+  // ─── APPLY LANGUAGE ───
+  function applyLanguage(lang) {
+    LANG = lang;
+    var ui = HOME_UI[lang];
+
+    // Page title & html lang
+    document.title = ui.pageTitle;
+    document.documentElement.lang = lang;
+
+    // data-i18n elements
+    document.querySelectorAll('[data-i18n]').forEach(function(el) {
+      var key = el.getAttribute('data-i18n');
+      if (ui[key] !== undefined) {
+        if (el.hasAttribute('data-i18n-html')) {
+          el.innerHTML = ui[key];
+        } else {
+          el.textContent = ui[key];
+        }
+      }
+    });
+
+    // Badges
+    document.querySelectorAll('.juz-badge.ready').forEach(function(el) {
+      el.textContent = ui.badgeAvailable;
+    });
+    document.querySelectorAll('.juz-badge.soon').forEach(function(el) {
+      el.textContent = ui.badgeSoon;
+    });
+
+    // Juz card links: swap /en/ ↔ /ms/
+    document.querySelectorAll('.juz-card').forEach(function(card) {
+      var href = card.getAttribute('href');
+      if (href) {
+        card.setAttribute('href', href.replace(/\/(en|ms)\//, '/' + lang + '/'));
+      }
+    });
+
+    // Progress bar
+    var avail = document.querySelectorAll('.juz-card.available').length;
+    var pct = (avail / 30 * 100).toFixed(2);
+    document.getElementById('progress-fill').style.width = pct + '%';
+    document.getElementById('progress-text').textContent = avail + ui.progressOf + '30' + ui.progressDone;
+
+    // Lang toggle label
+    document.getElementById('lang-label').textContent = lang.toUpperCase();
+  }
+
+  function toggleLang() {
+    var next = LANG === 'en' ? 'ms' : 'en';
+    localStorage.setItem('tafsir-lang', next);
+    applyLanguage(next);
+  }
 
   // ─── THEME TOGGLE ───
   function getTheme() {
@@ -1106,31 +1244,26 @@
   }
   function applyTheme(theme) {
     document.documentElement.setAttribute('data-theme', theme);
-    const icon = document.getElementById('theme-icon');
-    const label = document.getElementById('theme-label');
+    var icon = document.getElementById('theme-icon');
+    var label = document.getElementById('theme-label');
     if (theme === 'dark') {
-      icon.textContent = '☀️';
+      icon.textContent = '\u2600\ufe0f';
       label.textContent = 'Light';
     } else {
-      icon.textContent = '🌙';
+      icon.textContent = '\ud83c\udf19';
       label.textContent = 'Dark';
     }
   }
   function toggleTheme() {
-    const current = getTheme();
-    const next = current === 'dark' ? 'light' : 'dark';
+    var current = getTheme();
+    var next = current === 'dark' ? 'light' : 'dark';
     localStorage.setItem('tafsir-theme', next);
     applyTheme(next);
   }
-  applyTheme(getTheme());
 
-  // ─── PROGRESS ───
-  // Count available cards
-  const available = document.querySelectorAll('.juz-card.available').length;
-  const total = 30;
-  const pct = (available / total * 100).toFixed(2);
-  document.getElementById('progress-fill').style.width = pct + '%';
-  document.getElementById('progress-text').textContent = available + ' of ' + total + ' complete';
+  // ─── INIT ───
+  applyTheme(getTheme());
+  applyLanguage(LANG);
 
 </script>
 
@@ -1147,7 +1280,7 @@
       </div>
       <div class="tip-btn-preview">
         <div class="tip-btn-circle tip-btn-text">EN</div>
-        <span>Language<br><em style="font-size:0.65rem;opacity:0.7">(on Juz pages)</em></span>
+        <span>Language</span>
       </div>
     </div>
     <p>Use the buttons in the <strong>top-right corner</strong> to personalise your reading.</p>
