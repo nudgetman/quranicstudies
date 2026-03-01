@@ -1,0 +1,830 @@
+{
+  "juz": 25,
+  "meta": {
+    "title": {
+      "en": "Juz 25 — The Unified Message & The Illusion of Gold",
+      "ms": "Juz 25 — Mesej yang Bersatu & Ilusi Emas"
+    },
+    "arabic_name": "الجزء الخامس والعشرون",
+    "night": 25,
+    "reader": "A",
+    "quote": {
+      "en": "We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth. But is it not sufficient concerning your Lord that He is, over all things, a Witness?",
+      "ms": "Kami akan memperlihatkan kepada mereka tanda-tanda kekuasaan Kami di merata-rata tempat (alam semesta) dan pada diri mereka sendiri, sehingga ternyata jelas kepada mereka bahawa Al-Quran adalah benar. Belumkah ternyata kepada mereka kebenaran itu dan belumkah cukup (bagi mereka) bahawa Tuhanmu itu sentiasa Memerhati dan Menyaksikan tiap-tiap sesuatu?",
+      "ref": "41:53"
+    }
+  },
+  "toc": [
+    {
+      "id": "section-01",
+      "en": "Fussilat 47–54 · The Knowledge of the Hour & Signs in the Horizons",
+      "ms": "Fussilat 47–54 · Pengetahuan tentang Kiamat & Tanda-tanda di Ufuk"
+    },
+    {
+      "id": "section-02",
+      "en": "Surah Ash-Shura — Introduction",
+      "ms": "Surah Ash-Shura — Pengenalan"
+    },
+    {
+      "id": "section-03",
+      "en": "Ash-Shura 1–22 · The Unified Religion & The Tragedy of Sectarianism",
+      "ms": "Ash-Shura 1–22 · Agama yang Bersatu & Tragedi Perpecahan Mazhab"
+    },
+    {
+      "id": "section-04",
+      "en": "Ash-Shura 23–43 · Consultation (Shura), Forgiveness & Standing Against Tyranny",
+      "ms": "Ash-Shura 23–43 · Permesyuaratan (Syura), Kemaafan & Penentangan Terhadap Kezaliman"
+    },
+    {
+      "id": "section-05",
+      "en": "Ash-Shura 44–53 · The Distribution of Sustenance & The Mechanics of Revelation",
+      "ms": "Ash-Shura 44–53 · Pengagihan Rezeki & Mekanisme Wahyu"
+    },
+    {
+      "id": "section-06",
+      "en": "Surah Az-Zukhruf — Introduction",
+      "ms": "Surah Az-Zukhruf — Pengenalan"
+    },
+    {
+      "id": "section-07",
+      "en": "Az-Zukhruf 1–35 · The Mother of the Book & The Excuse of Tradition",
+      "ms": "Az-Zukhruf 1–35 · Ibu Kitab & Alasan Tradisi"
+    },
+    {
+      "id": "section-08",
+      "en": "Az-Zukhruf 36–89 · The Illusion of Gold (Zukhruf) & Friends Who Become Enemies",
+      "ms": "Az-Zukhruf 36–89 · Ilusi Emas (Zukhruf) & Kawan yang Menjadi Musuh"
+    },
+    {
+      "id": "section-09",
+      "en": "Surah Ad-Dukhan — Introduction & 1–59 · The Smoke of Certainty & The Tree of Zaqqum",
+      "ms": "Surah Ad-Dukhan — Pengenalan & 1–59 · Asap Kepastian & Pokok Zaqqum"
+    },
+    {
+      "id": "section-10",
+      "en": "Surah Al-Jathiyah — Introduction",
+      "ms": "Surah Al-Jathiyah — Pengenalan"
+    },
+    {
+      "id": "section-11",
+      "en": "Al-Jathiyah 1–37 · The Kneeling Nations & The Arrogance of Materialism",
+      "ms": "Al-Jathiyah 1–37 · Bangsa yang Berlutut & Kesombongan Materialisme"
+    },
+    {
+      "id": "section-12",
+      "en": "Overarching Themes of Juz 25",
+      "ms": "Tema Utama Juz 25"
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-01",
+      "type": "passage",
+      "surah_number": 41,
+      "verse_start": 47,
+      "verse_end": 54,
+      "en": {
+        "title": "The Knowledge of the Hour & Signs in the Horizons",
+        "theme": "The monopoly of divine knowledge, the fickle nature of human prayer, and the ultimate scientific proof of the Quran.",
+        "arabic": "إِلَيْهِ يُرَدُّ عِلْمُ السَّاعَةِ ۚ وَمَا تَخْرُجُ مِن ثَمَرَاتٍ مِّنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِ ۚ... سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ ۗ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+        "translation": "To Him [alone] is attributed knowledge of the Hour. And fruits emerge not from their coverings nor does a female conceive or give birth except with His knowledge... We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth. But is it not sufficient concerning your Lord that He is, over all things, a Witness?",
+        "explanation": [
+          "Juz 25 opens by cementing God's absolute monopoly over the Unseen. No human, angel, or technology can predict the Day of Judgment. God's knowledge is incredibly intimate: not a single fruit bursts from its bud, and no female of any species conceives or gives birth without His exact knowledge. This creates a profound sense of awe; the Creator of the massive universe is simultaneously managing the microscopic details of life.",
+          "The Quran then exposes the inconsistent, selfish nature of human prayer. When man experiences worldly success, he distances himself from God, arrogantly assuming his good fortune will last forever. But the moment disaster strikes, he suddenly engages in 'lengthy supplication'. God warns that treating Him merely as a cosmic emergency service is a symptom of deep spiritual delusion.",
+          "Surah Fussilat concludes with one of the most majestic prophecies in the Quran (Verse 53). Allah promises that future generations will discover His 'signs in the horizons' (astronomy, astrophysics, the outer universe) and 'within themselves' (biology, genetics, psychology) until the absolute truth of the Quran becomes undeniable. Science and observation are not enemies of faith; they are the exact tools God uses to prove His existence to the modern mind."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Discusses the scope of Verse 53. Ibn Kathir explains that 'horizons' refers to the conquests and the expansion of the Islamic state across the known world, but also to the celestial bodies—the sun, moon, and stars. 'Within themselves' refers to the incredible, flawless engineering of human anatomy and the intricate creation of the soul."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Highlights the irony of the polytheists' mindset on Judgment Day. When Allah asks them 'Where are My partners?', they will reply, 'We announce to You, there is no witness among us.' Al-Jalalayn notes that the idols they passionately defended in life will vanish, and the polytheists will be forced to confess their own delusion."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the psychology of the 'fair-weather' believer. As-Sa'di states that true faith requires spiritual stability. A person who only prays when their life falls apart is treating God like a tool, not a Master. When a person attributes their success to their own intellect ('This is due to me'), they commit a subtle form of arrogance that invites divine removal of that blessing."
+          }
+        ],
+        "lessons": [
+          "🔬 Faith through Science: The Quran does not demand blind faith; it actively commands scientific observation. The deeper you study astronomy, biology, or quantum physics, the more clearly you will see the undeniable signature of the Creator. Science is the study of God's work.",
+          "🤲 The Danger of Emergency Prayers: Do not only talk to God when your bank account is empty or your health fails. A relationship built only on crises is weak. Pray to Him with intense gratitude when you are at the peak of your success to anchor your humility.",
+          "🤰 Infinite Awareness: If God knows the exact moment a tiny seed breaks its casing or a creature conceives in the dark, He certainly knows the quiet struggles, the unspoken anxieties, and the silent tears you experience. You are intimately known and seen."
+        ]
+      },
+      "ms": {
+        "title": "Pengetahuan tentang Kiamat & Tanda-tanda di Ufuk",
+        "theme": "Monopoli mutlak terhadap pengetahuan ghaib, sifat doa manusia yang berubah-ubah, dan bukti saintifik mutlak Al-Quran.",
+        "arabic": "إِلَيْهِ يُرَدُّ عِلْمُ السَّاعَةِ ۚ وَمَا تَخْرُجُ مِن ثَمَرَاتٍ مِّنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِ ۚ... سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ ۗ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+        "translation": "KepadaNyalah dikembalikan pengetahuan tentang hari kiamat. Dan tiada buah-buahan yang keluar dari kelopaknya, dan tiada seorang perempuan pun yang mengandung dan yang melahirkan, melainkan dengan pengetahuanNya... Kami akan memperlihatkan kepada mereka tanda-tanda kekuasaan Kami di merata-rata tempat (ufuk alam semesta) dan pada diri mereka sendiri, sehingga ternyata jelas kepada mereka bahawa Al-Quran adalah benar. Belumkah ternyata kepada mereka kebenaran itu dan belumkah cukup (bagi mereka) bahawa Tuhanmu itu sentiasa Memerhati dan Menyaksikan tiap-tiap sesuatu?",
+        "explanation": [
+          "Juz 25 bermula dengan mengukuhkan monopoli mutlak Tuhan ke atas Alam Ghaib. Tiada manusia, malaikat, atau teknologi yang boleh meramalkan Hari Kiamat. Pengetahuan Tuhan sangat intim: tiada satu pun buah yang pecah dari kudupnya, dan tiada betina daripada mana-mana spesies yang mengandung atau melahirkan tanpa pengetahuan-Nya yang tepat. Ini mewujudkan rasa kagum yang mendalam; Pencipta alam semesta yang besar secara serentak menguruskan butiran mikroskopik kehidupan.",
+          "Al-Quran kemudian mendedahkan sifat doa manusia yang tidak konsisten dan mementingkan diri sendiri. Apabila manusia mengalami kejayaan dunia, dia menjauhkan dirinya daripada Tuhan, dengan sombong mengandaikan nasib baiknya akan kekal selamanya. Tetapi sebaik sahaja bencana melanda, dia tiba-tiba memanjatkan 'doa yang panjang lebar'. Tuhan memberi amaran bahawa melayan Dia semata-mata sebagai perkhidmatan kecemasan kosmik adalah simptom delusi rohani yang mendalam.",
+          "Surah Fussilat diakhiri dengan salah satu ramalan paling agung dalam Al-Quran (Ayat 53). Allah berjanji bahawa generasi akan datang akan menemui 'tanda-tanda-Nya di ufuk' (astronomi, astrofizik, alam semesta luar) dan 'pada diri mereka sendiri' (biologi, genetik, psikologi) sehinggalah kebenaran mutlak Al-Quran menjadi sesuatu yang tidak dapat dinafikan. Sains dan pemerhatian bukanlah musuh keimanan; ia adalah alat tepat yang Tuhan gunakan untuk membuktikan kewujudan-Nya kepada minda moden."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Membincangkan skop Ayat 53. Ibn Kathir menjelaskan bahawa 'ufuk' merujuk kepada penaklukan dan pengembangan negara Islam di seluruh dunia yang diketahui, tetapi juga kepada jasad cakerawala—matahari, bulan, dan bintang. 'Pada diri mereka sendiri' merujuk kepada kejuruteraan anatomi manusia yang luar biasa dan sempurna serta penciptaan jiwa yang rumit."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menonjolkan ironi pemikiran kaum musyrik pada Hari Kiamat. Apabila Allah bertanya kepada mereka 'Di manakah sekutu-sekutu-Ku?', mereka akan menjawab, 'Kami nyatakan kepada-Mu, tiada seorang pun di antara kami yang dapat menjadi saksi.' Al-Jalalayn mencatatkan bahawa berhala yang mereka pertahankan dengan penuh semangat dalam kehidupan akan lenyap, dan kaum musyrik akan terpaksa mengakui khayalan mereka sendiri."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus pada psikologi mukmin 'musim baik'. As-Sa'di menyatakan bahawa iman yang sebenar memerlukan kestabilan rohani. Seseorang yang hanya berdoa apabila hidupnya musnah sedang melayan Tuhan seperti alat, bukan seperti Tuan. Apabila seseorang mengaitkan kejayaannya kepada inteleknya sendiri ('Ini adalah kerana usahaku'), mereka melakukan satu bentuk kesombongan halus yang mengundang penarikan semula nikmat tersebut oleh Tuhan."
+          }
+        ],
+        "lessons": [
+          "🔬 Iman melalui Sains: Al-Quran tidak menuntut keimanan yang buta; ia secara aktif memerintahkan pemerhatian saintifik. Semakin mendalam anda mengkaji astronomi, biologi, atau fizik kuantum, semakin jelas anda akan melihat tandatangan Pencipta yang tidak dapat dinafikan. Sains adalah kajian tentang hasil kerja Tuhan.",
+          "🤲 Bahaya Doa Kecemasan: Jangan hanya bercakap dengan Tuhan apabila akaun bank anda kosong atau kesihatan anda merosot. Hubungan yang dibina semata-mata atas krisis adalah lemah. Berdoalah kepada-Nya dengan rasa syukur yang mendalam apabila anda berada di kemuncak kejayaan anda untuk mengukuhkan rasa rendah diri anda.",
+          "🤰 Kesedaran yang Tidak Terhingga: Jika Tuhan mengetahui masa yang tepat sebiji benih kecil memecahkan kelopaknya atau seekor makhluk hamil di dalam kegelapan, Dia pastinya mengetahui perjuangan senyap, kebimbangan yang tidak terucap, dan air mata bisu yang anda alami. Anda dikenali dan dilihat secara intim."
+        ]
+      }
+    },
+    {
+      "id": "section-02",
+      "type": "intro",
+      "surah_number": 42,
+      "en": {
+        "title": "Surah Ash-Shura — Introduction",
+        "theme": "The Unity of Religion, The Council of Believers, and The Mechanics of Revelation.",
+        "explanation": [
+          "Surah Ash-Shura (Consultation) is the third in the sequence of the seven Makkan 'Ha-Mim' surahs. While maintaining the majestic theological tone of the series, this surah introduces crucial socio-political and historical themes, focusing heavily on how human beings receive, interpret, and organize themselves around divine truth.",
+          "The surah takes its name from Verse 38, which establishes 'Shura' (mutual consultation) as a fundamental pillar of Islamic governance and community life. The Quran describes true believers not as dictators or isolated monks, but as a community whose affairs are decided 'by consultation among themselves.' This laid the foundation for democratic principles and collective decision-making within the Islamic state.",
+          "A major overarching theme of Surah Ash-Shura is the unity of the prophetic message. The surah repeatedly emphasizes that Prophet Muhammad did not invent a new religion. The core theology—Tawhid (monotheism)—given to him is exactly the same as that given to Nuh (Noah), Ibrahim (Abraham), Musa (Moses), and Isa (Jesus). It aggressively condemns sectarianism, explaining that religious factions only split out of mutual jealousy and political rivalry, not out of a lack of clarity in the divine message."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Highlights the profound opening of the surah. The heavy combination of the disconnected letters (Ha, Meem, 'Ayn, Seen, Qaaf) immediately signals the immense weight of revelation. Ibn Kathir notes that the heavens almost break apart from the sheer majesty and glory of God passing His revelation down through the cosmos to the earth."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Contextualizes the verses condemning sectarianism. Al-Jalalayn points out that the People of the Book split into hostile factions *after* the clear knowledge had come to them, driven by 'Baghyan' (mutual hatred, jealousy, and a desire for worldly dominance). The Muslims are sternly warned not to repeat this historical tragedy."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the concept of 'Shura' (Consultation). As-Sa'di explains that consultation is required in all matters that affect the public, from family decisions to high-level state governance. It prevents tyranny, pools collective wisdom, and ensures that the community takes ownership of its decisions. A leader who consults is a leader acting upon divine instruction."
+          }
+        ]
+      },
+      "ms": {
+        "title": "Surah Ash-Shura — Pengenalan",
+        "theme": "Kesatuan Agama, Majlis Orang Beriman, dan Mekanisme Wahyu.",
+        "explanation": [
+          "Surah Ash-Shura (Permesyuaratan) adalah yang ketiga dalam urutan tujuh surah Makkiyah 'Ha-Mim'. Sambil mengekalkan nada teologi agung siri ini, surah ini memperkenalkan tema sosio-politik dan sejarah yang sangat penting, dengan tumpuan besar pada cara manusia menerima, mentafsir, dan menyusun diri mereka di sekitar kebenaran Ilahi.",
+          "Surah ini mengambil namanya daripada Ayat 38, yang menetapkan 'Syura' (permesyuaratan bersama) sebagai tonggak asas tadbir urus dan kehidupan komuniti Islam. Al-Quran menggambarkan mukmin sejati bukan sebagai diktator atau sami yang mengasingkan diri, tetapi sebagai satu komuniti yang urusan mereka diputuskan 'secara mesyuarat sesama mereka.' Ini meletakkan asas bagi prinsip demokrasi dan pembuatan keputusan kolektif dalam negara Islam.",
+          "Satu tema menyeluruh yang utama dalam Surah Ash-Shura ialah kesatuan mesej kenabian. Surah ini berulang kali menekankan bahawa Nabi Muhammad tidak mencipta agama baru. Teologi teras—Tauhid—yang diberikan kepada baginda adalah sama dengan yang diberikan kepada Nuh, Ibrahim, Musa, dan Isa. Ia mengutuk secara agresif perpecahan mazhab, menjelaskan bahawa puak-puak agama berpecah semata-mata kerana perasaan dengki sesama mereka dan persaingan politik, bukan kerana ketiadaan kejelasan dalam mesej Ilahi."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menonjolkan pembukaan surah yang mendalam. Gabungan berat huruf-huruf muqatta'at (Ha, Mim, 'Ain, Sin, Qaf) serta-merta memberi isyarat tentang betapa beratnya wahyu tersebut. Ibn Kathir mencatatkan bahawa langit hampir pecah akibat keagungan dan kemuliaan Tuhan ketika Dia menurunkan wahyu-Nya melalui kosmos ke bumi."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Meletakkan konteks pada ayat-ayat yang mengutuk perpecahan mazhab. Al-Jalalayn menunjukkan bahawa Ahli Kitab berpecah kepada puak-puak yang bermusuhan *selepas* pengetahuan yang jelas datang kepada mereka, didorong oleh 'Baghyan' (kebencian sesama mereka, cemburu, dan keinginan untuk penguasaan duniawi). Umat Islam diberi amaran keras agar tidak mengulangi tragedi sejarah ini."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus kepada konsep 'Syura' (Permesyuaratan). As-Sa'di menjelaskan bahawa permesyuaratan diwajibkan dalam semua perkara yang memberi kesan kepada orang awam, daripada keputusan keluarga kepada tadbir urus negara peringkat tinggi. Ia mencegah kezaliman, mengumpulkan kebijaksanaan kolektif, dan memastikan bahawa komuniti mengambil tanggungjawab atas keputusannya. Pemimpin yang bermesyuarat adalah pemimpin yang bertindak atas arahan Ilahi."
+          }
+        ]
+      }
+    },
+    {
+      "id": "section-03",
+      "type": "passage",
+      "surah_number": 42,
+      "verse_start": 1,
+      "verse_end": 22,
+      "en": {
+        "title": "The Unified Religion & The Tragedy of Sectarianism",
+        "theme": "The awe of the heavens, the continuity of the Prophetic legacy, and the prohibition of splitting the religion.",
+        "arabic": "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ ۚ وَالْمَلَائِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ... شَرَعَ لَكُم مِّنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَىٰ ۖ أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ ۚ... وَمَا تَفَرَّقُوا إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۚ",
+        "translation": "The heavens almost break from above them, and the angels exalt [Allah] with praise of their Lord... He has ordained for you of religion what He enjoined upon Noah and that which We have revealed to you, [O Muhammad], and what We enjoined upon Abraham and Moses and Jesus - to establish the religion and not be divided therein... And they did not become divided until after knowledge had come to them - out of jealous animosity between themselves...",
+        "explanation": [
+          "The surah opens with an incredibly visceral image: the immense, physical heavens are on the verge of breaking apart from the sheer weight of God's majesty and glory situated above them. Beneath this cosmic awe, the angels are in constant, terrified reverence, continually praying for the forgiveness of humanity on earth.",
+          "Verse 13 delivers the central theological thesis of the surah. Allah declares that Islam is not a novel invention; it is the exact same religious blueprint given to Noah, Abraham, Moses, and Jesus. The core command across all eras is identical: 'Establish the religion and do not be divided therein.' Monotheism is the universal thread connecting all major prophets.",
+          "The Quran then analyzes why historical religions fractured into hostile sects. It was not because the prophets were unclear, nor because the scriptures were flawed. The divisions occurred *after* the knowledge arrived, driven purely by 'Baghyan'—jealousy, mutual hatred, and the desire of religious elites to maintain political and financial power over their followers. To prevent the Muslims from suffering the same fate, the Prophet is commanded to 'call to that [unified religion], and stand firm as you are commanded, and do not follow their inclinations.'"
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Reflects on the list of prophets in Verse 13. Ibn Kathir notes that these five (Noah, Abraham, Moses, Jesus, and Muhammad) are the 'Ulu'l-'Azm' (the Prophets of Strong Resolve). Allah mentioning them together proves that the legislative specifics (halal and haram) might change over time based on societal needs, but the foundation of worshipping One God without partners is eternal and unchangeable."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Analyzes the psychology of 'Baghyan' (animosity/transgression). Al-Jalalayn explains that previous nations split not out of ignorance, but out of worldly rivalry. The religious leaders understood the truth but suppressed it because accepting it would mean submitting to a new prophet and losing their established social dominance."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the command to 'establish the religion'. As-Sa'di clarifies that 'establishing' it means embodying it completely—in beliefs, manners, and actions. However, doing so inevitably causes friction with society. Therefore, the immediate subsequent command 'and do not be divided therein' is a warning: do not let external pressures or ego-driven arguments shatter your internal unity as a community."
+          }
+        ],
+        "lessons": [
+          "🔗 You Belong to an Ancient Legacy: As a Muslim, you are not part of a 'new' religion. You are the direct inheritor of the pure, unbroken legacy of Noah, Abraham, Moses, and Jesus. Honor all the prophets by maintaining the monotheism they suffered to establish.",
+          "💔 The Disease of Sectarianism: Splitting the religion into warring factions is heavily condemned by God. Theological debates are natural, but when they devolve into mutual hatred, excommunication, and ego-driven rivalry ('Baghyan'), it destroys the fabric of faith.",
+          "⚖️ Stand Firm, Don't Pander: The Prophet was commanded to 'stand firm' and 'not follow their inclinations.' When society pushes you to water down your ethics or fragment your beliefs to fit in, you must hold the line. Unity does not mean compromising the core truth."
+        ]
+      },
+      "ms": {
+        "title": "Agama yang Bersatu & Tragedi Perpecahan Mazhab",
+        "theme": "Rasa gerun dari langit, kesinambungan warisan Kenabian, dan larangan memecahbelahkan agama.",
+        "arabic": "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ ۚ وَالْمَلَائِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ... شَرَعَ لَكُم مِّنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَىٰ ۖ أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ ۚ... وَمَا تَفَرَّقُوا إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۚ",
+        "translation": "Langit hampir-hampir pecah dari sebelah atasnya (kerana kehebatan Allah), dan malaikat bertasbih dengan memuji Tuhannya... Allah telah menerangkan kepada kamu di antara perkara-perkara ugama yang Ia tetapkan hukumnya apa yang telah diperintahkanNya kepada Nabi Nuh, dan yang telah Kami wahyukan kepadamu (wahai Muhammad), dan juga yang telah Kami perintahkan kepada Nabi Ibrahim dan Nabi Musa serta Nabi Isa, iaitu: 'Tegakkanlah pendirian ugama, dan janganlah kamu berpecah belah padanya.'... Dan umat tiap-tiap Rasul tidak berpecah belah melainkan setelah sampai kepada mereka ilmu (yang membawa kebenaran), (berlakunya yang demikian) kerana hasad dengki dan permusuhan sesama mereka...",
+        "explanation": [
+          "Surah ini bermula dengan imej yang sangat mendalam: langit fizikal yang sangat besar hampir terbelah dari atas kerana beratnya keagungan dan kemuliaan Tuhan yang berada di atasnya. Di bawah kehebatan kosmik ini, para malaikat berada dalam keadaan gerun yang berterusan, sentiasa mendoakan keampunan bagi manusia di bumi.",
+          "Ayat 13 menyampaikan tesis teologi utama surah ini. Allah mengisytiharkan bahawa Islam bukanlah satu ciptaan baru; ia adalah pelan tindakan agama yang sama yang diberikan kepada Nuh, Ibrahim, Musa, dan Isa. Perintah teras merentas semua era adalah sama: 'Tegakkanlah agama dan janganlah kamu berpecah belah padanya.' Monoteisme (Tauhid) adalah benang universal yang menghubungkan semua nabi-nabi besar.",
+          "Al-Quran kemudian menganalisis mengapa agama-agama sejarah berpecah kepada mazhab yang bermusuhan. Ia bukan kerana nabi-nabi tidak jelas, bukan juga kerana kitab suci mempunyai kecacatan. Perpecahan itu berlaku *selepas* ilmu itu tiba, didorong semata-mata oleh 'Baghyan'—hasad dengki, kebencian sesama sendiri, dan keinginan golongan elit agama untuk mengekalkan kuasa politik dan kewangan ke atas pengikut mereka. Untuk mengelakkan umat Islam daripada mengalami nasib yang sama, Nabi diperintahkan untuk 'menyeru kepada ugama itu, dan tetap teguhlah sebagaimana yang diperintahkan kepadamu, dan janganlah engkau menurut hawa nafsu mereka.'"
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Merenung senarai nabi dalam Ayat 13. Ibn Kathir mencatatkan bahawa lima nabi ini (Nuh, Ibrahim, Musa, Isa, dan Muhammad) adalah 'Ulul Azmi' (Nabi-nabi yang Mempunyai Keazaman yang Kuat). Tindakan Allah menyebut mereka bersama membuktikan bahawa perincian perundangan (halal dan haram) mungkin berubah mengikut peredaran masa berdasarkan keperluan masyarakat, tetapi asas menyembah Tuhan Yang Esa tanpa sekutu adalah kekal dan tidak boleh diubah."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menganalisis psikologi 'Baghyan' (permusuhan/pelanggaran). Al-Jalalayn menjelaskan bahawa umat terdahulu berpecah bukan kerana kejahilan, tetapi kerana persaingan duniawi. Pemimpin agama memahami kebenaran tetapi menyembunyikannya kerana menerima kebenaran bermakna tunduk kepada nabi baru dan kehilangan penguasaan sosial mereka yang telah mantap."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus kepada perintah untuk 'menegakkan agama'. As-Sa'di menjelaskan bahawa 'menegakkannya' bermaksud menghayatinya sepenuhnya—dalam kepercayaan, akhlak, dan perbuatan. Walau bagaimanapun, berbuat demikian pasti akan menyebabkan pergeseran dengan masyarakat. Oleh itu, perintah seterusnya 'dan janganlah kamu berpecah belah padanya' adalah satu amaran: jangan biarkan tekanan luaran atau hujah yang didorong oleh ego menghancurkan perpaduan dalaman anda sebagai sebuah komuniti."
+          }
+        ],
+        "lessons": [
+          "🔗 Anda Pemilik Warisan Purba: Sebagai seorang Muslim, anda bukan sebahagian daripada agama 'baru'. Anda adalah pewaris langsung kepada warisan suci dan tidak terputus daripada Nuh, Ibrahim, Musa, dan Isa. Hormati semua nabi dengan mengekalkan Tauhid yang mereka pertahankan dengan susah payah.",
+          "💔 Penyakit Berpuak-puak: Memecahbelahkan agama kepada puak-puak yang bermusuhan sangat dikutuk oleh Tuhan. Perdebatan teologi adalah lumrah, tetapi apabila ia bertukar menjadi kebencian sesama sendiri, saling mengkafirkan, dan persaingan didorong ego ('Baghyan'), ia memusnahkan fabrik keimanan.",
+          "⚖️ Berdiri Teguh, Jangan Mengikut Telunjuk: Nabi diperintahkan untuk 'tetap teguh' dan 'jangan menurut hawa nafsu mereka.' Apabila masyarakat mendesak anda untuk mencairkan etika anda atau memecahkan kepercayaan anda untuk menyesuaikan diri, anda mesti mempertahankan batasan tersebut. Perpaduan tidak bermakna menggadaikan kebenaran teras."
+        ]
+      }
+    },
+    {
+      "id": "section-04",
+      "type": "passage",
+      "surah_number": 42,
+      "verse_start": 23,
+      "verse_end": 43,
+      "en": {
+        "title": "Consultation (Shura), Forgiveness & Standing Against Tyranny",
+        "theme": "The political framework of consultation, the balance between justice and mercy, and the courage to forgive.",
+        "arabic": "وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلَاةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ... وَجَزَاءُ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ ۚ... وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ الْأُمُورِ",
+        "translation": "And those who have responded to their lord and established prayer and whose affair is [determined by] consultation among themselves... And the retribution for an evil act is an evil one like it, but whoever pardons and makes reconciliation - his reward is [due] from Allah... And whoever is patient and forgives - indeed, that is of the matters [requiring] resolve.",
+        "explanation": [
+          "In this profound sequence, Allah outlines the defining characteristics of a healthy Islamic society. Nestled between establishing prayer and giving charity is a groundbreaking political and social mandate: 'their affair is determined by consultation (Shura) among themselves.' Islam rejects tyranny and dictatorship. A true believing community pools its collective intellect, discusses issues openly, and makes decisions together, whether in a household or a nation.",
+          "The passage then shifts to the ethics of conflict resolution, striking a brilliant balance between justice and mercy. Allah establishes the baseline of justice: the retribution for an evil act is an exact equal punishment. Victims have the absolute right to seek legal redress. Islam is not a religion of absolute pacifism that demands you allow oppressors to trample you.",
+          "However, immediately after establishing the right to exact justice, Allah elevates the believer to a higher moral plane. 'Whoever pardons and makes reconciliation - his reward is from Allah.' If forgiving someone leads to genuine reform and heals a relationship, choosing to suppress your anger and forgive requires massive internal strength ('resolve'). Justice is the law, but mercy is the ideal."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Discusses the practice of Shura. Ibn Kathir notes that the Prophet Muhammad, despite receiving direct divine revelation, consulted his companions more than anyone else on matters of war, economy, and social affairs, purposefully setting the precedent that no leader is above the collective wisdom of their community."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the conditions of forgiveness in Verse 40. Al-Jalalayn points out that pardon is coupled with 'reconciliation' (Aslaha). Forgiveness is highly rewarded when it repairs a bond or reforms the offender. If forgiving a tyrant only empowers him to oppress others, then seeking exact justice becomes the better, required action."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Analyzes the phrase 'his reward is from Allah'. As-Sa'di states that when you give up your right to revenge, you transfer your 'invoice' from a human being to the Creator of the heavens and the earth. God's compensation for your patience will infinitely outweigh whatever satisfaction revenge would have given you."
+          }
+        ],
+        "lessons": [
+          "🗣️ The Power of Consultation: Don't be a dictator in your home, your workplace, or your community. Seeking advice and discussing decisions with those affected by them is a divine command. It prevents arrogant mistakes and builds mutual respect.",
+          "⚖️ Justice First, Mercy Second: You have the right to defend yourself and seek justice when wronged. Do not let anyone emotionally manipulate you into thinking standing up for your rights is 'un-Islamic'.",
+          "🕊️ The Courage to Heal: While you have the right to strike back, choosing to forgive someone who is genuinely sorry is a sign of immense emotional strength. If you pardon them, God promises to personally handle your reward. Let it go to grow."
+        ]
+      },
+      "ms": {
+        "title": "Permesyuaratan (Syura), Kemaafan & Penentangan Terhadap Kezaliman",
+        "theme": "Rangka kerja politik permesyuaratan, keseimbangan antara keadilan dan belas kasihan, dan keberanian untuk memaafkan.",
+        "arabic": "وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلَاةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ... وَجَزَاءُ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ ۚ... وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ الْأُمُورِ",
+        "translation": "Dan juga orang-orang yang menyahut seruan Tuhan mereka serta mendirikan sembahyang; dan urusan mereka dijalankan secara bermesyuarat sesama mereka... Dan balasan sesuatu kejahatan ialah kejahatan yang seimbang dengannya; dalam pada itu sesiapa yang memaafkan (kejahatan orang) dan berbuat baik (kepadanya), maka pahalanya tetap dijamin oleh Allah... Dan sesungguhnya orang yang bersabar serta memaafkan (kesalahan orang terhadapnya), sesungguhnya yang demikian itu adalah dari perkara-perkara yang dikehendaki diambil berat (melakukannya).",
+        "explanation": [
+          "Dalam urutan yang mendalam ini, Allah menggariskan ciri-ciri penentu masyarakat Islam yang sihat. Terletak di antara mendirikan solat dan bersedekah adalah mandat politik dan sosial yang berinovasi: 'urusan mereka dijalankan secara bermesyuarat (Syura) sesama mereka.' Islam menolak kezaliman dan kediktatoran. Komuniti mukmin yang sebenar mengumpulkan intelek kolektifnya, membincangkan isu secara terbuka, dan membuat keputusan bersama, sama ada dalam sesebuah isi rumah atau negara.",
+          "Petikan ini kemudian beralih kepada etika penyelesaian konflik, mewujudkan keseimbangan yang cemerlang antara keadilan dan belas kasihan. Allah menetapkan garis dasar keadilan: balasan bagi sesuatu kejahatan adalah hukuman yang sama rata. Mangsa mempunyai hak mutlak untuk mendapatkan pembelaan undang-undang. Islam bukanlah agama pasifisme mutlak yang menuntut anda membiarkan penindas memijak anda.",
+          "Walau bagaimanapun, sejurus selepas menetapkan hak untuk menuntut keadilan yang tepat, Allah mengangkat orang yang beriman ke tahap moral yang lebih tinggi. 'Sesiapa yang memaafkan dan berbuat baik - maka pahalanya dijamin oleh Allah.' Jika memaafkan seseorang membawa kepada pembaharuan yang tulen dan memulihkan hubungan, pilihan untuk menahan kemarahan anda dan memaafkan menuntut kekuatan dalaman yang sangat besar ('keazaman'). Keadilan adalah undang-undang, tetapi belas kasihan adalah yang ideal."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Membincangkan amalan Syura. Ibn Kathir mencatatkan bahawa Nabi Muhammad, walaupun menerima wahyu Ilahi secara langsung, lebih banyak berunding dengan para sahabatnya berbanding orang lain mengenai hal ehwal peperangan, ekonomi, dan sosial, secara sengaja menetapkan duluan bahawa tiada pemimpin yang lebih tinggi daripada kebijaksanaan kolektif komunitinya."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan syarat kemaafan dalam Ayat 40. Al-Jalalayn menunjukkan bahawa kemaafan digabungkan dengan 'berbuat baik / pendamaian' (Aslaha). Kemaafan sangat diberi ganjaran apabila ia membaiki ikatan atau mengubah pesalah. Jika memaafkan seorang penguasa zalim hanya memperkasakannya untuk menindas orang lain, maka menuntut keadilan yang tepat menjadi tindakan yang lebih baik dan dituntut."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menganalisis frasa 'pahalanya dijamin oleh Allah'. As-Sa'di menyatakan bahawa apabila anda melepaskan hak anda untuk membalas dendam, anda memindahkan 'invois' anda daripada seorang manusia kepada Pencipta langit dan bumi. Pampasan Tuhan atas kesabaran anda akan melebihi apa jua kepuasan yang mungkin diberikan oleh dendam kepada anda tanpa batas."
+          }
+        ],
+        "lessons": [
+          "🗣️ Kuasa Permesyuaratan: Jangan menjadi diktator di rumah, di tempat kerja, atau dalam komuniti anda. Meminta nasihat dan membincangkan keputusan dengan mereka yang terkesan dengannya adalah perintah Ilahi. Ia mencegah kesilapan yang didorong oleh kesombongan dan membina rasa hormat bersama.",
+          "⚖️ Keadilan Dahulu, Belas Kasihan Kemudian: Anda mempunyai hak untuk mempertahankan diri dan menuntut keadilan apabila dianiaya. Jangan biarkan sesiapa pun memanipulasi emosi anda untuk berfikir bahawa mempertahankan hak anda adalah 'tidak Islamik'.",
+          "🕊️ Keberanian untuk Menyembuhkan: Walaupun anda mempunyai hak untuk membalas, memilih untuk memaafkan seseorang yang benar-benar menyesal adalah tanda kekuatan emosi yang sangat besar. Jika anda memaafkan mereka, Tuhan berjanji untuk menguruskan ganjaran anda secara peribadi. Lepaskanlah ia untuk membenarkan diri anda berkembang."
+        ]
+      }
+    },
+    {
+      "id": "section-05",
+      "type": "passage",
+      "surah_number": 42,
+      "verse_start": 44,
+      "verse_end": 53,
+      "en": {
+        "title": "The Distribution of Sustenance & The Mechanics of Revelation",
+        "theme": "God's sovereign will in granting children, the reality of human helplessness, and how God communicates with humanity.",
+        "arabic": "لِّلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ يَخْلُقُ مَا يَشَاءُ ۚ يَهَبُ لِمَن يَشَاءُ إِنَاثًا وَيَهَبُ لِمَن يَشَاءُ الذُّكُورَ... وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ اللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَاءِ حِجَابٍ... وَكَذَٰلِكَ أَوْحَيْنَا إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا ۚ",
+        "translation": "To Allah belongs the dominion of the heavens and the earth; He creates what he wills. He gives to whom He wills female [children], and He gives to whom He wills males... And it is not for any human being that Allah should speak to him except by revelation or from behind a partition... And thus We have revealed to you an inspiration [a Spirit] of Our command...",
+        "explanation": [
+          "The surah moves to assert God's absolute sovereignty over human biology and family planning. In a society that heavily favored sons and buried daughters, the Quran radically subverts their cultural prejudice. When describing the gifts of offspring, Allah purposefully mentions granting 'females' first. He outlines four categories of families: those granted only daughters, those granted only sons, those granted both, and those He decrees to be barren. This dismantles any human ego attached to genetics; children are an exclusive, distributed gift of God's will.",
+          "The passage then explains the precise mechanics of how the Creator of the universe communicates with a mortal human being. God does not speak face-to-face. He communicates through three methods: direct inspiration into the heart ('Wahyan'), speaking from behind a veil (as He did with Moses at the burning bush), or by sending an angelic messenger (like Gabriel) to deliver the words.",
+          "Surah Ash-Shura concludes by describing the Quran itself not just as a book, but as a 'Ruh' (a Spirit or life-giving force). Before this revelation, the Prophet did not know the details of faith or previous scriptures. The Quran is the spiritual oxygen that brought life to a dead society, acting as an inextinguishable light that guides whoever God wills to a straight path."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Reflects on the four categories of offspring distribution. Ibn Kathir maps these to the Prophets themselves: Prophet Lot had only daughters, Prophet Abraham had only sons (Isaac and Ishmael), Prophet Muhammad had both sons and daughters, and Prophet Yahya (John) and Jesus were given no children. It proves that having sons, daughters, or being childless is not a measure of one's worth to God, but a specific divine decree."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Analyzes the linguistics of verse 51 regarding revelation. Al-Jalalayn clarifies that 'from behind a partition' means the Prophet hears the Voice of God without seeing His Form, completely protecting the theological boundary of God's unseeable majesty in this world."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the description of the Quran as a 'Ruh' (Spirit). As-Sa'di states that just as a physical body dies without a soul, the human intellect and society die without the Quran. True 'life' is not biological; it is the spiritual vitality achieved by connecting to divine guidance."
+          }
+        ],
+        "lessons": [
+          "🧬 Release the Genetics Anxiety: Whether you have daughters, sons, both, or are struggling with infertility, know that your situation is not a biological accident or a punishment. It is the precise, intentional design of the Creator who distributes His gifts perfectly.",
+          "♀️ Honor the Daughters: The Quran deliberately places the gift of females before males to destroy toxic cultural preferences for boys. If God honors the birth of a daughter as a divine gift, society has no right to view it as a burden.",
+          "📖 The Defibrillator of the Heart: If you feel emotionally empty or spiritually exhausted, realize that the Quran is fundamentally designed as a 'Ruh' (Spirit). Engaging with it is meant to resuscitate your heart and breathe life back into your perspective."
+        ]
+      },
+      "ms": {
+        "title": "Pengagihan Rezeki & Mekanisme Wahyu",
+        "theme": "Kehendak mutlak Tuhan dalam mengurniakan anak, realiti ketidakupayaan manusia, dan bagaimana Tuhan berkomunikasi dengan umat manusia.",
+        "arabic": "لِّلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ يَخْلُقُ مَا يَشَاءُ ۚ يَهَبُ لِمَن يَشَاءُ إِنَاثًا وَيَهَبُ لِمَن يَشَاءُ الذُّكُورَ... وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ اللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَاءِ حِجَابٍ... وَكَذَٰلِكَ أَوْحَيْنَا إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا ۚ",
+        "translation": "Bagi Allah jualah hak milik kerajaan langit dan bumi; Ia menciptakan apa yang dikehendakiNya; Ia mengurniakan anak-anak perempuan kepada sesiapa yang dikehendakiNya, dan mengurniakan anak-anak lelaki kepada sesiapa yang dikehendakiNya... Dan tidaklah layak bagi seseorang manusia bahawa Allah berkata-kata dengannya melainkan dengan jalan wahyu (dengan diilhamkan ke dalam hatinya), atau dari sebalik tabir... Dan demikianlah Kami wahyukan kepadamu (wahai Muhammad) Al-Quran sebagai roh (yang menghidupkan hati) dari perintah Kami...",
+        "explanation": [
+          "Surah ini beralih untuk menegaskan kekuasaan mutlak Tuhan ke atas biologi manusia dan perancangan keluarga. Dalam sebuah masyarakat yang sangat menyebelahi anak lelaki dan menanam anak perempuan hidup-hidup, Al-Quran secara radikal menumbangkan prejudis budaya mereka. Apabila menerangkan tentang kurniaan zuriat, Allah dengan sengaja menyebut kurniaan 'anak perempuan' terlebih dahulu. Dia menggariskan empat kategori keluarga: mereka yang hanya dikurniakan anak perempuan, mereka yang hanya dikurniakan anak lelaki, mereka yang dikurniakan kedua-duanya, dan mereka yang ditetapkan-Nya sebagai mandul. Ini melenyapkan sebarang ego manusia yang dikaitkan dengan genetik; anak-anak adalah kurniaan eksklusif yang diagihkan atas kehendak Tuhan.",
+          "Petikan ini kemudian menjelaskan mekanisme tepat bagaimana Pencipta alam semesta berkomunikasi dengan manusia biasa. Tuhan tidak bercakap secara bersemuka. Dia berkomunikasi melalui tiga kaedah: ilham langsung ke dalam hati ('Wahyan'), bercakap dari sebalik tabir (seperti yang dilakukan-Nya dengan Musa di semak yang terbakar), atau dengan menghantar utusan malaikat (seperti Jibril) untuk menyampaikan kata-kata-Nya.",
+          "Surah Ash-Shura diakhiri dengan menggambarkan Al-Quran itu sendiri bukan sekadar sebuah kitab, tetapi sebagai 'Ruh' (Roh atau daya yang memberi kehidupan). Sebelum pendedahan wahyu ini, Nabi tidak mengetahui butiran keimanan atau kitab-kitab suci terdahulu. Al-Quran ialah oksigen rohani yang membawa kehidupan kepada masyarakat yang mati, bertindak sebagai cahaya yang tidak dapat dipadamkan yang membimbing sesiapa sahaja yang dikehendaki Tuhan ke jalan yang lurus."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Merenung empat kategori pengagihan zuriat. Ibn Kathir memetakan ini kepada para Nabi itu sendiri: Nabi Lut hanya mempunyai anak perempuan, Nabi Ibrahim hanya mempunyai anak lelaki (Ishak dan Ismail), Nabi Muhammad mempunyai kedua-dua anak lelaki dan perempuan, dan Nabi Yahya serta Isa tidak dikurniakan anak. Ini membuktikan bahawa memiliki anak lelaki, anak perempuan, atau tidak mempunyai anak bukanlah ukuran nilai seseorang di sisi Tuhan, tetapi satu ketetapan Ilahi yang khusus."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menganalisis linguistik ayat 51 mengenai wahyu. Al-Jalalayn menjelaskan bahawa 'dari sebalik tabir' bermaksud Nabi mendengar Suara Tuhan tanpa melihat Bentuk-Nya, melindungi sepenuhnya sempadan teologi mengenai keagungan Tuhan yang tidak dapat dilihat di dunia ini."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus pada penerangan Al-Quran sebagai 'Ruh' (Roh). As-Sa'di menyatakan bahawa sepertimana tubuh fizikal mati tanpa roh, akal manusia dan masyarakat akan mati tanpa Al-Quran. 'Kehidupan' sebenar bukanlah bersifat biologi; ia adalah daya hidup rohani yang dicapai dengan menghubungkan diri kepada petunjuk Ilahi."
+          }
+        ],
+        "lessons": [
+          "🧬 Lepaskan Kebimbangan Genetik: Sama ada anda mempunyai anak perempuan, anak lelaki, kedua-duanya, atau bergelut dengan ketidaksuburan, ketahuilah bahawa situasi anda bukanlah satu kemalangan biologi atau hukuman. Ia adalah reka bentuk Pencipta yang tepat dan disengajakan yang mengagihkan kurniaan-Nya dengan sempurna.",
+          "♀️ Hormati Anak Perempuan: Al-Quran secara sengaja meletakkan kurniaan anak perempuan sebelum anak lelaki untuk memusnahkan keutamaan budaya toksik terhadap anak lelaki. Jika Tuhan memuliakan kelahiran anak perempuan sebagai satu kurniaan Ilahi, masyarakat tidak mempunyai hak untuk memandangnya sebagai satu bebanan.",
+          "📖 Alat Bantuan Pernafasan Hati: Jika anda berasa kosong secara emosi atau keletihan secara rohani, sedarilah bahawa Al-Quran secara asasnya direka sebagai 'Ruh' (Roh). Berinteraksi dengannya bertujuan untuk menghidupkan semula hati anda dan menghembuskan nafas baharu ke dalam perspektif anda."
+        ]
+      }
+    },
+    {
+      "id": "section-06",
+      "type": "intro",
+      "surah_number": 43,
+      "en": {
+        "title": "Surah Az-Zukhruf — Introduction",
+        "theme": "The Deception of Material Wealth, Blind Traditionalism, and the Value of the Unseen.",
+        "explanation": [
+          "Surah Az-Zukhruf (The Ornaments of Gold) is the fourth in the 'Ha-Mim' series of Makkan surahs. Its title captures the central critique of the chapter: the human obsession with superficial, material wealth ('Zukhruf') and how this obsession blinds societies to spiritual truths.",
+          "The surah was revealed to an intensely materialistic Meccan society. The Quraysh elite measured a person's worth entirely by their bank account and social status. They mocked Prophet Muhammad, asking why God didn't choose a billionaire from Mecca or Ta'if to be the final messenger. Surah Az-Zukhruf aggressively dismantles this worldview, asserting that if worldly wealth actually held any value in the sight of God, He would have made the roofs and staircases of the disbelievers' houses out of pure silver and gold.",
+          "Beyond materialism, the surah tackles the intellectual laziness of 'Taqlid' (blindly following tradition). It criticizes those who defend their flawed beliefs simply by saying, 'We found our forefathers following this way.' The surah utilizes the history of Prophets Abraham, Moses, and Jesus to prove that divine truth has always collided with corrupt societal norms and the glittering illusions of the elite."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Highlights the extreme insignificance of worldly wealth in God's eyes. Ibn Kathir references the famous Hadith: 'If this worldly life were worth the wing of a mosquito to Allah, He would not have given a disbeliever even a drink of water from it.' The surah proves that wealth is merely a temporary test, not a sign of divine love."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Discusses the specific critique of the Meccan elite. Al-Jalalayn notes that they specifically wanted the Quran revealed to Al-Walid bin Al-Mughirah (from Mecca) or Urwah bin Mas'ud (from Ta'if) simply because they were the wealthiest men. Allah rebukes them by stating that He alone distributes His mercy (Prophethood), just as He distributes financial sustenance."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the danger of blind traditionalism. As-Sa'di points out that using one's ancestors as the ultimate benchmark for truth is an abdication of the intellect. The surah commands humans to break free from inherited cultural baggage and evaluate the truth based strictly on logic and divine revelation."
+          }
+        ]
+      },
+      "ms": {
+        "title": "Surah Az-Zukhruf — Pengenalan",
+        "theme": "Penipuan Kekayaan Material, Tradisionalisme Buta, dan Nilai Alam Ghaib.",
+        "explanation": [
+          "Surah Az-Zukhruf (Perhiasan Emas) adalah surah keempat dalam siri 'Ha-Mim' Makkiyah. Tajuknya menangkap kritikan utama bab ini: ketaksuban manusia terhadap kekayaan material yang dangkal ('Zukhruf') dan bagaimana ketaksuban ini membutakan masyarakat daripada kebenaran rohani.",
+          "Surah ini diturunkan kepada masyarakat Mekah yang sangat materialistik. Elit Quraisy mengukur nilai seseorang sepenuhnya berdasarkan akaun bank dan status sosial mereka. Mereka mengejek Nabi Muhammad, bertanya mengapa Tuhan tidak memilih seorang bilionair dari Mekah atau Ta'if untuk menjadi utusan terakhir. Surah Az-Zukhruf meruntuhkan pandangan alam ini secara agresif, menegaskan bahawa jika kekayaan duniawi benar-benar mempunyai sebarang nilai di sisi Tuhan, Dia akan menjadikan bumbung dan tangga rumah orang-orang kafir daripada perak dan emas tulen.",
+          "Melangkaui materialisme, surah ini menangani kemalasan intelek 'Taqlid' (mengikuti tradisi secara membuta tuli). Ia mengkritik mereka yang mempertahankan kepercayaan mereka yang cacat dengan hanya berkata, 'Kami mendapati datuk nenek kami menurut satu jalan.' Surah ini menggunakan sejarah Nabi Ibrahim, Musa, dan Isa untuk membuktikan bahawa kebenaran Ilahi sentiasa bertembung dengan norma masyarakat yang rosak dan ilusi yang bergemerlapan daripada golongan elit."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menonjolkan betapa tidak bermaknanya kekayaan dunia di mata Tuhan. Ibn Kathir merujuk kepada Hadis yang terkenal: 'Seandainya dunia ini di sisi Allah menyamai nilai sebelah sayap nyamuk, nescaya Dia tidak akan memberi minum walau seteguk air pun kepada seorang kafir daripadanya.' Surah ini membuktikan bahawa kekayaan hanyalah ujian sementara, bukan tanda kasih sayang Ilahi."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Membincangkan kritikan khusus terhadap elit Mekah. Al-Jalalayn mencatatkan bahawa mereka secara khusus mahu Al-Quran diturunkan kepada Al-Walid bin Al-Mughirah (dari Mekah) atau Urwah bin Mas'ud (dari Ta'if) semata-mata kerana mereka adalah lelaki terkaya. Allah menegur mereka dengan menyatakan bahawa Dia sahaja yang mengagihkan rahmat-Nya (Kenabian), sepertimana Dia mengagihkan rezeki kewangan."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus pada bahaya tradisionalisme yang buta. As-Sa'di menunjukkan bahawa menggunakan nenek moyang seseorang sebagai penanda aras mutlak untuk kebenaran adalah satu pengabaian fungsi akal. Surah ini memerintahkan manusia untuk membebaskan diri daripada bebanan budaya yang diwarisi dan menilai kebenaran dengan tegas berdasarkan logik dan wahyu Ilahi."
+          }
+        ]
+      }
+    },
+    {
+      "id": "section-07",
+      "type": "passage",
+      "surah_number": 43,
+      "verse_start": 1,
+      "verse_end": 35,
+      "en": {
+        "title": "The Mother of the Book & The Excuse of Tradition",
+        "theme": "The exalted origin of the Quran, the intellectual bankruptcy of blind following, and the worthlessness of worldly wealth.",
+        "arabic": "وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا لَعَلِيٌّ حَكِيمٌ... بَلْ قَالُوا إِنَّا وَجَدْنَا آبَاءَنَا عَلَىٰ أُمَّةٍ وَإِنَّا عَلَىٰ آثَارِهِم مُّهْتَدُونَ... وَلَوْلَا أَن يَكُونَ النَّاسُ أُمَّةً وَاحِدَةً لَّجَعَلْنَا لِمَن يَكْفُرُ بِالرَّحْمَٰنِ لِبُيُوتِهِمْ سُقُفًا مِّن فِضَّةٍ...",
+        "translation": "And indeed it is, in the Mother of the Book with Us, exalted and full of wisdom... Rather, they say, 'Indeed, we found our fathers upon a religion, and we are in their footsteps [rightly] guided.'... And if it were not that the people would become one community [of disbelievers], We would have made for those who disbelieve in the Most Merciful - for their houses - ceilings and stairways of silver...",
+        "explanation": [
+          "Surah Az-Zukhruf opens by elevating the status of the Quran. Before it was recited in Arabic on earth, it existed in the 'Mother of the Book' (Al-Lauh Al-Mahfuz, the Preserved Tablet) with God, establishing its absolute, unalterable authority. Despite this majesty, the polytheists rejected it using the weakest intellectual excuse in human history: 'We found our forefathers doing this.' They preferred the comfort of cultural tradition over the light of objective truth.",
+          "To further dismantle the Meccan worldview, which equated truth with wealth, Allah delivers a staggering hypothetical scenario. If it wouldn't cause all of humanity to abandon faith out of pure greed, God would have given the disbelievers houses with roofs, doors, and staircases made entirely of solid silver and gold.",
+          "This vivid imagery proves that in the sight of God, material wealth ('Zukhruf' or golden adornment) is incredibly cheap. It is not a reward for righteousness, nor is it a sign of divine love. It is merely a temporary, superficial test of the worldly life, whereas the Hereafter is reserved exclusively for the righteous."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Discusses the 'Mother of the Book'. Ibn Kathir notes that highlighting the Quran's cosmic origin was meant to humble the Meccans; they were mocking a text that is eternally honored in the highest heavens by the greatest angels."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the psychological warning in Verse 33 regarding silver roofs. Al-Jalalayn explains that human beings are naturally weak against the allure of wealth. If God made all disbelievers billionaires, the masses would commit Kufr (disbelief) just to get the money. Therefore, God distributes wealth variedly as a mercy, to prevent global spiritual corruption."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Analyzes the excuse of 'blind following' (Taqlid). As-Sa'di points out that the polytheists did not claim their forefathers had logic or divine proof; they merely claimed precedent. Following tradition is only praiseworthy if the tradition is rooted in truth; otherwise, it is a shared journey into the Fire."
+          }
+        ],
+        "lessons": [
+          "🧠 Break the Chains of Culture: Just because your family, your culture, or your society has 'always done it this way' does not make it ethically or religiously correct. Use your intellect. Tradition is a terrible excuse for sin.",
+          "💰 The Cheapness of Gold: If money equaled God's love, the most corrupt people wouldn't be the richest. Stop equating your financial success with your spiritual standing. Worldly wealth is just 'Zukhruf' (superficial glitter).",
+          "📖 Honor the Revelation: The Quran you hold in your hands is a direct copy of the Master Record in the heavens. Treat it, read it, and respect it with the awe that its cosmic origin demands."
+        ]
+      },
+      "ms": {
+        "title": "Ibu Kitab & Alasan Tradisi",
+        "theme": "Asal usul agung Al-Quran, kebankrapan intelek kerana mengikut secara membuta tuli, dan ketidakberhargaan kekayaan dunia.",
+        "arabic": "وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا لَعَلِيٌّ حَكِيمٌ... بَلْ قَالُوا إِنَّا وَجَدْنَا آبَاءَنَا عَلَىٰ أُمَّةٍ وَإِنَّا عَلَىٰ آثَارِهِم مُّهْتَدُونَ... وَلَوْلَا أَن يَكُونَ النَّاسُ أُمَّةً وَاحِدَةً لَّجَعَلْنَا لِمَن يَكْفُرُ بِالرَّحْمَٰنِ لِبُيُوتِهِمْ سُقُفًا مِّن فِضَّةٍ...",
+        "translation": "Dan sesungguhnya Al-Quran itu dalam Ibu Kitab (Lauh Mahfuz) di sisi Kami, sangat tinggi (kemuliaannya), lagi amat banyak mengandungi hikmah... Bahkan mereka berkata: 'Sesungguhnya kami mendapati datuk nenek kami menurut satu jalan ugama, dan sesungguhnya kami beroleh petunjuk menurut jejak mereka sahaja.'... Dan kalaulah tidak kerana manusia akan menjadi umat yang satu (dalam kekufuran), nescaya Kami jadikan bagi orang-orang yang kufur ingkar kepada Tuhan Yang Maha Pemurah, bumbung rumah-rumah mereka dari perak, dan tangga-tangga yang mereka naik turun itu juga (dari perak)...",
+        "explanation": [
+          "Surah Az-Zukhruf bermula dengan mengangkat darjat Al-Quran. Sebelum ia dibacakan dalam bahasa Arab di bumi, ia telah wujud dalam 'Ibu Kitab' (Lauh Mahfuz) di sisi Tuhan, menetapkan pihak berkuasanya yang mutlak dan tidak boleh diubah. Walaupun ia sangat agung, kaum musyrikin menolaknya menggunakan alasan intelek yang paling lemah dalam sejarah manusia: 'Kami mendapati datuk nenek kami berbuat begini.' Mereka lebih menyukai keselesaan tradisi budaya berbanding cahaya kebenaran objektif.",
+          "Untuk meruntuhkan lagi pandangan kaum Mekah yang menyamakan kebenaran dengan kekayaan, Allah memberikan satu senario hipotetikal yang mengejutkan. Jika ia tidak menyebabkan seluruh umat manusia meninggalkan iman semata-mata kerana ketamakan, Tuhan pasti akan memberikan kepada orang kafir rumah dengan bumbung, pintu, dan tangga yang diperbuat sepenuhnya daripada perak dan emas padu.",
+          "Imejan yang jelas ini membuktikan bahawa di mata Tuhan, kekayaan material ('Zukhruf' atau perhiasan emas) adalah sangat murah. Ia bukanlah ganjaran untuk kesolehan, dan ia juga bukan tanda cinta Ilahi. Ia hanyalah ujian kehidupan dunia yang sementara dan dangkal, manakala Akhirat dikhaskan semata-mata untuk orang-orang yang bertakwa."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Membincangkan 'Ibu Kitab'. Ibn Kathir mencatatkan bahawa menonjolkan asal usul kosmik Al-Quran bertujuan untuk merendahkan ego kaum Mekah; mereka mengejek sebuah teks yang dihormati secara abadi di langit tertinggi oleh para malaikat yang paling agung."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan amaran psikologi dalam Ayat 33 mengenai bumbung perak. Al-Jalalayn menjelaskan bahawa manusia secara semula jadi lemah terhadap tarikan kekayaan. Jika Tuhan menjadikan semua orang kafir sebagai bilionair, orang ramai akan melakukan kekufuran semata-mata untuk mendapatkan wang tersebut. Oleh itu, Tuhan mengagihkan kekayaan secara pelbagai sebagai satu rahmat, untuk mencegah rasuah rohani secara global."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menganalisis alasan 'mengikut secara membuta tuli' (Taqlid). As-Sa'di menunjukkan bahawa kaum musyrik tidak mendakwa nenek moyang mereka mempunyai logik atau bukti Ilahi; mereka hanya mendakwa tentang duluan/kebiasaan. Mengikuti tradisi hanya terpuji jika tradisi itu berakar pada kebenaran; jika tidak, ia adalah perjalanan bersama menuju ke Neraka."
+          }
+        ],
+        "lessons": [
+          "🧠 Putuskan Rantaian Budaya: Hanya kerana keluarga anda, budaya anda, atau masyarakat anda telah 'sentiasa melakukannya begini', ia tidak menjadikannya betul dari segi etika atau agama. Gunakan akal anda. Tradisi adalah alasan yang sangat buruk untuk berbuat dosa.",
+          "💰 Murahnya Emas: Jika wang menyamai cinta Tuhan, orang yang paling korup tidak akan menjadi yang paling kaya. Berhenti menyamakan kejayaan kewangan anda dengan kedudukan rohani anda. Kekayaan dunia hanyalah 'Zukhruf' (kilauan dangkal).",
+          "📖 Hormati Wahyu: Al-Quran yang anda pegang di tangan anda ialah salinan langsung Rekod Induk di langit. Layan, baca, dan hormatinya dengan rasa kagum yang dituntut oleh asal usul kosmiknya."
+        ]
+      }
+    },
+    {
+      "id": "section-08",
+      "type": "passage",
+      "surah_number": 43,
+      "verse_start": 36,
+      "verse_end": 89,
+      "en": {
+        "title": "The Illusion of Gold (Zukhruf) & Friends Who Become Enemies",
+        "theme": "The companion from Satan, Pharaoh's golden deception, and the terrifying reality of toxic friendships on Judgment Day.",
+        "arabic": "وَمَن يَعْشُ عَن ذِكْرِ الرَّحْمَٰنِ نُقَيِّضْ لَهُ شَيْطَانًا فَهُوَ لَهُ قَرِينٌ... وَنَادَىٰ فِرْعَوْنُ فِي قَوْمِهِ قَالَ يَا قَوْمِ أَلَيْسَ لِي مُلْكُ مِصْرَ وَهَٰذِهِ الْأَنْهَارُ تَجْرِي مِن تَحْتِي... الْأَخِلَّاءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا الْمُتَّقِينَ",
+        "translation": "And whoever is blinded from remembrance of the Most Merciful - We appoint for him a devil, and he is to him a companion... And Pharaoh called out among his people; he said, 'O my people, does not the dominion of Egypt belong to me, and these rivers flowing beneath me?'... Close friends, that Day, will be enemies to each other, except for the righteous.",
+        "explanation": [
+          "The passage details a terrifying psychological consequence of ignoring God. If a person deliberately blinds themselves to divine guidance, Allah assigns them a 'Qareen' (a constant satanic companion). This devil operates covertly, making the person's corrupt actions look beautiful and completely convincing them that they are on the right path, effectively locking them in an echo chamber of delusion.",
+          "To illustrate the peak of worldly delusion, the Quran returns to Pharaoh. He addressed his people not with logic, but with the optics of power: 'Look at my rivers and my wealth! Why hasn't Moses been given bracelets of gold?' Pharaoh manipulated the uneducated masses into believing that material aesthetics equaled divine legitimacy. The masses, easily swayed by the illusion of gold ('Zukhruf'), obeyed him and were ultimately drowned together.",
+          "The surah climaxes with a chilling warning about the company we keep. On the Day of Judgment, every deep friendship, alliance, and love that was built on sin, superficiality, or rebellion against God will instantly transform into bitter, vicious enmity. The only friendships that will survive the terror of that Day are those built on 'Taqwa' (God-consciousness), where friends helped each other toward righteousness."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Discusses the 'Qareen' (the companion devil). Ibn Kathir notes the tragedy of verse 37: the devils block them from the path, yet 'they think they are rightly guided.' It is the most dangerous state of the human soul—being entirely lost but feeling absolutely certain of one's righteousness."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Analyzes Pharaoh's argument about the 'bracelets of gold'. Al-Jalalayn explains that in ancient Egypt, when a leader appointed someone to a high rank, they adorned them with gold bracelets. Pharaoh used this cultural metric to mock Musa's poverty, entirely missing the invisible, majestic spiritual authority of Prophethood."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the transformation of friends to enemies (Verse 67). As-Sa'di states that any relationship centered around a shared sin will become a source of profound regret. On Judgment Day, companions in crime will blame each other for their mutual destruction. Only those who bonded over truth and ethics will find their love eternal."
+          }
+        ],
+        "lessons": [
+          "👁️ The Danger of Spiritual Blindness: If you continuously ignore your conscience and God's reminders, you won't just become forgetful; you will be handed over to a devil who will convince you that your sins are actually virtues.",
+          "🎭 Don't Be Fooled by Aesthetics: Society often equates flashy wealth, luxury cars, and designer clothes with success and being 'right'. Remember Pharaoh. A corrupt person wearing gold is still corrupt; a righteous person in poverty is still a king in the eyes of God.",
+          "👥 Audit Your Friendships: Look closely at your closest circle. Are they encouraging you to compromise your morals? If your friendship is not rooted in pleasing God, it will literally turn into burning hatred on Judgment Day. Keep friends who elevate your soul."
+        ]
+      },
+      "ms": {
+        "title": "Ilusi Emas (Zukhruf) & Kawan yang Menjadi Musuh",
+        "theme": "Rakan pendamping daripada Syaitan, penipuan emas Firaun, dan realiti menakutkan tentang persahabatan toksik pada Hari Kiamat.",
+        "arabic": "وَمَن يَعْشُ عَن ذِكْرِ الرَّحْمَٰنِ نُقَيِّضْ لَهُ شَيْطَانًا فَهُوَ لَهُ قَرِينٌ... وَنَادَىٰ فِرْعَوْنُ فِي قَوْمِهِ قَالَ يَا قَوْمِ أَلَيْسَ لِي مُلْكُ مِصْرَ وَهَٰذِهِ الْأَنْهَارُ تَجْرِي مِن تَحْتِي... الْأَخِلَّاءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا الْمُتَّقِينَ",
+        "translation": "Dan sesiapa yang tidak mengendahkan pengajaran (Al-Quran yang diturunkan oleh Allah) Yang Maha Pemurah, Kami akan adakan baginya Syaitan (yang menghasut dan menyesatkannya), lalu menjadilah Syaitan itu temannya yang tidak renggang daripadanya... Dan Firaun pula menyeru kepada kaumnya dengan berkata: 'Wahai kaumku! Bukankah kerajaan negeri Mesir ini - akulah yang menguasainya, dan sungai-ci sungai ini mengalir di bawah (istana) ku?'... Pada hari itu sahabat-sahabat karib: sesetengahnya akan menjadi musuh kepada sesetengahnya yang lain, kecuali orang-orang yang persahabatannya berdasarkan taqwa.",
+        "explanation": [
+          "Petikan ini memperincikan akibat psikologi yang menakutkan kerana mengabaikan Tuhan. Jika seseorang dengan sengaja membutakan diri mereka daripada petunjuk Ilahi, Allah menetapkan 'Qarin' (rakan pendamping dari kalangan syaitan yang sentiasa ada) untuk mereka. Syaitan ini beroperasi secara rahsia, menjadikan tindakan rasuah mereka kelihatan indah dan meyakinkan mereka sepenuhnya bahawa mereka berada di jalan yang betul, dengan berkesan mengunci mereka dalam ruang gema (echo chamber) khayalan.",
+          "Untuk menggambarkan kemuncak khayalan dunia, Al-Quran kembali kepada Firaun. Dia berucap kepada kaumnya bukan dengan logik, tetapi dengan penampilan kuasa: 'Lihatlah sungai-sungai dan kekayaanku! Mengapakah Musa tidak dipakaikan gelang-gelang emas?' Firaun memanipulasi rakyat marhaen yang tidak berpendidikan supaya percaya bahawa estetika material menyamai keabsahan Ilahi. Rakyat, yang mudah terpengaruh dengan ilusi emas ('Zukhruf'), mematuhinya dan akhirnya mereka semua mati lemas bersama-sama.",
+          "Surah ini memuncak dengan amaran yang menyejukkan tulang belakang mengenai rakan yang kita gauli. Pada Hari Kiamat, setiap persahabatan yang erat, sekutu, dan kasih sayang yang dibina atas dosa, kedangkalan, atau pemberontakan terhadap Tuhan akan serta-merta berubah menjadi permusuhan yang pahit dan kejam. Satu-satunya persahabatan yang akan terselamat daripada kengerian Hari itu ialah persahabatan yang dibina di atas 'Takwa' (kesedaran kepada Tuhan), di mana rakan-rakan saling membantu ke arah kebaikan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Membincangkan 'Qarin' (syaitan pendamping). Ibn Kathir mencatatkan tragedi ayat 37: syaitan menghalang mereka dari jalan yang benar, namun 'mereka menyangka bahawa mereka mendapat petunjuk.' Ia adalah keadaan jiwa manusia yang paling berbahaya—sesat sepenuhnya tetapi berasa sangat yakin tentang kebenaran dirinya sendiri."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menganalisis hujah Firaun tentang 'gelang-gelang emas'. Al-Jalalayn menjelaskan bahawa di Mesir purba, apabila seorang pemimpin melantik seseorang ke pangkat tinggi, mereka menghiasinya dengan gelang emas. Firaun menggunakan metrik budaya ini untuk mengejek kemiskinan Musa, sama sekali terlepas pandang kekuasaan rohani Kenabian yang ghaib dan agung."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus pada perubahan rakan menjadi musuh (Ayat 67). As-Sa'di menyatakan bahawa sebarang hubungan yang berpusat pada dosa yang dikongsi bersama akan menjadi sumber penyesalan yang mendalam. Pada Hari Kiamat, rakan jenayah akan saling menyalahkan atas kemusnahan bersama mereka. Hanya mereka yang terikat dengan kebenaran dan etika akan mendapati kasih sayang mereka kekal abadi."
+          }
+        ],
+        "lessons": [
+          "👁️ Bahaya Kebutaan Rohani: Jika anda terus mengabaikan hati nurani anda dan peringatan Tuhan, anda bukan sahaja menjadi pelupa; anda akan diserahkan kepada syaitan yang akan meyakinkan anda bahawa dosa anda sebenarnya adalah satu kebaikan.",
+          "🎭 Jangan Tertipu dengan Penampilan: Masyarakat sering menyamakan kekayaan yang menonjol, kereta mewah, dan pakaian berjenama dengan kejayaan dan 'berada di pihak yang benar'. Ingatlah Firaun. Orang yang korup memakai emas tetap korup; orang yang soleh dalam kemiskinan tetap seorang raja di mata Tuhan.",
+          "👥 Audit Persahabatan Anda: Lihat betul-betul kalangan orang terdekat anda. Adakah mereka menggalakkan anda untuk menggadaikan moral anda? Jika persahabatan anda tidak berakar pada mencari keredaan Tuhan, ia secara harfiah akan bertukar menjadi kebencian yang membakar pada Hari Kiamat. Peliharalah kawan yang menaikkan darjat jiwa anda."
+        ]
+      }
+    },
+    {
+      "id": "section-09",
+      "type": "passage",
+      "surah_number": 44,
+      "verse_start": 1,
+      "verse_end": 59,
+      "en": {
+        "title": "Surah Ad-Dukhan — Intro & The Smoke of Certainty",
+        "theme": "The Blessed Night, the cosmic smoke of warning, leaving a legacy, and the bitter Tree of Zaqqum.",
+        "arabic": "حم ۝ وَالْكِتَابِ الْمُبِينِ ۝ إِنَّا أَنزَلْنَاهُ فِي لَيْلَةٍ مُّبَارَكَةٍ... فَارْتَقِبْ يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ مُّبِينٍ ۝ يَغْشَى النَّاسَ ۖ هَٰذَا عَذَابٌ أَلِيمٌ... إِنَّ شَجَرَتَ الزَّقُّومِ ۝ طَعَامُ الْأَثِيمِ",
+        "translation": "Ha, Meem. By the clear Book, Indeed, We sent it down during a blessed night... Then watch for the Day when the sky will bring a visible smoke. Covering the people; this is a painful torment... Indeed, the tree of zaqqum is food for the sinful.",
+        "explanation": [
+          "Surah Ad-Dukhan (The Smoke) opens by glorifying the 'blessed night' (Laylat al-Qadr) in which the Quran was revealed, a night where every precise decree for the coming year is firmly dispatched by God's command.",
+          "The surah takes its name from a terrifying warning issued to the arrogant Meccans. Because they continually mocked the Prophet, Allah tells him to wait for a day when the sky will produce a massive, visible 'Dukhan' (Smoke) that will envelope the people. In their suffocating panic, they will beg God to remove the torment, promising to believe. But God exposes their fickle nature: once the smoke is lifted, they will immediately revert to their disbelief.",
+          "The passage then recounts the destruction of Pharaoh, emphasizing a profound, poetic reality: 'And the heaven and earth wept not for them.' When a tyrant dies, the universe feels relief, not sorrow. The surah contrasts this with a visceral depiction of Hell, focusing on the 'Tree of Zaqqum'. For those who gorged themselves on unlawful, luxurious food in this world, their eternal diet will be a tree that boils in their stomachs like molten brass, a bitter, physical manifestation of their sins."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Analyzes the meaning of the 'Smoke'. Ibn Kathir records two major opinions. One (from Ibn Mas'ud) is that it refers to a severe famine in Mecca where hunger blurred the people's vision like smoke. The other (from Ibn Abbas and Ali) is that the Smoke is one of the massive, physical signs that will appear directly preceding the Day of Judgment, enveloping the entire globe."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Explains the weeping of the heavens and the earth (Verse 29). Al-Jalalayn notes a beautiful tradition: when a righteous believer dies, the place on earth where they used to pray, and the path in the sky where their good deeds ascended, weep for their loss. Tyrants, possessing no good deeds, leave the universe entirely indifferent to their demise."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the irony of the punishment in verse 49. The sinner is told: 'Taste [this]! Indeed, you are the honored, the noble!' As-Sa'di points out that this psychological sarcasm shatters the ego of those who used their wealth and status to oppress others on earth. The very pride they wore like a badge becomes the weapon that tortures their mind in Hell."
+          }
+        ],
+        "lessons": [
+          "🌌 The Blueprint of Your Year: The Night of Decree (Laylat al-Qadr) is not just a night of spiritual reflection; it is when your provision, lifespan, and destiny for the next 12 months are downloaded. Treat that night with the absolute gravity it deserves.",
+          "💧 Leave a Legacy the Earth Will Miss: Will the earth cry for you when you die? If you live a life of prayer, kindness, and service, the physical spaces you inhabited will mourn your absence. Build a life that leaves a positive mark on the cosmos.",
+          "🍲 The Irony of Haram Luxury: Oppressing others to fund a lavish, luxurious lifestyle is a terrible trade. The Quran warns that the 'food' for such arrogance in the Hereafter is the boiling, bitter Zaqqum. Earn purely to eat purely."
+        ]
+      },
+      "ms": {
+        "title": "Surah Ad-Dukhan — Pengenalan & Asap Kepastian",
+        "theme": "Malam yang Diberkati, asap kosmik sebagai amaran, meninggalkan warisan, dan Pokok Zaqqum yang pahit.",
+        "arabic": "حم ۝ وَالْكِتَابِ الْمُبِينِ ۝ إِنَّا أَنزَلْنَاهُ فِي لَيْلَةٍ مُّبَارَكَةٍ... فَارْتَقِبْ يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ مُّبِينٍ ۝ يَغْشَى النَّاسَ ۖ هَٰذَا عَذَابٌ أَلِيمٌ... إِنَّ شَجَرَتَ الزَّقُّومِ ۝ طَعَامُ الْأَثِيمِ",
+        "translation": "Haa, Miim. Demi Al-Quran Kitab yang menerangkan kebenaran. Sesungguhnya Kami telah menurunkannya pada suatu malam yang berkat... Oleh itu tunggulah (wahai Muhammad) semasa langit membawa asap kemarau yang jelas nyata. Yang akan menimpa manusia seluruhnya; (lalu mereka merayu dengan berkata): 'Ini adalah azab yang pedih.'... Sesungguhnya pokok Zaqqum, adalah makanan orang yang berdosa...",
+        "explanation": [
+          "Surah Ad-Dukhan (Asap) bermula dengan memuliakan 'malam yang berkat' (Lailatul Qadar) di mana Al-Quran diturunkan, satu malam di mana setiap ketetapan yang tepat untuk tahun akan datang dihantar dengan kukuh melalui perintah Tuhan.",
+          "Surah ini mendapat namanya daripada amaran menakutkan yang dikeluarkan kepada kaum Mekah yang sombong. Oleh kerana mereka berterusan mengejek Nabi, Allah memberitahunya untuk menunggu suatu hari apabila langit akan menghasilkan 'Dukhan' (Asap) yang besar dan kelihatan yang akan menyelubungi manusia. Dalam keadaan panik yang menyesakkan, mereka akan merayu kepada Tuhan untuk menghilangkan azab itu, berjanji untuk beriman. Tetapi Tuhan mendedahkan sifat mereka yang sering berubah-ubah: sebaik sahaja asap itu ditarik balik, mereka akan serta-merta kembali kepada kekufuran mereka.",
+          "Petikan ini kemudian menceritakan kemusnahan Firaun, menekankan realiti puitis yang mendalam: 'Dan langit serta bumi tidak menangisi mereka.' Apabila seorang penguasa zalim mati, alam semesta berasa lega, bukan bersedih. Surah ini membezakan keadaan ini dengan gambaran dalaman Neraka, memfokuskan kepada 'Pokok Zaqqum'. Bagi mereka yang melahap makanan mewah yang haram di dunia ini, diet abadi mereka ialah sebatang pokok yang mendidih di dalam perut mereka seperti tembaga cair, satu manifestasi fizikal dan pahit daripada dosa-dosa mereka."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menganalisis makna 'Asap'. Ibn Kathir merekodkan dua pendapat utama. Pertama (daripada Ibn Mas'ud) ialah ia merujuk kepada kemarau teruk di Mekah di mana kelaparan mengaburkan penglihatan mereka seperti asap. Yang kedua (daripada Ibn Abbas dan Ali) ialah Asap adalah salah satu tanda fizikal besar yang akan muncul sejurus sebelum Hari Kiamat, menyelubungi seluruh dunia."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan tangisan langit dan bumi (Ayat 29). Al-Jalalayn mencatatkan tradisi yang indah: apabila seorang mukmin yang soleh meninggal dunia, tempat di bumi di mana mereka pernah bersolat, dan laluan di langit di mana amal baik mereka naik, akan menangisi kehilangan mereka. Penguasa zalim, yang tidak mempunyai sebarang amal kebaikan, menyebabkan alam semesta sama sekali tidak peduli dengan kematian mereka."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus pada ironi hukuman dalam ayat 49. Pendosa diberitahu: 'Rasalah (azab ini)! Sesungguhnya engkau (pada sangkaanmu) seorang yang berkelayakan, yang mulia!' As-Sa'di menunjukkan bahawa sindiran psikologi ini menghancurkan ego mereka yang menggunakan kekayaan dan status mereka untuk menindas orang lain di bumi. Kesombongan yang mereka pakai ibarat lencana itu menjadi senjata yang menyeksa minda mereka di dalam Neraka."
+          }
+        ],
+        "lessons": [
+          "🌌 Pelan Tindakan Tahun Anda: Malam Ketetapan (Lailatul Qadar) bukan sekadar malam untuk muhasabah rohani; ia adalah apabila rezeki, jangka hayat, dan takdir anda untuk 12 bulan akan datang dimuat turun. Layan malam itu dengan penuh kesungguhan yang sepatutnya.",
+          "💧 Tinggalkan Warisan yang Dirindui Bumi: Adakah bumi akan menangis untuk anda apabila anda mati? Jika anda menjalani kehidupan yang dipenuhi dengan solat, kebaikan, dan khidmat kepada masyarakat, ruang fizikal yang anda diami akan meratapi ketiadaan anda. Binalah kehidupan yang meninggalkan kesan positif kepada kosmos.",
+          "🍲 Ironi Kemewahan Haram: Menindas orang lain untuk membiayai gaya hidup mewah dan melampau adalah satu pertukaran yang sangat buruk. Al-Quran memberi amaran bahawa 'makanan' untuk kesombongan seperti itu di Akhirat kelak ialah Zaqqum yang mendidih dan pahit. Carilah rezeki yang suci untuk makan yang suci."
+        ]
+      }
+    },
+    {
+      "id": "section-10",
+      "type": "intro",
+      "surah_number": 45,
+      "en": {
+        "title": "Surah Al-Jathiyah — Introduction",
+        "theme": "The Kneeling Nations, the Idolatry of Ego, and the Submission of the Intellect.",
+        "explanation": [
+          "Surah Al-Jathiyah (The Kneeling) is the sixth of the seven Makkan 'Ha-Mim' surahs. Its title paints one of the most vivid and terrifying pictures of the Day of Judgment in the entire Quran: a day when the gravity of absolute justice forces every single nation and empire to its knees in pure terror and anticipation.",
+          "The central theological focus of the surah is the relationship between the human intellect and divine revelation. It argues that the universe is saturated with logical 'signs' (Ayat) for those who use reason. However, it sharply critiques those who possess intellect but are blinded by their own arrogance. It introduces a terrifying concept: the idolatry of the ego, where a person takes their own desires and opinions as their ultimate 'god'.",
+          "Furthermore, Surah Al-Jathiyah addresses the cynical, materialistic view of life and death. It dismantles the argument of the atheists of Mecca who claimed, 'There is not but our worldly life; we die and live, and nothing destroys us except time.' The surah refutes this bleak nihilism, promising that a meticulous, undeniable Record awaits every soul."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Discusses the imagery of 'The Kneeling' (Al-Jathiyah). Ibn Kathir notes that on the Day of Resurrection, when the reality of Hell is brought forth, the sheer psychological and physical terror will cause even the most arrogant kings and the most righteous prophets to fall to their knees, waiting to be called to their individual Records."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Contextualizes the atheistic argument in the surah. Al-Jalalayn explains the concept of 'Dahr' (Time), which the polytheists blamed for their death. The Quran corrects this by stating that time is merely a creation and a measurement; it has no power to create or destroy. Life and death are exclusively in the hands of the Creator."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Analyzes the psychology of worshipping one's desires. As-Sa'di points out that an idol doesn't have to be a statue of stone. If a person's ultimate metric for right and wrong is simply 'what I feel like doing,' they have effectively made their own ego their deity. God seals the heart of such a person because they have actively chosen blindness over truth."
+          }
+        ]
+      },
+      "ms": {
+        "title": "Surah Al-Jathiyah — Pengenalan",
+        "theme": "Bangsa yang Berlutut, Penyembahan Ego, dan Ketundukan Akal.",
+        "explanation": [
+          "Surah Al-Jathiyah (Yang Berlutut) adalah yang keenam daripada tujuh surah Makkiyah 'Ha-Mim'. Tajuknya melukiskan salah satu gambaran yang paling jelas dan menakutkan tentang Hari Kiamat dalam keseluruhan Al-Quran: suatu hari apabila beratnya keadilan mutlak memaksa setiap bangsa dan empayar berlutut dalam ketakutan dan penantian yang amat sangat.",
+          "Fokus teologi pusat surah ini ialah hubungan antara akal manusia dan wahyu Ilahi. Ia berhujah bahawa alam semesta ini tepu dengan 'tanda-tanda' (Ayat) yang logik bagi mereka yang menggunakan akal. Walau bagaimanapun, ia mengkritik tajam mereka yang memiliki akal tetapi dibutakan oleh kesombongan mereka sendiri. Ia memperkenalkan konsep yang menakutkan: penyembahan ego, di mana seseorang mengambil hawa nafsu dan pendapat mereka sendiri sebagai 'tuhan' mutlak mereka.",
+          "Tambahan pula, Surah Al-Jathiyah menangani pandangan yang sinis dan materialistik tentang kehidupan dan kematian. Ia meruntuhkan hujah golongan ateis Mekah yang mendakwa, 'Tiada lain hanyalah kehidupan dunia kita; kita mati dan kita hidup, dan tiada yang membinasakan kita melainkan masa.' Surah ini menyangkal nihilisme yang suram ini, menjanjikan bahawa sebuah Rekod Catatan yang teliti dan tidak dapat disangkal menanti setiap jiwa."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Membincangkan imejan 'Yang Berlutut' (Al-Jathiyah). Ibn Kathir mencatatkan bahawa pada Hari Kebangkitan, apabila realiti Neraka dibawa ke hadapan, kengerian psikologi dan fizikal yang amat sangat akan menyebabkan raja-raja yang paling sombong dan nabi-nabi yang paling soleh sekalipun jatuh berlutut, menunggu untuk dipanggil kepada Rekod Catatan masing-masing."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Meletakkan konteks hujah ateistik dalam surah ini. Al-Jalalayn menjelaskan konsep 'Dahr' (Masa), yang dipersalahkan oleh kaum musyrik atas kematian mereka. Al-Quran membetulkan perkara ini dengan menyatakan bahawa masa hanyalah satu ciptaan dan ukuran; ia tidak mempunyai kuasa untuk mencipta atau memusnahkan. Kehidupan dan kematian adalah eksklusif di Tangan Pencipta."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menganalisis psikologi menyembah hawa nafsu. As-Sa'di menunjukkan bahawa berhala tidak semestinya patung batu. Jika metrik mutlak seseorang untuk menentukan yang betul dan salah hanyalah 'apa yang saya rasa ingin lakukan,' mereka secara berkesan telah menjadikan ego mereka sendiri sebagai tuhan mereka. Tuhan mengunci hati orang sedemikian kerana mereka secara aktif telah memilih sifa buta berbanding kebenaran."
+          }
+        ]
+      }
+    },
+    {
+      "id": "section-11",
+      "type": "passage",
+      "surah_number": 45,
+      "verse_start": 1,
+      "verse_end": 37,
+      "en": {
+        "title": "The Kneeling Nations & The Arrogance of Materialism",
+        "theme": "The ultimate submission of all creation, the danger of the 'ego' idol, and the irrefutable record of deeds.",
+        "arabic": "أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ عَلَىٰ عِلْمٍ... وَقَالُوا مَا هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَا إِلَّا الدَّهْرُ ۚ... وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً ۚ كُلَّ أُمَّةٍ تُدْعَىٰ إِلَىٰ كِتَابِهَا الْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+        "translation": "Have you seen he who has taken as his god his [own] desire, and Allah has sent him astray due to knowledge... And they say, 'There is not but our worldly life; we die and live, and nothing destroys us except time.'... And you will see every nation kneeling [from fear]. Every nation will be called to its record [and told], 'Today you will be recompensed for what you used to do.'",
+        "explanation": [
+          "The passage confronts one of the most subtle and dangerous forms of shirk (idolatry). It asks a piercing question: 'Have you seen he who has taken his own desire as his god?' This describes a person who knows the truth but arrogantly chooses to follow their own opinions, trends, and appetites. Because they actively misuse their intellect to justify their sins, God seals their hearing and their hearts. They become unguided despite possessing knowledge.",
+          "The surah then quotes the classic nihilistic argument: 'We live, we die, and nothing kills us but time.' The Quran dismisses this as an unscientific guess ('they have no knowledge... they only assume'). To believe the intricate universe was born from nothing, and that human morality has no ultimate consequence, is an intellectual failure. God asserts that He gives life, He causes death, and He will undeniably gather everyone on a Day about which there is no doubt.",
+          "The climax of the Juz is the awe-inspiring scene of 'Al-Jathiyah'. On Judgment Day, the illusion of worldly power is totally shattered. Every nation, empire, and superpower is seen 'kneeling' on the ground in pure, unadulterated terror. They are called to their 'Book'—a flawless, exhaustive record of every action they took on earth. God declares, 'This, Our record, speaks about you in truth. Indeed, We were having transcribed whatever you used to do.' Absolute justice is finally served."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Expands on the concept of taking one's desire as a god. Ibn Kathir explains that this means the person's religion is dictated entirely by what they like and dislike. If their desire agrees with God's law, they follow it; if it conflicts, they follow their desire. This conditional obedience is actual rebellion."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the recording of deeds in Verse 29. Al-Jalalayn notes that 'We were having transcribed' means the recording angels (Kiraman Katibin) were continuously documenting every intention, word, and physical action. The Book is presented not to inform God (who already knows), but to leave the sinner with absolutely no room to argue or deny."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the visual majesty of the 'Kneeling Nations'. As-Sa'di states that in the worldly life, nations stood proud, built massive armies, and looked down on the believers. The image of them all huddled on their knees is the ultimate display of divine supremacy. It is a terrifying realization that God's authority cannot be challenged by any human coalition."
+          }
+        ],
+        "lessons": [
+          "🪞 The Idol in the Mirror: You don't have to bow to a statue to be an idolater. If you consistently put your own desires, career, or ego above the clear commands of God, you have turned yourself into a false god. True faith requires submission, even when it is inconvenient.",
+          "⏱️ Time is Not the Enemy: Do not adopt the bleak view that you are just a random collection of cells decaying over time. You are a purposeful creation of the Most Merciful. Your life has eternal significance, and your actions echo into the Hereafter.",
+          "📜 The Indisputable Record: Every text you send, every secret conversation you have, and every cent you spend is being meticulously transcribed. Live your life knowing that one day, you will be handed a book containing your entire biography, and you will have to read it aloud in front of the Creator."
+        ]
+      },
+      "ms": {
+        "title": "Bangsa yang Berlutut & Kesombongan Materialisme",
+        "theme": "Ketundukan mutlak seluruh ciptaan, bahaya berhala 'ego', dan rekod amalan yang tidak dapat disangkal.",
+        "arabic": "أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ عَلَىٰ عِلْمٍ... وَقَالُوا مَا هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَا إِلَّا الدَّهْرُ ۚ... وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً ۚ كُلَّ أُمَّةٍ تُدْعَىٰ إِلَىٰ كِتَابِهَا الْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+        "translation": "Dengan yang demikian, bagaimana fikiranmu (wahai Muhammad) terhadap orang yang menjadikan hawa nafsunya: tuhan yang dipatuhinya, dan ia pula disesatkan oleh Allah kerana diketahuiNya (bahawa ia tetap ingkar)... Dan mereka berkata: 'Tiada kehidupan lain selain dari hidup kita di dunia ini. Kita mati dan kita hidup, dan tiada yang membinasakan kita melainkan edaran zaman.'... Dan (pada hari kiamat) engkau akan melihat tiap-tiap umat berlutut (dalam keadaan cemas). Tiap-tiap umat diseru untuk menerima kitab suratan amalnya, (serta dikatakan kepada mereka): 'Pada hari ini kamu akan dibalas menurut apa yang kamu telah kerjakan!'",
+        "explanation": [
+          "Petikan ini berhadapan dengan salah satu bentuk syirik yang paling halus dan berbahaya. Ia mengajukan soalan yang tajam: 'Bagaimana fikiranmu terhadap orang yang menjadikan hawa nafsunya sebagai tuhan?' Ini menggambarkan seseorang yang mengetahui kebenaran tetapi dengan sombong memilih untuk mengikut pendapat, trend, dan nafsu mereka sendiri. Kerana mereka secara aktif menyalahgunakan akal mereka untuk mewajarkan dosa mereka, Tuhan mengunci pendengaran dan hati mereka. Mereka menjadi tidak mendapat petunjuk walaupun memiliki pengetahuan.",
+          "Surah ini kemudian memetik hujah nihilistik klasik: 'Kita hidup, kita mati, dan tiada yang membunuh kita melainkan masa.' Al-Quran menolak ini sebagai satu tekaan yang tidak saintifik ('mereka tidak mempunyai pengetahuan... mereka hanyalah meneka-neka'). Mempercayai bahawa alam semesta yang rumit ini lahir daripada ketiadaan, dan bahawa moral manusia tidak mempunyai akibat yang mutlak, adalah satu kegagalan intelek. Tuhan menegaskan bahawa Dia memberi kehidupan, Dia mematikan, dan Dia pasti akan mengumpulkan semua orang pada Hari yang tidak ada keraguan padanya.",
+          "Kemuncak Juz ini ialah pemandangan 'Al-Jathiyah' yang sangat menggerunkan. Pada Hari Kiamat, ilusi kuasa duniawi dihancurkan sama sekali. Setiap bangsa, empayar, dan kuasa besar dilihat 'berlutut' di atas tanah dalam ketakutan yang tulen dan mutlak. Mereka dipanggil kepada 'Kitab' mereka—satu rekod yang sempurna dan menyeluruh mengenai setiap tindakan yang mereka lakukan di bumi. Tuhan mengisytiharkan, 'Inilah kitab Kami, yang bercakap tentang kamu dengan benar. Sesungguhnya Kami sentiasa menyuruh catatkan apa yang kamu lakukan.' Keadilan mutlak akhirnya ditegakkan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menghuraikan konsep menjadikan hawa nafsu sebagai tuhan. Ibn Kathir menjelaskan bahawa ini bermakna agama seseorang itu ditentukan sepenuhnya oleh apa yang mereka suka dan tidak suka. Jika kehendak mereka bersetuju dengan undang-undang Tuhan, mereka mengikutinya; jika ia bercanggah, mereka mengikut kehendak mereka. Ketaatan bersyarat ini adalah pemberontakan yang sebenar."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan pencatatan amal dalam Ayat 29. Al-Jalalayn mencatatkan bahawa 'Kami sentiasa menyuruh catatkan' bermaksud malaikat pencatat (Kiraman Katibin) secara berterusan mendokumentasikan setiap niat, perkataan, dan tindakan fizikal. Kitab itu dibentangkan bukan untuk memaklumkan kepada Tuhan (yang sudah sedia mengetahui), tetapi untuk tidak meninggalkan sebarang ruang bagi pendosa untuk berhujah atau menafikan."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus pada keagungan visual 'Bangsa-bangsa yang Berlutut'. As-Sa'di menyatakan bahawa dalam kehidupan dunia, negara-negara berdiri dengan bangga, membina tentera yang besar, dan memandang rendah kepada orang-orang yang beriman. Imej mereka semua berkumpul sambil berlutut adalah paparan mutlak keagungan Ilahi. Ia adalah kesedaran yang menakutkan bahawa kekuasaan Tuhan tidak boleh dicabar oleh mana-mana gabungan manusia."
+          }
+        ],
+        "lessons": [
+          "🪞 Berhala di dalam Cermin: Anda tidak perlu tunduk kepada patung untuk menjadi seorang musyrik. Jika anda secara konsisten meletakkan keinginan, kerjaya, atau ego anda sendiri melebihi perintah Tuhan yang jelas, anda telah menjadikan diri anda tuhan yang palsu. Iman yang sebenar menuntut penyerahan, walaupun ia menyusahkan.",
+          "⏱️ Masa Bukanlah Musuh: Jangan terima pandangan suram bahawa anda hanyalah koleksi sel rawak yang mereput mengikut peredaran masa. Anda adalah ciptaan Yang Maha Pemurah yang bermatlamat. Kehidupan anda mempunyai kepentingan abadi, dan tindakan anda bergema ke Akhirat.",
+          "📜 Rekod yang Tidak Dapat Disangkal: Setiap mesej teks yang anda hantar, setiap perbualan rahsia yang anda lakukan, dan setiap sen yang anda belanjakan sedang ditranskrip dengan teliti. Jalani hidup anda dengan mengetahui bahawa suatu hari nanti, anda akan diserahkan sebuah buku yang mengandungi keseluruhan biografi anda, dan anda perlu membacanya dengan kuat di hadapan Pencipta."
+        ]
+      }
+    },
+    {
+      "id": "section-12",
+      "type": "summary",
+      "en": {
+        "title": "Overarching Themes of Juz 25",
+        "theme": "The Unified Message, The Danger of Materialism, and Absolute Accountability.",
+        "explanation": [
+          "Juz 25 is a deeply intellectual and theological segment of the Quran, heavily comprising the 'Ha-Mim' series of surahs (Fussilat, Ash-Shura, Az-Zukhruf, Ad-Dukhan, and Al-Jathiyah). It serves as a masterclass in dismantling the materialistic and arrogant worldview of those who reject divine revelation. The Juz establishes that the core message of Islam is not a new invention, but the exact, unbroken legacy of Tawhid (monotheism) given to all major prophets throughout history.",
+          "A profound running theme in this Juz is the critique of 'Zukhruf' (superficial adornment) and the illusion of worldly power. The Quran relentlessly mocks the logic that equates financial wealth or grand architecture with divine favor. By painting hypothetical pictures of silver roofs, and reflecting on the drowning of Pharaoh who boasted of his gold bracelets, the Juz trains the believer to view the world through the lens of eternity, not transient luxury.",
+          "The Juz climaxes in terrifying and awe-inspiring depictions of the Day of Judgment. It moves from the cosmic 'Smoke' (Dukhan) that exposes the fickle nature of the arrogant, to the betrayal of one's own skin and limbs in Surah Fussilat, culminating in the magnificent, terrifying scene of 'Al-Jathiyah'—where every proud nation and superpower is brought to its knees, awaiting their flawless, undeniable Record of Deeds."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Summarizes the power of the 'Ha-Mim' surahs in this Juz. Ibn Kathir notes that they act as a defensive shield for the intellect, systematically addressing and dismantling every single excuse humans use to avoid submitting to God—whether it is blind tradition, wealth, fake intercessors, or the idolatry of one's own desires."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Highlights the constant connection between the macrocosm and the microcosm. The Juz continually commands humans to look at the 'horizons' (the heavens) and 'within themselves' (their own biology), proving that the God who resurrects the dead earth with rain is the exact same God who will resurrect human bones from the dust."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Concludes that Juz 25 is ultimately about establishing true 'Shura' (Consultation) and community ethics. While it heavily warns the disbelievers, it teaches the believers how to organize their society: reject tyranny, consult one another, forgive those who wrong you, and rely entirely on the 'Ruh' (Spirit) of the Quran to bring life to your hearts."
+          }
+        ],
+        "lessons": [
+          "Honor the Unified Legacy: Your religion is the culmination of the truth brought by Noah, Abraham, Moses, and Jesus. Guard its unity and strictly avoid the disease of sectarian division.",
+          "See Past the Glitter: Worldly wealth is an illusion and a test. Never judge a person's worth by their bank account, and do not let the pursuit of 'Zukhruf' distract you from the eternal 'Dar as-Salam' (Home of Peace).",
+          "Prepare for the Kneeling: Live your life with the stark awareness of 'Al-Jathiyah'. The day will come when the excuses fade, the ego breaks, and you will fall to your knees before the Creator to read your own book. Write a story you will be proud to read."
+        ]
+      },
+      "ms": {
+        "title": "Tema Utama Juz 25",
+        "theme": "Mesej yang Bersatu, Bahaya Materialisme, dan Kebertanggungjawaban Mutlak.",
+        "explanation": [
+          "Juz 25 adalah segmen Al-Quran yang sangat berunsur intelek dan teologi, yang sebahagian besarnya terdiri daripada siri surah 'Ha-Mim' (Fussilat, Ash-Shura, Az-Zukhruf, Ad-Dukhan, dan Al-Jathiyah). Ia berfungsi sebagai kelas induk dalam meruntuhkan pandangan dunia yang materialistik dan sombong oleh mereka yang menolak wahyu Ilahi. Juz ini menetapkan bahawa mesej teras Islam bukanlah satu ciptaan baru, tetapi warisan Tauhid yang tepat dan tidak terputus yang diberikan kepada semua nabi utama sepanjang sejarah.",
+          "Satu tema berterusan yang mendalam dalam Juz ini ialah kritikan terhadap 'Zukhruf' (perhiasan dangkal) dan ilusi kuasa duniawi. Al-Quran tanpa henti mengejek logik yang menyamakan kekayaan kewangan atau seni bina yang agung dengan keredaan Ilahi. Dengan melukiskan gambaran hipotetikal tentang bumbung perak, dan merenung tentang tenggelamnya Firaun yang bermegah dengan gelang emasnya, Juz ini melatih orang yang beriman untuk melihat dunia melalui kanta keabadian, bukan kemewahan sementara.",
+          "Juz ini memuncak dengan gambaran Hari Kiamat yang menakutkan dan mengagumkan. Ia bergerak daripada 'Asap' (Dukhan) kosmik yang mendedahkan sifat orang sombong yang sering berubah-ubah, kepada pengkhianatan kulit dan anggota badan sendiri dalam Surah Fussilat, dan memuncak dalam adegan 'Al-Jathiyah' yang agung dan menakutkan—di mana setiap bangsa dan kuasa besar yang bangga dibawa berlutut, menantikan Rekod Amalan mereka yang sempurna dan tidak dapat disangkal."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Merumuskan kehebatan surah-surah 'Ha-Mim' dalam Juz ini. Ibn Kathir mencatatkan bahawa ia bertindak sebagai perisai pertahanan bagi akal, secara sistematik menangani dan meruntuhkan setiap alasan yang digunakan manusia untuk mengelak daripada tunduk kepada Tuhan—sama ada ia adalah tradisi buta, kekayaan, pemberi syafaat palsu, atau penyembahan terhadap hawa nafsu sendiri."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menonjolkan hubungan berterusan antara makrokosmos dan mikrokosmos. Juz ini secara berterusan memerintahkan manusia untuk melihat 'ufuk' (langit) dan 'pada diri mereka sendiri' (biologi mereka sendiri), membuktikan bahawa Tuhan yang membangkitkan bumi yang mati dengan hujan adalah Tuhan yang sama yang akan membangkitkan tulang manusia daripada debu."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menyimpulkan bahawa Juz 25 akhirnya adalah tentang menegakkan 'Syura' (Permesyuaratan) yang sebenar dan etika komuniti. Walaupun ia memberi amaran keras kepada orang kafir, ia mengajar orang beriman bagaimana untuk mengatur masyarakat mereka: menolak kezaliman, berunding antara satu sama lain, memaafkan mereka yang menganiaya anda, dan bergantung sepenuhnya kepada 'Ruh' (Roh) Al-Quran untuk menghidupkan hati anda."
+          }
+        ],
+        "lessons": [
+          "Hormati Warisan yang Bersatu: Agama anda ialah kemuncak kebenaran yang dibawa oleh Nuh, Ibrahim, Musa, dan Isa. Jaga kesatuannya dan elakkan dengan tegas penyakit perpecahan mazhab.",
+          "Lihat Melangkaui Kilauan: Kekayaan dunia adalah ilusi dan ujian. Jangan sesekali menilai nilai seseorang berdasarkan akaun bank mereka, dan jangan biarkan pencarian 'Zukhruf' mengalih perhatian anda daripada 'Darus Salam' (Tempat Kediaman yang Damai) yang abadi.",
+          "Bersedia untuk Berlutut: Jalani kehidupan anda dengan kesedaran penuh tentang 'Al-Jathiyah'. Akan tiba masanya apabila segala alasan pudar, ego hancur, dan anda akan jatuh berlutut di hadapan Pencipta untuk membaca buku anda sendiri. Tulislah sebuah cerita yang anda akan bangga untuk membacanya."
+        ]
+      }
+    }
+  ]
+}
