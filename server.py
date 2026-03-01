@@ -19,14 +19,25 @@ class CustomHandler(http.server.SimpleHTTPRequestHandler):
         # Remove query string and fragment for pattern matching
         path_without_query = path.split('?')[0].split('#')[0]
         
-        # Pattern: /{lang}/juz{N} where lang is 2 letters and N is 1-2 digits
-        juz_pattern = r'^/(en|ms)/juz(\d{1,2})/?$'
+        # Pattern: /{lang}/juz{N} (e.g. /en/juz2, /ms/juz14)
+        juz_pattern = r'^/(en|ms)/juz(\d{1,2})(?:\.html)?/?$'
         match = re.match(juz_pattern, path_without_query)
-        
+
+        # Pattern: /juz{N}.html (old static file links)
+        bare_juz_pattern = r'^/juz(\d{1,2})\.html$'
+        bare_match = re.match(bare_juz_pattern, path_without_query)
+
         if match:
             # Serve juz-page.html for juz routes
             self.path = '/juz-page.html'
-        
+
+        elif bare_match:
+            # Redirect to clean slug URL
+            self.send_response(302)
+            self.send_header('Location', '/en/juz' + bare_match.group(1))
+            self.end_headers()
+            return
+
         # For root, serve index.html
         elif path_without_query == '/':
             self.path = '/index.html'

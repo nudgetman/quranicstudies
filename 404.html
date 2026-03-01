@@ -10,24 +10,26 @@
   (function() {
     var path = window.location.pathname;
     var hash = window.location.hash;
-    
-    // Check if this looks like a juz page route
-    var juzMatch = path.match(/\/(en|ms)\/juz(\d{1,2})\/?$/);
-    
-    if (juzMatch) {
-      // Store the original path for juz-page.html to read
-      sessionStorage.setItem('redirect-path', path);
-      
-      // Get the base path (everything before /en/ or /ms/)
-      var basePath = path.substring(0, path.indexOf('/' + juzMatch[1]));
-      
-      // Redirect to juz-page.html
+    var basePath = path.includes('/quranicstudies') ? '/quranicstudies' : '';
+
+    // /en/juz25 or /ms/juz25 (with or without .html)
+    var langJuzMatch = path.match(/\/(en|ms)\/juz(\d{1,2})(?:\.html)?\/?$/);
+    if (langJuzMatch) {
+      sessionStorage.setItem('redirect-path', basePath + '/' + langJuzMatch[1] + '/juz' + langJuzMatch[2]);
       window.location.replace(basePath + '/juz-page.html' + hash);
-    } else {
-      // For other 404s, redirect to home
-      var basePath = path.includes('/quranicstudies') ? '/quranicstudies' : '';
-      window.location.replace(basePath + '/');
+      return;
     }
+
+    // /juz25.html (old static file links) — redirect to /en/juz25
+    var bareJuzMatch = path.match(/\/juz(\d{1,2})\.html$/);
+    if (bareJuzMatch) {
+      sessionStorage.setItem('redirect-path', basePath + '/en/juz' + bareJuzMatch[1]);
+      window.location.replace(basePath + '/juz-page.html' + hash);
+      return;
+    }
+
+    // For other 404s, redirect to home
+    window.location.replace(basePath + '/');
   })();
 </script>
 </head>
