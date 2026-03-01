@@ -279,612 +279,600 @@
       }
     },
     {
-      "sections": [
-        {
-          "id": "section-04",
-          "type": "passage",
-          "surah_number": 4,
-          "verse_start": 58,
-          "verse_end": 70,
-          "en": {
-            "title": "Divine Trusts, Obedience & Ultimate Justice",
-            "theme": "The universal mandate of fulfilling trusts, the hierarchy of spiritual obedience, and the true test of internal submission to divine decree.",
-            "arabic": "إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ ۚ... يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ ۖ... فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ...",
-            "translation": "Indeed, Allah commands you to render trusts to whom they are due and when you judge between people to judge with justice... O you who have believed, obey Allah and obey the Messenger and those in authority among you... But no, by your Lord, they will not [truly] believe until they make you, [O Muhammad], judge concerning that over which they dispute among themselves...",
-            "explanation": [
-              "This passage outlines the foundational pillars of a righteous society and a pure heart. It begins with an absolute command to fulfill 'Amanah' (trusts). In Islamic theology, a trust is not merely keeping a secret or holding someone's money; it encompasses every blessing, responsibility, and duty assigned by God—from how one treats their body to how a leader governs their people.",
-              "Verse 59 establishes the core hierarchy of guidance: absolute obedience is due to Allah and His Messenger. Conditional obedience is owed to 'those in authority' (leaders, scholars), provided their commands do not contradict God's law. If disputes arise, the ultimate reference point is always the Quran and the Sunnah.",
-              "The section reaches a profound spiritual climax in Verse 65. True faith is not just outward compliance; it requires an internal surrender. A believer must accept God's judgment (and the Prophet's rulings) without any lingering resentment or constriction in their heart. Complete spiritual submission brings the ultimate reward: companionship in the Hereafter with the Prophets, the steadfast affirmers of truth, the martyrs, and the righteous."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Emphasizes the broad scholarly consensus on the word 'Amanah'. Ibn Kathir notes it includes the rights of Allah (like prayer, fasting, and hidden acts of worship) and the rights of the creation (like returning borrowed items and keeping promises). Withholding an Amanah is a severe spiritual betrayal."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Clarifies the term 'Ulul Amr' (those in authority). It refers broadly to the rulers and the scholars of Islamic jurisprudence. However, Al-Jalalayn underscores the consensus that if a leader commands disobedience to God, their authority in that specific matter is instantly nullified."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Focuses deeply on the internal state mentioned in Verse 65 ('find no discomfort within themselves'). As-Sa'di explains that true Iman (faith) is measured by the heart's tranquility when God's law goes against one's personal desires. Yielding to the Divine without ego is the highest form of spiritual maturity."
-              }
-            ],
-            "lessons": [
-              "🤲 The Weight of Trust: Everything you have is an 'Amanah' on loan from God. Your job, your family, your health, and your words are trusts you will be asked about.",
-              "⚖️ God as the Ultimate Anchor: Human leaders and systems are fallible. When confusion strikes, true peace is found by anchoring your decisions back to the divine standard of the Quran.",
-              "❤️ Surrender Your Ego: Faith is incomplete if you obey God outwardly but hate His rules inwardly. Spiritual excellence is aligning what you love with what God commands."
-            ]
+      "id": "section-04",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 58,
+      "verse_end": 70,
+      "en": {
+        "title": "Divine Trusts, Obedience & Ultimate Justice",
+        "theme": "The universal mandate of fulfilling trusts, the hierarchy of spiritual obedience, and the true test of internal submission to divine decree.",
+        "arabic": "إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ ۚ... يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ ۖ... فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ...",
+        "translation": "Indeed, Allah commands you to render trusts to whom they are due and when you judge between people to judge with justice... O you who have believed, obey Allah and obey the Messenger and those in authority among you... But no, by your Lord, they will not [truly] believe until they make you, [O Muhammad], judge concerning that over which they dispute among themselves...",
+        "explanation": [
+          "This passage outlines the foundational pillars of a righteous society and a pure heart. It begins with an absolute command to fulfill 'Amanah' (trusts). In Islamic theology, a trust is not merely keeping a secret or holding someone's money; it encompasses every blessing, responsibility, and duty assigned by God—from how one treats their body to how a leader governs their people.",
+          "Verse 59 establishes the core hierarchy of guidance: absolute obedience is due to Allah and His Messenger. Conditional obedience is owed to 'those in authority' (leaders, scholars), provided their commands do not contradict God's law. If disputes arise, the ultimate reference point is always the Quran and the Sunnah.",
+          "The section reaches a profound spiritual climax in Verse 65. True faith is not just outward compliance; it requires an internal surrender. A believer must accept God's judgment (and the Prophet's rulings) without any lingering resentment or constriction in their heart. Complete spiritual submission brings the ultimate reward: companionship in the Hereafter with the Prophets, the steadfast affirmers of truth, the martyrs, and the righteous."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Emphasizes the broad scholarly consensus on the word 'Amanah'. Ibn Kathir notes it includes the rights of Allah (like prayer, fasting, and hidden acts of worship) and the rights of the creation (like returning borrowed items and keeping promises). Withholding an Amanah is a severe spiritual betrayal."
           },
-          "ms": {
-            "title": "Amanah Ilahi, Ketaatan & Keadilan Mutlak",
-            "theme": "Mandat universal untuk menunaikan amanah, hierarki ketaatan rohani, dan ujian sebenar kepatuhan dalaman terhadap ketetapan Ilahi.",
-            "arabic": "إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ ۚ... يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ ۖ... فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ...",
-            "translation": "Sesungguhnya Allah menyuruh kamu supaya menyerahkan segala jenis amanah kepada ahlinya (yang berhak menerimanya), dan apabila kamu menjalankan hukum di antara manusia, (Allah menyuruh) kamu menghukum dengan adil... Wahai orang-orang yang beriman, taatlah kamu kepada Allah dan taatlah kamu kepada Rasulullah dan kepada Ulil-Amri (orang-orang yang berkuasa) dari kalangan kamu... Maka demi Tuhanmu (wahai Muhammad)! Mereka tidak disifatkan beriman sehingga mereka menjadikan engkau hakim dalam mana-mana perselisihan yang timbul di antara mereka...",
-            "explanation": [
-              "Petikan ini menggariskan tiang asas bagi masyarakat yang soleh dan hati yang suci. Ia bermula dengan perintah mutlak untuk menunaikan 'Amanah'. Dalam teologi Islam, amanah bukan sekadar menyimpan rahsia atau memegang wang seseorang; ia merangkumi setiap nikmat, tanggungjawab, dan tugas yang ditetapkan oleh Tuhan—daripada cara seseorang menjaga tubuh badannya hinggalah cara seorang pemimpin mentadbir rakyatnya.",
-              "Ayat 59 menetapkan hierarki teras panduan: ketaatan mutlak hanya kepada Allah dan Rasul-Nya. Ketaatan bersyarat diberikan kepada 'Ulil Amri' (pemimpin, ulama), dengan syarat perintah mereka tidak bercanggah dengan hukum Tuhan. Jika timbul perselisihan, titik rujukan utama mestilah sentiasa kembali kepada Al-Quran dan Sunnah.",
-              "Bahagian ini mencapai kemuncak rohani yang mendalam pada Ayat 65. Iman yang sebenar bukan sekadar kepatuhan luaran; ia menuntut penyerahan dalaman. Seorang mukmin mesti menerima penghakiman Tuhan (dan ketetapan Nabi) tanpa sebarang rasa tidak puas hati atau kesempitan dalam hati mereka. Penyerahan rohani yang mutlak membawa ganjaran yang tertinggi: kebersamaan di Akhirat bersama para Nabi, orang-orang yang benar (Siddiqin), para syuhada, dan orang-orang yang soleh."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Menekankan konsensus luas para ulama mengenai perkataan 'Amanah'. Ibn Kathir menyatakan ia merangkumi hak-hak Allah (seperti solat, puasa, dan ibadah yang tersembunyi) dan hak-hak makhluk (seperti memulangkan barang yang dipinjam dan menepati janji). Menahan sesuatu Amanah adalah satu pengkhianatan rohani yang sangat berat."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Menjelaskan istilah 'Ulil Amri' (mereka yang berkuasa). Ia merujuk secara meluas kepada para pemerintah dan ulama fiqh Islam. Namun, Al-Jalalayn menggariskan konsensus bahawa jika seorang pemimpin memerintahkan kemaksiatan kepada Tuhan, pihak berkuasanya dalam perkara tersebut terbatal serta-merta."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Fokus secara mendalam pada keadaan dalaman yang disebut dalam Ayat 65 ('tidak merasa keberatan dalam hati mereka'). As-Sa'di menjelaskan bahawa Iman yang sebenar diukur dengan ketenangan hati apabila hukum Tuhan bertentangan dengan kehendak peribadi seseorang. Tunduk kepada Ilahi tanpa ego adalah bentuk kematangan rohani yang tertinggi."
-              }
-            ],
-            "lessons": [
-              "🤲 Beratnya Sebuah Amanah: Segala yang anda miliki adalah 'Amanah' pinjaman daripada Tuhan. Pekerjaan anda, keluarga anda, kesihatan anda, dan kata-kata anda adalah amanah yang akan disoal kelak.",
-              "⚖️ Tuhan sebagai Paksi Mutlak: Pemimpin dan sistem manusia boleh melakukan kesilapan. Apabila kekeliruan melanda, kedamaian sebenar ditemui dengan menyandarkan keputusan anda kembali kepada piawaian ilahi Al-Quran.",
-              "❤️ Tundukkan Ego Anda: Iman tidak sempurna jika anda mentaati Tuhan secara luaran tetapi membenci peraturan-Nya secara dalaman. Kecemerlangan rohani adalah menyelaraskan apa yang anda cintai dengan apa yang Tuhan perintahkan."
-            ]
-          }
-        },
-        {
-          "id": "section-05",
-          "type": "passage",
-          "surah_number": 4,
-          "verse_start": 71,
-          "verse_end": 87,
-          "en": {
-            "title": "Courage in Battle & Responding to Greetings",
-            "theme": "The spiritual motives for fighting injustice, the reality of the divine decree over life and death, and the etiquette of spreading peace.",
-            "arabic": "وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ... أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ ۗ... وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ رُدُّوهَا ۗ...",
-            "translation": "And what is [the matter] with you that you fight not in the cause of Allah and [for] the oppressed among men, women, and children... Wherever you may be, death will overtake you, even if you should be within towers of lofty construction... And when you are greeted with a greeting, greet [in return] with one better than it or [at least] return it [in a like manner]...",
-            "explanation": [
-              "This passage reframes the concept of warfare in Islam. It is not driven by a thirst for conquest or wealth, but by a profound spiritual duty: to liberate the oppressed. Allah questions the believers, urging them to stand up for the weak men, women, and children who are crying out for a savior. Defending the vulnerable is synonymous with fighting 'in the cause of Allah'.",
-              "The verses then address the natural human fear of death, which often leads to cowardice. The Quran delivers a blunt, grounding reality: lifespan is entirely dictated by God's decree. Fleeing from responsibility will not extend one's life by a single second, just as entering a battlefield will not shorten it. Death will reach a person even if they hide in impenetrable fortresses. True courage is born from this trust in God's exact timing.",
-              "Amidst these heavy themes, the section beautifully pivots to a universal law of social harmony: the greeting of peace (Salam). Believers are commanded that whenever they receive a gesture of peace or a greeting, they must return it with something better, or at the very least, equal. This spiritual etiquette ensures that positivity and peace constantly multiply within society."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Focuses on the nobility of the cause. Ibn Kathir explains that fighting to protect the 'Mustad'afin' (the oppressed and weak) is one of the greatest acts of worship. He emphasizes that Islamic ethics demand the strong to be the shield for the defenseless."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Discusses the theological implication of the 'lofty towers'. The consensus is that avoiding a righteous struggle out of fear of death is a theological flaw, because it assumes human caution can override the pre-written decree (Qadar) of Allah regarding one's lifespan."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Highlights the profound wisdom of the 'greeting' verse. As-Sa'di points out that the word 'Tahiyyah' (greeting) implies praying for someone's life, peace, and prosperity. Multiplying a greeting is not just good manners; it is a spiritual transaction where one actively suppresses their own ego to elevate another person, turning a simple hello into an act of charity."
-              }
-            ],
-            "lessons": [
-              "🛡️ Be the Answer to a Prayer: God often answers the prayers of the oppressed by sending courageous people to help them. Spiritual maturity means being willing to be the vehicle of God's mercy for others.",
-              "⏳ Accept the Decree: Anxiety over death paralyzes living. Recognizing that your lifespan is already perfectly measured by God frees you to act courageously and live meaningfully.",
-              "✨ Multiply Positivity: Don't just match the energy of the room; elevate it. If someone shows you kindness or offers peace, it is a divine mandate to return it with even greater warmth."
-            ]
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the term 'Ulul Amr' (those in authority). It refers broadly to the rulers and the scholars of Islamic jurisprudence. However, Al-Jalalayn underscores the consensus that if a leader commands disobedience to God, their authority in that specific matter is instantly nullified."
           },
-          "ms": {
-            "title": "Keberanian dalam Pertempuran & Menjawab Salam",
-            "theme": "Motif rohani untuk menentang ketidakadilan, realiti ketetapan Ilahi ke atas hidup dan mati, dan adab menyebarkan kesejahteraan.",
-            "arabic": "وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ... أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ ۗ... وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ رُدُّوهَا ۗ...",
-            "translation": "Dan apakah yang menghalang kamu (maka kamu) tidak mahu berperang pada jalan Allah dan (untuk menyelamatkan) orang-orang yang tertindas dari kaum lelaki, perempuan dan kanak-kanak... Di mana jua kamu berada, maut akan mendapatkan kamu (bila sampai ajal), sekalipun kamu berada dalam benteng-benteng yang tinggi lagi kukuh... Dan apabila kamu diberikan penghormatan dengan sesuatu ucapan salam (atau keadaan yang baik), maka balaslah penghormatan itu dengan yang lebih baik daripadanya, atau balaslah dia (dengan cara yang sama)...",
-            "explanation": [
-              "Petikan ini membingkai semula konsep peperangan dalam Islam. Ia tidak didorong oleh kehausan untuk penaklukan atau kekayaan, tetapi oleh satu kewajipan rohani yang mendalam: untuk membebaskan golongan yang ditindas. Allah mempersoalkan orang-orang yang beriman, menggesa mereka untuk bangkit membela lelaki, wanita, dan kanak-kanak yang lemah yang merayu meminta penyelamat. Mempertahankan golongan yang terdedah kepada bahaya adalah sinonim dengan berjuang 'di jalan Allah'.",
-              "Ayat-ayat ini kemudian menangani sifat semula jadi manusia yang takut akan kematian, yang sering membawa kepada sifat pengecut. Al-Quran menyampaikan realiti yang berterus-terang: jangka hayat ditentukan sepenuhnya oleh ketetapan Tuhan. Melarikan diri daripada tanggungjawab tidak akan memanjangkan umur seseorang walau sesaat pun, sama seperti melangkah ke medan perang tidak akan memendekkannya. Kematian akan menemui seseorang walaupun mereka bersembunyi di dalam kubu yang tidak boleh ditembusi. Keberanian sebenar lahir daripada kepercayaan terhadap ketetapan masa Tuhan yang tepat ini.",
-              "Di sebalik tema-tema berat ini, bahagian ini secara indah beralih kepada undang-undang universal keharmonian sosial: ucapan kesejahteraan (Salam). Orang-orang yang beriman diperintahkan bahawa apabila mereka menerima tanda perdamaian atau ucapan salam, mereka mesti membalasnya dengan sesuatu yang lebih baik, atau sekurang-kurangnya, sama rata. Adab rohani ini memastikan sifat positif dan kedamaian sentiasa berganda dalam masyarakat."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Fokus pada kemuliaan tujuan tersebut. Ibn Kathir menjelaskan bahawa berjuang untuk melindungi 'Mustad'afin' (golongan yang tertindas dan lemah) adalah salah satu ibadah yang paling besar. Beliau menekankan bahawa etika Islam menuntut mereka yang kuat untuk menjadi perisai bagi mereka yang tidak berdaya."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Membincangkan implikasi teologi bagi 'benteng-benteng yang tinggi'. Konsensus ulama menyatakan bahawa mengelak daripada perjuangan yang benar kerana takut mati adalah satu kecacatan teologi, kerana ia mengandaikan langkah berjaga-jaga manusia boleh membatalkan ketetapan (Qadar) Allah yang telah tertulis mengenai jangka hayat seseorang."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Menonjolkan hikmah yang mendalam bagi ayat 'ucapan salam'. As-Sa'di menunjukkan bahawa perkataan 'Tahiyyah' (salam) membawa maksud mendoakan kehidupan, kesejahteraan, dan kemakmuran seseorang. Menggandakan ucapan salam bukan sekadar budi bahasa yang baik; ia adalah satu transaksi rohani di mana seseorang secara aktif menekan ego mereka sendiri untuk mengangkat martabat orang lain, menjadikan ucapan 'hello' yang ringkas sebagai satu bentuk sedekah."
-              }
-            ],
-            "lessons": [
-              "🛡️ Jadilah Jawapan kepada Doa: Tuhan sering menjawab doa orang yang ditindas dengan menghantar orang yang berani untuk membantu mereka. Kematangan rohani bermakna bersedia menjadi saluran rahmat Tuhan untuk orang lain.",
-              "⏳ Terima Ketetapan Ilahi: Kebimbangan terhadap kematian melumpuhkan kehidupan. Menyedari bahawa jangka hayat anda telah diukur dengan sempurna oleh Tuhan membebaskan anda untuk bertindak dengan berani dan hidup dengan penuh makna.",
-              "✨ Gandakan Positiviti: Jangan sekadar menyamai tenaga di sekeliling anda; tingkatkannya. Jika seseorang menunjukkan kebaikan atau menawarkan kedamaian, ia adalah mandat ketuhanan untuk membalasnya dengan kehangatan yang lebih besar."
-            ]
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses deeply on the internal state mentioned in Verse 65 ('find no discomfort within themselves'). As-Sa'di explains that true Iman (faith) is measured by the heart's tranquility when God's law goes against one's personal desires. Yielding to the Divine without ego is the highest form of spiritual maturity."
           }
-        },
-        {
-          "id": "section-06",
-          "type": "passage",
-          "surah_number": 4,
-          "verse_start": 88,
-          "verse_end": 100,
-          "en": {
-            "title": "Dealing with Hypocrisy, Manslaughter & Emigration",
-            "theme": "The supreme sanctity of human life, giving the benefit of the doubt, and the spiritual necessity of seeking a wholesome environment (Hijrah).",
-            "arabic": "وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَأً ۚ... يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا ضَرَبْتُمْ فِي سَبِيلِ اللَّهِ فَتَبَيَّنُوا وَلَا تَقُولُوا لِمَنْ أَلْقَىٰ إِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًا... إِنَّ الَّذِينَ تَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنفُسِهِمْ قَالُوا فِيمَ كُنتُمْ ۖ قَالُوا كُنَّا مُسْتَضْعَفِينَ فِي الْأَرْضِ ۚ...",
-            "translation": "And never is it for a believer to kill a believer except by mistake... O you who have believed, when you go forth [to fight] in the cause of Allah, investigate; and do not say to one who gives you [a greeting of] peace 'You are not a believer'... Indeed, those whom the angels take [in death] while wronging themselves - [the angels] will say, 'In what [condition] were you?' They will say, 'We were oppressed in the land.'...",
-            "explanation": [
-              "The section establishes a grave consensus regarding the sanctity of life. An intentional murder of a fellow believer incurs the eternal wrath of God. However, recognizing human fallibility, the Quran details specific blood money (Diyah) and expiations (such as fasting) for accidental manslaughter. To prevent tragic errors, believers are strictly commanded to 'investigate' (Tabayyun) before taking any aggressive action. If someone offers the greeting of peace, their faith must be accepted outwardly; judging the hidden intentions of the heart is exclusively God's domain.",
-              "The passage then transitions to a profound spiritual and psychological concept: 'Hijrah' (Emigration). The verses address people who live in environments so toxic that their faith is actively suppressed, yet they refuse to leave out of comfort or fear, making excuses that they are 'oppressed'.",
-              "When the angels take their souls, this excuse is rejected. The angels ask, 'Was not the earth of Allah spacious [enough] for you to emigrate therein?' The scholarly consensus highlights a vital lesson here: true faith requires action. If an environment forces you to compromise your core values, and you have the physical means to move, you cannot passively accept spiritual degradation. Seeking a better environment is a profound act of worship that guarantees God's abundant provision."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Underscores the severity of verse 93 regarding intentional murder, noting it is one of the starkest warnings in the entire Quran. Regarding Hijrah, Ibn Kathir explains that remaining in a place where one is unable to practice their religion, while having the ability to leave, is considered 'wronging oneself' (Zalim al-Nafs) because it is a willful participation in one's own spiritual destruction."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Focuses on the verse commanding investigation ('Tabayyun'). Al-Jalalayn provides the context where a Muslim killed a man who had greeted him with 'Salam', assuming the man only said it to save his life. The verse was revealed to strictly prohibit acting on suspicion. The outward declaration must be respected."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Expands the concept of Hijrah beyond physical migration. As-Sa'di notes that while physical emigration from a land of oppression to a land of faith is a duty, there is a continuous, everyday Hijrah required of every believer: the migration of the heart away from sins and toxic environments toward obedience and the pleasure of Allah."
-              }
-            ],
-            "lessons": [
-              "🛑 Leave the Heart to God: You are only responsible for judging outward actions. Giving the benefit of the doubt—especially when someone claims to mean well—is a divine command. We do not have the right to open people's chests to see their intentions.",
-              "🌍 The Courage to Change Environments: If your friends, your workplace, or your city are draining your faith and morality, you must move. Complaining about 'toxic surroundings' is invalid if you make no effort to find God's spacious, healthier alternatives.",
-              "⚖️ The Immense Value of Life: The rigid laws surrounding accidental manslaughter, and the terrifying warnings against intentional harm, prove how deeply God values a single human life. Carelessness with life is carelessness with God's creation."
-            ]
+        ],
+        "lessons": [
+          "🤲 The Weight of Trust: Everything you have is an 'Amanah' on loan from God. Your job, your family, your health, and your words are trusts you will be asked about.",
+          "⚖️ God as the Ultimate Anchor: Human leaders and systems are fallible. When confusion strikes, true peace is found by anchoring your decisions back to the divine standard of the Quran.",
+          "❤️ Surrender Your Ego: Faith is incomplete if you obey God outwardly but hate His rules inwardly. Spiritual excellence is aligning what you love with what God commands."
+        ]
+      },
+      "ms": {
+        "title": "Amanah Ilahi, Ketaatan & Keadilan Mutlak",
+        "theme": "Mandat universal untuk menunaikan amanah, hierarki ketaatan rohani, dan ujian sebenar kepatuhan dalaman terhadap ketetapan Ilahi.",
+        "arabic": "إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ ۚ... يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ ۖ... فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ...",
+        "translation": "Sesungguhnya Allah menyuruh kamu supaya menyerahkan segala jenis amanah kepada ahlinya (yang berhak menerimanya), dan apabila kamu menjalankan hukum di antara manusia, (Allah menyuruh) kamu menghukum dengan adil... Wahai orang-orang yang beriman, taatlah kamu kepada Allah dan taatlah kamu kepada Rasulullah dan kepada Ulil-Amri (orang-orang yang berkuasa) dari kalangan kamu... Maka demi Tuhanmu (wahai Muhammad)! Mereka tidak disifatkan beriman sehingga mereka menjadikan engkau hakim dalam mana-mana perselisihan yang timbul di antara mereka...",
+        "explanation": [
+          "Petikan ini menggariskan tiang asas bagi masyarakat yang soleh dan hati yang suci. Ia bermula dengan perintah mutlak untuk menunaikan 'Amanah'. Dalam teologi Islam, amanah bukan sekadar menyimpan rahsia atau memegang wang seseorang; ia merangkumi setiap nikmat, tanggungjawab, dan tugas yang ditetapkan oleh Tuhan—daripada cara seseorang menjaga tubuh badannya hinggalah cara seorang pemimpin mentadbir rakyatnya.",
+          "Ayat 59 menetapkan hierarki teras panduan: ketaatan mutlak hanya kepada Allah dan Rasul-Nya. Ketaatan bersyarat diberikan kepada 'Ulil Amri' (pemimpin, ulama), dengan syarat perintah mereka tidak bercanggah dengan hukum Tuhan. Jika timbul perselisihan, titik rujukan utama mestilah sentiasa kembali kepada Al-Quran dan Sunnah.",
+          "Bahagian ini mencapai kemuncak rohani yang mendalam pada Ayat 65. Iman yang sebenar bukan sekadar kepatuhan luaran; ia menuntut penyerahan dalaman. Seorang mukmin mesti menerima penghakiman Tuhan (dan ketetapan Nabi) tanpa sebarang rasa tidak puas hati atau kesempitan dalam hati mereka. Penyerahan rohani yang mutlak membawa ganjaran yang tertinggi: kebersamaan di Akhirat bersama para Nabi, orang-orang yang benar (Siddiqin), para syuhada, dan orang-orang yang soleh."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menekankan konsensus luas para ulama mengenai perkataan 'Amanah'. Ibn Kathir menyatakan ia merangkumi hak-hak Allah (seperti solat, puasa, dan ibadah yang tersembunyi) dan hak-hak makhluk (seperti memulangkan barang yang dipinjam dan menepati janji). Menahan sesuatu Amanah adalah satu pengkhianatan rohani yang sangat berat."
           },
-          "ms": {
-            "title": "Menangani Kemunafikan, Pembunuhan Tanpa Sengaja & Penghijrahan",
-            "theme": "Kesucian mutlak nyawa manusia, bersangka baik, dan keperluan rohani untuk mencari persekitaran yang baik (Hijrah).",
-            "arabic": "وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَأً ۚ... يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا ضَرَبْتُمْ فِي سَبِيلِ اللَّهِ فَتَبَيَّنُوا وَلَا تَقُولُوا لِمَنْ أَلْقَىٰ إِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًا... إِنَّ الَّذِينَ تَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنفُسِهِمْ قَالُوا فِيمَ كُنتُمْ ۖ قَالُوا كُنَّا مُسْتَضْعَفِينَ فِي الْأَرْضِ ۚ...",
-            "translation": "Dan tidak harus sama sekali bagi seseorang mukmin membunuh seorang mukmin yang lain, melainkan dengan tidak sengaja... Wahai orang-orang yang beriman, apabila kamu pergi (berperang) pada jalan Allah, maka selidikilah (Tabayyun); dan janganlah kamu berkata kepada orang yang memberi salam kepada kamu: 'Engkau bukan seorang mukmin'... Sesungguhnya orang-orang yang diambil nyawanya oleh malaikat semasa mereka sedang menganiaya diri sendiri, malaikat bertanya kepada mereka: 'Dalam keadaan apakah kamu ini?'. Mereka menjawab: 'Kami adalah orang-orang yang tertindas di bumi'...",
-            "explanation": [
-              "Bahagian ini menetapkan konsensus yang serius mengenai kesucian nyawa. Pembunuhan sengaja terhadap sesama mukmin mengundang kemurkaan Tuhan yang abadi. Walau bagaimanapun, menyedari sifat manusia yang boleh melakukan kesilapan, Al-Quran memperincikan wang darah (Diyat) dan pampasan (seperti berpuasa) untuk pembunuhan tanpa sengaja. Untuk mengelakkan kesilapan tragis, orang beriman diperintahkan dengan tegas untuk 'menyelidik' (Tabayyun) sebelum mengambil apa-apa tindakan agresif. Jika seseorang mengucapkan salam, imannya mesti diterima secara luaran; menilai niat yang tersembunyi di dalam hati adalah hak mutlak Tuhan semata-mata.",
-              "Petikan ini kemudian beralih kepada konsep rohani dan psikologi yang mendalam: 'Hijrah' (Penghijrahan). Ayat-ayat ini ditujukan kepada orang-orang yang tinggal di persekitaran yang sangat toksik sehingga iman mereka ditindas secara aktif, namun mereka enggan pergi kerana keselesaan atau ketakutan, dengan memberikan alasan bahawa mereka 'ditindas'.",
-              "Apabila malaikat mengambil nyawa mereka, alasan ini ditolak. Malaikat bertanya, 'Tidakkah bumi Allah itu luas untuk kamu berhijrah padanya?' Konsensus ulama menonjolkan satu pengajaran penting di sini: iman yang sebenar memerlukan tindakan. Jika persekitaran memaksa anda untuk menggadaikan nilai teras anda, dan anda mempunyai kemampuan fizikal untuk berpindah, anda tidak boleh menerima kehinaan rohani secara pasif. Mencari persekitaran yang lebih baik merupakan satu ibadah besar yang menjamin limpahan rezeki daripada Tuhan."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Menekankan betapa seriusnya ayat 93 mengenai pembunuhan sengaja, mencatatkan ia merupakan salah satu amaran yang paling keras dalam keseluruhan Al-Quran. Mengenai Hijrah, Ibn Kathir menjelaskan bahawa kekal di tempat di mana seseorang tidak dapat mengamalkan agamanya, sedangkan dia mampu untuk pergi, dianggap 'menganiaya diri sendiri' (Zalim al-Nafs) kerana ia merupakan penyertaan secara rela dalam kemusnahan rohaninya sendiri."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Fokus pada ayat yang memerintahkan siasatan ('Tabayyun'). Al-Jalalayn memberikan konteks di mana seorang Muslim membunuh seorang lelaki yang telah mengucapkan 'Salam' kepadanya, dengan andaian lelaki itu hanya mengucapkannya untuk menyelamatkan nyawanya. Ayat ini diturunkan untuk melarang keras tindakan berdasarkan syak wasangka. Pengisytiharan luaran mesti dihormati."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Memperluaskan konsep Hijrah menjangkaui penghijrahan fizikal. As-Sa'di mencatatkan bahawa walaupun penghijrahan fizikal dari tanah penindasan ke tanah keimanan adalah satu kewajipan, terdapat Hijrah harian berterusan yang diwajibkan ke atas setiap mukmin: penghijrahan hati daripada dosa dan persekitaran toksik menuju ketaatan dan keredaan Allah."
-              }
-            ],
-            "lessons": [
-              "🛑 Serahkan Urusan Hati Kepada Tuhan: Anda hanya bertanggungjawab untuk menilai tindakan luaran. Bersangka baik—terutamanya apabila seseorang mendakwa berniat baik—adalah satu perintah Tuhan. Kita tidak berhak untuk membelah dada manusia untuk melihat niat mereka.",
-              "🌍 Keberanian untuk Menukar Persekitaran: Jika rakan-rakan, tempat kerja, atau bandar anda mengikis iman dan akhlak anda, anda mesti berpindah. Merungut tentang 'persekitaran toksik' adalah tidak sah jika anda tidak berusaha untuk mencari alternatif Tuhan yang luas dan lebih sihat.",
-              "⚖️ Nilai Kehidupan yang Sangat Besar: Undang-undang yang ketat mengenai pembunuhan tanpa sengaja, dan amaran yang menakutkan terhadap perbuatan mencederakan secara sengaja, membuktikan betapa Tuhan sangat menghargai satu nyawa manusia. Sikap cuai terhadap nyawa adalah sikap cuai terhadap ciptaan Tuhan."
-            ]
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan istilah 'Ulil Amri' (mereka yang berkuasa). Ia merujuk secara meluas kepada para pemerintah dan ulama fiqh Islam. Namun, Al-Jalalayn menggariskan konsensus bahawa jika seorang pemimpin memerintahkan kemaksiatan kepada Tuhan, pihak berkuasanya dalam perkara tersebut terbatal serta-merta."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus secara mendalam pada keadaan dalaman yang disebut dalam Ayat 65 ('tidak merasa keberatan dalam hati mereka'). As-Sa'di menjelaskan bahawa Iman yang sebenar diukur dengan ketenangan hati apabila hukum Tuhan bertentangan dengan kehendak peribadi seseorang. Tunduk kepada Ilahi tanpa ego adalah bentuk kematangan rohani yang tertinggi."
           }
-        }
-      ]
+        ],
+        "lessons": [
+          "🤲 Beratnya Sebuah Amanah: Segala yang anda miliki adalah 'Amanah' pinjaman daripada Tuhan. Pekerjaan anda, keluarga anda, kesihatan anda, dan kata-kata anda adalah amanah yang akan disoal kelak.",
+          "⚖️ Tuhan sebagai Paksi Mutlak: Pemimpin dan sistem manusia boleh melakukan kesilapan. Apabila kekeliruan melanda, kedamaian sebenar ditemui dengan menyandarkan keputusan anda kembali kepada piawaian ilahi Al-Quran.",
+          "❤️ Tundukkan Ego Anda: Iman tidak sempurna jika anda mentaati Tuhan secara luaran tetapi membenci peraturan-Nya secara dalaman. Kecemerlangan rohani adalah menyelaraskan apa yang anda cintai dengan apa yang Tuhan perintahkan."
+        ]
+      }
     },
     {
-      "sections": [
-        {
-          "id": "section-07",
-          "type": "passage",
-          "surah_number": 4,
-          "verse_start": 101,
-          "verse_end": 104,
-          "en": {
-            "title": "The Prayer of Fear (Salat al-Khawf)",
-            "theme": "The supreme importance of prayer in all circumstances, the spiritual armor of remembrance, and the divine concessions during hardship.",
-            "arabic": "وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا مِنَ الصَّلَاةِ... وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ فَلْتَقُمْ طَائِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوا أَسْلِحَتَهُمْ...",
-            "translation": "And when you travel throughout the land, there is no blame upon you for shortening the prayer... And when you are among them and lead them in prayer, let a group of them stand [in prayer] with you and let them carry their arms...",
-            "explanation": [
-              "This passage highlights the absolute centrality of Salah (prayer) in a Muslim's life. Even in the midst of travel, believers are granted the merciful concession to shorten their prayers. But more profoundly, even on an active battlefield facing imminent death, the obligation of prayer is not dropped; it is merely adapted.",
-              "The Quran details 'Salat al-Khawf' (the Prayer of Fear). The congregation is split into two groups. One group prays behind the leader while holding their weapons, while the other guards the perimeter. They then seamlessly swap positions.  This highly structured coordination ensures that the community remains spiritually anchored while physically protected.",
-              "Once the prayer concludes, the believers are commanded to remember Allah 'standing, sitting, or [lying] on your sides.' The spiritual lesson is clear: physical weapons are useless if the heart is disconnected from its Creator. Once safety is restored, the prayer returns to its normal, complete form."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Focuses on the divine mercy embedded in the concessions. Ibn Kathir notes that shortening the prayer during travel is a gift from Allah, and it is highly encouraged to accept this gift. Regarding the battlefield, he emphasizes that taking physical precautions (holding weapons) does not negate Tawakkul (reliance on God)."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Provides the precise mechanical breakdown of how the two groups rotate during the Prayer of Fear. The genius of this formation is that the enemy, hoping to strike the Muslims while they are vulnerable in prostration, is thwarted because half the army is always standing guard."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Extracts the deep spiritual lesson: if prayer is mandatory while swords are drawn and arrows are flying, how can a believer justify abandoning it during times of peace, comfort, and safety? As-Sa'di states that prayer is the ultimate spiritual armor that grants tranquility to a terrified heart."
-              }
-            ],
-            "lessons": [
-              "🛡️ The Anchor in the Storm: When life feels chaotic or dangerous, do not abandon your spiritual routines. Prayer is the anchor that prevents the soul from drowning in panic.",
-              "🧠 Tie Your Camel: True faith requires combining spiritual devotion with practical caution. Praying while holding a weapon teaches us that trusting God means actively protecting the life He gave you.",
-              "🎁 Accept Divine Concessions: When God makes things easy for you (like shortening prayers during travel), accept it with gratitude. Rigidity in religion, when God has offered ease, is a form of spiritual arrogance."
-            ]
+      "id": "section-05",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 71,
+      "verse_end": 87,
+      "en": {
+        "title": "Courage in Battle & Responding to Greetings",
+        "theme": "The spiritual motives for fighting injustice, the reality of the divine decree over life and death, and the etiquette of spreading peace.",
+        "arabic": "وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ... أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ ۗ... وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ رُدُّوهَا ۗ...",
+        "translation": "And what is [the matter] with you that you fight not in the cause of Allah and [for] the oppressed among men, women, and children... Wherever you may be, death will overtake you, even if you should be within towers of lofty construction... And when you are greeted with a greeting, greet [in return] with one better than it or [at least] return it [in a like manner]...",
+        "explanation": [
+          "This passage reframes the concept of warfare in Islam. It is not driven by a thirst for conquest or wealth, but by a profound spiritual duty: to liberate the oppressed. Allah questions the believers, urging them to stand up for the weak men, women, and children who are crying out for a savior. Defending the vulnerable is synonymous with fighting 'in the cause of Allah'.",
+          "The verses then address the natural human fear of death, which often leads to cowardice. The Quran delivers a blunt, grounding reality: lifespan is entirely dictated by God's decree. Fleeing from responsibility will not extend one's life by a single second, just as entering a battlefield will not shorten it. Death will reach a person even if they hide in impenetrable fortresses. True courage is born from this trust in God's exact timing.",
+          "Amidst these heavy themes, the section beautifully pivots to a universal law of social harmony: the greeting of peace (Salam). Believers are commanded that whenever they receive a gesture of peace or a greeting, they must return it with something better, or at the very least, equal. This spiritual etiquette ensures that positivity and peace constantly multiply within society."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Focuses on the nobility of the cause. Ibn Kathir explains that fighting to protect the 'Mustad'afin' (the oppressed and weak) is one of the greatest acts of worship. He emphasizes that Islamic ethics demand the strong to be the shield for the defenseless."
           },
-          "ms": {
-            "title": "Solat Ketakutan (Solat Khauf)",
-            "theme": "Kepentingan utama solat dalam semua keadaan, perisai rohani melalui zikir, dan kelonggaran Ilahi semasa kesukaran.",
-            "arabic": "وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا مِنَ الصَّلَاةِ... وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ فَلْتَقُمْ طَائِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوا أَسْلِحَتَهُمْ...",
-            "translation": "Dan apabila kamu musafir di muka bumi, maka kamu tidaklah berdosa mengqasarkan (memendekkan) sembahyang... Dan apabila engkau (wahai Muhammad) berada dalam kalangan mereka (semasa perang), lalu engkau mendirikan sembahyang dengan (menjadi imam) mereka, maka hendaklah sepuak dari mereka berdiri (mengerjakan sembahyang) bersama-samamu, dan hendaklah mereka menyandang senjata masing-masing... ",
-            "explanation": [
-              "Petikan ini menonjolkan kedudukan Solat sebagai paksi mutlak dalam kehidupan seorang Muslim. Walaupun semasa bermusafir, orang yang beriman diberikan kelonggaran yang penuh rahmat untuk memendekkan solat mereka. Namun yang lebih mendalam, walaupun di medan pertempuran yang aktif dan berhadapan dengan kematian, kewajipan solat tidak digugurkan; ia sekadar disesuaikan.",
-              "Al-Quran memperincikan 'Solat Khauf' (Solat Ketakutan). Jemaah dibahagikan kepada dua kumpulan. Satu kumpulan solat di belakang imam sambil memegang senjata mereka, manakala kumpulan yang lain mengawal perimeter. Mereka kemudian bertukar kedudukan dengan lancar.  Penyelarasan yang sangat berstruktur ini memastikan masyarakat kekal berpaksikan kerohanian di samping dilindungi secara fizikal.",
-              "Setelah solat selesai, orang-orang yang beriman diperintahkan untuk mengingati Allah 'semasa kamu berdiri, duduk, dan berbaring.' Pengajaran rohaninya jelas: senjata fizikal tidak berguna jika hati terputus hubungan daripada Penciptanya. Setelah keselamatan pulih, solat kembali kepada bentuk asalnya yang lengkap."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Fokus kepada rahmat Ilahi yang tertanam dalam kelonggaran tersebut. Ibn Kathir mencatatkan bahawa memendekkan solat semasa musafir adalah hadiah daripada Allah, dan adalah sangat digalakkan untuk menerima hadiah ini. Mengenai medan pertempuran, beliau menekankan bahawa mengambil langkah berjaga-jaga fizikal (memegang senjata) tidak membatalkan Tawakal (kebergantungan kepada Tuhan)."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Memberikan pecahan mekanikal yang tepat mengenai cara kedua-dua kumpulan bergilir semasa Solat Khauf. Kebijaksanaan formasi ini adalah bahawa musuh, yang berharap untuk menyerang tentera Islam ketika mereka terdedah semasa sujud, digagalkan kerana separuh daripada tentera sentiasa berdiri berkawal."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Mengeluarkan pengajaran rohani yang mendalam: jika solat diwajibkan ketika pedang dihunus dan anak panah berterbangan, bagaimanakah seorang mukmin boleh mewajarkan tindakan meninggalkan solat pada waktu aman, selesa, dan selamat? As-Sa'di menyatakan bahawa solat adalah perisai rohani mutlak yang memberikan ketenangan kepada hati yang ketakutan."
-              }
-            ],
-            "lessons": [
-              "🛡️ Sauh di Tengah Badai: Apabila hidup berasa kucar-kacir atau berbahaya, jangan tinggalkan rutin rohani anda. Solat adalah sauh yang menghalang jiwa daripada lemas dalam kepanikan.",
-              "🧠 Ikat Unta Anda: Iman yang sebenar memerlukan gabungan ketaatan rohani dengan langkah berjaga-jaga praktikal. Solat sambil memegang senjata mengajar kita bahawa mempercayai Tuhan bermaksud secara aktif melindungi nyawa yang Dia berikan kepada anda.",
-              "🎁 Terima Kelonggaran Ilahi: Apabila Tuhan memudahkan urusan anda (seperti memendekkan solat semasa musafir), terimalah ia dengan rasa syukur. Kekerasan dalam beragama, ketika Tuhan telah menawarkan kemudahan, adalah satu bentuk kesombongan rohani."
-            ]
-          }
-        },
-        {
-          "id": "section-08",
-          "type": "passage",
-          "surah_number": 4,
-          "verse_start": 105,
-          "verse_end": 115,
-          "en": {
-            "title": "Absolute Justice & The Danger of Secret Counsels",
-            "theme": "Justice that transcends religious and tribal loyalty, the prohibition of defending the guilty, and the spiritual authority of consensus (Ijma').",
-            "arabic": "إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ النَّاسِ بِمَا أَرَاكَ اللَّهُ ۚ وَلَا تَكُن لِّلْخَائِنِينَ خَصِيمًا... وَمَن يُشَاقِقِ الرَّسُولَ مِن بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّىٰ...",
-            "translation": "Indeed, We have revealed to you, [O Muhammad], the Book in truth so you may judge between the people by that which Allah has shown you. And do not be for the deceitful an advocate... And whoever opposes the Messenger after guidance has become clear to him and follows other than the way of the believers - We will give him what he has taken and drive him into Hell...",
-            "explanation": [
-              "This passage delivers one of the most powerful mandates for absolute justice in the Quran. It addresses a specific historical incident where a nominally Muslim man stole a shield and framed an innocent Jewish man. When the Muslim's tribe tried to defend their kinsman to save their reputation, Allah revealed these verses to exonerate the Jewish man and heavily condemn the Muslim thief and his defenders.",
-              "The principle established here is monumental: justice is blind. A believer is strictly forbidden from defending a traitor, even if the traitor is a family member or a coreligionist, and even if it means handing victory to someone outside the faith. Allah condemns 'secret counsels' held to plot deception, reminding humanity that God is the ultimate unseen witness.",
-              "Verse 115 introduces a critical theological concept. It warns against opposing the Messenger and following 'other than the way of the believers'. This verse serves as the primary textual foundation for 'Ijma' (scholarly consensus) in Islamic jurisprudence. Deviating from the established, unified path of the righteous community leads to spiritual ruin."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Stresses the absolute neutrality of divine justice. Ibn Kathir notes the severity of the command 'do not be an advocate for the deceitful.' It is a grave sin for any lawyer, leader, or family member to use their eloquence to defend someone they know to be guilty, as this actively opposes God's justice."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Highlights the epistemological value of Verse 115. Al-Jalalayn confirms that the phrase 'the way of the believers' is the bedrock proof that the consensus (Ijma') of the Muslim Ummah on a religious matter is a binding proof, and opposing a clear consensus is an act of misguidance."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Focuses on the futility of secret sins. As-Sa'di points out the psychological delusion of the thief's tribe: they hid their plotting from people out of shame, forgetting that Allah is always with them. True modesty (Haya') is being ashamed before God first, not before society."
-              }
-            ],
-            "lessons": [
-              "⚖️ Truth Over Tribe: Loyalty to your family, country, or religious group must never override your loyalty to the truth. If your own person is in the wrong, you must stand against them.",
-              "🗣️ The Danger of Eloquence: Do not use your intelligence, legal skills, or influence to protect a guilty person. Winning an unjust case in this world guarantees a devastating loss in the Hereafter.",
-              "🤝 The Safety of the Path: Spiritual safety lies in sticking to the core, agreed-upon path of the righteous believers. Arrogantly carving out a completely novel, contradictory path often leads to misguidance."
-            ]
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Discusses the theological implication of the 'lofty towers'. The consensus is that avoiding a righteous struggle out of fear of death is a theological flaw, because it assumes human caution can override the pre-written decree (Qadar) of Allah regarding one's lifespan."
           },
-          "ms": {
-            "title": "Keadilan Mutlak & Bahaya Perbincangan Rahsia",
-            "theme": "Keadilan yang melangkaui kesetiaan agama dan kabilah, larangan mempertahankan orang yang bersalah, dan autoriti rohani ijmak (kesepakatan).",
-            "arabic": "إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ النَّاسِ بِمَا أَرَاكَ اللَّهُ ۚ وَلَا تَكُن لِّلْخَائِنِينَ خَصِيمًا... وَمَن يُشَاقِقِ الرَّسُولَ مِن بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّىٰ...",
-            "translation": "Sesungguhnya Kami menurunkan kepadamu (wahai Muhammad) Kitab (Al-Quran) dengan membawa kebenaran, supaya engkau menghukum di antara manusia menurut apa yang Allah tunjukkan kepadamu; dan janganlah engkau menjadi pembela bagi orang-orang yang khianat... Dan sesiapa yang menentang Rasulullah sesudah terang nyata kepadanya kebenaran petunjuk, dan ia pula mengikut jalan yang lain dari jalan orang-orang yang beriman, Kami akan memberikannya kuasa untuk melakukan kesesatan yang dipilihnya, dan (pada hari akhirat kelak) Kami akan memasukkannya ke dalam neraka Jahannam...",
-            "explanation": [
-              "Petikan ini menyampaikan salah satu mandat yang paling berkuasa mengenai keadilan mutlak di dalam Al-Quran. Ia menangani satu insiden sejarah yang spesifik di mana seorang lelaki Muslim mencuri perisai dan memerangkap seorang lelaki Yahudi yang tidak bersalah. Apabila kabilah Muslim itu cuba mempertahankan saudara mereka demi menyelamatkan maruah, Allah menurunkan ayat-ayat ini untuk membersihkan nama lelaki Yahudi tersebut dan mengutuk keras pencuri Muslim dan para pembelanya.",
-              "Prinsip yang ditetapkan di sini adalah sangat monumental: keadilan itu buta. Seorang mukmin dilarang sama sekali daripada mempertahankan seorang pengkhianat, walaupun pengkhianat itu adalah ahli keluarga atau seagama, dan walaupun ia bermaksud memberikan kemenangan kepada seseorang di luar agamanya. Allah mengutuk 'perbincangan rahsia' yang diadakan untuk merancang penipuan, mengingatkan manusia bahawa Tuhan adalah saksi mutlak yang ghaib.",
-              "Ayat 115 memperkenalkan satu konsep teologi yang kritikal. Ia memberi amaran terhadap perbuatan menentang Rasul dan mengikut 'selain daripada jalan orang-orang yang beriman'. Ayat ini berfungsi sebagai asas rujukan utama bagi 'Ijmak' (kesepakatan ulama) dalam fiqh Islam. Menyimpang daripada jalan kukuh masyarakat yang soleh akan membawa kepada kehancuran rohani."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Menekankan keberkecualian mutlak keadilan Ilahi. Ibn Kathir mencatatkan ketegasan perintah 'janganlah engkau menjadi pembela bagi orang-orang yang khianat.' Ia adalah satu dosa besar bagi mana-mana peguam, pemimpin, atau ahli keluarga untuk menggunakan kepetahan mereka bagi mempertahankan seseorang yang mereka tahu bersalah, kerana ini secara aktif menentang keadilan Tuhan."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Menonjolkan nilai epistemologi Ayat 115. Al-Jalalayn mengesahkan bahawa frasa 'jalan orang-orang yang beriman' adalah bukti asas bahawa kesepakatan (Ijmak) Umat Islam terhadap sesuatu isu agama adalah satu bukti yang mengikat, dan menentang kesepakatan yang jelas adalah satu tindakan yang menyesatkan."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Fokus kepada kesia-siaan dosa rahsia. As-Sa'di menunjukkan delusi psikologi kabilah pencuri itu: mereka menyembunyikan komplot mereka daripada manusia kerana malu, lupa bahawa Allah sentiasa bersama mereka. Sifat malu (Haya') yang sebenar ialah berasa malu di hadapan Tuhan terlebih dahulu, bukan di hadapan masyarakat."
-              }
-            ],
-            "lessons": [
-              "⚖️ Kebenaran Mengatasi Kabilah: Kesetiaan kepada keluarga, negara, atau kumpulan agama anda tidak boleh sekali-kali mengatasi kesetiaan anda kepada kebenaran. Jika orang dari pihak anda sendiri berada di pihak yang salah, anda mesti menentang mereka.",
-              "🗣️ Bahaya Kepetahan: Jangan gunakan kepintaran, kemahiran perundangan, atau pengaruh anda untuk melindungi orang yang bersalah. Memenangi kes yang tidak adil di dunia ini menjamin kekalahan yang membinasakan di Akhirat.",
-              "🤝 Keselamatan pada Jalan yang Lurus: Keselamatan rohani terletak pada kepatuhan kepada jalan asas yang telah disepakati oleh orang-orang beriman yang soleh. Sifat sombong dengan mencipta laluan yang sama sekali baharu dan bertentangan sering kali membawa kepada kesesatan."
-            ]
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Highlights the profound wisdom of the 'greeting' verse. As-Sa'di points out that the word 'Tahiyyah' (greeting) implies praying for someone's life, peace, and prosperity. Multiplying a greeting is not just good manners; it is a spiritual transaction where one actively suppresses their own ego to elevate another person, turning a simple hello into an act of charity."
           }
-        },
-        {
-          "id": "section-09",
-          "type": "passage",
-          "surah_number": 4,
-          "verse_start": 116,
-          "verse_end": 126,
-          "en": {
-            "title": "The Unforgivable Sin of Shirk & Satan's False Promises",
-            "theme": "The repetition of the unforgivable sin, the psychological warfare of Satan, and the ultimate reality of divine reward.",
-            "arabic": "إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَاءُ ۚ... يَعِدُهُمْ وَيُمَنِّيهِمْ ۖ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلَّا غُرُورًا... لَّيْسَ بِأَمَانِيِّكُمْ وَلَا أَمَانِيِّ أَهْلِ الْكِتَابِ ۗ مَن يَعْمَلْ سُوءًا يُجْزَ بِهِ...",
-            "translation": "Indeed, Allah does not forgive association with Him, but He forgives what is less than that for whom He wills... Satan promises them and arouses desire in them. But Satan does not promise them except delusion... Paradise is not [obtained] by your wishful thinking nor by that of the People of the Scripture. Whoever does a wrong will be recompensed for it...",
-            "explanation": [
-              "To cement its absolute gravity, the Quran repeats the warning against Shirk (associating partners with God) verbatim. This establishes monotheism not just as a belief, but as the foundational condition for God's ultimate mercy. Anything worshipped alongside or instead of God is ultimately a form of worshipping Satan, who is a rebellious outcast.",
-              "The text then delivers a profound psychological profile of Satan. Satan cannot force humans to sin; instead, he uses psychological warfare. He makes false promises, stirs up empty desires, and commands humanity to alter the pure creation of God. He markets rebellion as freedom, but the Quran exposes his promises as pure delusion that leads only to Hell.",
-              "In contrast, God lays out the unvarnished reality of salvation. Heaven is not an exclusive club granted through 'wishful thinking' or claiming a religious label (whether Muslim, Jewish, or Christian). True salvation is based on a universal equation: sincere faith paired with righteous action. Whoever does wrong will face its consequences, and whoever does good, male or female, will enter Paradise without suffering the slightest injustice."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Analyzes the verse 'Whoever does a wrong will be recompensed for it.' Ibn Kathir relates that the Sahabah (companions) were terrified when this was revealed. The Prophet Muhammad comforted them, explaining that for a believer, this 'recompense' often happens in this world through trials, sickness, or hardship, which purifies them so they meet Allah on the Day of Judgment without sin."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Interprets Satan's command to 'alter the creation of Allah.' This refers to physical mutilations (like the pagan practice of slitting the ears of cattle dedicated to idols), but more broadly, it refers to corrupting the natural, pure inclination (Fitrah) of the human soul toward monotheism, twisting it into polytheism and unnatural acts."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Juxtaposes the promises of Satan with the promises of God. As-Sa'di explains that Satan's promises appeal to the lowest, immediate desires of the ego but end in spiritual bankruptcy. In contrast, Allah’s promises require patience and discipline, but result in eternal, unimaginably magnificent realities. Faith is choosing the unseen truth of God over the visible illusions of Satan."
-              }
-            ],
-            "lessons": [
-              "🧠 The Illusion of Sin: Satan is a marketer. He sells spiritual poison wrapped in beautiful packaging. Before committing a sin, ask yourself: 'Am I buying into an illusion that will leave me empty?'",
-              "🏆 Action Over Titles: Calling yourself a Muslim, a Christian, or a Jew guarantees nothing on its own. God does not judge based on your spiritual wishful thinking, but on the sincerity of your heart and the reality of your deeds.",
-              "💎 Pain as Purification: If you experience hardship after committing a mistake, realize it may be God’s mercy. It is better to face the consequences of a sin in this temporary world than to carry its burden into eternity."
-            ]
+        ],
+        "lessons": [
+          "🛡️ Be the Answer to a Prayer: God often answers the prayers of the oppressed by sending courageous people to help them. Spiritual maturity means being willing to be the vehicle of God's mercy for others.",
+          "⏳ Accept the Decree: Anxiety over death paralyzes living. Recognizing that your lifespan is already perfectly measured by God frees you to act courageously and live meaningfully.",
+          "✨ Multiply Positivity: Don't just match the energy of the room; elevate it. If someone shows you kindness or offers peace, it is a divine mandate to return it with even greater warmth."
+        ]
+      },
+      "ms": {
+        "title": "Keberanian dalam Pertempuran & Menjawab Salam",
+        "theme": "Motif rohani untuk menentang ketidakadilan, realiti ketetapan Ilahi ke atas hidup dan mati, dan adab menyebarkan kesejahteraan.",
+        "arabic": "وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ... أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ ۗ... وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ رُدُّوهَا ۗ...",
+        "translation": "Dan apakah yang menghalang kamu (maka kamu) tidak mahu berperang pada jalan Allah dan (untuk menyelamatkan) orang-orang yang tertindas dari kaum lelaki, perempuan dan kanak-kanak... Di mana jua kamu berada, maut akan mendapatkan kamu (bila sampai ajal), sekalipun kamu berada dalam benteng-benteng yang tinggi lagi kukuh... Dan apabila kamu diberikan penghormatan dengan sesuatu ucapan salam (atau keadaan yang baik), maka balaslah penghormatan itu dengan yang lebih baik daripadanya, atau balaslah dia (dengan cara yang sama)...",
+        "explanation": [
+          "Petikan ini membingkai semula konsep peperangan dalam Islam. Ia tidak didorong oleh kehausan untuk penaklukan atau kekayaan, tetapi oleh satu kewajipan rohani yang mendalam: untuk membebaskan golongan yang ditindas. Allah mempersoalkan orang-orang yang beriman, menggesa mereka untuk bangkit membela lelaki, wanita, dan kanak-kanak yang lemah yang merayu meminta penyelamat. Mempertahankan golongan yang terdedah kepada bahaya adalah sinonim dengan berjuang 'di jalan Allah'.",
+          "Ayat-ayat ini kemudian menangani sifat semula jadi manusia yang takut akan kematian, yang sering membawa kepada sifat pengecut. Al-Quran menyampaikan realiti yang berterus-terang: jangka hayat ditentukan sepenuhnya oleh ketetapan Tuhan. Melarikan diri daripada tanggungjawab tidak akan memanjangkan umur seseorang walau sesaat pun, sama seperti melangkah ke medan perang tidak akan memendekkannya. Kematian akan menemui seseorang walaupun mereka bersembunyi di dalam kubu yang tidak boleh ditembusi. Keberanian sebenar lahir daripada kepercayaan terhadap ketetapan masa Tuhan yang tepat ini.",
+          "Di sebalik tema-tema berat ini, bahagian ini secara indah beralih kepada undang-undang universal keharmonian sosial: ucapan kesejahteraan (Salam). Orang-orang yang beriman diperintahkan bahawa apabila mereka menerima tanda perdamaian atau ucapan salam, mereka mesti membalasnya dengan sesuatu yang lebih baik, atau sekurang-kurangnya, sama rata. Adab rohani ini memastikan sifat positif dan kedamaian sentiasa berganda dalam masyarakat."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Fokus pada kemuliaan tujuan tersebut. Ibn Kathir menjelaskan bahawa berjuang untuk melindungi 'Mustad'afin' (golongan yang tertindas dan lemah) adalah salah satu ibadah yang paling besar. Beliau menekankan bahawa etika Islam menuntut mereka yang kuat untuk menjadi perisai bagi mereka yang tidak berdaya."
           },
-          "ms": {
-            "title": "Dosa Syirik yang Tidak Diampuni & Janji Palsu Syaitan",
-            "theme": "Pengulangan dosa yang tidak diampuni, perang psikologi oleh syaitan, dan realiti mutlak ganjaran Ilahi.",
-            "arabic": "إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَاءُ ۚ... يَعِدُهُمْ وَيُمَنِّيهِمْ ۖ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلَّا غُرُورًا... لَّيْسَ بِأَمَانِيِّكُمْ وَلَا أَمَانِيِّ أَهْلِ الْكِتَابِ ۗ مَن يَعْمَلْ سُوءًا يُجْزَ بِهِ...",
-            "translation": "Sesungguhnya Allah tidak akan mengampunkan dosa syirik mempersekutukanNya (dengan sesuatu apajua), dan akan mengampunkan dosa yang lain dari itu bagi sesiapa yang dikehendakiNya... Syaitan sentiasa menjanjikan mereka (dengan janji-janji indah) serta memperdayakan mereka dengan angan-angan kosong; dan apa yang dijanjikan oleh Syaitan itu tidak lain hanyalah tipu daya semata-mata... (Pahala dan balasan) itu tidaklah dapat dicapai dengan angan-angan kamu semata-mata, dan tidak pula dengan angan-angan Ahli Kitab. Sesiapa yang melakukan kejahatan, ia akan dibalas dengan kejahatan itu...",
-            "explanation": [
-              "Untuk mengukuhkan lagi keseriusannya yang mutlak, Al-Quran mengulangi amaran terhadap Syirik (menyekutukan Tuhan) dengan perkataan yang sama. Ini menetapkan monoteisme bukan sekadar kepercayaan, tetapi sebagai syarat asas untuk mendapatkan rahmat mutlak Tuhan. Apa sahaja yang disembah bersama atau selain daripada Tuhan akhirnya merupakan satu bentuk penyembahan kepada Syaitan, makhluk yang derhaka dan tersingkir.",
-              "Teks ini kemudiannya membentangkan profil psikologi Syaitan yang mendalam. Syaitan tidak boleh memaksa manusia untuk berbuat dosa; sebaliknya, dia menggunakan perang psikologi. Dia membuat janji palsu, membangkitkan keinginan kosong, dan memerintahkan manusia untuk mengubah ciptaan Tuhan yang suci. Dia memasarkan pemberontakan sebagai kebebasan, tetapi Al-Quran mendedahkan janjinya sebagai delusi semata-mata yang hanya membawa ke Neraka.",
-              "Sebaliknya, Tuhan membentangkan realiti keselamatan tanpa berselindung. Syurga bukanlah kelab eksklusif yang diberikan melalui 'angan-angan kosong' atau dengan mendakwa memakai label agama (sama ada Muslim, Yahudi, atau Kristian). Keselamatan yang sebenar berdasarkan persamaan universal: iman yang ikhlas dipadankan dengan amal yang soleh. Sesiapa yang berbuat salah akan menghadapi akibatnya, dan sesiapa yang berbuat baik, lelaki atau perempuan, akan memasuki Syurga tanpa dizalimi walau sedikit pun."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Menganalisis ayat 'Sesiapa yang melakukan kejahatan, ia akan dibalas dengan kejahatan itu.' Ibn Kathir menceritakan bahawa para Sahabat berasa sangat takut apabila ayat ini diturunkan. Nabi Muhammad memujuk mereka, menjelaskan bahawa bagi seorang mukmin, 'balasan' ini sering berlaku di dunia melalui ujian, penyakit, atau kesukaran, yang menyucikan mereka supaya mereka bertemu Allah pada Hari Kiamat tanpa dosa."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Mentafsirkan perintah Syaitan untuk 'mengubah ciptaan Allah.' Ini merujuk kepada kecacatan fizikal (seperti amalan pagan memotong telinga lembu yang dikhususkan untuk berhala), tetapi secara lebih meluas, ia merujuk kepada perbuatan merosakkan kecenderungan semula jadi yang suci (Fitrah) jiwa manusia terhadap tauhid, memutarbelitkannya ke arah syirik dan perbuatan di luar tabii."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Membandingkan janji-janji Syaitan dengan janji-janji Tuhan. As-Sa'di menjelaskan bahawa janji Syaitan menarik minat nafsu ego yang paling rendah dan serta-merta, tetapi berakhir dengan muflis rohani. Sebaliknya, janji Allah memerlukan kesabaran dan disiplin, tetapi menghasilkan realiti kekal yang sangat mengagumkan. Iman adalah tindakan memilih kebenaran Tuhan yang ghaib mengatasi ilusi Syaitan yang dapat dilihat."
-              }
-            ],
-            "lessons": [
-              "🧠 Ilusi Dosa: Syaitan adalah seorang pemasar. Dia menjual racun rohani yang dibungkus dengan bungkusan yang cantik. Sebelum melakukan dosa, tanya diri anda: 'Adakah saya termakan ilusi yang akan membiarkan saya kosong?'",
-              "🏆 Tindakan Mengatasi Gelaran: Menggelar diri anda sebagai Muslim, Kristian, atau Yahudi tidak menjamin apa-apa dengan sendirinya. Tuhan tidak menilai berdasarkan angan-angan rohani anda, tetapi pada keikhlasan hati anda dan realiti perbuatan anda.",
-              "💎 Kesakitan sebagai Penyucian: Jika anda mengalami kesukaran selepas melakukan kesilapan, sedarilah ia mungkin rahmat Tuhan. Adalah lebih baik untuk menghadapi akibat dosa di dunia yang sementara ini daripada memikul bebannya ke alam abadi."
-            ]
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Membincangkan implikasi teologi bagi 'benteng-benteng yang tinggi'. Konsensus ulama menyatakan bahawa mengelak daripada perjuangan yang benar kerana takut mati adalah satu kecacatan teologi, kerana ia mengandaikan langkah berjaga-jaga manusia boleh membatalkan ketetapan (Qadar) Allah yang telah tertulis mengenai jangka hayat seseorang."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menonjolkan hikmah yang mendalam bagi ayat 'ucapan salam'. As-Sa'di menunjukkan bahawa perkataan 'Tahiyyah' (salam) membawa maksud mendoakan kehidupan, kesejahteraan, dan kemakmuran seseorang. Menggandakan ucapan salam bukan sekadar budi bahasa yang baik; ia adalah satu transaksi rohani di mana seseorang secara aktif menekan ego mereka sendiri untuk mengangkat martabat orang lain, menjadikan ucapan 'hello' yang ringkas sebagai satu bentuk sedekah."
           }
-        }
-      ]
+        ],
+        "lessons": [
+          "🛡️ Jadilah Jawapan kepada Doa: Tuhan sering menjawab doa orang yang ditindas dengan menghantar orang yang berani untuk membantu mereka. Kematangan rohani bermakna bersedia menjadi saluran rahmat Tuhan untuk orang lain.",
+          "⏳ Terima Ketetapan Ilahi: Kebimbangan terhadap kematian melumpuhkan kehidupan. Menyedari bahawa jangka hayat anda telah diukur dengan sempurna oleh Tuhan membebaskan anda untuk bertindak dengan berani dan hidup dengan penuh makna.",
+          "✨ Gandakan Positiviti: Jangan sekadar menyamai tenaga di sekeliling anda; tingkatkannya. Jika seseorang menunjukkan kebaikan atau menawarkan kedamaian, ia adalah mandat ketuhanan untuk membalasnya dengan kehangatan yang lebih besar."
+        ]
+      }
     },
     {
-      "sections": [
-        {
-          "id": "section-10",
-          "type": "passage",
-          "surah_number": 4,
-          "verse_start": 127,
-          "verse_end": 134,
-          "en": {
-            "title": "Justice for Orphans & Women",
-            "theme": "The divine defense of vulnerable women, the spiritual superiority of compromise in marriage, and the absolute self-sufficiency of God.",
-            "arabic": "وَيَسْتَفْتُونَكَ فِي النِّسَاءِ ۖ قُلِ اللَّهُ يُفْتِيكُمْ فِيهِنَّ... وَإِنِ امْرَأَةٌ خَافَتْ مِن بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَا أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَالصُّلْحُ خَيْرٌ ۗ... وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ...",
-            "translation": "And they request from you, [O Muhammad], a [legal] ruling concerning women. Say, 'Allah gives you a ruling about them'... And if a woman fears from her husband contempt or evasion, there is no sin upon them if they make terms of settlement between them - and settlement is best... And to Allah belongs whatever is in the heavens and whatever is on the earth...",
-            "explanation": [
-              "The Quran once again returns to the defense of the most vulnerable. People asked the Prophet for rulings regarding women, particularly orphaned girls whom guardians often wanted to marry to consume their wealth, or whom they prevented from marrying others. Allah Himself steps in to give the fatwa (ruling), strictly forbidding the exploitation of orphans and demanding absolute fairness.",
-              "The text then addresses a painful reality: marital neglect. If a wife fears her husband is turning away from her, the Quran encourages 'Sulh' (a mutually agreed compromise or settlement). Allah states beautifully and definitively: 'And settlement is best.' Making concessions to preserve a family is spiritually superior to demanding one's absolute rights at the cost of breaking the home. Human souls are naturally swayed by greed, but rising above it brings divine reward.",
-              "The passage repeatedly reminds humanity of a core theological truth: 'To Allah belongs whatever is in the heavens and the earth.' This repetition serves to humble the believers. Whether we are just or unjust, whether couples stay together or separate, God is entirely self-sufficient. We are the ones in desperate need of His guidance."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Highlights the profound wisdom of 'As-Sulhu Khayr' (Settlement is best). Ibn Kathir explains that a wife waiving some of her material rights or time to keep the marriage intact—if she chooses to do so out of love and desire for peace—is highly pleasing to Allah and better than the pain of divorce."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Clarifies verse 129, which states 'You will never be able to be equal between wives, even if you should strive [to do so].' The consensus is that this refers to absolute emotional equality and matters of the heart, which humans cannot control. However, physical and financial fairness remains a strict legal obligation."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Focuses on the repetition of God's dominion in these verses. As-Sa'di points out that God links His infinite wealth to His commands of justice. Because He owns everything, He can easily compensate those who give up their rights for the sake of peace, and He can easily punish those who exploit the weak."
-              }
-            ],
-            "lessons": [
-              "🕊️ The Strength in Compromise: In human relationships, insisting on 'winning' every argument or getting 100% of your rights often destroys the bond. Sometimes, conceding a point for the sake of peace is the ultimate victory.",
-              "🛡️ God as the Guardian: When society neglects the rights of the weak—like orphans and vulnerable women—God Himself acts as their defender. To harm them is to directly invite the wrath of the Creator.",
-              "🌌 Divine Independence: We follow God's laws to fix our own lives, not to enrich Him. If the entire world became corrupt, it would not diminish God's kingdom by an atom."
-            ]
+      "id": "section-06",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 88,
+      "verse_end": 100,
+      "en": {
+        "title": "Dealing with Hypocrisy, Manslaughter & Emigration",
+        "theme": "The supreme sanctity of human life, giving the benefit of the doubt, and the spiritual necessity of seeking a wholesome environment (Hijrah).",
+        "arabic": "وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَأً ۚ... يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا ضَرَبْتُمْ فِي سَبِيلِ اللَّهِ فَتَبَيَّنُوا وَلَا تَقُولُوا لِمَنْ أَلْقَىٰ إِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًا... إِنَّ الَّذِينَ تَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنفُسِهِمْ قَالُوا فِيمَ كُنتُمْ ۖ قَالُوا كُنَّا مُسْتَضْعَفِينَ فِي الْأَرْضِ ۚ...",
+        "translation": "And never is it for a believer to kill a believer except by mistake... O you who have believed, when you go forth [to fight] in the cause of Allah, investigate; and do not say to one who gives you [a greeting of] peace 'You are not a believer'... Indeed, those whom the angels take [in death] while wronging themselves - [the angels] will say, 'In what [condition] were you?' They will say, 'We were oppressed in the land.'...",
+        "explanation": [
+          "The section establishes a grave consensus regarding the sanctity of life. An intentional murder of a fellow believer incurs the eternal wrath of God. However, recognizing human fallibility, the Quran details specific blood money (Diyah) and expiations (such as fasting) for accidental manslaughter. To prevent tragic errors, believers are strictly commanded to 'investigate' (Tabayyun) before taking any aggressive action. If someone offers the greeting of peace, their faith must be accepted outwardly; judging the hidden intentions of the heart is exclusively God's domain.",
+          "The passage then transitions to a profound spiritual and psychological concept: 'Hijrah' (Emigration). The verses address people who live in environments so toxic that their faith is actively suppressed, yet they refuse to leave out of comfort or fear, making excuses that they are 'oppressed'.",
+          "When the angels take their souls, this excuse is rejected. The angels ask, 'Was not the earth of Allah spacious [enough] for you to emigrate therein?' The scholarly consensus highlights a vital lesson here: true faith requires action. If an environment forces you to compromise your core values, and you have the physical means to move, you cannot passively accept spiritual degradation. Seeking a better environment is a profound act of worship that guarantees God's abundant provision."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Underscores the severity of verse 93 regarding intentional murder, noting it is one of the starkest warnings in the entire Quran. Regarding Hijrah, Ibn Kathir explains that remaining in a place where one is unable to practice their religion, while having the ability to leave, is considered 'wronging oneself' (Zalim al-Nafs) because it is a willful participation in one's own spiritual destruction."
           },
-          "ms": {
-            "title": "Keadilan untuk Anak Yatim & Wanita",
-            "theme": "Pembelaan Ilahi terhadap wanita yang terdedah, keunggulan rohani untuk bertolak ansur dalam perkahwinan, dan Tuhan Yang Maha Kaya dan Berkuasa Mutlak.",
-            "arabic": "وَيَسْتَفْتُونَكَ فِي النِّسَاءِ ۖ قُلِ اللَّهُ يُفْتِيكُمْ فِيهِنَّ... وَإِنِ امْرَأَةٌ خَافَتْ مِن بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَا أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَالصُّلْحُ خَيْرٌ ۗ... وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ...",
-            "translation": "Dan mereka meminta fatwa kepadamu (wahai Muhammad) mengenai (hak dan kewajipan) kaum perempuan. Katakanlah: 'Allah akan memberi fatwa kepada kamu mengenai mereka'... Dan jika seorang perempuan bimbang akan timbul dari suaminya 'nusyuz' (kebencian), atau tidak melayaninya, maka tiadalah salah bagi mereka (suami isteri) membuat perdamaian di antara mereka berdua (secara yang sebaik-baiknya), kerana perdamaian itu lebih baik... Dan bagi Allah jualah segala yang ada di langit dan yang ada di bumi...",
-            "explanation": [
-              "Al-Quran sekali lagi kembali membela golongan yang paling terdedah. Orang ramai meminta fatwa daripada Nabi mengenai wanita, terutamanya anak yatim perempuan yang sering dikahwini oleh penjaga mereka untuk membolot harta mereka, atau dihalang daripada mengahwini orang lain. Allah sendiri tampil memberikan fatwa, melarang keras eksploitasi anak yatim dan menuntut keadilan mutlak.",
-              "Teks ini kemudian menangani realiti yang menyakitkan: pengabaian dalam rumahtangga. Jika seorang isteri bimbang suaminya berpaling daripadanya, Al-Quran menggalakkan 'Sulh' (kompromi atau penyelesaian yang dipersetujui bersama). Allah menyatakan dengan indah dan muktamad: 'Dan perdamaian itu lebih baik.' Membuat tolak ansur untuk memelihara keluarga adalah lebih mulia dari segi kerohanian berbanding menuntut hak mutlak sehingga menghancurkan rumahtangga. Jiwa manusia secara semula jadi mudah dipengaruhi oleh sikap tamak, tetapi mengatasi sifat itu membawa ganjaran Ilahi.",
-              "Petikan ini berulang kali mengingatkan manusia tentang kebenaran teologi teras: 'Bagi Allah jualah segala yang ada di langit dan di bumi.' Pengulangan ini berfungsi untuk merendahkan diri orang yang beriman. Sama ada kita berlaku adil atau zalim, sama ada pasangan kekal bersama atau berpisah, Tuhan adalah Maha Kaya dan sama sekali tidak memerlukan kita. Kitalah yang sangat memerlukan petunjuk-Nya."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Menonjolkan hikmah mendalam 'As-Sulhu Khayr' (Perdamaian itu lebih baik). Ibn Kathir menjelaskan bahawa seorang isteri yang melepaskan sebahagian daripada hak material atau masanya untuk mengekalkan perkahwinan—jika dia memilih untuk melakukannya atas dasar cinta dan keinginan untuk berdamai—adalah sangat diredhai oleh Allah dan lebih baik daripada penderitaan perceraian."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Menjelaskan ayat 129, yang menyatakan 'Kamu tidak akan dapat berlaku adil di antara isteri-isteri kamu sekalipun kamu bersungguh-sungguh (hendak melakukannya).' Konsensus ulama ialah ini merujuk kepada kesamarataan emosi mutlak dan hal-hal hati, yang tidak dapat dikawal oleh manusia. Walau bagaimanapun, keadilan fizikal dan kewangan kekal sebagai kewajipan undang-undang yang ketat."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Fokus pada pengulangan dominion (kekuasaan) Tuhan dalam ayat-ayat ini. As-Sa'di menunjukkan bahawa Tuhan mengaitkan kekayaan-Nya yang tidak terhingga dengan perintah-perintah keadilan-Nya. Kerana Dia memiliki segalanya, Dia dengan mudah boleh memberi pampasan kepada mereka yang melepaskan hak mereka demi perdamaian, dan Dia dengan mudah boleh menghukum mereka yang mengeksploitasi golongan lemah."
-              }
-            ],
-            "lessons": [
-              "🕊️ Kekuatan dalam Tolak Ansur: Dalam hubungan sesama manusia, berkeras untuk 'menang' dalam setiap pertengkaran atau mendapatkan 100% hak anda sering kali merosakkan ikatan. Kadang-kadang, mengalah demi kedamaian adalah kemenangan yang sebenar.",
-              "🛡️ Tuhan sebagai Pelindung: Apabila masyarakat mengabaikan hak golongan yang lemah—seperti anak yatim dan wanita yang terdedah—Tuhan sendiri bertindak sebagai pembela mereka. Mencederakan mereka bermakna secara langsung mengundang kemurkaan Pencipta.",
-              "🌌 Ketidaktergantungan Ilahi: Kita mengikuti undang-undang Tuhan untuk memperbaiki kehidupan kita sendiri, bukan untuk memperkayakan-Nya. Jika seluruh dunia menjadi rosak, ia tidak akan mengurangkan kerajaan Tuhan walau sebesar zarah."
-            ]
-          }
-        },
-        {
-          "id": "section-11",
-          "type": "passage",
-          "surah_number": 4,
-          "verse_start": 135,
-          "verse_end": 147,
-          "en": {
-            "title": "Standing Firm for Justice & The Reality of Hypocrites",
-            "theme": "The highest standard of absolute justice, the spiritual laziness of hypocrisy, and the cure for divine punishment.",
-            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ ۚ... إِنَّ الْمُنَافِقِينَ يُخَادِعُونَ اللَّهَ وَهُوَ خَادِعُهُمْ وَإِذَا قَامُوا إِلَى الصَّلَاةِ قَامُوا كُسَالَىٰ... مَّا يَفْعَلُ اللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَآمَنتُمْ ۚ وَكَانَ اللَّهُ شَاكِرًا عَلِيمًا",
-            "translation": "O you who have believed, be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives... Indeed, the hypocrites [think to] deceive Allah, but He is deceiving them. And when they stand for prayer, they stand lazily... What would Allah do with your punishment if you are grateful and believe? And ever is Allah Appreciative and Knowing.",
-            "explanation": [
-              "Verse 135 is widely considered the ultimate manifesto of justice in the Quran. Believers are commanded to be standard-bearers of equity, testifying truthfully for the sake of Allah alone—even if that truth harms their own interests, incriminates their beloved parents, or goes against their closest relatives. Justice in Islam is utterly blind to bloodlines, wealth, or poverty.",
-              "The section then starkly contrasts true believers with the hypocrites (Munafiqin). Hypocrisy is exposed as a disease of the heart characterized by spiritual lethargy. When hypocrites pray, they drag themselves to it lazily, doing it merely to be seen by people, while barely remembering God. Their loyalty is completely transactional, constantly shifting between the believers and the disbelievers based on whoever is winning.",
-              "The Juz concludes its narrative with a profoundly beautiful and comforting theological question from Allah: 'What would Allah do with your punishment if you are grateful and believe?' This shatters the misconception of a vindictive deity. God gains absolutely nothing from punishing humanity. Punishment is merely the natural consequence of spiritual sickness, and the ultimate cure for that sickness is simple: Gratitude and Faith."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Reflects on the weight of Verse 135. Ibn Kathir notes that human beings naturally favor their parents and themselves, but Islamic justice demands that truth transcends human attachment. Testifying against a loved one out of devotion to Allah is a sign of complete faith."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Explains the psychological state of the hypocrites 'wavering between them.' They do not possess the courage of the believers, nor the firm conviction of the disbelievers. They are spiritual wanderers whose only compass is worldly benefit."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Focuses on the exquisite mercy of Verse 147. As-Sa'di states that God does not seek revenge. He is 'Ash-Shakir' (The Appreciative); He recognizes the smallest grain of sincere gratitude and multiplies its reward. If a person simply acknowledges God's blessings and believes, all reasons for punishment are removed."
-              }
-            ],
-            "lessons": [
-              "⚖️ Justice Above Love: True integrity is telling the truth even when it breaks your heart. If you must testify against yourself or your parents to establish justice, you have honored God above creation.",
-              "🔋 The Danger of Spiritual Laziness: Standing for prayer with a heavy, resentful heart just to 'get it over with' is a symptom of hypocrisy. We must train our hearts to find joy and relief in connecting with God, not view it as a burden.",
-              "💖 A God of Appreciation, Not Wrath: God is not waiting for you to fail so He can punish you. He is waiting for you to say 'Thank You' so He can elevate you. Gratitude is the ultimate shield against divine wrath."
-            ]
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Focuses on the verse commanding investigation ('Tabayyun'). Al-Jalalayn provides the context where a Muslim killed a man who had greeted him with 'Salam', assuming the man only said it to save his life. The verse was revealed to strictly prohibit acting on suspicion. The outward declaration must be respected."
           },
-          "ms": {
-            "title": "Berdiri Teguh demi Keadilan & Realiti Golongan Munafik",
-            "theme": "Piawaian tertinggi bagi keadilan mutlak, kemalasan rohani akibat sifat munafik, dan penawar terhadap hukuman Ilahi.",
-            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ ۚ... إِنَّ الْمُنَافِقِينَ يُخَادِعُونَ اللَّهَ وَهُوَ خَادِعُهُمْ وَإِذَا قَامُوا إِلَى الصَّلَاةِ قَامُوا كُسَالَىٰ... مَّا يَفْعَلُ اللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَآمَنتُمْ ۚ وَكَانَ اللَّهُ شَاكِرًا عَلِيمًا",
-            "translation": "Wahai orang-orang yang beriman! Hendaklah kamu menjadi orang-orang yang sentiasa menegakkan keadilan, lagi menjadi saksi (yang menerangkan kebenaran) kerana Allah, sekalipun ke atas diri kamu sendiri, atau ibu bapa dan kaum kerabat kamu... Sesungguhnya orang-orang munafik itu melakukan tipu daya (terhadap agama) Allah, padahal Allah yang membalas tipu daya mereka. Dan apabila mereka berdiri untuk sembahyang, mereka berdiri dengan malas... Apa gunanya Allah menyeksa kamu sekiranya kamu bersyukur dan beriman? Dan (ingatlah) Allah adalah Maha Membalas dengan sebaik-baiknya, lagi Maha Mengetahui.",
-            "explanation": [
-              "Ayat 135 secara meluas dianggap sebagai manifesto mutlak keadilan di dalam Al-Quran. Orang yang beriman diperintahkan untuk menjadi pembawa panji-panji keadilan, memberikan kesaksian dengan benar semata-mata kerana Allah—walaupun kebenaran itu membahayakan kepentingan mereka sendiri, mendakwa ibu bapa yang disayangi, atau menentang saudara terdekat. Keadilan dalam Islam sama sekali buta terhadap pertalian darah, kekayaan, atau kemiskinan.",
-              "Bahagian ini kemudiannya membezakan dengan ketara antara mukmin sejati dengan golongan munafik (Munafiqin). Kemunafikan didedahkan sebagai penyakit hati yang dicirikan oleh kelesuan rohani. Apabila orang munafik solat, mereka mengheret diri mereka dengan malas, melakukannya semata-mata untuk dilihat oleh manusia, sambil hampir tidak mengingati Tuhan. Kesetiaan mereka sepenuhnya bersifat transaksional, sentiasa berubah-ubah antara orang beriman dan orang kafir berdasarkan siapa yang sedang menang.",
-              "Juz ini mengakhiri narasinya dengan satu soalan teologi yang sangat indah dan menenangkan daripada Allah: 'Apa gunanya Allah menyeksa kamu sekiranya kamu bersyukur dan beriman?' Ini menghancurkan salah faham tentang Tuhan yang pendendam. Tuhan tidak mendapat apa-apa keuntungan daripada menghukum manusia. Hukuman hanyalah akibat semula jadi daripada penyakit rohani, dan penawar mutlak bagi penyakit itu adalah mudah: Kesyukuran dan Keimanan."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Merenung tentang beratnya Ayat 135. Ibn Kathir mencatatkan bahawa manusia secara semula jadi memihak kepada ibu bapa dan diri mereka sendiri, tetapi keadilan Islam menuntut kebenaran mengatasi keterikatan manusia. Memberi kesaksian menentang orang yang disayangi kerana ketaatan kepada Allah adalah tanda keimanan yang sempurna."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Menjelaskan keadaan psikologi orang munafik yang 'berbelah bahagi antara mereka.' Mereka tidak mempunyai keberanian orang-orang yang beriman, dan juga tidak mempunyai keyakinan teguh orang-orang yang kafir. Mereka adalah pengembara rohani yang kompas tunggalnya hanyalah keuntungan duniawi."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Fokus pada rahmat Ayat 147 yang sangat indah. As-Sa'di menyatakan bahawa Tuhan tidak berdendam. Dia adalah 'Asy-Syakir' (Yang Maha Menghargai); Dia mengiktiraf sekecil-kecil rasa syukur yang ikhlas dan melipatgandakan ganjarannya. Jika seseorang itu sekadar mengakui nikmat Tuhan dan beriman, segala alasan untuk dikenakan hukuman akan terhapus."
-              }
-            ],
-            "lessons": [
-              "⚖️ Keadilan Mengatasi Kasih Sayang: Integriti sebenar ialah menyatakan kebenaran walaupun ia menghancurkan hati anda. Jika anda terpaksa memberi keterangan menentang diri sendiri atau ibu bapa anda untuk menegakkan keadilan, anda telah menghormati Tuhan mengatasi makhluk-Nya.",
-              "🔋 Bahaya Kemalasan Rohani: Berdiri untuk solat dengan hati yang berat dan penuh rungutan sekadar 'melepaskan batuk di tangga' adalah simptom kemunafikan. Kita mesti melatih hati kita untuk mencari kegembiraan dan kelegaan dalam berhubung dengan Tuhan, bukan menganggapnya sebagai satu bebanan.",
-              "💖 Tuhan Yang Menghargai, Bukan Memurkai: Tuhan tidak menunggu anda gagal supaya Dia boleh menghukum anda. Dia menunggu anda untuk mengucapkan 'Terima Kasih' supaya Dia boleh mengangkat darjat anda. Rasa syukur adalah perisai mutlak terhadap kemurkaan Ilahi."
-            ]
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Expands the concept of Hijrah beyond physical migration. As-Sa'di notes that while physical emigration from a land of oppression to a land of faith is a duty, there is a continuous, everyday Hijrah required of every believer: the migration of the heart away from sins and toxic environments toward obedience and the pleasure of Allah."
           }
-        },
-        {
-          "id": "section-12",
-          "type": "summary",
-          "en": {
-            "title": "Overarching Themes of Juz 5",
-            "theme": "Family Ethics, Absolute Justice, and the Purification of the Heart.",
-            "explanation": [
-              "Juz 5 serves as a profound legal and spiritual manual for building a resilient society from the ground up. The Juz starts at the micro-level—detailing the intimate rights of marriage, the protection of women, and the management of family disputes—and expands outward to the macro-level of community justice and warfare.",
-              "A central pillar of this Juz is the eradication of societal injustice. Allah repeatedly stands as the defender of the weak, taking up the cause of the orphans, the oppressed, and the defenseless. It demands that the believers match this divine standard by upholding absolute justice, requiring them to speak the truth even if it leads to the conviction of themselves or their own parents. Justice is framed not just as a legal duty, but as an act of profound worship.",
-              "Spiritually, Juz 5 functions as a mirror, forcing the believer to examine their own heart. It meticulously diagnoses the symptoms of hypocrisy (Munafiqin)—spiritual laziness, prioritizing human approval over God's approval, and internal wavering. Ultimately, it concludes with a powerful theological reassurance: God has no desire to punish humanity. All He asks for is genuine gratitude and sincere faith."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Notes that Juz 5 masterfully weaves together the 'Rights of Allah' (Tawhid, prayer, obedience) with the 'Rights of Creation' (marital equity, orphans' wealth, societal fairness). True Islamic faith requires the perfection of both."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Highlights how this Juz dismantles the tribalism of the pre-Islamic era (Jahiliyyah). By tying loyalty strictly to truth and divine command, rather than bloodline or alliances, it establishes a universal standard of morality."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Concludes that the ultimate message of the Juz is found in its closing verse. God's relationship with humanity is rooted in appreciation (Shukr). When humans cure their hearts of hypocrisy and replace it with gratitude, they align themselves with the ultimate mercy of the Creator."
-              }
-            ],
-            "lessons": [
-              "Charity Begins at Home: A righteous society is built on righteous homes. Fulfilling the rights of your spouse, children, and parents is your first religious duty.",
-              "Truth Has No Tribe: Your spiritual integrity is defined by your willingness to stand against your own people when they are in the wrong.",
-              "Gratitude is Salvation: The universe is not governed by a vengeful force, but by a Creator who eagerly seeks reasons to reward you. Gratitude is the key that unlocks that reward."
-            ]
+        ],
+        "lessons": [
+          "🛑 Leave the Heart to God: You are only responsible for judging outward actions. Giving the benefit of the doubt—especially when someone claims to mean well—is a divine command. We do not have the right to open people's chests to see their intentions.",
+          "🌍 The Courage to Change Environments: If your friends, your workplace, or your city are draining your faith and morality, you must move. Complaining about 'toxic surroundings' is invalid if you make no effort to find God's spacious, healthier alternatives.",
+          "⚖️ The Immense Value of Life: The rigid laws surrounding accidental manslaughter, and the terrifying warnings against intentional harm, prove how deeply God values a single human life. Carelessness with life is carelessness with God's creation."
+        ]
+      },
+      "ms": {
+        "title": "Menangani Kemunafikan, Pembunuhan Tanpa Sengaja & Penghijrahan",
+        "theme": "Kesucian mutlak nyawa manusia, bersangka baik, dan keperluan rohani untuk mencari persekitaran yang baik (Hijrah).",
+        "arabic": "وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَأً ۚ... يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا ضَرَبْتُمْ فِي سَبِيلِ اللَّهِ فَتَبَيَّنُوا وَلَا تَقُولُوا لِمَنْ أَلْقَىٰ إِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًا... إِنَّ الَّذِينَ تَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنفُسِهِمْ قَالُوا فِيمَ كُنتُمْ ۖ قَالُوا كُنَّا مُسْتَضْعَفِينَ فِي الْأَرْضِ ۚ...",
+        "translation": "Dan tidak harus sama sekali bagi seseorang mukmin membunuh seorang mukmin yang lain, melainkan dengan tidak sengaja... Wahai orang-orang yang beriman, apabila kamu pergi (berperang) pada jalan Allah, maka selidikilah (Tabayyun); dan janganlah kamu berkata kepada orang yang memberi salam kepada kamu: 'Engkau bukan seorang mukmin'... Sesungguhnya orang-orang yang diambil nyawanya oleh malaikat semasa mereka sedang menganiaya diri sendiri, malaikat bertanya kepada mereka: 'Dalam keadaan apakah kamu ini?'. Mereka menjawab: 'Kami adalah orang-orang yang tertindas di bumi'...",
+        "explanation": [
+          "Bahagian ini menetapkan konsensus yang serius mengenai kesucian nyawa. Pembunuhan sengaja terhadap sesama mukmin mengundang kemurkaan Tuhan yang abadi. Walau bagaimanapun, menyedari sifat manusia yang boleh melakukan kesilapan, Al-Quran memperincikan wang darah (Diyat) dan pampasan (seperti berpuasa) untuk pembunuhan tanpa sengaja. Untuk mengelakkan kesilapan tragis, orang beriman diperintahkan dengan tegas untuk 'menyelidik' (Tabayyun) sebelum mengambil apa-apa tindakan agresif. Jika seseorang mengucapkan salam, imannya mesti diterima secara luaran; menilai niat yang tersembunyi di dalam hati adalah hak mutlak Tuhan semata-mata.",
+          "Petikan ini kemudian beralih kepada konsep rohani dan psikologi yang mendalam: 'Hijrah' (Penghijrahan). Ayat-ayat ini ditujukan kepada orang-orang yang tinggal di persekitaran yang sangat toksik sehingga iman mereka ditindas secara aktif, namun mereka enggan pergi kerana keselesaan atau ketakutan, dengan memberikan alasan bahawa mereka 'ditindas'.",
+          "Apabila malaikat mengambil nyawa mereka, alasan ini ditolak. Malaikat bertanya, 'Tidakkah bumi Allah itu luas untuk kamu berhijrah padanya?' Konsensus ulama menonjolkan satu pengajaran penting di sini: iman yang sebenar memerlukan tindakan. Jika persekitaran memaksa anda untuk menggadaikan nilai teras anda, dan anda mempunyai kemampuan fizikal untuk berpindah, anda tidak boleh menerima kehinaan rohani secara pasif. Mencari persekitaran yang lebih baik merupakan satu ibadah besar yang menjamin limpahan rezeki daripada Tuhan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menekankan betapa seriusnya ayat 93 mengenai pembunuhan sengaja, mencatatkan ia merupakan salah satu amaran yang paling keras dalam keseluruhan Al-Quran. Mengenai Hijrah, Ibn Kathir menjelaskan bahawa kekal di tempat di mana seseorang tidak dapat mengamalkan agamanya, sedangkan dia mampu untuk pergi, dianggap 'menganiaya diri sendiri' (Zalim al-Nafs) kerana ia merupakan penyertaan secara rela dalam kemusnahan rohaninya sendiri."
           },
-          "ms": {
-            "title": "Tema Utama Juz 5",
-            "theme": "Etika Keluarga, Keadilan Mutlak, dan Penyucian Hati.",
-            "explanation": [
-              "Juz 5 berfungsi sebagai manual perundangan dan kerohanian yang mendalam untuk membina masyarakat yang berdaya tahan dari asas. Juz ini bermula pada peringkat mikro—memperincikan hak-hak intim dalam perkahwinan, perlindungan wanita, dan pengurusan pertikaian keluarga—dan berkembang ke peringkat makro iaitu keadilan masyarakat dan peperangan.",
-              "Tiang utama Juz ini ialah pembasmian ketidakadilan sosial. Allah berulang kali tampil sebagai pembela golongan yang lemah, memperjuangkan nasib anak yatim, orang yang ditindas, dan mereka yang tidak berdaya. Ia menuntut orang yang beriman untuk menyamai piawaian Ilahi ini dengan menegakkan keadilan mutlak, mewajibkan mereka bercakap benar walaupun ia membawa kepada penghukuman diri mereka sendiri atau ibu bapa mereka. Keadilan dibingkai bukan sekadar sebagai tugas perundangan, tetapi sebagai ibadah yang sangat mulia.",
-              "Dari segi kerohanian, Juz 5 berfungsi sebagai cermin, memaksa orang beriman untuk meneliti hati mereka sendiri. Ia mendiagnosis simptom-simptom kemunafikan (Munafiqin) dengan teliti—kemalasan rohani, mengutamakan pandangan manusia mengatasi keredaan Tuhan, dan keraguan dalaman. Akhirnya, ia ditutup dengan jaminan teologi yang sangat berkuasa: Tuhan tidak mempunyai keinginan untuk menghukum manusia. Apa yang Dia minta hanyalah rasa syukur yang sebenar dan iman yang ikhlas."
-            ],
-            "scholars": [
-              {
-                "name": "Tafsir Ibn Kathir",
-                "text": "Mencatatkan bahawa Juz 5 dengan mahirnya menganyam 'Hak-hak Allah' (Tauhid, solat, ketaatan) bersama 'Hak-hak Makhluk' (kesaksamaan rumahtangga, harta anak yatim, keadilan sosial). Iman Islam yang sebenar menuntut kesempurnaan kedua-duanya."
-              },
-              {
-                "name": "Tafsir Al-Jalalayn",
-                "text": "Menonjolkan bagaimana Juz ini meruntuhkan sikap perkauman kabilah (asabiyyah) pada zaman pra-Islam (Jahiliyyah). Dengan mengikat kesetiaan semata-mata kepada kebenaran dan perintah Ilahi, dan bukannya pertalian darah atau pakatan, ia menetapkan satu piawaian moral yang universal."
-              },
-              {
-                "name": "Tafsir As-Sa'di",
-                "text": "Menyimpulkan bahawa mesej utama Juz ini ditemui dalam ayat penutupnya. Hubungan Tuhan dengan manusia berakar umbi daripada penghargaan (Syukur). Apabila manusia menyembuhkan hati mereka daripada kemunafikan dan menggantikannya dengan rasa syukur, mereka menyelaraskan diri mereka dengan rahmat mutlak Pencipta."
-              }
-            ],
-            "lessons": [
-              "Kebaikan Bermula dari Rumah: Masyarakat yang soleh dibina di atas rumah tangga yang soleh. Memenuhi hak pasangan, anak-anak, dan ibu bapa anda adalah kewajipan agama pertama anda.",
-              "Kebenaran Tidak Mengenal Kabilah: Integriti rohani anda ditakrifkan oleh kesanggupan anda untuk menentang kaum anda sendiri apabila mereka berada di pihak yang salah.",
-              "Kesyukuran adalah Keselamatan: Alam semesta tidak ditadbir oleh kuasa pendendam, tetapi oleh Pencipta yang tidak sabar-sabar mencari alasan untuk memberi ganjaran kepada anda. Rasa syukur adalah kunci yang membuka ganjaran tersebut."
-            ]
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Fokus pada ayat yang memerintahkan siasatan ('Tabayyun'). Al-Jalalayn memberikan konteks di mana seorang Muslim membunuh seorang lelaki yang telah mengucapkan 'Salam' kepadanya, dengan andaian lelaki itu hanya mengucapkannya untuk menyelamatkan nyawanya. Ayat ini diturunkan untuk melarang keras tindakan berdasarkan syak wasangka. Pengisytiharan luaran mesti dihormati."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Memperluaskan konsep Hijrah menjangkaui penghijrahan fizikal. As-Sa'di mencatatkan bahawa walaupun penghijrahan fizikal dari tanah penindasan ke tanah keimanan adalah satu kewajipan, terdapat Hijrah harian berterusan yang diwajibkan ke atas setiap mukmin: penghijrahan hati daripada dosa dan persekitaran toksik menuju ketaatan dan keredaan Allah."
           }
-        }
-      ]
+        ],
+        "lessons": [
+          "🛑 Serahkan Urusan Hati Kepada Tuhan: Anda hanya bertanggungjawab untuk menilai tindakan luaran. Bersangka baik—terutamanya apabila seseorang mendakwa berniat baik—adalah satu perintah Tuhan. Kita tidak berhak untuk membelah dada manusia untuk melihat niat mereka.",
+          "🌍 Keberanian untuk Menukar Persekitaran: Jika rakan-rakan, tempat kerja, atau bandar anda mengikis iman dan akhlak anda, anda mesti berpindah. Merungut tentang 'persekitaran toksik' adalah tidak sah jika anda tidak berusaha untuk mencari alternatif Tuhan yang luas dan lebih sihat.",
+          "⚖️ Nilai Kehidupan yang Sangat Besar: Undang-undang yang ketat mengenai pembunuhan tanpa sengaja, dan amaran yang menakutkan terhadap perbuatan mencederakan secara sengaja, membuktikan betapa Tuhan sangat menghargai satu nyawa manusia. Sikap cuai terhadap nyawa adalah sikap cuai terhadap ciptaan Tuhan."
+        ]
+      }
+    },
+    {
+      "id": "section-07",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 101,
+      "verse_end": 104,
+      "en": {
+        "title": "The Prayer of Fear (Salat al-Khawf)",
+        "theme": "The supreme importance of prayer in all circumstances, the spiritual armor of remembrance, and the divine concessions during hardship.",
+        "arabic": "وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا مِنَ الصَّلَاةِ... وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ فَلْتَقُمْ طَائِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوا أَسْلِحَتَهُمْ...",
+        "translation": "And when you travel throughout the land, there is no blame upon you for shortening the prayer... And when you are among them and lead them in prayer, let a group of them stand [in prayer] with you and let them carry their arms...",
+        "explanation": [
+          "This passage highlights the absolute centrality of Salah (prayer) in a Muslim's life. Even in the midst of travel, believers are granted the merciful concession to shorten their prayers. But more profoundly, even on an active battlefield facing imminent death, the obligation of prayer is not dropped; it is merely adapted.",
+          "The Quran details 'Salat al-Khawf' (the Prayer of Fear). The congregation is split into two groups. One group prays behind the leader while holding their weapons, while the other guards the perimeter. They then seamlessly swap positions.  This highly structured coordination ensures that the community remains spiritually anchored while physically protected.",
+          "Once the prayer concludes, the believers are commanded to remember Allah 'standing, sitting, or [lying] on your sides.' The spiritual lesson is clear: physical weapons are useless if the heart is disconnected from its Creator. Once safety is restored, the prayer returns to its normal, complete form."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Focuses on the divine mercy embedded in the concessions. Ibn Kathir notes that shortening the prayer during travel is a gift from Allah, and it is highly encouraged to accept this gift. Regarding the battlefield, he emphasizes that taking physical precautions (holding weapons) does not negate Tawakkul (reliance on God)."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Provides the precise mechanical breakdown of how the two groups rotate during the Prayer of Fear. The genius of this formation is that the enemy, hoping to strike the Muslims while they are vulnerable in prostration, is thwarted because half the army is always standing guard."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Extracts the deep spiritual lesson: if prayer is mandatory while swords are drawn and arrows are flying, how can a believer justify abandoning it during times of peace, comfort, and safety? As-Sa'di states that prayer is the ultimate spiritual armor that grants tranquility to a terrified heart."
+          }
+        ],
+        "lessons": [
+          "🛡️ The Anchor in the Storm: When life feels chaotic or dangerous, do not abandon your spiritual routines. Prayer is the anchor that prevents the soul from drowning in panic.",
+          "🧠 Tie Your Camel: True faith requires combining spiritual devotion with practical caution. Praying while holding a weapon teaches us that trusting God means actively protecting the life He gave you.",
+          "🎁 Accept Divine Concessions: When God makes things easy for you (like shortening prayers during travel), accept it with gratitude. Rigidity in religion, when God has offered ease, is a form of spiritual arrogance."
+        ]
+      },
+      "ms": {
+        "title": "Solat Ketakutan (Solat Khauf)",
+        "theme": "Kepentingan utama solat dalam semua keadaan, perisai rohani melalui zikir, dan kelonggaran Ilahi semasa kesukaran.",
+        "arabic": "وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا مِنَ الصَّلَاةِ... وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ فَلْتَقُمْ طَائِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوا أَسْلِحَتَهُمْ...",
+        "translation": "Dan apabila kamu musafir di muka bumi, maka kamu tidaklah berdosa mengqasarkan (memendekkan) sembahyang... Dan apabila engkau (wahai Muhammad) berada dalam kalangan mereka (semasa perang), lalu engkau mendirikan sembahyang dengan (menjadi imam) mereka, maka hendaklah sepuak dari mereka berdiri (mengerjakan sembahyang) bersama-samamu, dan hendaklah mereka menyandang senjata masing-masing... ",
+        "explanation": [
+          "Petikan ini menonjolkan kedudukan Solat sebagai paksi mutlak dalam kehidupan seorang Muslim. Walaupun semasa bermusafir, orang yang beriman diberikan kelonggaran yang penuh rahmat untuk memendekkan solat mereka. Namun yang lebih mendalam, walaupun di medan pertempuran yang aktif dan berhadapan dengan kematian, kewajipan solat tidak digugurkan; ia sekadar disesuaikan.",
+          "Al-Quran memperincikan 'Solat Khauf' (Solat Ketakutan). Jemaah dibahagikan kepada dua kumpulan. Satu kumpulan solat di belakang imam sambil memegang senjata mereka, manakala kumpulan yang lain mengawal perimeter. Mereka kemudian bertukar kedudukan dengan lancar.  Penyelarasan yang sangat berstruktur ini memastikan masyarakat kekal berpaksikan kerohanian di samping dilindungi secara fizikal.",
+          "Setelah solat selesai, orang-orang yang beriman diperintahkan untuk mengingati Allah 'semasa kamu berdiri, duduk, dan berbaring.' Pengajaran rohaninya jelas: senjata fizikal tidak berguna jika hati terputus hubungan daripada Penciptanya. Setelah keselamatan pulih, solat kembali kepada bentuk asalnya yang lengkap."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Fokus kepada rahmat Ilahi yang tertanam dalam kelonggaran tersebut. Ibn Kathir mencatatkan bahawa memendekkan solat semasa musafir adalah hadiah daripada Allah, dan adalah sangat digalakkan untuk menerima hadiah ini. Mengenai medan pertempuran, beliau menekankan bahawa mengambil langkah berjaga-jaga fizikal (memegang senjata) tidak membatalkan Tawakal (kebergantungan kepada Tuhan)."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Memberikan pecahan mekanikal yang tepat mengenai cara kedua-dua kumpulan bergilir semasa Solat Khauf. Kebijaksanaan formasi ini adalah bahawa musuh, yang berharap untuk menyerang tentera Islam ketika mereka terdedah semasa sujud, digagalkan kerana separuh daripada tentera sentiasa berdiri berkawal."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Mengeluarkan pengajaran rohani yang mendalam: jika solat diwajibkan ketika pedang dihunus dan anak panah berterbangan, bagaimanakah seorang mukmin boleh mewajarkan tindakan meninggalkan solat pada waktu aman, selesa, dan selamat? As-Sa'di menyatakan bahawa solat adalah perisai rohani mutlak yang memberikan ketenangan kepada hati yang ketakutan."
+          }
+        ],
+        "lessons": [
+          "🛡️ Sauh di Tengah Badai: Apabila hidup berasa kucar-kacir atau berbahaya, jangan tinggalkan rutin rohani anda. Solat adalah sauh yang menghalang jiwa daripada lemas dalam kepanikan.",
+          "🧠 Ikat Unta Anda: Iman yang sebenar memerlukan gabungan ketaatan rohani dengan langkah berjaga-jaga praktikal. Solat sambil memegang senjata mengajar kita bahawa mempercayai Tuhan bermaksud secara aktif melindungi nyawa yang Dia berikan kepada anda.",
+          "🎁 Terima Kelonggaran Ilahi: Apabila Tuhan memudahkan urusan anda (seperti memendekkan solat semasa musafir), terimalah ia dengan rasa syukur. Kekerasan dalam beragama, ketika Tuhan telah menawarkan kemudahan, adalah satu bentuk kesombongan rohani."
+        ]
+      }
+    },
+    {
+      "id": "section-08",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 105,
+      "verse_end": 115,
+      "en": {
+        "title": "Absolute Justice & The Danger of Secret Counsels",
+        "theme": "Justice that transcends religious and tribal loyalty, the prohibition of defending the guilty, and the spiritual authority of consensus (Ijma').",
+        "arabic": "إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ النَّاسِ بِمَا أَرَاكَ اللَّهُ ۚ وَلَا تَكُن لِّلْخَائِنِينَ خَصِيمًا... وَمَن يُشَاقِقِ الرَّسُولَ مِن بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّىٰ...",
+        "translation": "Indeed, We have revealed to you, [O Muhammad], the Book in truth so you may judge between the people by that which Allah has shown you. And do not be for the deceitful an advocate... And whoever opposes the Messenger after guidance has become clear to him and follows other than the way of the believers - We will give him what he has taken and drive him into Hell...",
+        "explanation": [
+          "This passage delivers one of the most powerful mandates for absolute justice in the Quran. It addresses a specific historical incident where a nominally Muslim man stole a shield and framed an innocent Jewish man. When the Muslim's tribe tried to defend their kinsman to save their reputation, Allah revealed these verses to exonerate the Jewish man and heavily condemn the Muslim thief and his defenders.",
+          "The principle established here is monumental: justice is blind. A believer is strictly forbidden from defending a traitor, even if the traitor is a family member or a coreligionist, and even if it means handing victory to someone outside the faith. Allah condemns 'secret counsels' held to plot deception, reminding humanity that God is the ultimate unseen witness.",
+          "Verse 115 introduces a critical theological concept. It warns against opposing the Messenger and following 'other than the way of the believers'. This verse serves as the primary textual foundation for 'Ijma' (scholarly consensus) in Islamic jurisprudence. Deviating from the established, unified path of the righteous community leads to spiritual ruin."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Stresses the absolute neutrality of divine justice. Ibn Kathir notes the severity of the command 'do not be an advocate for the deceitful.' It is a grave sin for any lawyer, leader, or family member to use their eloquence to defend someone they know to be guilty, as this actively opposes God's justice."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Highlights the epistemological value of Verse 115. Al-Jalalayn confirms that the phrase 'the way of the believers' is the bedrock proof that the consensus (Ijma') of the Muslim Ummah on a religious matter is a binding proof, and opposing a clear consensus is an act of misguidance."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the futility of secret sins. As-Sa'di points out the psychological delusion of the thief's tribe: they hid their plotting from people out of shame, forgetting that Allah is always with them. True modesty (Haya') is being ashamed before God first, not before society."
+          }
+        ],
+        "lessons": [
+          "⚖️ Truth Over Tribe: Loyalty to your family, country, or religious group must never override your loyalty to the truth. If your own person is in the wrong, you must stand against them.",
+          "🗣️ The Danger of Eloquence: Do not use your intelligence, legal skills, or influence to protect a guilty person. Winning an unjust case in this world guarantees a devastating loss in the Hereafter.",
+          "🤝 The Safety of the Path: Spiritual safety lies in sticking to the core, agreed-upon path of the righteous believers. Arrogantly carving out a completely novel, contradictory path often leads to misguidance."
+        ]
+      },
+      "ms": {
+        "title": "Keadilan Mutlak & Bahaya Perbincangan Rahsia",
+        "theme": "Keadilan yang melangkaui kesetiaan agama dan kabilah, larangan mempertahankan orang yang bersalah, dan autoriti rohani ijmak (kesepakatan).",
+        "arabic": "إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ النَّاسِ بِمَا أَرَاكَ اللَّهُ ۚ وَلَا تَكُن لِّلْخَائِنِينَ خَصِيمًا... وَمَن يُشَاقِقِ الرَّسُولَ مِن بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّىٰ...",
+        "translation": "Sesungguhnya Kami menurunkan kepadamu (wahai Muhammad) Kitab (Al-Quran) dengan membawa kebenaran, supaya engkau menghukum di antara manusia menurut apa yang Allah tunjukkan kepadamu; dan janganlah engkau menjadi pembela bagi orang-orang yang khianat... Dan sesiapa yang menentang Rasulullah sesudah terang nyata kepadanya kebenaran petunjuk, dan ia pula mengikut jalan yang lain dari jalan orang-orang yang beriman, Kami akan memberikannya kuasa untuk melakukan kesesatan yang dipilihnya, dan (pada hari akhirat kelak) Kami akan memasukkannya ke dalam neraka Jahannam...",
+        "explanation": [
+          "Petikan ini menyampaikan salah satu mandat yang paling berkuasa mengenai keadilan mutlak di dalam Al-Quran. Ia menangani satu insiden sejarah yang spesifik di mana seorang lelaki Muslim mencuri perisai dan memerangkap seorang lelaki Yahudi yang tidak bersalah. Apabila kabilah Muslim itu cuba mempertahankan saudara mereka demi menyelamatkan maruah, Allah menurunkan ayat-ayat ini untuk membersihkan nama lelaki Yahudi tersebut dan mengutuk keras pencuri Muslim dan para pembelanya.",
+          "Prinsip yang ditetapkan di sini adalah sangat monumental: keadilan itu buta. Seorang mukmin dilarang sama sekali daripada mempertahankan seorang pengkhianat, walaupun pengkhianat itu adalah ahli keluarga atau seagama, dan walaupun ia bermaksud memberikan kemenangan kepada seseorang di luar agamanya. Allah mengutuk 'perbincangan rahsia' yang diadakan untuk merancang penipuan, mengingatkan manusia bahawa Tuhan adalah saksi mutlak yang ghaib.",
+          "Ayat 115 memperkenalkan satu konsep teologi yang kritikal. Ia memberi amaran terhadap perbuatan menentang Rasul dan mengikut 'selain daripada jalan orang-orang yang beriman'. Ayat ini berfungsi sebagai asas rujukan utama bagi 'Ijmak' (kesepakatan ulama) dalam fiqh Islam. Menyimpang daripada jalan kukuh masyarakat yang soleh akan membawa kepada kehancuran rohani."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menekankan keberkecualian mutlak keadilan Ilahi. Ibn Kathir mencatatkan ketegasan perintah 'janganlah engkau menjadi pembela bagi orang-orang yang khianat.' Ia adalah satu dosa besar bagi mana-mana peguam, pemimpin, atau ahli keluarga untuk menggunakan kepetahan mereka bagi mempertahankan seseorang yang mereka tahu bersalah, kerana ini secara aktif menentang keadilan Tuhan."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menonjolkan nilai epistemologi Ayat 115. Al-Jalalayn mengesahkan bahawa frasa 'jalan orang-orang yang beriman' adalah bukti asas bahawa kesepakatan (Ijmak) Umat Islam terhadap sesuatu isu agama adalah satu bukti yang mengikat, dan menentang kesepakatan yang jelas adalah satu tindakan yang menyesatkan."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus kepada kesia-siaan dosa rahsia. As-Sa'di menunjukkan delusi psikologi kabilah pencuri itu: mereka menyembunyikan komplot mereka daripada manusia kerana malu, lupa bahawa Allah sentiasa bersama mereka. Sifat malu (Haya') yang sebenar ialah berasa malu di hadapan Tuhan terlebih dahulu, bukan di hadapan masyarakat."
+          }
+        ],
+        "lessons": [
+          "⚖️ Kebenaran Mengatasi Kabilah: Kesetiaan kepada keluarga, negara, atau kumpulan agama anda tidak boleh sekali-kali mengatasi kesetiaan anda kepada kebenaran. Jika orang dari pihak anda sendiri berada di pihak yang salah, anda mesti menentang mereka.",
+          "🗣️ Bahaya Kepetahan: Jangan gunakan kepintaran, kemahiran perundangan, atau pengaruh anda untuk melindungi orang yang bersalah. Memenangi kes yang tidak adil di dunia ini menjamin kekalahan yang membinasakan di Akhirat.",
+          "🤝 Keselamatan pada Jalan yang Lurus: Keselamatan rohani terletak pada kepatuhan kepada jalan asas yang telah disepakati oleh orang-orang beriman yang soleh. Sifat sombong dengan mencipta laluan yang sama sekali baharu dan bertentangan sering kali membawa kepada kesesatan."
+        ]
+      }
+    },
+    {
+      "id": "section-09",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 116,
+      "verse_end": 126,
+      "en": {
+        "title": "The Unforgivable Sin of Shirk & Satan's False Promises",
+        "theme": "The repetition of the unforgivable sin, the psychological warfare of Satan, and the ultimate reality of divine reward.",
+        "arabic": "إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَاءُ ۚ... يَعِدُهُمْ وَيُمَنِّيهِمْ ۖ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلَّا غُرُورًا... لَّيْسَ بِأَمَانِيِّكُمْ وَلَا أَمَانِيِّ أَهْلِ الْكِتَابِ ۗ مَن يَعْمَلْ سُوءًا يُجْزَ بِهِ...",
+        "translation": "Indeed, Allah does not forgive association with Him, but He forgives what is less than that for whom He wills... Satan promises them and arouses desire in them. But Satan does not promise them except delusion... Paradise is not [obtained] by your wishful thinking nor by that of the People of the Scripture. Whoever does a wrong will be recompensed for it...",
+        "explanation": [
+          "To cement its absolute gravity, the Quran repeats the warning against Shirk (associating partners with God) verbatim. This establishes monotheism not just as a belief, but as the foundational condition for God's ultimate mercy. Anything worshipped alongside or instead of God is ultimately a form of worshipping Satan, who is a rebellious outcast.",
+          "The text then delivers a profound psychological profile of Satan. Satan cannot force humans to sin; instead, he uses psychological warfare. He makes false promises, stirs up empty desires, and commands humanity to alter the pure creation of God. He markets rebellion as freedom, but the Quran exposes his promises as pure delusion that leads only to Hell.",
+          "In contrast, God lays out the unvarnished reality of salvation. Heaven is not an exclusive club granted through 'wishful thinking' or claiming a religious label (whether Muslim, Jewish, or Christian). True salvation is based on a universal equation: sincere faith paired with righteous action. Whoever does wrong will face its consequences, and whoever does good, male or female, will enter Paradise without suffering the slightest injustice."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Analyzes the verse 'Whoever does a wrong will be recompensed for it.' Ibn Kathir relates that the Sahabah (companions) were terrified when this was revealed. The Prophet Muhammad comforted them, explaining that for a believer, this 'recompense' often happens in this world through trials, sickness, or hardship, which purifies them so they meet Allah on the Day of Judgment without sin."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Interprets Satan's command to 'alter the creation of Allah.' This refers to physical mutilations (like the pagan practice of slitting the ears of cattle dedicated to idols), but more broadly, it refers to corrupting the natural, pure inclination (Fitrah) of the human soul toward monotheism, twisting it into polytheism and unnatural acts."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Juxtaposes the promises of Satan with the promises of God. As-Sa'di explains that Satan's promises appeal to the lowest, immediate desires of the ego but end in spiritual bankruptcy. In contrast, Allah’s promises require patience and discipline, but result in eternal, unimaginably magnificent realities. Faith is choosing the unseen truth of God over the visible illusions of Satan."
+          }
+        ],
+        "lessons": [
+          "🧠 The Illusion of Sin: Satan is a marketer. He sells spiritual poison wrapped in beautiful packaging. Before committing a sin, ask yourself: 'Am I buying into an illusion that will leave me empty?'",
+          "🏆 Action Over Titles: Calling yourself a Muslim, a Christian, or a Jew guarantees nothing on its own. God does not judge based on your spiritual wishful thinking, but on the sincerity of your heart and the reality of your deeds.",
+          "💎 Pain as Purification: If you experience hardship after committing a mistake, realize it may be God’s mercy. It is better to face the consequences of a sin in this temporary world than to carry its burden into eternity."
+        ]
+      },
+      "ms": {
+        "title": "Dosa Syirik yang Tidak Diampuni & Janji Palsu Syaitan",
+        "theme": "Pengulangan dosa yang tidak diampuni, perang psikologi oleh syaitan, dan realiti mutlak ganjaran Ilahi.",
+        "arabic": "إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَاءُ ۚ... يَعِدُهُمْ وَيُمَنِّيهِمْ ۖ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلَّا غُرُورًا... لَّيْسَ بِأَمَانِيِّكُمْ وَلَا أَمَانِيِّ أَهْلِ الْكِتَابِ ۗ مَن يَعْمَلْ سُوءًا يُجْزَ بِهِ...",
+        "translation": "Sesungguhnya Allah tidak akan mengampunkan dosa syirik mempersekutukanNya (dengan sesuatu apajua), dan akan mengampunkan dosa yang lain dari itu bagi sesiapa yang dikehendakiNya... Syaitan sentiasa menjanjikan mereka (dengan janji-janji indah) serta memperdayakan mereka dengan angan-angan kosong; dan apa yang dijanjikan oleh Syaitan itu tidak lain hanyalah tipu daya semata-mata... (Pahala dan balasan) itu tidaklah dapat dicapai dengan angan-angan kamu semata-mata, dan tidak pula dengan angan-angan Ahli Kitab. Sesiapa yang melakukan kejahatan, ia akan dibalas dengan kejahatan itu...",
+        "explanation": [
+          "Untuk mengukuhkan lagi keseriusannya yang mutlak, Al-Quran mengulangi amaran terhadap Syirik (menyekutukan Tuhan) dengan perkataan yang sama. Ini menetapkan monoteisme bukan sekadar kepercayaan, tetapi sebagai syarat asas untuk mendapatkan rahmat mutlak Tuhan. Apa sahaja yang disembah bersama atau selain daripada Tuhan akhirnya merupakan satu bentuk penyembahan kepada Syaitan, makhluk yang derhaka dan tersingkir.",
+          "Teks ini kemudiannya membentangkan profil psikologi Syaitan yang mendalam. Syaitan tidak boleh memaksa manusia untuk berbuat dosa; sebaliknya, dia menggunakan perang psikologi. Dia membuat janji palsu, membangkitkan keinginan kosong, dan memerintahkan manusia untuk mengubah ciptaan Tuhan yang suci. Dia memasarkan pemberontakan sebagai kebebasan, tetapi Al-Quran mendedahkan janjinya sebagai delusi semata-mata yang hanya membawa ke Neraka.",
+          "Sebaliknya, Tuhan membentangkan realiti keselamatan tanpa berselindung. Syurga bukanlah kelab eksklusif yang diberikan melalui 'angan-angan kosong' atau dengan mendakwa memakai label agama (sama ada Muslim, Yahudi, atau Kristian). Keselamatan yang sebenar berdasarkan persamaan universal: iman yang ikhlas dipadankan dengan amal yang soleh. Sesiapa yang berbuat salah akan menghadapi akibatnya, dan sesiapa yang berbuat baik, lelaki atau perempuan, akan memasuki Syurga tanpa dizalimi walau sedikit pun."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menganalisis ayat 'Sesiapa yang melakukan kejahatan, ia akan dibalas dengan kejahatan itu.' Ibn Kathir menceritakan bahawa para Sahabat berasa sangat takut apabila ayat ini diturunkan. Nabi Muhammad memujuk mereka, menjelaskan bahawa bagi seorang mukmin, 'balasan' ini sering berlaku di dunia melalui ujian, penyakit, atau kesukaran, yang menyucikan mereka supaya mereka bertemu Allah pada Hari Kiamat tanpa dosa."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Mentafsirkan perintah Syaitan untuk 'mengubah ciptaan Allah.' Ini merujuk kepada kecacatan fizikal (seperti amalan pagan memotong telinga lembu yang dikhususkan untuk berhala), tetapi secara lebih meluas, ia merujuk kepada perbuatan merosakkan kecenderungan semula jadi yang suci (Fitrah) jiwa manusia terhadap tauhid, memutarbelitkannya ke arah syirik dan perbuatan di luar tabii."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Membandingkan janji-janji Syaitan dengan janji-janji Tuhan. As-Sa'di menjelaskan bahawa janji Syaitan menarik minat nafsu ego yang paling rendah dan serta-merta, tetapi berakhir dengan muflis rohani. Sebaliknya, janji Allah memerlukan kesabaran dan disiplin, tetapi menghasilkan realiti kekal yang sangat mengagumkan. Iman adalah tindakan memilih kebenaran Tuhan yang ghaib mengatasi ilusi Syaitan yang dapat dilihat."
+          }
+        ],
+        "lessons": [
+          "🧠 Ilusi Dosa: Syaitan adalah seorang pemasar. Dia menjual racun rohani yang dibungkus dengan bungkusan yang cantik. Sebelum melakukan dosa, tanya diri anda: 'Adakah saya termakan ilusi yang akan membiarkan saya kosong?'",
+          "🏆 Tindakan Mengatasi Gelaran: Menggelar diri anda sebagai Muslim, Kristian, atau Yahudi tidak menjamin apa-apa dengan sendirinya. Tuhan tidak menilai berdasarkan angan-angan rohani anda, tetapi pada keikhlasan hati anda dan realiti perbuatan anda.",
+          "💎 Kesakitan sebagai Penyucian: Jika anda mengalami kesukaran selepas melakukan kesilapan, sedarilah ia mungkin rahmat Tuhan. Adalah lebih baik untuk menghadapi akibat dosa di dunia yang sementara ini daripada memikul bebannya ke alam abadi."
+        ]
+      }
+    },
+    {
+      "id": "section-10",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 127,
+      "verse_end": 134,
+      "en": {
+        "title": "Justice for Orphans & Women",
+        "theme": "The divine defense of vulnerable women, the spiritual superiority of compromise in marriage, and the absolute self-sufficiency of God.",
+        "arabic": "وَيَسْتَفْتُونَكَ فِي النِّسَاءِ ۖ قُلِ اللَّهُ يُفْتِيكُمْ فِيهِنَّ... وَإِنِ امْرَأَةٌ خَافَتْ مِن بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَا أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَالصُّلْحُ خَيْرٌ ۗ... وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ...",
+        "translation": "And they request from you, [O Muhammad], a [legal] ruling concerning women. Say, 'Allah gives you a ruling about them'... And if a woman fears from her husband contempt or evasion, there is no sin upon them if they make terms of settlement between them - and settlement is best... And to Allah belongs whatever is in the heavens and whatever is on the earth...",
+        "explanation": [
+          "The Quran once again returns to the defense of the most vulnerable. People asked the Prophet for rulings regarding women, particularly orphaned girls whom guardians often wanted to marry to consume their wealth, or whom they prevented from marrying others. Allah Himself steps in to give the fatwa (ruling), strictly forbidding the exploitation of orphans and demanding absolute fairness.",
+          "The text then addresses a painful reality: marital neglect. If a wife fears her husband is turning away from her, the Quran encourages 'Sulh' (a mutually agreed compromise or settlement). Allah states beautifully and definitively: 'And settlement is best.' Making concessions to preserve a family is spiritually superior to demanding one's absolute rights at the cost of breaking the home. Human souls are naturally swayed by greed, but rising above it brings divine reward.",
+          "The passage repeatedly reminds humanity of a core theological truth: 'To Allah belongs whatever is in the heavens and the earth.' This repetition serves to humble the believers. Whether we are just or unjust, whether couples stay together or separate, God is entirely self-sufficient. We are the ones in desperate need of His guidance."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Highlights the profound wisdom of 'As-Sulhu Khayr' (Settlement is best). Ibn Kathir explains that a wife waiving some of her material rights or time to keep the marriage intact—if she chooses to do so out of love and desire for peace—is highly pleasing to Allah and better than the pain of divorce."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies verse 129, which states 'You will never be able to be equal between wives, even if you should strive [to do so].' The consensus is that this refers to absolute emotional equality and matters of the heart, which humans cannot control. However, physical and financial fairness remains a strict legal obligation."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the repetition of God's dominion in these verses. As-Sa'di points out that God links His infinite wealth to His commands of justice. Because He owns everything, He can easily compensate those who give up their rights for the sake of peace, and He can easily punish those who exploit the weak."
+          }
+        ],
+        "lessons": [
+          "🕊️ The Strength in Compromise: In human relationships, insisting on 'winning' every argument or getting 100% of your rights often destroys the bond. Sometimes, conceding a point for the sake of peace is the ultimate victory.",
+          "🛡️ God as the Guardian: When society neglects the rights of the weak—like orphans and vulnerable women—God Himself acts as their defender. To harm them is to directly invite the wrath of the Creator.",
+          "🌌 Divine Independence: We follow God's laws to fix our own lives, not to enrich Him. If the entire world became corrupt, it would not diminish God's kingdom by an atom."
+        ]
+      },
+      "ms": {
+        "title": "Keadilan untuk Anak Yatim & Wanita",
+        "theme": "Pembelaan Ilahi terhadap wanita yang terdedah, keunggulan rohani untuk bertolak ansur dalam perkahwinan, dan Tuhan Yang Maha Kaya dan Berkuasa Mutlak.",
+        "arabic": "وَيَسْتَفْتُونَكَ فِي النِّسَاءِ ۖ قُلِ اللَّهُ يُفْتِيكُمْ فِيهِنَّ... وَإِنِ امْرَأَةٌ خَافَتْ مِن بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَا أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَالصُّلْحُ خَيْرٌ ۗ... وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ...",
+        "translation": "Dan mereka meminta fatwa kepadamu (wahai Muhammad) mengenai (hak dan kewajipan) kaum perempuan. Katakanlah: 'Allah akan memberi fatwa kepada kamu mengenai mereka'... Dan jika seorang perempuan bimbang akan timbul dari suaminya 'nusyuz' (kebencian), atau tidak melayaninya, maka tiadalah salah bagi mereka (suami isteri) membuat perdamaian di antara mereka berdua (secara yang sebaik-baiknya), kerana perdamaian itu lebih baik... Dan bagi Allah jualah segala yang ada di langit dan yang ada di bumi...",
+        "explanation": [
+          "Al-Quran sekali lagi kembali membela golongan yang paling terdedah. Orang ramai meminta fatwa daripada Nabi mengenai wanita, terutamanya anak yatim perempuan yang sering dikahwini oleh penjaga mereka untuk membolot harta mereka, atau dihalang daripada mengahwini orang lain. Allah sendiri tampil memberikan fatwa, melarang keras eksploitasi anak yatim dan menuntut keadilan mutlak.",
+          "Teks ini kemudian menangani realiti yang menyakitkan: pengabaian dalam rumahtangga. Jika seorang isteri bimbang suaminya berpaling daripadanya, Al-Quran menggalakkan 'Sulh' (kompromi atau penyelesaian yang dipersetujui bersama). Allah menyatakan dengan indah dan muktamad: 'Dan perdamaian itu lebih baik.' Membuat tolak ansur untuk memelihara keluarga adalah lebih mulia dari segi kerohanian berbanding menuntut hak mutlak sehingga menghancurkan rumahtangga. Jiwa manusia secara semula jadi mudah dipengaruhi oleh sikap tamak, tetapi mengatasi sifat itu membawa ganjaran Ilahi.",
+          "Petikan ini berulang kali mengingatkan manusia tentang kebenaran teologi teras: 'Bagi Allah jualah segala yang ada di langit dan di bumi.' Pengulangan ini berfungsi untuk merendahkan diri orang yang beriman. Sama ada kita berlaku adil atau zalim, sama ada pasangan kekal bersama atau berpisah, Tuhan adalah Maha Kaya dan sama sekali tidak memerlukan kita. Kitalah yang sangat memerlukan petunjuk-Nya."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menonjolkan hikmah mendalam 'As-Sulhu Khayr' (Perdamaian itu lebih baik). Ibn Kathir menjelaskan bahawa seorang isteri yang melepaskan sebahagian daripada hak material atau masanya untuk mengekalkan perkahwinan—jika dia memilih untuk melakukannya atas dasar cinta dan keinginan untuk berdamai—adalah sangat diredhai oleh Allah dan lebih baik daripada penderitaan perceraian."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan ayat 129, yang menyatakan 'Kamu tidak akan dapat berlaku adil di antara isteri-isteri kamu sekalipun kamu bersungguh-sungguh (hendak melakukannya).' Konsensus ulama ialah ini merujuk kepada kesamarataan emosi mutlak dan hal-hal hati, yang tidak dapat dikawal oleh manusia. Walau bagaimanapun, keadilan fizikal dan kewangan kekal sebagai kewajipan undang-undang yang ketat."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus pada pengulangan dominion (kekuasaan) Tuhan dalam ayat-ayat ini. As-Sa'di menunjukkan bahawa Tuhan mengaitkan kekayaan-Nya yang tidak terhingga dengan perintah-perintah keadilan-Nya. Kerana Dia memiliki segalanya, Dia dengan mudah boleh memberi pampasan kepada mereka yang melepaskan hak mereka demi perdamaian, dan Dia dengan mudah boleh menghukum mereka yang mengeksploitasi golongan lemah."
+          }
+        ],
+        "lessons": [
+          "🕊️ Kekuatan dalam Tolak Ansur: Dalam hubungan sesama manusia, berkeras untuk 'menang' dalam setiap pertengkaran atau mendapatkan 100% hak anda sering kali merosakkan ikatan. Kadang-kadang, mengalah demi kedamaian adalah kemenangan yang sebenar.",
+          "🛡️ Tuhan sebagai Pelindung: Apabila masyarakat mengabaikan hak golongan yang lemah—seperti anak yatim dan wanita yang terdedah—Tuhan sendiri bertindak sebagai pembela mereka. Mencederakan mereka bermakna secara langsung mengundang kemurkaan Pencipta.",
+          "🌌 Ketidaktergantungan Ilahi: Kita mengikuti undang-undang Tuhan untuk memperbaiki kehidupan kita sendiri, bukan untuk memperkayakan-Nya. Jika seluruh dunia menjadi rosak, ia tidak akan mengurangkan kerajaan Tuhan walau sebesar zarah."
+        ]
+      }
+    },
+    {
+      "id": "section-11",
+      "type": "passage",
+      "surah_number": 4,
+      "verse_start": 135,
+      "verse_end": 147,
+      "en": {
+        "title": "Standing Firm for Justice & The Reality of Hypocrites",
+        "theme": "The highest standard of absolute justice, the spiritual laziness of hypocrisy, and the cure for divine punishment.",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ ۚ... إِنَّ الْمُنَافِقِينَ يُخَادِعُونَ اللَّهَ وَهُوَ خَادِعُهُمْ وَإِذَا قَامُوا إِلَى الصَّلَاةِ قَامُوا كُسَالَىٰ... مَّا يَفْعَلُ اللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَآمَنتُمْ ۚ وَكَانَ اللَّهُ شَاكِرًا عَلِيمًا",
+        "translation": "O you who have believed, be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives... Indeed, the hypocrites [think to] deceive Allah, but He is deceiving them. And when they stand for prayer, they stand lazily... What would Allah do with your punishment if you are grateful and believe? And ever is Allah Appreciative and Knowing.",
+        "explanation": [
+          "Verse 135 is widely considered the ultimate manifesto of justice in the Quran. Believers are commanded to be standard-bearers of equity, testifying truthfully for the sake of Allah alone—even if that truth harms their own interests, incriminates their beloved parents, or goes against their closest relatives. Justice in Islam is utterly blind to bloodlines, wealth, or poverty.",
+          "The section then starkly contrasts true believers with the hypocrites (Munafiqin). Hypocrisy is exposed as a disease of the heart characterized by spiritual lethargy. When hypocrites pray, they drag themselves to it lazily, doing it merely to be seen by people, while barely remembering God. Their loyalty is completely transactional, constantly shifting between the believers and the disbelievers based on whoever is winning.",
+          "The Juz concludes its narrative with a profoundly beautiful and comforting theological question from Allah: 'What would Allah do with your punishment if you are grateful and believe?' This shatters the misconception of a vindictive deity. God gains absolutely nothing from punishing humanity. Punishment is merely the natural consequence of spiritual sickness, and the ultimate cure for that sickness is simple: Gratitude and Faith."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Reflects on the weight of Verse 135. Ibn Kathir notes that human beings naturally favor their parents and themselves, but Islamic justice demands that truth transcends human attachment. Testifying against a loved one out of devotion to Allah is a sign of complete faith."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Explains the psychological state of the hypocrites 'wavering between them.' They do not possess the courage of the believers, nor the firm conviction of the disbelievers. They are spiritual wanderers whose only compass is worldly benefit."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the exquisite mercy of Verse 147. As-Sa'di states that God does not seek revenge. He is 'Ash-Shakir' (The Appreciative); He recognizes the smallest grain of sincere gratitude and multiplies its reward. If a person simply acknowledges God's blessings and believes, all reasons for punishment are removed."
+          }
+        ],
+        "lessons": [
+          "⚖️ Justice Above Love: True integrity is telling the truth even when it breaks your heart. If you must testify against yourself or your parents to establish justice, you have honored God above creation.",
+          "🔋 The Danger of Spiritual Laziness: Standing for prayer with a heavy, resentful heart just to 'get it over with' is a symptom of hypocrisy. We must train our hearts to find joy and relief in connecting with God, not view it as a burden.",
+          "💖 A God of Appreciation, Not Wrath: God is not waiting for you to fail so He can punish you. He is waiting for you to say 'Thank You' so He can elevate you. Gratitude is the ultimate shield against divine wrath."
+        ]
+      },
+      "ms": {
+        "title": "Berdiri Teguh demi Keadilan & Realiti Golongan Munafik",
+        "theme": "Piawaian tertinggi bagi keadilan mutlak, kemalasan rohani akibat sifat munafik, dan penawar terhadap hukuman Ilahi.",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ ۚ... إِنَّ الْمُنَافِقِينَ يُخَادِعُونَ اللَّهَ وَهُوَ خَادِعُهُمْ وَإِذَا قَامُوا إِلَى الصَّلَاةِ قَامُوا كُسَالَىٰ... مَّا يَفْعَلُ اللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَآمَنتُمْ ۚ وَكَانَ اللَّهُ شَاكِرًا عَلِيمًا",
+        "translation": "Wahai orang-orang yang beriman! Hendaklah kamu menjadi orang-orang yang sentiasa menegakkan keadilan, lagi menjadi saksi (yang menerangkan kebenaran) kerana Allah, sekalipun ke atas diri kamu sendiri, atau ibu bapa dan kaum kerabat kamu... Sesungguhnya orang-orang munafik itu melakukan tipu daya (terhadap agama) Allah, padahal Allah yang membalas tipu daya mereka. Dan apabila mereka berdiri untuk sembahyang, mereka berdiri dengan malas... Apa gunanya Allah menyeksa kamu sekiranya kamu bersyukur dan beriman? Dan (ingatlah) Allah adalah Maha Membalas dengan sebaik-baiknya, lagi Maha Mengetahui.",
+        "explanation": [
+          "Ayat 135 secara meluas dianggap sebagai manifesto mutlak keadilan di dalam Al-Quran. Orang yang beriman diperintahkan untuk menjadi pembawa panji-panji keadilan, memberikan kesaksian dengan benar semata-mata kerana Allah—walaupun kebenaran itu membahayakan kepentingan mereka sendiri, mendakwa ibu bapa yang disayangi, atau menentang saudara terdekat. Keadilan dalam Islam sama sekali buta terhadap pertalian darah, kekayaan, atau kemiskinan.",
+          "Bahagian ini kemudiannya membezakan dengan ketara antara mukmin sejati dengan golongan munafik (Munafiqin). Kemunafikan didedahkan sebagai penyakit hati yang dicirikan oleh kelesuan rohani. Apabila orang munafik solat, mereka mengheret diri mereka dengan malas, melakukannya semata-mata untuk dilihat oleh manusia, sambil hampir tidak mengingati Tuhan. Kesetiaan mereka sepenuhnya bersifat transaksional, sentiasa berubah-ubah antara orang beriman dan orang kafir berdasarkan siapa yang sedang menang.",
+          "Juz ini mengakhiri narasinya dengan satu soalan teologi yang sangat indah dan menenangkan daripada Allah: 'Apa gunanya Allah menyeksa kamu sekiranya kamu bersyukur dan beriman?' Ini menghancurkan salah faham tentang Tuhan yang pendendam. Tuhan tidak mendapat apa-apa keuntungan daripada menghukum manusia. Hukuman hanyalah akibat semula jadi daripada penyakit rohani, dan penawar mutlak bagi penyakit itu adalah mudah: Kesyukuran dan Keimanan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Merenung tentang beratnya Ayat 135. Ibn Kathir mencatatkan bahawa manusia secara semula jadi memihak kepada ibu bapa dan diri mereka sendiri, tetapi keadilan Islam menuntut kebenaran mengatasi keterikatan manusia. Memberi kesaksian menentang orang yang disayangi kerana ketaatan kepada Allah adalah tanda keimanan yang sempurna."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan keadaan psikologi orang munafik yang 'berbelah bahagi antara mereka.' Mereka tidak mempunyai keberanian orang-orang yang beriman, dan juga tidak mempunyai keyakinan teguh orang-orang yang kafir. Mereka adalah pengembara rohani yang kompas tunggalnya hanyalah keuntungan duniawi."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus pada rahmat Ayat 147 yang sangat indah. As-Sa'di menyatakan bahawa Tuhan tidak berdendam. Dia adalah 'Asy-Syakir' (Yang Maha Menghargai); Dia mengiktiraf sekecil-kecil rasa syukur yang ikhlas dan melipatgandakan ganjarannya. Jika seseorang itu sekadar mengakui nikmat Tuhan dan beriman, segala alasan untuk dikenakan hukuman akan terhapus."
+          }
+        ],
+        "lessons": [
+          "⚖️ Keadilan Mengatasi Kasih Sayang: Integriti sebenar ialah menyatakan kebenaran walaupun ia menghancurkan hati anda. Jika anda terpaksa memberi keterangan menentang diri sendiri atau ibu bapa anda untuk menegakkan keadilan, anda telah menghormati Tuhan mengatasi makhluk-Nya.",
+          "🔋 Bahaya Kemalasan Rohani: Berdiri untuk solat dengan hati yang berat dan penuh rungutan sekadar 'melepaskan batuk di tangga' adalah simptom kemunafikan. Kita mesti melatih hati kita untuk mencari kegembiraan dan kelegaan dalam berhubung dengan Tuhan, bukan menganggapnya sebagai satu bebanan.",
+          "💖 Tuhan Yang Menghargai, Bukan Memurkai: Tuhan tidak menunggu anda gagal supaya Dia boleh menghukum anda. Dia menunggu anda untuk mengucapkan 'Terima Kasih' supaya Dia boleh mengangkat darjat anda. Rasa syukur adalah perisai mutlak terhadap kemurkaan Ilahi."
+        ]
+      }
+    },
+    {
+      "id": "section-12",
+      "type": "summary",
+      "en": {
+        "title": "Overarching Themes of Juz 5",
+        "theme": "Family Ethics, Absolute Justice, and the Purification of the Heart.",
+        "explanation": [
+          "Juz 5 serves as a profound legal and spiritual manual for building a resilient society from the ground up. The Juz starts at the micro-level—detailing the intimate rights of marriage, the protection of women, and the management of family disputes—and expands outward to the macro-level of community justice and warfare.",
+          "A central pillar of this Juz is the eradication of societal injustice. Allah repeatedly stands as the defender of the weak, taking up the cause of the orphans, the oppressed, and the defenseless. It demands that the believers match this divine standard by upholding absolute justice, requiring them to speak the truth even if it leads to the conviction of themselves or their own parents. Justice is framed not just as a legal duty, but as an act of profound worship.",
+          "Spiritually, Juz 5 functions as a mirror, forcing the believer to examine their own heart. It meticulously diagnoses the symptoms of hypocrisy (Munafiqin)—spiritual laziness, prioritizing human approval over God's approval, and internal wavering. Ultimately, it concludes with a powerful theological reassurance: God has no desire to punish humanity. All He asks for is genuine gratitude and sincere faith."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Notes that Juz 5 masterfully weaves together the 'Rights of Allah' (Tawhid, prayer, obedience) with the 'Rights of Creation' (marital equity, orphans' wealth, societal fairness). True Islamic faith requires the perfection of both."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Highlights how this Juz dismantles the tribalism of the pre-Islamic era (Jahiliyyah). By tying loyalty strictly to truth and divine command, rather than bloodline or alliances, it establishes a universal standard of morality."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Concludes that the ultimate message of the Juz is found in its closing verse. God's relationship with humanity is rooted in appreciation (Shukr). When humans cure their hearts of hypocrisy and replace it with gratitude, they align themselves with the ultimate mercy of the Creator."
+          }
+        ],
+        "lessons": [
+          "Charity Begins at Home: A righteous society is built on righteous homes. Fulfilling the rights of your spouse, children, and parents is your first religious duty.",
+          "Truth Has No Tribe: Your spiritual integrity is defined by your willingness to stand against your own people when they are in the wrong.",
+          "Gratitude is Salvation: The universe is not governed by a vengeful force, but by a Creator who eagerly seeks reasons to reward you. Gratitude is the key that unlocks that reward."
+        ]
+      },
+      "ms": {
+        "title": "Tema Utama Juz 5",
+        "theme": "Etika Keluarga, Keadilan Mutlak, dan Penyucian Hati.",
+        "explanation": [
+          "Juz 5 berfungsi sebagai manual perundangan dan kerohanian yang mendalam untuk membina masyarakat yang berdaya tahan dari asas. Juz ini bermula pada peringkat mikro—memperincikan hak-hak intim dalam perkahwinan, perlindungan wanita, dan pengurusan pertikaian keluarga—dan berkembang ke peringkat makro iaitu keadilan masyarakat dan peperangan.",
+          "Tiang utama Juz ini ialah pembasmian ketidakadilan sosial. Allah berulang kali tampil sebagai pembela golongan yang lemah, memperjuangkan nasib anak yatim, orang yang ditindas, dan mereka yang tidak berdaya. Ia menuntut orang yang beriman untuk menyamai piawaian Ilahi ini dengan menegakkan keadilan mutlak, mewajibkan mereka bercakap benar walaupun ia membawa kepada penghukuman diri mereka sendiri atau ibu bapa mereka. Keadilan dibingkai bukan sekadar sebagai tugas perundangan, tetapi sebagai ibadah yang sangat mulia.",
+          "Dari segi kerohanian, Juz 5 berfungsi sebagai cermin, memaksa orang beriman untuk meneliti hati mereka sendiri. Ia mendiagnosis simptom-simptom kemunafikan (Munafiqin) dengan teliti—kemalasan rohani, mengutamakan pandangan manusia mengatasi keredaan Tuhan, dan keraguan dalaman. Akhirnya, ia ditutup dengan jaminan teologi yang sangat berkuasa: Tuhan tidak mempunyai keinginan untuk menghukum manusia. Apa yang Dia minta hanyalah rasa syukur yang sebenar dan iman yang ikhlas."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Mencatatkan bahawa Juz 5 dengan mahirnya menganyam 'Hak-hak Allah' (Tauhid, solat, ketaatan) bersama 'Hak-hak Makhluk' (kesaksamaan rumahtangga, harta anak yatim, keadilan sosial). Iman Islam yang sebenar menuntut kesempurnaan kedua-duanya."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menonjolkan bagaimana Juz ini meruntuhkan sikap perkauman kabilah (asabiyyah) pada zaman pra-Islam (Jahiliyyah). Dengan mengikat kesetiaan semata-mata kepada kebenaran dan perintah Ilahi, dan bukannya pertalian darah atau pakatan, ia menetapkan satu piawaian moral yang universal."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menyimpulkan bahawa mesej utama Juz ini ditemui dalam ayat penutupnya. Hubungan Tuhan dengan manusia berakar umbi daripada penghargaan (Syukur). Apabila manusia menyembuhkan hati mereka daripada kemunafikan dan menggantikannya dengan rasa syukur, mereka menyelaraskan diri mereka dengan rahmat mutlak Pencipta."
+          }
+        ],
+        "lessons": [
+          "Kebaikan Bermula dari Rumah: Masyarakat yang soleh dibina di atas rumah tangga yang soleh. Memenuhi hak pasangan, anak-anak, dan ibu bapa anda adalah kewajipan agama pertama anda.",
+          "Kebenaran Tidak Mengenal Kabilah: Integriti rohani anda ditakrifkan oleh kesanggupan anda untuk menentang kaum anda sendiri apabila mereka berada di pihak yang salah.",
+          "Kesyukuran adalah Keselamatan: Alam semesta tidak ditadbir oleh kuasa pendendam, tetapi oleh Pencipta yang tidak sabar-sabar mencari alasan untuk memberi ganjaran kepada anda. Rasa syukur adalah kunci yang membuka ganjaran tersebut."
+        ]
+      }
     }
   ]
 }
