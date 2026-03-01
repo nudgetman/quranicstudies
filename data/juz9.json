@@ -1,0 +1,862 @@
+{
+  "juz": 9,
+  "meta": {
+    "title": {
+      "en": "Juz 9 — The Confrontation & The Spoils of War",
+      "ms": "Juz 9 — Konfrontasi & Harta Rampasan Perang"
+    },
+    "arabic_name": "الجزء التاسع",
+    "night": 9,
+    "reader": "A",
+    "quote": {
+      "en": "And if only the people of the cities had believed and feared Allah, We would have opened upon them blessings from the heaven and the earth...",
+      "ms": "Dan (Tuhan berfirman lagi): Sekiranya penduduk negeri itu, beriman serta bertaqwa, tentulah Kami akan membuka kepada mereka (pintu pengurniaan yang melimpah-limpah) berkatnya, dari langit dan bumi...",
+      "ref": "7:96"
+    }
+  },
+  "toc": [
+    {
+      "id": "section-01",
+      "en": "Al-A'raf 88–102 · Shu'ayb's Stand & The Forgotten Nations",
+      "ms": "Al-A'raf 88–102 · Pendirian Syu'aib & Bangsa-bangsa yang Dilupakan"
+    },
+    {
+      "id": "section-02",
+      "en": "Al-A'raf 103–126 · Musa, Pharaoh & The Sorcerers' Submission",
+      "ms": "Al-A'raf 103–126 · Musa, Firaun & Penyerahan Diri Ahli Sihir"
+    },
+    {
+      "id": "section-03",
+      "en": "Al-A'raf 127–141 · The Plagues of Egypt & The Parting of the Sea",
+      "ms": "Al-A'raf 127–141 · Wabak di Mesir & Terbelahnya Lautan"
+    },
+    {
+      "id": "section-04",
+      "en": "Al-A'raf 142–156 · Musa's Absence & The Golden Calf",
+      "ms": "Al-A'raf 142–156 · Ketiadaan Musa & Patung Anak Lembu Emas"
+    },
+    {
+      "id": "section-05",
+      "en": "Al-A'raf 157–171 · The Unlettered Prophet & The Sabbath Breakers",
+      "ms": "Al-A'raf 157–171 · Nabi yang Ummi & Pelanggar Hari Sabat"
+    },
+    {
+      "id": "section-06",
+      "en": "Al-A'raf 172–188 · The Primordial Covenant & The Parable of the Dog",
+      "ms": "Al-A'raf 172–188 · Perjanjian Primordial & Perumpamaan Anjing"
+    },
+    {
+      "id": "section-07",
+      "en": "Al-A'raf 189–206 · The Reality of False Gods & Listening to the Quran",
+      "ms": "Al-A'raf 189–206 · Realiti Tuhan Palsu & Adab Mendengar Al-Quran"
+    },
+    {
+      "id": "section-08",
+      "en": "Surah Al-Anfal — Introduction",
+      "ms": "Surah Al-Anfal — Pengenalan"
+    },
+    {
+      "id": "section-09",
+      "en": "Al-Anfal 1–14 · The Spoils of War & The Hearts of the Believers",
+      "ms": "Al-Anfal 1–14 · Harta Rampasan Perang & Hati Orang yang Beriman"
+    },
+    {
+      "id": "section-10",
+      "en": "Al-Anfal 15–28 · Firmness in Battle & The Call to Life",
+      "ms": "Al-Anfal 15–28 · Keteguhan dalam Pertempuran & Seruan kepada Kehidupan"
+    },
+    {
+      "id": "section-11",
+      "en": "Al-Anfal 29–40 · Divine Protection & The Ultimate Purpose of Conflict",
+      "ms": "Al-Anfal 29–40 · Perlindungan Ilahi & Tujuan Mutlak Konflik"
+    },
+    {
+      "id": "section-12",
+      "en": "Overarching Themes of Juz 9",
+      "ms": "Tema Utama Juz 9"
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-01",
+      "type": "passage",
+      "surah_number": 7,
+      "verse_start": 88,
+      "verse_end": 102,
+      "en": {
+        "title": "Shu'ayb's Stand & The Forgotten Nations",
+        "theme": "The arrogance of the elite, the profound connection between piety and physical prosperity, and the danger of feeling secure from God's plan.",
+        "arabic": "قَالَ الْمَلَأُ الَّذِينَ اسْتَكْبَرُوا مِن قَوْمِهِ لَنُخْرِجَنَّكَ يَا شُعَيْبُ وَالَّذِينَ آمَنُوا مَعَكَ... وَلَوْ أَنَّ أَهْلَ الْقُرَىٰ آمَنُوا وَاتَّقَوْا لَفَتَحْنَا عَلَيْهِم بَرَكَاتٍ مِّنَ السَّمَاءِ وَالْأَرْضِ... أَفَأَمِنُوا مَكْرَ اللَّهِ ۚ فَلَا يَأْمَنُ مَكْرَ اللَّهِ إِلَّا الْقَوْمُ الْخَاسِرُونَ",
+        "translation": "Said the eminent ones who were arrogant among his people, 'We will surely evict you, O Shu'ayb, and those who have believed with you...' And if only the people of the cities had believed and feared Allah, We would have opened upon them blessings from the heaven and the earth... Then did they feel secure from the plan of Allah? But no one feels secure from the plan of Allah except the losing people.",
+        "explanation": [
+          "Juz 9 begins with the climax of Prophet Shu'ayb's confrontation with the people of Madyan. The arrogant elite resort to the ultimate threat of tyrants: exile or forced conversion. Shu'ayb responds with absolute reliance on Allah, refusing to return to falsehood after God had saved him. The ensuing divine punishment completely annihilates the corrupt leaders.",
+          "The Quran then zooms out to deliver a universal, socio-economic law: the relationship between a nation's morality and its material prosperity. Verse 96 declares that if communities truly believed and had Taqwa (God-consciousness), Allah would pour open the blessings of the heavens and the earth. True prosperity is not just accumulating wealth; it is 'Barakah' (divine blessing) that brings peace, stability, and contentment to a society.",
+          "However, when societies reject the truth, Allah often tests them with the 'plan' of sudden destruction. The verses warn against the spiritual disease of feeling secure from God's reach. Whether sleeping peacefully at night or playing in the morning sun, no one is untouchable. Complacency is the hallmark of a doomed nation."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Explains the 'blessings of the heaven and the earth'. Ibn Kathir notes this refers to abundant rain from the sky and rich, flourishing vegetation from the earth. When a society is built on justice and faith, God harmonizes nature itself to serve and benefit them."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the concept of 'the plan of Allah' (Makr Allah). It refers to God drawing them into destruction gradually (Istidraj) through continuous blessings, health, and wealth, making them think they are beloved by Him, until He seizes them suddenly when they feel completely safe."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the psychological danger of feeling 'secure'. As-Sa'di points out that the true believer constantly balances between profound hope in God's mercy and healthy fear of His justice. Losing this fear leads to unchecked sins, which is why only the 'losing people' feel entirely safe from divine accountability."
+          }
+        ],
+        "lessons": [
+          "💰 The Economics of Piety: A thriving economy is not just about policy; it's about morality. Widespread corruption, fraud, and injustice strip the 'Barakah' (blessing) from a nation's wealth, while ethical living invites God's abundance.",
+          "🛡️ The Danger of Comfort: Never mistake material comfort for God's approval. If you are persistently sinning but your life is easy and your bank account is growing, you should be terrified. It may be the 'plan' of gradual ruin.",
+          "⚖️ Stand Your Ground: When pressured to compromise your core beliefs by those in power, respond like Shu'ayb. Rely on God and state clearly that returning to falsehood after tasting the truth is impossible."
+        ]
+      },
+      "ms": {
+        "title": "Pendirian Syu'aib & Bangsa-bangsa yang Dilupakan",
+        "theme": "Kesombongan golongan elit, hubungan mendalam antara ketakwaan dan kemakmuran fizikal, dan bahaya berasa aman daripada rancangan Tuhan.",
+        "arabic": "قَالَ الْمَلَأُ الَّذِينَ اسْتَكْبَرُوا مِن قَوْمِهِ لَنُخْرِجَنَّكَ يَا شُعَيْبُ وَالَّذِينَ آمَنُوا مَعَكَ... وَلَوْ أَنَّ أَهْلَ الْقُرَىٰ آمَنُوا وَاتَّقَوْا لَفَتَحْنَا عَلَيْهِم بَرَكَاتٍ مِّنَ السَّمَاءِ وَالْأَرْضِ... أَفَأَمِنُوا مَكْرَ اللَّهِ ۚ فَلَا يَأْمَنُ مَكْرَ اللَّهِ إِلَّا الْقَوْمُ الْخَاسِرُونَ",
+        "translation": "Ketua-ketua yang sombong takbur dari kaum Nabi Syu'aib berkata: 'Sesungguhnya kami akan mengusirmu wahai Syu'aib dan orang-orang yang beriman bersamamu...' Dan (Tuhan berfirman lagi): Sekiranya penduduk negeri itu, beriman serta bertaqwa, tentulah Kami akan membuka kepada mereka (pintu pengurniaan yang melimpah-limpah) berkatnya, dari langit dan bumi... Patutkah mereka (bersuka ria) sehingga mereka merasa aman daripada rancangan azab Allah? Sebenarnya tiada yang merasa aman dari rancangan azab Allah itu melainkan orang-orang yang rugi.",
+        "explanation": [
+          "Juz 9 bermula dengan kemuncak konfrontasi Nabi Syu'aib dengan penduduk Madyan. Golongan elit yang sombong menggunakan ancaman muktamad para penguasa zalim: buang daerah atau paksaan menukar agama. Syu'aib menjawab dengan kebergantungan mutlak kepada Allah, menolak untuk kembali kepada kebatilan setelah Tuhan menyelamatkannya. Hukuman Ilahi yang menyusul telah memusnahkan sepenuhnya para pemimpin yang korup itu.",
+          "Al-Quran kemudiannya memaparkan undang-undang sosioekonomi yang universal: hubungan antara moral sesebuah bangsa dan kemakmuran materialnya. Ayat 96 mengisytiharkan bahawa jika masyarakat benar-benar beriman dan mempunyai Takwa, Allah akan membuka seluas-luasnya keberkatan dari langit dan bumi. Kemakmuran sebenar bukan sekadar mengumpul kekayaan; ia adalah 'Barakah' (keberkatan Ilahi) yang membawa kedamaian, kestabilan, dan kepuasan kepada masyarakat.",
+          "Namun, apabila masyarakat menolak kebenaran, Allah sering menguji mereka dengan 'rancangan' kemusnahan yang tiba-tiba. Ayat-ayat ini memberi amaran terhadap penyakit rohani berasa aman daripada jangkauan Tuhan. Sama ada sedang tidur nyenyak pada waktu malam atau bermain di bawah mentari pagi, tiada siapa yang kebal. Sikap sambil lewa (complacency) adalah ciri-ciri bangsa yang akan binasa."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menjelaskan 'berkat dari langit dan bumi'. Ibn Kathir mencatatkan ini merujuk kepada hujan yang lebat dari langit dan tumbuh-tumbuhan yang subur serta kaya dari bumi. Apabila sesebuah masyarakat dibina atas keadilan dan keimanan, Tuhan menyelaraskan alam semula jadi itu sendiri untuk berkhidmat dan memberi manfaat kepada mereka."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan konsep 'rancangan Allah' (Makr Allah). Ia merujuk kepada tindakan Tuhan menarik mereka ke arah kemusnahan secara berperingkat (Istidraj) melalui nikmat, kesihatan, dan kekayaan yang berterusan, membuatkan mereka berfikir bahawa mereka dicintai oleh-Nya, sehinggalah Dia menyeksa mereka secara tiba-tiba ketika mereka berasa benar-benar selamat."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus kepada bahaya psikologi berasa 'aman'. As-Sa'di menunjukkan bahawa mukmin sejati sentiasa mengimbangi antara harapan yang mendalam terhadap rahmat Tuhan dan ketakutan yang sihat terhadap keadilan-Nya. Kehilangan rasa takut ini membawa kepada dosa yang tidak terkawal, sebab itulah hanya 'orang-orang yang rugi' yang berasa selamat sepenuhnya daripada kebertanggungjawaban Ilahi."
+          }
+        ],
+        "lessons": [
+          "💰 Ekonomi Ketakwaan: Ekonomi yang berkembang pesat bukan sahaja tentang dasar; ia mengenai moraliti. Rasuah, penipuan, dan ketidakadilan yang berleluasa melucutkan 'Barakah' daripada kekayaan negara, manakala kehidupan yang beretika mengundang kelimpahan daripada Tuhan.",
+          "🛡️ Bahaya Keselesaan: Jangan sesekali menganggap keselesaan material sebagai tanda keredaan Tuhan. Jika anda berterusan melakukan dosa tetapi hidup anda mudah dan wang di bank anda bertambah, anda patut berasa takut. Ia mungkin 'rancangan' kemusnahan berperingkat.",
+          "⚖️ Pertahankan Pendirian Anda: Apabila ditekan untuk menggadaikan kepercayaan teras anda oleh pihak yang berkuasa, balaslah seperti Syu'aib. Bergantunglah kepada Tuhan dan nyatakan dengan jelas bahawa kembali kepada kebatilan setelah merasai kebenaran adalah mustahil."
+        ]
+      }
+    },
+    {
+      "id": "section-02",
+      "type": "passage",
+      "surah_number": 7,
+      "verse_start": 103,
+      "verse_end": 126,
+      "en": {
+        "title": "Musa, Pharaoh & The Sorcerers' Submission",
+        "theme": "The confrontation with tyranny, the difference between divine miracles and human illusion, and the ultimate triumph of faith over fear.",
+        "arabic": "ثُمَّ بَعَثْنَا مِن بَعْدِهِم مُّوسَىٰ بِآيَاتِنَا إِلَىٰ فِرْعَوْنَ وَمَلَئِهِ... وَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ ۝ قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ ۝ رَبِّ مُوسَىٰ وَهَارُونَ... قَالُوا إِنَّا إِلَىٰ رَبِّنَا مُنقَلِبُونَ",
+        "translation": "Then We sent after them Moses with Our signs to Pharaoh and his establishment... And the magicians fell down in prostration. They said, 'We have believed in the Lord of the worlds, The Lord of Moses and Aaron.'... They said, 'Indeed, to our Lord we will return.'",
+        "explanation": [
+          "The narrative shifts to one of the most epic confrontations in human history: Prophet Musa (Moses) before the tyrannical Pharaoh of Egypt. Musa presents two undeniable miracles: his wooden staff transforms into a literal, massive serpent, and his hand becomes blindingly white. Pharaoh, entirely blinded by his ego and political power, dismisses these divine signs as mere 'magic'.",
+          "Pharaoh gathers the greatest sorcerers of the land for a public showdown, promising them wealth and proximity to his throne if they win. The sorcerers cast their illusions, terrifying the eyes of the people. But when Musa throws his staff, it swallows all their illusions. Because these sorcerers were absolute experts in magic, they instantly recognized that Musa's staff was not a trick—it was a suspension of the laws of nature by the Creator of nature.",
+          "In a single, breathtaking moment, the sorcerers fall into prostration, declaring their faith in the Lord of Musa and Harun. Pharaoh, humiliated, threatens to crucify them and amputate their limbs. The sorcerers' response showcases the apex of spiritual transformation: 'Indeed, to our Lord we will return.' In the span of a single morning, they went from greedy charlatans seeking worldly power to fearless martyrs willing to die for the truth."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Highlights the specific expertise of the sorcerers. Ibn Kathir explains that only true masters of an art can recognize when something surpasses human capability. They knew intimately what illusion looked like, which is why their submission was immediate and absolute; they knew they were witnessing the power of God, not a superior magician."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Points out Pharaoh's psychological manipulation. When he lost the theological debate, he resorted to political conspiracy, accusing Musa and the sorcerers of plotting together to overthrow the government and expel the Egyptians from their land, thereby weaponizing nationalism to maintain his grip on the masses."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Marvels at the miraculous speed of the sorcerers' spiritual evolution. As-Sa'di reflects that faith, when it truly touches the heart, completely rewires a person's priorities. The threat of torture and death became insignificant to them compared to the terror of returning to God as disbelievers. They asked God to 'pour patience' upon them, seeking spiritual strength, not physical rescue."
+          }
+        ],
+        "lessons": [
+          "🪄 The Limits of Illusion: Falsehood, no matter how well-funded, spectacular, or popular, is ultimately an illusion. When the undeniable truth (represented by Musa's staff) arrives, it effortlessly consumes the lies.",
+          "💡 Instant Transformation: It doesn't matter how dark your past is. The sorcerers came to fight a Prophet and ended the day as saints and martyrs. Sincere repentance and recognition of the truth can elevate your soul in a single moment.",
+          "🛡️ True Freedom: Pharaoh thought he owned the sorcerers because he controlled their bodies and wealth. But the moment they found God, they broke the chains of fear. True freedom is realizing that no tyrant can touch your soul or your eternal destination."
+        ]
+      },
+      "ms": {
+        "title": "Musa, Firaun & Penyerahan Diri Ahli Sihir",
+        "theme": "Konfrontasi dengan kezaliman, perbezaan antara mukjizat Ilahi dan ilusi manusia, dan kemenangan mutlak iman ke atas ketakutan.",
+        "arabic": "ثُمَّ بَعَثْنَا مِن بَعْدِهِم مُّوسَىٰ بِآيَاتِنَا إِلَىٰ فِرْعَوْنَ وَمَلَئِهِ... وَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ ۝ قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ ۝ رَبِّ مُوسَىٰ وَهَارُونَ... قَالُوا إِنَّا إِلَىٰ رَبِّنَا مُنقَلِبُونَ",
+        "translation": "Kemudian Kami utuskan sesudah mereka, Nabi Musa membawa ayat-ayat Kami kepada Firaun dan ketua-ketua kaumnya... Dan (kemenangan Nabi Musa yang demikian, menjadikan) ahli-ahli sihir itu dengan sendirinya merebahkan diri mereka sujud. Mereka berkata: 'Kami beriman kepada Tuhan sekalian alam. (Iaitu) Tuhan bagi Nabi Musa dan Nabi Harun'... Mereka menjawab: 'Sesungguhnya kami akan kembali kepada Tuhan kami (dan kepadaNyalah kami berserah diri).'",
+        "explanation": [
+          "Naratif beralih kepada salah satu konfrontasi paling epik dalam sejarah manusia: Nabi Musa berhadapan dengan Firaun Mesir yang zalim. Musa mempamerkan dua mukjizat yang tidak dapat disangkal: tongkat kayunya bertukar menjadi ular yang besar dan nyata, dan tangannya menjadi putih bersinar. Firaun, yang buta sepenuhnya kerana ego dan kuasa politiknya, menolak tanda-tanda Ilahi ini sekadar sebagai 'sihir'.",
+          "Firaun mengumpulkan ahli sihir terhebat di negaranya untuk pertunjukan awam, menjanjikan mereka kekayaan dan kedudukan yang dekat dengan takhtanya jika mereka menang. Ahli-ahli sihir melontarkan ilusi mereka, menakutkan mata orang ramai. Tetapi apabila Musa melontarkan tongkatnya, ia menelan semua ilusi mereka. Memandangkan ahli-ahli sihir ini merupakan pakar mutlak dalam ilmu sihir, mereka serta-merta menyedari bahawa tongkat Musa bukanlah satu silap mata—ia adalah penggantungan undang-undang alam oleh Pencipta alam.",
+          "Dalam satu detik yang menakjubkan, ahli-ahli sihir itu merebahkan diri mereka sujud, mengisytiharkan keimanan mereka kepada Tuhan Musa dan Harun. Firaun, yang merasa terhina, mengancam untuk menyalib mereka dan memotong anggota badan mereka secara bersilang. Jawapan ahli-ahli sihir tersebut mempamerkan kemuncak transformasi rohani: 'Sesungguhnya kami akan kembali kepada Tuhan kami.' Dalam tempoh hanya satu pagi, mereka berubah daripada penipu tamak yang mencari kuasa duniawi kepada para syuhada yang tidak gentar dan sanggup mati demi kebenaran."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menonjolkan kepakaran khusus ahli-ahli sihir. Ibn Kathir menjelaskan bahawa hanya pakar sebenar sesuatu seni dapat mengenali apabila sesuatu itu melangkaui kemampuan manusia. Mereka amat memahami rupa bentuk ilusi, sebab itulah penyerahan diri mereka adalah serta-merta dan mutlak; mereka tahu mereka sedang menyaksikan kuasa Tuhan, bukan ahli sihir yang lebih hebat."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menunjukkan manipulasi psikologi Firaun. Apabila dia kalah dalam perdebatan teologi, dia beralih kepada konspirasi politik, menuduh Musa dan ahli sihir bersekongkol untuk menggulingkan kerajaan dan mengusir penduduk Mesir dari tanah mereka, sekali gus menggunakan nasionalisme sebagai senjata untuk mengekalkan cengkamannya ke atas rakyat."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Kagum dengan kepantasan ajaib evolusi rohani ahli-ahli sihir. As-Sa'di merenung bahawa iman, apabila ia benar-benar menyentuh hati, akan menyusun semula keutamaan seseorang sepenuhnya. Ancaman penyeksaan dan kematian menjadi tidak penting bagi mereka berbanding kengerian kembali kepada Tuhan sebagai orang kafir. Mereka memohon agar Tuhan 'mencurahkan kesabaran' ke atas mereka, mencari kekuatan rohani, bukan penyelamatan fizikal."
+          }
+        ],
+        "lessons": [
+          "🪄 Batasan Ilusi: Kebatilan, tidak kira betapa besarnya dana, kehebatan, atau popularitinya, akhirnya hanyalah sebuah ilusi. Apabila kebenaran yang tidak dapat dinafikan (diwakili oleh tongkat Musa) tiba, ia dengan mudah memusnahkan penipuan tersebut.",
+          "💡 Transformasi Serta-merta: Tidak kira betapa gelapnya masa lalu anda. Ahli-ahli sihir itu datang untuk melawan seorang Nabi dan mengakhiri hari tersebut sebagai orang yang soleh dan syuhada. Taubat yang ikhlas dan pengiktirafan terhadap kebenaran boleh mengangkat darjat jiwa anda dalam sekelip mata.",
+          "🛡️ Kebebasan Sebenar: Firaun menyangka dia memiliki ahli-ahli sihir itu kerana dia mengawal tubuh dan kekayaan mereka. Tetapi sebaik sahaja mereka menemui Tuhan, mereka memecahkan rantai ketakutan. Kebebasan sebenar ialah menyedari bahawa tiada penguasa zalim yang boleh menyentuh jiwa anda atau destinasi abadi anda."
+        ]
+      }
+    },
+    {
+      "id": "section-03",
+      "type": "passage",
+      "surah_number": 7,
+      "verse_start": 127,
+      "verse_end": 141,
+      "en": {
+        "title": "The Plagues of Egypt & The Parting of the Sea",
+        "theme": "The escalation of divine warnings, the stubbornness of systemic arrogance, and the tragic psychology of an enslaved mindset.",
+        "arabic": "وَقَالَ الْمَلَأُ مِن قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَىٰ وَقَوْمَهُ لِيُفْسِدُوا فِي الْأَرْضِ... فَأَرْسَلْنَا عَلَيْهِمُ الطُّوفَانَ وَالْجَرَادَ وَالْقُمَّلَ وَالضَّفَادِعَ وَالدَّمَ آيَاتٍ مُّفَصَّلَاتٍ فَاسْتَكْبَرُوا... وَجَاوَزْنَا بِبَنِي إِسْرَائِيلَ الْبَحْرَ فَأَتَوْا عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰ أَصْنَامٍ لَّهُمْ ۚ قَالُوا يَا مُوسَى اجْعَل لَّنَا إِلَٰهًا كَمَا لَهُمْ آلِهَةٌ ۚ",
+        "translation": "And the eminent among the people of Pharaoh said, 'Will you leave Moses and his people to cause corruption in the land...' So We sent upon them the flood and locusts and lice and frogs and blood as distinct signs, but they were arrogant... And We took the Children of Israel across the sea; then they came upon a people intent in devotion to [some] idols of theirs. They said, 'O Moses, make for us a god just as they have gods.'",
+        "explanation": [
+          "Following the defeat of the sorcerers, Pharaoh’s elite demand a harsher crackdown on the Israelites. In response, Allah systematically dismantles the Egyptian empire not with armies, but with forces of nature. He sends a devastating sequence of plagues—widespread floods, swarms of locusts, infestations of lice, plagues of frogs, and water turning to blood. These were 'distinct signs,' spaced out to give them time to reflect. Each time, they begged Musa to pray for relief, promising to release the Israelites. Each time the plague lifted, they broke their promise out of pure arrogance.",
+          "Eventually, Allah ordains the spectacular escape of the Israelites. The Red Sea is parted, saving the oppressed and drowning Pharaoh and his army. The ultimate victory over tyranny is achieved.",
+          "However, the passage ends with a heartbreaking psychological twist. Almost immediately after being saved by a magnificent miracle of the One True God, the Israelites walk past a group of people worshipping statues. They turn to Musa and ask, 'Make us an idol like they have.' Generational slavery under the Egyptians had deeply corrupted their spiritual compass. They were physically free, but their minds were still enslaved to the pagan culture of their oppressors."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Details the severity of the plagues based on Ibn Abbas. The blood plague meant that whenever an Egyptian drew water from the Nile or a well, it turned to fresh blood, while it remained clear water for the Israelites. The frogs filled their beds and their food. God turned their most basic daily needs into instruments of psychological torture to break their pride."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Focuses on the broken promises of Pharaoh's people. Whenever a plague hit, they would say, 'O Musa, invoke your Lord for us by His covenant... we will surely send with you the Children of Israel.' Their repentance was purely circumstantial, motivated entirely by pain, not by a genuine recognition of the truth."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Provides a profound analysis of the Israelites' request for an idol. As-Sa'di explains that long-term oppression doesn't just harm the body; it damages the intellect and the soul. Living among the idolatrous Egyptians for centuries made the Israelites associate physical statues with power and security. Musa had to harshly reprimand them, showing that physical liberation must be followed by spiritual re-education."
+          }
+        ],
+        "lessons": [
+          "🌊 Warnings Before the Storm: God is incredibly patient. He sends 'distinct signs' (a financial hit, a health scare, a moment of clarity) before sending final destruction. Ignoring these smaller wake-up calls guarantees a fatal crash.",
+          "💔 Circumstantial Repentance is Fake: If you only pray and make promises to God when you are in trouble, and break those promises the second you feel better, your faith is transactional. True faith holds firm in times of ease and hardship.",
+          "🧠 The Chains of the Mind: You can escape a toxic environment, but if you don't actively heal and unlearn its habits, you will recreate that toxicity wherever you go. The Israelites left Egypt, but they brought the Egyptian idols in their hearts."
+        ]
+      },
+      "ms": {
+        "title": "Wabak di Mesir & Terbelahnya Lautan",
+        "theme": "Peningkatan amaran Ilahi, kedegilan kesombongan sistemik, dan psikologi tragis pemikiran yang diperhambakan.",
+        "arabic": "وَقَالَ الْمَلَأُ مِن قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَىٰ وَقَوْمَهُ لِيُفْسِدُوا فِي الْأَرْضِ... فَأَرْسَلْنَا عَلَيْهِمُ الطُّوفَانَ وَالْجَرَادَ وَالْقُمَّلَ وَالضَّفَادِعَ وَالدَّمَ آيَاتٍ مُّفَصَّلَاتٍ فَاسْتَكْبَرُوا... وَجَاوَزْنَا بِبَنِي إِسْرَائِيلَ الْبَحْرَ فَأَتَوْا عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰ أَصْنَامٍ لَّهُمْ ۚ قَالُوا يَا مُوسَى اجْعَل لَّنَا إِلَٰهًا كَمَا لَهُمْ آلِهَةٌ ۚ",
+        "translation": "Dan berkatalah ketua-ketua dari kaum Firaun: 'Adakah engkau (membiarkan) Musa dan kaumnya untuk melakukan kerosakan di bumi (Mesir)...' Kami pun menghantarkan kepada mereka taufan, dan belalang, dan kutu, dan katak, dan darah, sebagai tanda-tanda (mukjizat) yang jelas nyata, maka mereka tetap berlaku sombong takbur... Dan Kami bawakan Bani Israel melintasi laut (Merah) itu, lalu mereka sampai kepada suatu kaum yang sedang menyembah berhala-berhalanya. (Melihatkan yang demikian) mereka berkata: 'Wahai Musa jadikanlah untuk kami suatu tuhan (berhala) sebagaimana mereka mempunyai beberapa tuhan'.",
+        "explanation": [
+          "Selepas kekalahan ahli sihir, golongan elit Firaun menuntut tindakan keras terhadap Bani Israel. Sebagai tindak balas, Allah secara sistematik menghancurkan empayar Mesir bukan dengan tentera, tetapi dengan kuasa alam. Dia menghantar rantaian wabak yang membinasakan—banjir besar, kawanan belalang juta, serangan kutu, wabak katak, dan air bertukar menjadi darah. Ini adalah 'tanda-tanda yang jelas,' diturunkan dalam tempoh masa yang menjarak untuk memberi mereka masa berfikir. Setiap kali ditimpa wabak, mereka merayu kepada Musa untuk berdoa memohon kelegaan, berjanji untuk membebaskan Bani Israel. Namun, setiap kali wabak itu ditarik balik, mereka memungkiri janji semata-mata kerana kesombongan.",
+          "Akhirnya, Allah menetapkan pelarian Bani Israel yang menakjubkan. Laut Merah terbelah, menyelamatkan golongan yang tertindas dan menenggelamkan Firaun serta tenteranya. Kemenangan muktamad ke atas kezaliman telah tercapai.",
+          "Walau bagaimanapun, petikan ini berakhir dengan pusingan psikologi yang menyayat hati. Hampir serta-merta selepas diselamatkan oleh mukjizat agung Tuhan Yang Maha Esa, Bani Israel berjalan melepasi sekumpulan manusia yang sedang menyembah patung. Mereka berpaling kepada Musa dan meminta, 'Jadikan untuk kami tuhan (berhala) seperti yang mereka ada.' Perhambaan selama beberapa generasi di bawah orang Mesir telah merosakkan kompas rohani mereka secara mendalam. Mereka bebas secara fizikal, tetapi fikiran mereka masih diperhambakan oleh budaya pagan penindas mereka."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Memperincikan tahap teruknya wabak berdasarkan Ibn Abbas. Wabak darah bermakna setiap kali orang Mesir menimba air dari sungai Nil atau perigi, ia berubah menjadi darah segar, manakala ia kekal sebagai air jernih bagi Bani Israel. Katak memenuhi katil dan makanan mereka. Tuhan menukar keperluan harian asas mereka menjadi instrumen penyeksaan psikologi untuk memecahkan kebanggaan mereka."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Fokus pada janji palsu kaum Firaun. Setiap kali wabak melanda, mereka akan berkata, 'Wahai Musa, pohonkanlah kepada Tuhanmu untuk kami dengan (kehormatan) pangkat Nabi... sesungguhnya kami akan membiarkan Bani Israel pergi bersamamu.' Taubat mereka semata-mata kerana keadaan terdesak, didorong sepenuhnya oleh kesakitan, bukan oleh pengiktirafan ikhlas terhadap kebenaran."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Memberikan analisis mendalam tentang permintaan Bani Israel untuk mendapatkan berhala. As-Sa'di menjelaskan bahawa penindasan jangka panjang bukan sahaja memudaratkan fizikal; ia merosakkan akal dan jiwa. Hidup dalam kalangan orang Mesir yang menyembah berhala selama berabad-abad membuatkan Bani Israel mengaitkan patung fizikal dengan kuasa dan keselamatan. Musa terpaksa menegur mereka dengan keras, menunjukkan bahawa pembebasan fizikal mesti disusuli dengan pendidikan semula rohani."
+          }
+        ],
+        "lessons": [
+          "🌊 Amaran Sebelum Badai: Tuhan sangat penyabar. Dia menghantar 'tanda-tanda yang jelas' (kemerosotan kewangan, masalah kesihatan, saat kesedaran) sebelum menghantar kemusnahan terakhir. Mengabaikan amaran-amaran kecil ini menjamin kejatuhan yang membawa maut.",
+          "💔 Taubat Mengikut Keadaan Adalah Palsu: Jika anda hanya berdoa dan berjanji kepada Tuhan ketika anda dalam kesusahan, dan memungkiri janji tersebut sebaik sahaja anda berasa lebih baik, iman anda bersifat transaksional. Iman yang sebenar kekal teguh pada masa senang dan susah.",
+          "🧠 Rantaian Fikiran: Anda boleh melarikan diri daripada persekitaran toksik, tetapi jika anda tidak merawat dan membuang tabiat buruk itu secara aktif, anda akan mencipta semula ketoksikan itu ke mana sahaja anda pergi. Bani Israel meninggalkan Mesir, tetapi mereka membawa berhala Mesir di dalam hati mereka."
+        ]
+      }
+    },
+    {
+      "id": "section-04",
+      "type": "passage",
+      "surah_number": 7,
+      "verse_start": 142,
+      "verse_end": 156,
+      "en": {
+        "title": "Musa's Absence & The Golden Calf",
+        "theme": "The fragility of faith, the overwhelming majesty of God, and the tragedy of the Golden Calf.",
+        "arabic": "وَلَمَّا جَاءَ مُوسَىٰ لِمِيقَاتِنَا وَكَلَّمَهُ رَبُّهُ قَالَ رَبِّ أَرِنِي أَنظُرْ إِلَيْكَ ۚ قَالَ لَن تَرَانِي وَلَٰكِنِ انظُرْ إِلَى الْجَبَلِ... وَاتَّخَذَ قَوْمُ مُوسَىٰ مِن بَعْدِهِ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُ خُوَارٌ ۚ...",
+        "translation": "And when Moses arrived at Our appointed time and his Lord spoke to him, he said, 'My Lord, show me [Yourself] that I may look at You.' [Allah] said, 'You will not see Me, but look at the mountain...' And the people of Moses made, after [his departure], from their ornaments a calf - an image having a lowing sound...",
+        "explanation": [
+          "Musa is called to Mount Sinai for forty nights to receive the Torah. Experiencing the profound intimacy of hearing God speak directly to him, Musa asks for the ultimate veil to be lifted: he asks to see Allah. God mercifully explains that human biology cannot bear His light. To prove it, God reveals a fraction of His light to a massive mountain, instantly obliterating it into dust and causing Musa to fall unconscious. God is too majestic for the physical eye to encompass in this world.",
+          "While Musa is having this pinnacle spiritual experience, a tragic betrayal occurs at the bottom of the mountain. Impatient with Musa's absence, the Israelites melt their gold and sculpt a Golden Calf. A man named Samiri uses a trick to make the wind blow through it, creating a 'lowing sound'. The people, still psychologically scarred by Egyptian idolatry, immediately declare the calf as their god.",
+          "Musa returns, sees the idolatry, and is overcome with furious, righteous anger. He drops the divine tablets and seizes his brother Harun by the beard, demanding an explanation. Once his anger subsides, Musa turns to Allah in a profound prayer of repentance, begging for mercy for himself and his brother, recognizing that without God's forgiveness, they are utterly lost."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Analyzes Musa's request to see Allah. Ibn Kathir notes that the request was not born of doubt, but of overwhelming love and desire to be closer to the Creator. The mountain crumbling is a theological proof: if solid rock cannot handle the manifestation of God's majesty, the fragile human body certainly cannot until it is recreated in Paradise."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Explains the mechanics of the Golden Calf. The 'lowing sound' was a mere physical trick of the wind passing through the hollow statue, yet the spiritually bankrupt Israelites took it as a sign of divinity. Al-Jalalayn highlights the absurdity of worshipping something that 'neither speaks to them nor guides them to a way.'"
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on Musa's anger and leadership. As-Sa'di states that Musa's intense anger was a praiseworthy sign of his protective jealousy (Gheerah) for God's rights. However, his swift transition from anger to begging God for mercy (Verse 151) demonstrates the ultimate prophetic character: holding people accountable, yet desperately seeking God's grace for them."
+          }
+        ],
+        "lessons": [
+          "⛰️ The Limits of Comprehension: Do not try to confine God to human physical dimensions. The fact that you cannot see Him now is not a lack of His presence, but a limitation of your own fragile biology. He is known through His words and His creation.",
+          "🐄 The Idols We Build: The Israelites couldn't wait 40 days without inventing a physical god to satisfy their anxiety. Humans are naturally designed to worship; if we disconnect from the true, unseen God, we will inevitably start worshipping our wealth, our careers, or our desires.",
+          "😡 Holy Anger vs. Ego Anger: Getting angry when God's boundaries are violated is a sign of faith, but it must be controlled. Musa was furious, but he immediately channeled that emotion into a prayer for forgiveness, preventing his anger from turning into destructive hatred."
+        ]
+      },
+      "ms": {
+        "title": "Ketiadaan Musa & Patung Anak Lembu Emas",
+        "theme": "Kerapuhan iman, keagungan Tuhan yang melampaui batasan, dan tragedi Patung Anak Lembu Emas.",
+        "arabic": "وَلَمَّا جَاءَ مُوسَىٰ لِمِيقَاتِنَا وَكَلَّمَهُ رَبُّهُ قَالَ رَبِّ أَرِنِي أَنظُرْ إِلَيْكَ ۚ قَالَ لَن تَرَانِي وَلَٰكِنِ انظُرْ إِلَى الْجَبَلِ... وَاتَّخَذَ قَوْمُ مُوسَىٰ مِن بَعْدِهِ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُ خُوَارٌ ۚ...",
+        "translation": "Dan ketika Nabi Musa datang pada waktu yang Kami telah tentukan itu, dan Tuhannya berkata-kata dengannya, maka Nabi Musa (merayu dengan) berkata: 'Wahai Tuhanku! Perlihatkanlah kepadaku (ZatMu Yang Maha Suci) supaya aku dapat melihatMu'. Allah berfirman: 'Engkau tidak sekali-kali akan sanggup melihatKu, tetapi pandanglah ke gunung itu...' Dan kaum Nabi Musa, sesudah ia (pergi ke Gunung Tursina), mereka membuat dari barang-barang perhiasan mereka (patung) seekor anak lembu yang bertubuh dan bersuara...",
+        "explanation": [
+          "Musa dipanggil ke Gunung Sinai selama empat puluh malam untuk menerima Taurat. Merasai keintiman yang mendalam mendengar Tuhan bercakap secara langsung dengannya, Musa meminta agar hijab mutlak diangkat: dia meminta untuk melihat Allah. Tuhan dengan penuh rahmat menjelaskan bahawa biologi manusia tidak mampu menanggung cahaya-Nya. Untuk membuktikannya, Tuhan menzahirkan sekelumit cahaya-Nya pada sebuah gunung yang besar, yang serta-merta menghancurkannya menjadi debu dan menyebabkan Musa jatuh pengsan. Tuhan terlalu agung untuk diliputi oleh mata fizikal di dunia ini.",
+          "Ketika Musa sedang mengalami pengalaman rohani kemuncak ini, satu pengkhianatan tragis berlaku di kaki gunung. Tidak sabar dengan ketiadaan Musa, Bani Israel mencairkan emas mereka dan mengukir Patung Anak Lembu Emas. Seorang lelaki bernama Samiri menggunakan helah untuk membolehkan angin bertiup melaluinya, menghasilkan 'bunyi seperti lembu'. Manusia yang masih cacat psikologi akibat penyembahan berhala Mesir itu, serta-merta mengisytiharkan anak lembu tersebut sebagai tuhan mereka.",
+          "Musa kembali, melihat kemusyrikan tersebut, dan dilanda kemarahan yang benar. Dia mencampakkan luh-luh (batu bersurat) Ilahi dan memegang janggut saudaranya Harun, menuntut penjelasan. Sebaik sahaja kemarahannya reda, Musa berpaling kepada Allah dengan doa taubat yang mendalam, memohon rahmat untuk dirinya dan saudaranya, menyedari bahawa tanpa keampunan Tuhan, mereka pasti binasa."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menganalisis permintaan Musa untuk melihat Allah. Ibn Kathir mencatatkan bahawa permintaan itu tidak lahir daripada keraguan, tetapi daripada rasa cinta yang meluap-luap dan keinginan untuk lebih dekat dengan Pencipta. Gunung yang hancur adalah bukti teologi: jika batu yang kukuh tidak mampu menahan tajalli (penzahiran) keagungan Tuhan, tubuh manusia yang rapuh sudah pasti tidak mampu sehinggalah ia dicipta semula di Syurga."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan mekanik Patung Anak Lembu Emas. 'Bunyi lembu' itu hanyalah silap mata fizikal angin yang melalui patung berongga tersebut, namun Bani Israel yang muflis rohani menganggapnya sebagai tanda ketuhanan. Al-Jalalayn menonjolkan betapa tidak masuk akalnya menyembah sesuatu yang 'tidak dapat berkata-kata dengan mereka dan tidak dapat menunjukkan jalan kepada mereka.'"
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus pada kemarahan dan kepimpinan Musa. As-Sa'di menyatakan bahawa kemarahan Musa yang meluap-luap adalah tanda cemburu (Gheerah) yang terpuji untuk mempertahankan hak-hak Tuhan. Walau bagaimanapun, peralihannya yang pantas daripada kemarahan kepada merayu keampunan Tuhan (Ayat 151) menunjukkan perwatakan nabi yang terunggul: mempertanggungjawabkan manusia atas kesalahan mereka, namun pada masa yang sama bermati-matian memohon rahmat Tuhan untuk mereka."
+          }
+        ],
+        "lessons": [
+          "⛰️ Batasan Pemahaman: Jangan cuba mengekang Tuhan ke dalam dimensi fizikal manusia. Hakikat bahawa anda tidak dapat melihat-Nya sekarang bukanlah bermakna ketiadaan-Nya, tetapi satu batasan biologi anda sendiri yang rapuh. Dia dikenali melalui kata-kata-Nya dan ciptaan-Nya.",
+          "🐄 Berhala yang Kita Bina: Bani Israel tidak mampu menunggu 40 hari tanpa mencipta tuhan fizikal bagi memuaskan kebimbangan mereka. Manusia secara semula jadi dicipta untuk menyembah; jika kita memutuskan hubungan dengan Tuhan yang sebenar dan ghaib, kita pasti akan mula menyembah kekayaan kita, kerjaya kita, atau hawa nafsu kita.",
+          "😡 Kemarahan Suci vs. Kemarahan Ego: Menjadi marah apabila sempadan Tuhan dilanggar adalah tanda keimanan, tetapi ia mesti dikawal. Musa sangat marah, tetapi dia segera menyalurkan emosi itu ke dalam doa keampunan, menghalang kemarahannya daripada bertukar menjadi kebencian yang membinasakan."
+        ]
+      }
+    },
+    {
+      "id": "section-05",
+      "type": "passage",
+      "surah_number": 7,
+      "verse_start": 157,
+      "verse_end": 171,
+      "en": {
+        "title": "The Unlettered Prophet & The Sabbath Breakers",
+        "theme": "The prophecy of Muhammad in previous scriptures, the easing of heavy legal burdens, and the fatal trickery of the Sabbath breakers.",
+        "arabic": "الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الْأُمِّيَّ الَّذِي يَجِدُونَهُ مَكْتُوبًا عِندَهُمْ فِي التَّوْرَاةِ وَالْإِنجِيلِ... وَاسْأَلْهُمْ عَنِ الْقَرْيَةِ الَّتِي كَانَتْ حَاضِرَةَ الْبَحْرِ إِذْ يَعْدُونَ فِي السَّبْتِ...",
+        "translation": "Those who follow the Messenger, the unlettered prophet, whom they find written in what they have of the Torah and the Gospel... And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath...",
+        "explanation": [
+          "In a profound shift, Allah answers Musa's prayer for mercy by defining who will ultimately receive it: those who will eventually follow the final Messenger, the 'unlettered prophet' (Muhammad). The Quran boldly asserts that his description was clearly written in the original Torah and Gospel. His mission is defined by liberation: he makes lawful the good things, prohibits the harmful, and drastically lifts the heavy, restrictive laws (the 'burdens and shackles') that were placed upon previous nations due to their stubbornness.",
+          "To illustrate the dangers of legal manipulation, the Quran narrates the story of the Sabbath Breakers. A seaside town of Israelites was commanded to strictly dedicate Saturday to worship, forbidding them from fishing. To test their sincerity, Allah made the fish wildly abundant only on Saturdays. Rather than obeying, they used a deceitful loophole: they set their nets on Friday night and pulled them in on Sunday, claiming they didn't 'work' on the Sabbath.",
+          "The town split into three groups: the sinners, the active preachers who warned them, and the passive bystanders who told the preachers to give up. When the divine punishment arrived (transforming the sinners into despised apes), Allah explicitly states He saved those who actively forbade the evil. The passive bystanders are left unmentioned, emphasizing that silence in the face of corruption offers no guarantee of divine protection."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Emphasizes the term 'Ummi' (unlettered). Ibn Kathir explains that the Prophet's inability to read or write was a massive, deliberate miracle. It proved that the flawless, historically accurate, and linguistically perfect Quran could not have been plagiarized from older scriptures, leaving divine revelation as the only logical source."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Discusses the specific punishment of the Sabbath breakers. The transformation into 'despised apes' was a physical manifestation of their internal spiritual state. They tried to mimic obedience to God while actually disobeying Him; so God transformed them into creatures that mimic humans but are not human."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Highlights the critical role of the middle group—the active warners. As-Sa'di states that forbidding evil is an absolute duty even if you think people won't listen. The preachers did it 'to be absolved before your Lord.' Speaking the truth is about preserving your own soul's integrity in front of God, regardless of the results."
+          }
+        ],
+        "lessons": [
+          "🕊️ The Religion of Ease: Islam came to remove the heavy spiritual shackles of the past. If your practice of religion feels like a suffocating burden of endless, over-complicated rules, you have misunderstood the liberating nature of the Prophet's message.",
+          "🎣 Do Not Outsmart God: The Sabbath breakers thought they found a clever legal loophole to get what they wanted. You can trick a legal system, but you cannot trick the Lawgiver. Intentions matter just as much as actions.",
+          "🗣️ Silence is Not Safety: When corruption spreads in society, staying quietly out of it is not enough. The people who were saved from the punishment were those who actively spoke out against the wrongdoing."
+        ]
+      },
+      "ms": {
+        "title": "Nabi yang Ummi & Pelanggar Hari Sabat",
+        "theme": "Khabar gembira tentang kedatangan Muhammad dalam kitab-kitab terdahulu, pelepasan beban undang-undang yang berat, dan tipu daya yang membinasakan oleh pelanggar hari Sabat.",
+        "arabic": "الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الْأُمِّيَّ الَّذِي يَجِدُونَهُ مَكْتُوبًا عِندَهُمْ فِي التَّوْرَاةِ وَالْإِنجِيلِ... وَاسْأَلْهُمْ عَنِ الْقَرْيَةِ الَّتِي كَانَتْ حَاضِرَةَ الْبَحْرِ إِذْ يَعْدُونَ فِي السَّبْتِ...",
+        "translation": "Iaitu orang-orang yang mengikut Rasulullah (Muhammad) Nabi yang Ummi, yang mereka dapati tertulis (namanya dan sifat-sifatnya) di dalam Taurat dan Injil yang ada di sisi mereka... Dan bertanyalah kepada mereka (wahai Muhammad) mengenai (penduduk) bandar yang letaknya di tepi laut, semasa mereka melanggar larangan pada hari Sabat...",
+        "explanation": [
+          "Dalam satu peralihan yang mendalam, Allah menjawab doa Musa untuk mendapatkan rahmat dengan menetapkan siapa yang akhirnya akan menerimanya: mereka yang akhirnya akan mengikuti Rasul yang terakhir, 'Nabi yang ummi' (Muhammad). Al-Quran dengan berani menegaskan bahawa sifat-sifatnya telah tertulis dengan jelas dalam Taurat dan Injil yang asal. Misinya ditakrifkan oleh pembebasan: baginda menghalalkan perkara-perkara yang baik, mengharamkan yang memudaratkan, dan secara drastik mengangkat undang-undang yang berat dan menyekat ('beban dan belenggu') yang diletakkan ke atas umat terdahulu akibat kedegilan mereka.",
+          "Untuk menggambarkan bahaya manipulasi undang-undang, Al-Quran menceritakan kisah Pelanggar Hari Sabat. Sebuah bandar Bani Israel di tepi laut diperintahkan untuk mengkhususkan hari Sabtu semata-mata untuk beribadat, melarang mereka daripada menangkap ikan. Untuk menguji keikhlasan mereka, Allah menjadikan ikan sangat banyak hanya pada hari Sabtu. Daripada menurut perintah, mereka menggunakan helah (loopholes) yang penuh penipuan: mereka memasang pukat pada malam Jumaat dan menariknya pada hari Ahad, mendakwa mereka tidak 'bekerja' pada hari Sabat.",
+          "Penduduk bandar itu berpecah kepada tiga kumpulan: pendosa, pendakwah aktif yang memberi amaran kepada mereka, dan pemerhati pasif yang menyuruh pendakwah tersebut untuk berputus asa. Apabila hukuman Ilahi tiba (menukarkan para pendosa menjadi kera yang hina), Allah secara jelas menyatakan Dia menyelamatkan mereka yang secara aktif mencegah kemungkaran tersebut. Kumpulan pemerhati pasif tidak disebutkan, menekankan bahawa berdiam diri dalam menghadapi kerosakan tidak memberikan sebarang jaminan perlindungan daripada Tuhan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menekankan istilah 'Ummi' (tidak tahu membaca dan menulis). Ibn Kathir menjelaskan bahawa ketidakmampuan Nabi untuk membaca atau menulis adalah satu mukjizat besar yang disengajakan. Ia membuktikan bahawa Al-Quran yang sempurna, tepat dari segi sejarah, dan sempurna dari segi linguistik tidak mungkin diciplak daripada kitab-kitab lama, meninggalkan wahyu Ilahi sebagai satu-satunya sumber yang logik."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Membincangkan hukuman khusus bagi pelanggar hari Sabat. Perubahan menjadi 'kera yang hina' merupakan manifestasi fizikal keadaan rohani dalaman mereka. Mereka cuba meniru ketaatan kepada Tuhan sedangkan hakikatnya mereka menderhaka kepada-Nya; maka Tuhan menukarkan mereka menjadi makhluk yang meniru manusia tetapi bukan manusia."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menonjolkan peranan kritikal kumpulan pertengahan—pemberi amaran yang aktif. As-Sa'di menyatakan bahawa mencegah kemungkaran adalah satu kewajipan mutlak walaupun anda berfikir orang tidak akan mendengar. Para pendakwah melakukannya 'supaya kami terlepas daripada kesalahannya di hadapan Tuhanmu.' Menyatakan kebenaran adalah tentang memelihara integriti jiwa anda sendiri di hadapan Tuhan, tanpa mengira hasilnya."
+          }
+        ],
+        "lessons": [
+          "🕊️ Agama yang Mudah: Islam datang untuk membuang belenggu rohani masa lalu yang berat. Jika amalan agama anda terasa seperti bebanan peraturan yang terlalu rumit dan menyesakkan, anda telah salah faham akan sifat membebaskan mesej Nabi.",
+          "🎣 Jangan Memperdayakan Tuhan: Pelanggar hari Sabat menyangka mereka menemui jalan lompang undang-undang (loopholes) yang bijak untuk mendapatkan apa yang mereka mahu. Anda boleh menipu sistem perundangan, tetapi anda tidak boleh menipu Penggubal Undang-Undang. Niat adalah sama pentingnya dengan perbuatan.",
+          "🗣️ Berdiam Diri Bukanlah Penyelamat: Apabila kerosakan berleluasa dalam masyarakat, mendiamkan diri bukanlah penyelesaiannya. Orang-orang yang diselamatkan daripada hukuman adalah mereka yang secara aktif bersuara menentang perbuatan salah tersebut."
+        ]
+      }
+    },
+    {
+      "id": "section-06",
+      "type": "passage",
+      "surah_number": 7,
+      "verse_start": 172,
+      "verse_end": 188,
+      "en": {
+        "title": "The Primordial Covenant & The Parable of the Dog",
+        "theme": "The innate human disposition to know God, the catastrophic failure of corrupt scholars, and the unseen knowledge of the Final Hour.",
+        "arabic": "وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا بَلَىٰ... فَمَثَلُهُ كَمَثَلِ الْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَث... يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ رَبِّي ۖ",
+        "translation": "And [mention] when your Lord took from the children of Adam - from their loins - their descendants and made them testify of themselves, [saying to them], 'Am I not your Lord?' They said, 'Yes, we have testified.'... So his example is like that of the dog: if you chase him, he pants, or if you leave him, he pants... They ask you, [O Muhammad], about the Hour: when is its arrival? Say, 'Its knowledge is only with my Lord...'",
+        "explanation": [
+          "Verse 172 presents the foundational concept of 'Fitrah' (innate disposition). Before humans were sent to earth, Allah extracted every single soul that would ever exist from the loins of Adam. He asked them one question: 'Am I not your Lord?' Every soul answered, 'Yes.' Therefore, knowing God is not just a learned concept; it is hardwired into human DNA. Idolatry and atheism are suppressions of this original, primordial memory.",
+          "The passage then delivers one of the most terrifying parables in the Quran. It describes a man (often identified historically as Bal'am bin Ba'ura) to whom God gave immense spiritual knowledge and divine signs. Instead of being elevated by it, he 'detached' himself from it, choosing the fleeting desires of the earth. Allah compares him to a panting dog. A dog pants whether you chase it or leave it alone; similarly, a corrupt scholar whose heart is attached to the world will constantly pant with greed, regardless of whether he is advised or left alone.",
+          "The section ends by addressing humanity's obsession with predicting the end of the world. People constantly badgered the Prophet Muhammad about the exact time of the 'Hour' (Day of Judgment). Allah commands the Prophet to openly declare his human limitation: he does not know. The exact timing is an absolute secret kept by God. If the greatest Prophet does not know the future, it is futile for anyone else to claim to predict it."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Elaborates on the Covenant of 'Alast' (Am I not your Lord). Ibn Kathir quotes Hadith indicating that because of this pre-existence testimony, every child is born upon the pure Fitrah (Islam). It is their environment and parents that shift them toward other beliefs. Thus, Islamic Dawah is not about 'converting' someone to a foreign idea, but 'reminding' their soul of what it already knows."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Analyzes the parable of the dog. Al-Jalalayn highlights that the dog is used to symbolize base, uncontrollable appetite. The corrupt scholar who sells out his religion for wealth or political favor is acting on pure animalistic instinct, rendering all his previous theological knowledge utterly useless."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the beauty of the Prophet's limitation regarding the Hour. As-Sa'di notes that the Prophet was commanded to say, 'I do not hold for myself [the power of] benefit or harm.' This destroys any foundation for elevating the Prophet to a divine status. He is the ultimate guide, but he is a servant, and ultimate power and knowledge belong to Allah alone."
+          }
+        ],
+        "lessons": [
+          "🧬 Faith is in Your DNA: Belief in a Creator is not an unnatural restriction placed upon you; it is your default setting. When you feel a sudden, inexplicable pull to pray during a crisis, it is your soul remembering its original promise to God.",
+          "🐕 Knowledge Without Ethics is Useless: Having a PhD in theology or knowing the scriptures inside out means nothing if your heart is chained to worldly greed. The worst betrayal is to know the truth perfectly and sell it for a temporary worldly gain.",
+          "⏳ Stop Predicting the End: Obsessing over conspiracy theories or exact dates for the end of the world is a distraction. The timing of the Hour is irrelevant; what matters is what you have prepared for your own personal 'Hour' (death)."
+        ]
+      },
+      "ms": {
+        "title": "Perjanjian Primordial & Perumpamaan Anjing",
+        "theme": "Kecenderungan semula jadi manusia untuk mengenali Tuhan, kegagalan besar ulama yang korup, dan pengetahuan ghaib tentang Hari Kiamat.",
+        "arabic": "وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا بَلَىٰ... فَمَثَلُهُ كَمَثَلِ الْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَث... يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ رَبِّي ۖ",
+        "translation": "Dan (ingatlah wahai Muhammad) ketika Tuhanmu mengeluarkan zuriat anak-anak Adam dari tulang belakang mereka, dan Dia jadikan mereka saksi terhadap diri mereka sendiri, (sambil bertanya dengan firmanNya): 'Bukankah Aku Tuhan kamu?' Mereka semua menjawab: 'Benar (Engkaulah Tuhan kami)... Maka bandingan orang itu samalah seperti anjing, jika engkau menghalaunya, ia menghulurkan lidahnya termengah-mengah, dan jika engkau membiarkannya, ia juga menghulurkan lidahnya termengah-mengah... Mereka bertanya kepadamu (wahai Muhammad) tentang hari kiamat: 'Bilakah masa datangnya?' Katakanlah: 'Sesungguhnya pengetahuan mengenainya hanyalah ada di sisi Tuhanku...'",
+        "explanation": [
+          "Ayat 172 membentangkan konsep asas 'Fitrah' (kecenderungan semula jadi). Sebelum manusia diturunkan ke bumi, Allah mengeluarkan setiap roh yang akan wujud daripada tulang sulbi Adam. Dia bertanyakan satu soalan kepada mereka: 'Bukankah Aku Tuhan kamu?' Setiap roh menjawab, 'Benar.' Oleh itu, mengenali Tuhan bukanlah sekadar konsep yang dipelajari; ia telah tertanam dalam DNA manusia. Syirik dan ateisme adalah penindasan terhadap memori asal dan primordial ini.",
+          "Petikan ini kemudian menyampaikan salah satu perumpamaan yang paling menakutkan di dalam Al-Quran. Ia menggambarkan seorang lelaki (selalunya dikenal pasti secara sejarah sebagai Bal'am bin Ba'ura) yang telah Tuhan berikan ilmu rohani dan tanda-tanda Ilahi yang sangat luas. Daripada diangkat darjatnya, dia 'melepaskan diri' daripadanya, memilih hawa nafsu dunia yang sementara. Allah membandingkannya dengan seekor anjing yang termengah-mengah. Seekor anjing termengah-mengah sama ada anda mengejarnya atau membiarkannya sahaja; begitu juga, seorang ulama korup yang hatinya terikat dengan dunia akan sentiasa termengah-mengah dengan ketamakan, tidak kira sama ada dia dinasihati atau dibiarkan.",
+          "Bahagian ini berakhir dengan menangani taksub manusia untuk meramalkan hari kiamat. Orang ramai sentiasa mendesak Nabi Muhammad tentang waktu sebenar 'Kiamat' (Hari Pembalasan). Allah memerintahkan Nabi untuk secara terbuka menyatakan batasan manusianya: baginda tidak tahu. Ketepatan masanya adalah rahsia mutlak yang disimpan oleh Tuhan. Jika Nabi yang teragung tidak mengetahui masa depan, adalah sia-sia bagi sesiapa pun untuk mendakwa mampu meramalkannya."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menghuraikan Perjanjian 'Alast' (Bukankah Aku Tuhan kamu). Ibn Kathir memetik Hadis yang menunjukkan bahawa disebabkan kesaksian pra-kewujudan ini, setiap anak dilahirkan di atas Fitrah yang suci (Islam). Persekitaran dan ibu bapanyalah yang mengubah mereka kepada kepercayaan lain. Oleh itu, Dakwah Islam bukanlah tentang 'menukar agama' seseorang kepada idea asing, tetapi 'mengingatkan' jiwa mereka tentang apa yang telah pun diketahuinya."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menganalisis perumpamaan anjing. Al-Jalalayn menonjolkan bahawa anjing digunakan untuk melambangkan nafsu rendah yang tidak terkawal. Ulama korup yang menjual agamanya demi kekayaan atau sokongan politik bertindak berdasarkan naluri haiwan semata-mata, menjadikan semua pengetahuan teologinya yang lalu tidak berguna sama sekali."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus kepada keindahan batasan Nabi mengenai Hari Kiamat. As-Sa'di mencatatkan bahawa Nabi diperintahkan untuk berkata, 'Aku tidak berkuasa mendatangkan manfaat bagi diriku dan tidak dapat menolak mudarat.' Ini memusnahkan sebarang asas untuk mengangkat Nabi ke status ketuhanan. Baginda adalah penunjuk jalan yang mutlak, tetapi baginda adalah seorang hamba, dan kuasa serta pengetahuan mutlak adalah milik Allah semata-mata."
+          }
+        ],
+        "lessons": [
+          "🧬 Iman Ada Dalam DNA Anda: Percaya kepada Pencipta bukanlah sekatan tidak semula jadi yang diletakkan ke atas anda; ia adalah tetapan lalai (default setting) anda. Apabila anda merasakan tarikan yang tiba-tiba dan sukar dijelaskan untuk berdoa semasa krisis, ia adalah jiwa anda yang mengingati janji asalnya kepada Tuhan.",
+          "🐕 Ilmu Tanpa Etika Tidak Berguna: Memiliki ijazah kedoktoran dalam teologi atau mengetahui kitab suci luar dan dalam tidak bermakna apa-apa jika hati anda dirantai dengan ketamakan duniawi. Pengkhianatan terburuk ialah mengetahui kebenaran dengan sempurna dan menjualnya untuk keuntungan dunia yang sementara.",
+          "⏳ Berhenti Meramal Pengakhiran Dunia: Taksub dengan teori konspirasi atau tarikh tepat untuk akhir zaman adalah satu gangguan. Masa Hari Kiamat tidak relevan; apa yang penting ialah apa persediaan anda untuk 'Kiamat' peribadi anda sendiri (kematian)."
+        ]
+      }
+    },
+    {
+      "id": "section-07",
+      "type": "passage",
+      "surah_number": 7,
+      "verse_start": 189,
+      "verse_end": 206,
+      "en": {
+        "title": "The Reality of False Gods & Listening to the Quran",
+        "theme": "The fragility of human gratitude, the absurdity of idolatry, the code of high moral character, and the etiquette of divine remembrance.",
+        "arabic": "هُوَ الَّذِي خَلَقَكُم مِّن نَّفْسٍ وَاحِدَةٍ... خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَاهِلِينَ... وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنصِتُوا لَعَلَّكُمْ تُرْحَمُونَ",
+        "translation": "It is He who created you from one soul... Take what is given freely, enjoin what is good, and turn away from the ignorant... And when the Quran is recited, listen to it and pay attention that you may receive mercy.",
+        "explanation": [
+          "Surah Al-A'raf concludes by addressing the psychology of human gratitude. Allah describes a couple desperately praying for a healthy child, promising to be thankful. Yet, when the healthy child is given, they associate partners with God in their gratitude, attributing the blessing to nature, idols, or doctors instead of the Creator. Allah fiercely condemns this, pointing out that idols cannot even defend themselves, let alone grant life.",
+          "Verse 199 delivers one of the most comprehensive codes of conduct in Islam: 'Take what is given freely (forgive), enjoin what is good, and turn away from the ignorant.' It is a command to accept people as they are without demanding perfection, to promote positive social norms, and to refuse to engage in petty arguments with foolish people.",
+          "The surah ends with spiritual defenses. When Satan whispers anger or doubt, the believer must immediately seek refuge in Allah. Finally, Allah establishes the ultimate etiquette for receiving revelation: when the Quran is recited, one must remain completely silent and listen attentively. This respectful silence is a direct key to unlocking God's mercy."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Analyzes the command to 'take what is given freely' (Khudh al-'Afwa). Ibn Kathir explains this means accepting the character and deeds that people offer willingly, without forcing them to do more than they can bear. It is the foundation of emotional intelligence and maintaining peaceful relationships."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Discusses the physical inability of idols. The verses ask rhetorically if the statues have feet to walk, hands to strike, eyes to see, or ears to hear. Al-Jalalayn notes that humans, who possess all these faculties, are objectively superior to the dead stones they worship, highlighting the supreme intellectual degradation of polytheism."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the etiquette of listening to the Quran (Verse 204). As-Sa'di states that 'listening' requires the presence of the heart, while 'paying attention' (Insaat) requires the silence of the tongue and limbs. Whoever perfectly combines both will receive profound guidance, increased faith, and an overwhelming share of divine mercy."
+          }
+        ],
+        "lessons": [
+          "🤲 Direct Your Gratitude: When you receive a long-awaited blessing—a child, a job, a cure—do not forget the One who granted it. Thanking the means (like doctors) is good, but attributing the ultimate power to them is a spiritual failure.",
+          "🛡️ The Art of Ignoring: You do not have to attend every argument you are invited to. 'Turning away from the ignorant' is not a sign of weakness; it is a vital strategy to protect your inner peace and spiritual focus.",
+          "📖 Silence is Worship: The Quran is not background music. When the words of God are being recited, giving them your undivided, silent attention is a profound act of worship that actively draws down God's mercy."
+        ]
+      },
+      "ms": {
+        "title": "Realiti Tuhan Palsu & Adab Mendengar Al-Quran",
+        "theme": "Kerapuhan rasa syukur manusia, ketidakmasukakalan penyembahan berhala, kod akhlak yang mulia, dan adab mengingati Tuhan.",
+        "arabic": "هُوَ الَّذِي خَلَقَكُم مِّن نَّفْسٍ وَاحِدَةٍ... خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَاهِلِينَ... وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنصِتُوا لَعَلَّكُمْ تُرْحَمُونَ",
+        "translation": "Dia lah (Allah) yang menciptakan kamu dari diri yang satu... Terimalah apa yang mudah engkau lakukan, dan suruhlah dengan perkara yang baik, serta berpalinglah (jangan dihiraukan) orang-orang yang jahil... Dan apabila Al-Quran itu dibacakan, maka dengarlah akan dia serta diamlah (dengan sebulat-bulat ingatan untuk mendengarnya), supaya kamu beroleh rahmat.",
+        "explanation": [
+          "Surah Al-A'raf berakhir dengan menangani psikologi rasa syukur manusia. Allah menggambarkan sepasang suami isteri yang bersungguh-sungguh berdoa untuk mendapatkan anak yang sihat, berjanji untuk bersyukur. Namun, apabila anak yang sihat diberikan, mereka menyekutukan Tuhan dalam kesyukuran mereka, mengaitkan nikmat itu kepada alam semula jadi, berhala, atau doktor dan bukannya Pencipta. Allah mengutuk keras perbuatan ini, menegaskan bahawa berhala tidak dapat mempertahankan diri mereka sendiri, apatah lagi memberi kehidupan.",
+          "Ayat 199 menyampaikan salah satu kod tatasusila yang paling komprehensif dalam Islam: 'Terimalah apa yang mudah (maafkanlah), dan suruhlah dengan perkara yang baik, serta berpalinglah daripada orang-orang yang jahil.' Ia adalah perintah untuk menerima manusia seadanya tanpa menuntut kesempurnaan, mempromosikan norma sosial yang positif, dan menolak untuk terlibat dalam pertengkaran remeh dengan orang yang bodoh.",
+          "Surah ini berakhir dengan pertahanan rohani. Apabila Syaitan membisikkan kemarahan atau keraguan, orang yang beriman mesti segera berlindung kepada Allah. Akhirnya, Allah menetapkan adab mutlak untuk menerima wahyu: apabila Al-Quran dibacakan, seseorang itu mesti diam sepenuhnya dan mendengar dengan teliti. Kesunyian yang penuh hormat ini adalah kunci langsung untuk membuka pintu rahmat Tuhan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menganalisis perintah untuk 'terimalah apa yang mudah' (Khudh al-'Afwa). Ibn Kathir menjelaskan ini bermakna menerima akhlak dan perbuatan yang ditawarkan oleh manusia dengan rela hati, tanpa memaksa mereka melakukan lebih daripada yang mereka mampu. Ia adalah asas kepada kecerdasan emosi dan mengekalkan hubungan yang damai."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Membincangkan ketidakupayaan fizikal berhala. Ayat-ayat ini bertanya secara retorik adakah patung-patung itu mempunyai kaki untuk berjalan, tangan untuk memukul, mata untuk melihat, atau telinga untuk mendengar. Al-Jalalayn mencatatkan bahawa manusia, yang memiliki semua fakulti ini, secara objektif adalah lebih mulia daripada batu mati yang mereka sembah, menonjolkan kemerosotan intelek yang paling teruk akibat syirik."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus kepada adab mendengar Al-Quran (Ayat 204). As-Sa'di menyatakan bahawa 'mendengar' memerlukan kehadiran hati, manakala 'diam' (Insaat) memerlukan kesunyian lidah dan anggota badan. Sesiapa yang menggabungkan kedua-duanya dengan sempurna akan menerima petunjuk yang mendalam, keimanan yang bertambah, dan bahagian rahmat Ilahi yang melimpah ruah."
+          }
+        ],
+        "lessons": [
+          "🤲 Arahkan Rasa Syukur Anda: Apabila anda menerima nikmat yang telah lama ditunggu—anak, pekerjaan, penawar penyakit—jangan lupakan Yang Memberinya. Berterima kasih kepada perantara (seperti doktor) adalah baik, tetapi meletakkan kuasa mutlak kepada mereka adalah satu kegagalan rohani.",
+          "🛡️ Seni Mengabaikan: Anda tidak perlu menghadiri setiap pertengkaran yang dijemput. 'Berpaling daripada orang yang jahil' bukanlah tanda kelemahan; ia adalah strategi penting untuk melindungi ketenangan dalaman dan fokus rohani anda.",
+          "📖 Diam itu Ibadah: Al-Quran bukanlah muzik latar. Apabila kata-kata Tuhan sedang dibacakan, memberikan perhatian yang senyap dan tidak berbelah bahagi adalah satu ibadah mendalam yang secara aktif menarik turun rahmat Tuhan."
+        ]
+      }
+    },
+    {
+      "id": "section-08",
+      "type": "intro",
+      "surah_number": 8,
+      "en": {
+        "title": "Surah Al-Anfal — Introduction",
+        "theme": "The Battle of Badr, the rules of conflict, and the psychological anatomy of victory.",
+        "explanation": [
+          "Surah Al-Anfal (The Spoils of War) is a profoundly strategic and spiritual Medinan surah. It was revealed in the immediate aftermath of the Battle of Badr (2 AH), the first major military confrontation between the Muslims and the pagan Quraysh. At Badr, an ill-equipped Muslim force of around 313 men decisively defeated a heavily armed Meccan army of over 1,000.",
+          "The surah serves as a post-battle debriefing directly from Allah. It corrects the believers' immediate dispute over how to divide the spoils of war, completely reorienting their perspective. Allah reminds them that the victory was not achieved by their swords or strategies, but by divine intervention, including the sending of angels and miraculous weather.",
+          "Beyond the historical event, Al-Anfal is the definitive Quranic guide on the ethics of war and peace. It covers treaties, the treatment of prisoners of war, the necessity of preparation, and the ultimate condition for victory: absolute internal unity and unshakeable trust in God."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Quotes Abdullah bin Abbas who explicitly referred to Surah Al-Anfal as 'The Surah of Badr'. Ibn Kathir explains that the surah was revealed to cleanse the hearts of the Sahabah (companions) from the materialism that briefly clouded their judgment regarding the war booty, elevating them back to pure spiritual motives."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Explains the legal significance of the surah. Al-Anfal established the permanent Islamic law regarding 'Ghanimah' (spoils of war), designating one-fifth (Khums) for the state (the Prophet, his family, orphans, the needy, and travelers) and dividing the remaining four-fifths among the participating soldiers."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Highlights the surah's focus on the heart. As-Sa'di notes that while the surah discusses swords, horses, and armies, its core message is that physical preparation is useless without Taqwa (God-consciousness). True strength lies in hearts that tremble at the mention of Allah and bodies that stand firm in the face of death."
+          }
+        ]
+      },
+      "ms": {
+        "title": "Surah Al-Anfal — Pengenalan",
+        "theme": "Perang Badar, peraturan konflik, dan anatomi psikologi di sebalik sebuah kemenangan.",
+        "explanation": [
+          "Surah Al-Anfal (Harta Rampasan Perang) adalah surah Madaniyyah yang sangat strategik dan rohani. Ia diturunkan sejurus selepas Perang Badar (2 Hijrah), konfrontasi ketenteraan besar pertama antara umat Islam dan kaum musyrikin Quraisy. Di Badar, pasukan tentera Islam yang serba kekurangan seramai kira-kira 313 orang telah menewaskan dengan mutlak tentera Mekah yang bersenjata lengkap seramai lebih 1,000 orang.",
+          "Surah ini berfungsi sebagai analisis pasca pertempuran secara langsung daripada Allah. Ia membetulkan pertikaian segera orang yang beriman mengenai cara membahagikan harta rampasan perang, mengubah perspektif mereka sepenuhnya. Allah mengingatkan mereka bahawa kemenangan itu tidak dicapai oleh pedang atau strategi mereka, tetapi melalui campur tangan Ilahi, termasuk pengutusan para malaikat dan cuaca yang ajaib.",
+          "Di sebalik peristiwa sejarah itu, Al-Anfal adalah panduan Al-Quran yang muktamad mengenai etika peperangan dan keamanan. Ia merangkumi perjanjian, layanan terhadap tawanan perang, keperluan persiapan, dan syarat mutlak untuk kemenangan: perpaduan dalaman yang utuh dan kepercayaan yang tidak berbelah bahagi kepada Tuhan."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Memetik Abdullah bin Abbas yang secara jelas merujuk kepada Surah Al-Anfal sebagai 'Surah Badar'. Ibn Kathir menjelaskan bahawa surah ini diturunkan untuk membersihkan hati para Sahabat daripada sifat materialisme yang sejenak mengaburkan pertimbangan mereka mengenai harta rampasan perang, mengangkat mereka kembali kepada motif rohani yang suci."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan kepentingan perundangan surah ini. Al-Anfal menetapkan undang-undang Islam yang kekal mengenai 'Ghanimah' (harta rampasan perang), menetapkan satu perlima (Khums) untuk negara (Nabi, keluarganya, anak yatim, orang miskin, dan musafir) dan membahagikan baki empat perlima dalam kalangan tentera yang mengambil bahagian."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menonjolkan fokus surah ini pada hati. As-Sa'di mencatatkan bahawa walaupun surah ini membincangkan pedang, kuda, dan tentera, mesej terasnya ialah persiapan fizikal tidak berguna tanpa Takwa. Kekuatan sebenar terletak pada hati yang gementar apabila menyebut nama Allah dan tubuh yang berdiri teguh berhadapan dengan kematian."
+          }
+        ]
+      }
+    },
+    {
+      "id": "section-09",
+      "type": "passage",
+      "surah_number": 8,
+      "verse_start": 1,
+      "verse_end": 14,
+      "en": {
+        "title": "The Spoils of War & The Hearts of the Believers",
+        "theme": "Reorienting priorities after victory, the characteristics of true faith, and the miraculous divine interventions at Badr.",
+        "arabic": "يَسْأَلُونَكَ عَنِ الْأَنفَالِ ۖ قُلِ الْأَنفَالُ لِلَّهِ وَالرَّسُولِ... إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ... إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ",
+        "translation": "They ask you, [O Muhammad], about the bounties [of war]. Say, 'The [decision concerning] bounties is for Allah and the Messenger'... The believers are only those who, when Allah is mentioned, their hearts become fearful... [Remember] when you asked help of your Lord, and He answered you, 'Indeed, I will reinforce you with a thousand from the angels, following one another.'",
+        "explanation": [
+          "The surah opens by directly addressing a dispute that arose after the Battle of Badr. The Muslims, having secured an unexpected and massive victory, argued over who deserved the spoils. Allah immediately strips them of this distraction: the spoils belong entirely to God and His Messenger to distribute. The believers are commanded to fix their relationship with one another and fear Allah, prioritizing brotherhood over material wealth.",
+          "Verses 2-4 beautifully define the anatomy of a true believer. Their faith is not static. When God's name is mentioned, their hearts tremble with awe. When His verses are recited, their faith actively increases. They rely entirely on God, establish prayer, and give charity. These are the people who have achieved 'true degrees [of rank]' with their Lord.",
+          "Allah then recounts the unseen reality of Badr to humble them. On the eve of the battle, outnumbered 3-to-1, the Muslims were terrified. The Prophet prayed desperately. Allah responded with a multi-layered miracle: He sent down a gentle rain that firmed the sandy ground under the Muslims' feet while turning the enemy's camp into mud. He cast a peaceful sleep over the Muslims to wipe away their anxiety. And ultimately, He dispatched 1,000 angels to fight alongside them, turning the tide of history."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Provides the context of the dispute. The young men who charged forward claimed the spoils, while the older men who guarded the Prophet's tent argued they were the vital rear-guard. Allah's command to hand over the decision to the Prophet was a profound lesson in ego-death and submission to divine authority."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Explains the psychological effect of the rain and slumber. The Muslims were physically exhausted and spiritually anxious, exacerbated by Satan's whispers that they were going to die thirsty. The miraculous rain provided drinking water, purified them for prayer, compacted the sand for battle maneuvers, and completely washed away Satan's psychological warfare."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Analyzes the trembling of the heart (Wajilat Qulubuhum). As-Sa'di clarifies this is not the fear of a tyrant, but the awe of realizing God's majesty. This trembling acts as a spiritual engine; it is the exact emotion that drives a person to abandon sin and rush toward good deeds."
+          }
+        ],
+        "lessons": [
+          "🤝 Unity Over Booty: Material wealth can destroy a community faster than an enemy army. If a victory or a success causes you to fight with your brothers and sisters, you have lost the spiritual battle. Brotherhood is far more valuable than the prize.",
+          "📈 Faith is Dynamic: True faith is not a fixed state; it goes up and down. Actively engaging with the Quran and remembering God's majesty are the direct mechanisms to increase your faith when it feels low.",
+          "🌧️ The Anatomy of Divine Help: God's help often addresses both the physical and the psychological. At Badr, God didn't just send angels; He sent sleep to cure their anxiety and rain to firm their footing. When you ask God for help, trust that He will provide exactly what your mind and body need to succeed."
+        ]
+      },
+      "ms": {
+        "title": "Harta Rampasan Perang & Hati Orang yang Beriman",
+        "theme": "Membetulkan keutamaan selepas kemenangan, ciri-ciri keimanan yang sebenar, dan campur tangan Ilahi yang ajaib di Badar.",
+        "arabic": "يَسْأَلُونَكَ عَنِ الْأَنفَالِ ۖ قُلِ الْأَنفَالُ لِلَّهِ وَالرَّسُولِ... إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ... إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ",
+        "translation": "Mereka bertanya kepadamu (wahai Muhammad) tentang harta rampasan perang. Katakanlah: 'Harta rampasan perang itu adalah hak Allah dan Rasul'... Sesungguhnya orang-orang yang beriman itu (yang sempurna imannya) ialah mereka yang apabila disebut nama Allah (dan sifat-sifatNya) gementarlah hati mereka... (Ingatlah) ketika kamu memohon pertolongan kepada Tuhan kamu, lalu Ia perkenankan permohonan kamu (dengan firmanNya): 'Sesungguhnya Aku akan membantu kamu dengan seribu malaikat yang datang berturut-turut.'",
+        "explanation": [
+          "Surah ini bermula dengan menangani secara langsung pertikaian yang timbul selepas Perang Badar. Umat Islam, setelah meraih kemenangan besar yang tidak disangka-sangka, berbalah tentang siapa yang lebih berhak mendapat harta rampasan. Allah serta-merta melenyapkan gangguan ini: harta rampasan adalah hak mutlak Allah dan Rasul-Nya untuk diagihkan. Orang-orang yang beriman diperintahkan untuk memperbaiki hubungan sesama mereka dan bertakwa kepada Allah, mengutamakan persaudaraan berbanding kekayaan material.",
+          "Ayat 2-4 mentakrifkan dengan indah anatomi seorang mukmin sejati. Iman mereka tidak statik. Apabila nama Tuhan disebut, hati mereka gementar kerana rasa gerun. Apabila ayat-ayat-Nya dibacakan, iman mereka bertambah secara aktif. Mereka bergantung sepenuhnya kepada Tuhan, mendirikan solat, dan mengeluarkan sedekah. Inilah orang-orang yang telah mencapai 'darjat yang tinggi' di sisi Tuhan mereka.",
+          "Allah kemudiannya menceritakan realiti ghaib di Badar untuk merendahkan diri mereka. Pada malam sebelum pertempuran, dengan bilangan musuh 3 kali ganda lebih ramai, umat Islam berasa sangat takut. Nabi berdoa dengan penuh bersungguh-sungguh. Allah membalas dengan mukjizat yang berlapis-lapis: Dia menurunkan hujan renyai yang memadatkan pasir di bawah kaki tentera Islam, manakala ia menukarkan khemah musuh menjadi lumpur. Dia memberikan tidur yang nyenyak kepada umat Islam untuk menghapuskan kebimbangan mereka. Dan akhirnya, Dia menghantar 1,000 malaikat untuk bertempur bersama mereka, mengubah arus sejarah."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Memberikan konteks pertikaian tersebut. Pemuda-pemuda yang mara ke hadapan menuntut harta rampasan, manakala orang tua yang mengawal khemah Nabi berhujah bahawa mereka adalah pasukan pengawal belakang yang penting. Perintah Allah untuk menyerahkan keputusan kepada Nabi merupakan satu pengajaran yang mendalam tentang membunuh ego dan tunduk kepada pihak berkuasa Ilahi."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan kesan psikologi hujan dan tidur. Umat Islam keletihan secara fizikal dan bimbang secara rohani, diburukkan lagi oleh bisikan Syaitan bahawa mereka akan mati kehausan. Hujan ajaib menyediakan air minuman, menyucikan mereka untuk solat, memadatkan pasir untuk pergerakan pertempuran, dan menghapuskan sepenuhnya perang psikologi Syaitan."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menganalisis gementar hati (Wajilat Qulubuhum). As-Sa'di menjelaskan ini bukanlah ketakutan kepada seorang penguasa zalim, tetapi rasa gerun kerana menyedari keagungan Tuhan. Kegementaran ini bertindak sebagai enjin rohani; ia adalah emosi yang sama yang mendorong seseorang untuk meninggalkan dosa dan meluru ke arah amal kebaikan."
+          }
+        ],
+        "lessons": [
+          "🤝 Perpaduan Mengatasi Harta: Kekayaan material boleh memusnahkan sesebuah komuniti lebih pantas daripada tentera musuh. Jika sesuatu kemenangan atau kejayaan menyebabkan anda bergaduh dengan saudara-mara anda, anda telah kalah dalam pertempuran rohani. Persaudaraan jauh lebih berharga daripada hadiah tersebut.",
+          "📈 Iman itu Dinamik: Iman yang sebenar bukanlah keadaan yang tetap; ia ada pasang surutnya. Berinteraksi secara aktif dengan Al-Quran dan mengingati keagungan Tuhan adalah mekanisme langsung untuk meningkatkan iman anda apabila ia terasa lemah.",
+          "🌧️ Anatomi Bantuan Ilahi: Bantuan Tuhan sering kali menangani kedua-dua aspek fizikal dan psikologi. Di Badar, Tuhan bukan sekadar menghantar malaikat; Dia menghantar rasa mengantuk untuk menyembuhkan kebimbangan mereka dan hujan untuk meneguhkan pijakan mereka. Apabila anda meminta bantuan Tuhan, percayalah bahawa Dia akan menyediakan apa yang fikiran dan tubuh anda perlukan untuk berjaya."
+        ]
+      }
+    },
+    {
+      "id": "section-10",
+      "type": "passage",
+      "surah_number": 8,
+      "verse_start": 15,
+      "verse_end": 28,
+      "en": {
+        "title": "Firmness in Battle & The Call to Life",
+        "theme": "The prohibition of turning back, the spiritual definition of life, and the terrifying reality of a sealed heart.",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا زَحْفًا فَلَا تُوَلُّوهُمُ الْأَدْبَارَ... يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ ۖ وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ بَيْنَ الْمَرْءِ وَقَلْبِهِ...",
+        "translation": "O you who have believed, when you meet those who disbelieve advancing [for battle], do not turn to them your backs... O you who have believed, respond to Allah and to the Messenger when he calls you to that which gives you life. And know that Allah intervenes between a man and his heart...",
+        "explanation": [
+          "This section establishes a severe military and spiritual law: fleeing from the battlefield out of cowardice is a major sin, as it demonstrates a fundamental lack of trust in God's protection. Turning back is only permitted for tactical maneuvering or regrouping. True victory comes from standing firm, because it is ultimately Allah who throws the decisive blow, not human hands.",
+          "Verse 24 delivers a profound philosophical statement: 'Respond to Allah and to the Messenger when he calls you to that which gives you life.' The Quran redefines the concept of living. A person may be breathing, eating, and walking, but if they are disconnected from the Creator, their soul is dead. Faith, justice, and divine guidance are the oxygen of the human spirit.",
+          "Immediately following this call to life is a terrifying warning: 'Allah intervenes between a man and his heart.' If a person recognizes the truth but deliberately delays accepting it due to arrogance or worldly desires, God may seal their heart as a consequence. They will lose the capacity to feel spiritual remorse or recognize the truth ever again."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Discusses the gravity of fleeing the battlefield. Ibn Kathir notes that cowardice exposes the entire community of believers to slaughter and oppression. However, he emphasizes that the underlying issue is theological: fleeing means fearing the enemy's weapons more than trusting in God's promises."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Analyzes the phrase 'that which gives you life.' Al-Jalalayn explains it encompasses the Quran, faith itself, and the struggle for justice (Jihad). These elements rescue humanity from the intellectual death of ignorance and the eternal death of the Hellfire."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the psychological reality of God intervening between a man and his heart. As-Sa'di states that the heart is the most volatile part of a human (the word 'Qalb' literally means that which turns constantly). This verse is an urgent call to action: when you feel a sudden inspiration to repent or do good, seize it immediately before the feeling fades and your heart is turned away."
+          }
+        ],
+        "lessons": [
+          "🛡️ Stand Your Ground: Whether in a physical struggle for justice or a personal battle against bad habits, running away guarantees defeat. Stand firm, do your part, and trust that God controls the outcome.",
+          "🫀 The Defibrillator of the Soul: Religion is not a set of restrictive rules meant to suffocate you; it is spiritual resuscitation. If you feel empty, anxious, or 'dead' inside, responding to God's guidance is the only way to truly come alive.",
+          "⏳ The Expiration Date of Inspiration: Never delay repentance or a good deed. If your heart softens today, act on it. Arrogantly putting it off until 'tomorrow' is dangerous, because God may intervene and you might wake up tomorrow without the desire to change."
+        ]
+      },
+      "ms": {
+        "title": "Keteguhan dalam Pertempuran & Seruan kepada Kehidupan",
+        "theme": "Larangan berpaling tadah, definisi rohani bagi sebuah kehidupan, dan realiti menakutkan tentang hati yang tertutup.",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا زَحْفًا فَلَا تُوَلُّوهُمُ الْأَدْبَارَ... يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ ۖ وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ بَيْنَ الْمَرْءِ وَقَلْبِهِ...",
+        "translation": "Wahai orang-orang yang beriman! Apabila kamu bertembung dengan orang-orang kafir yang sedang mara menyerang, maka janganlah kamu berpaling undur melarikan diri... Wahai orang-orang yang beriman, sahut dan sambutlah seruan Allah dan seruan RasulNya apabila Ia menyeru kamu kepada perkara-perkara yang menjadikan kamu hidup sempurna. Dan ketahuilah bahawa sesungguhnya Allah berkuasa mengubah atau menyekat di antara seseorang itu dengan (pekerjaan) hatinya...",
+        "explanation": [
+          "Bahagian ini menetapkan undang-undang ketenteraan dan rohani yang keras: melarikan diri dari medan pertempuran kerana sifat pengecut adalah dosa besar, kerana ia menunjukkan kekurangan kepercayaan yang asas terhadap perlindungan Tuhan. Berundur hanya dibenarkan untuk tujuan taktikal atau menyusun semula pasukan. Kemenangan sebenar datang daripada keteguhan pendirian, kerana akhirnya Allah yang melepaskan pukulan penentu, bukan tangan manusia.",
+          "Ayat 24 menyampaikan kenyataan falsafah yang mendalam: 'Sahut dan sambutlah seruan Allah dan seruan Rasul-Nya apabila Ia menyeru kamu kepada perkara-perkara yang menjadikan kamu hidup sempurna.' Al-Quran mendefinisikan semula konsep kehidupan. Seseorang mungkin bernafas, makan, dan berjalan, tetapi jika mereka terputus hubungan daripada Pencipta, jiwa mereka sebenarnya telah mati. Keimanan, keadilan, dan petunjuk Ilahi adalah oksigen bagi roh manusia.",
+          "Sebaik sahaja selepas seruan kepada kehidupan ini, terdapat satu amaran yang menakutkan: 'Allah berkuasa mengubah atau menyekat di antara seseorang itu dengan hatinya.' Jika seseorang menyedari kebenaran tetapi sengaja menangguhkan untuk menerimanya kerana kesombongan atau hawa nafsu duniawi, Tuhan mungkin akan menutup hatinya sebagai balasan. Mereka akan kehilangan keupayaan untuk merasai penyesalan rohani atau mengenali kebenaran sampai bila-bila."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Membincangkan betapa beratnya dosa melarikan diri dari medan pertempuran. Ibn Kathir mencatatkan bahawa sifat pengecut mendedahkan seluruh komuniti orang beriman kepada pembunuhan dan penindasan. Walau bagaimanapun, beliau menekankan bahawa isu asasnya adalah teologi: melarikan diri bermakna lebih takut kepada senjata musuh berbanding mempercayai janji-janji Tuhan."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menganalisis frasa 'perkara-perkara yang menjadikan kamu hidup.' Al-Jalalayn menjelaskan ia merangkumi Al-Quran, keimanan itu sendiri, dan perjuangan menegakkan keadilan (Jihad). Elemen-elemen ini menyelamatkan manusia daripada kematian intelek akibat kejahilan dan kematian abadi di dalam Api Neraka."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus pada realiti psikologi Tuhan menyekat di antara seseorang dengan hatinya. As-Sa'di menyatakan bahawa hati adalah bahagian yang paling tidak menentu dalam diri manusia (perkataan 'Qalb' secara harfiah bermaksud sesuatu yang sentiasa berbolak-balik). Ayat ini adalah seruan yang mendesak untuk bertindak: apabila anda merasai inspirasi secara tiba-tiba untuk bertaubat atau berbuat baik, rebutlah ia segera sebelum perasaan itu pudar dan hati anda dipalingkan."
+          }
+        ],
+        "lessons": [
+          "🛡️ Pertahankan Pendirian Anda: Sama ada dalam perjuangan fizikal demi keadilan atau pertempuran peribadi melawan tabiat buruk, melarikan diri menjamin kekalahan. Berdiri teguh, lakukan bahagian anda, dan percayalah bahawa Tuhan mengawal hasilnya.",
+          "🫀 Alat Bantuan Pernafasan Jiwa: Agama bukanlah satu set peraturan yang menyekat dan bertujuan untuk melemaskan anda; ia adalah bantuan pernafasan (resusitasi) rohani. Jika anda berasa kosong, cemas, atau 'mati' di dalam, menyahut petunjuk Tuhan adalah satu-satunya cara untuk benar-benar hidup semula.",
+          "⏳ Tarikh Luput Sebuah Inspirasi: Jangan sesekali menangguhkan taubat atau amal kebaikan. Jika hati anda lembut hari ini, bertindaklah. Menangguhkannya dengan sombong sehingga 'esok' adalah berbahaya, kerana Tuhan mungkin campur tangan dan anda mungkin bangun esok tanpa sebarang keinginan untuk berubah."
+        ]
+      }
+    },
+    {
+      "id": "section-11",
+      "type": "passage",
+      "surah_number": 8,
+      "verse_start": 29,
+      "verse_end": 40,
+      "en": {
+        "title": "Divine Protection & The Ultimate Purpose of Conflict",
+        "theme": "The clarity granted by Taqwa, the failure of conspiracies against the truth, and the true objective of fighting oppression.",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَتَّقُوا اللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا وَيُكَفِّرْ عَنكُمْ سَيِّئَاتِكُمْ... وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ الْمَاكِرِينَ... وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ كُلُّهُ لِلَّهِ ۚ...",
+        "translation": "O you who have believed, if you fear Allah, He will grant you a criterion and will remove from you your misdeeds... And [remember, O Muhammad], when those who disbelieved plotted against you to restrain you or kill you or evict you. But they plan, and Allah plans. And Allah is the best of planners... And fight them until there is no fitnah and [until] the religion, all of it, is for Allah...",
+        "explanation": [
+          "The passage outlines the extraordinary benefits of Taqwa (God-consciousness). In a world filled with confusing narratives and moral gray areas, Allah promises to grant those who revere Him a 'Furqan'—an internal criterion, a spiritual light that enables the heart to instantly distinguish right from wrong, truth from deception.",
+          "Allah then reminds the Prophet Muhammad of the terrifying plot against him just before the Hijrah (migration) to Medina. The elites of Mecca gathered in Dar al-Nadwah and conspired to have one man from each tribe assassinate him together, spreading the blame so his clan couldn't seek revenge. Yet, human plotting is pathetically weak against divine strategy. Allah caused the assassins to sleep, and the Prophet walked right past them. 'They plan, and Allah plans, and Allah is the best of planners.'",
+          "The section concludes by defining the ultimate ethic of conflict in Islam. Muslims are not commanded to fight for land, wealth, or forced conversion. They are commanded to fight to eradicate 'Fitnah' (persecution and systemic oppression). The goal is to create a society where people are free to worship God without facing torture or tyranny."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Explains the concept of 'Furqan'. Ibn Kathir notes that whoever maintains Taqwa is granted a way out of every difficulty in this world, and a light in the darkness of the Hereafter. It is an intellectual and spiritual sharpness that prevents a believer from being manipulated by worldly illusions."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Clarifies the term 'Fitnah' in verse 39. Al-Jalalayn notes that Fitnah here refers specifically to Shirk (polytheism) enforced through violence and persecution—where the weak are tortured for their beliefs. Fighting is prescribed as a surgical necessity to remove this tyranny so that religion can be practiced freely."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Focuses on the comfort provided by the verse 'Allah is the best of planners'. As-Sa'di points out that the enemies of truth use massive resources, secret meetings, and advanced strategies to extinguish God's light. But their entire plot is contained within God's ultimate plan, and He often uses their own conspiracies to bring about their downfall."
+          }
+        ],
+        "lessons": [
+          "💡 Clarity is a Gift of Piety: If you are confused about a major life decision or a moral dilemma, the solution is not always more thinking; sometimes it is more praying. Protect your eyes, ears, and heart from sin, and God will grant you the 'Furqan' (clarity) to see the right path.",
+          "🛡️ God Outsmarts the Plotters: Never despair when powerful, corrupt people conspire against you or the innocent. They are playing checkers while God is designing the board. Trust that God's plan will outmaneuver theirs flawlessly.",
+          "⚔️ Fight Oppression, Not People: Conflict in Islam is a tool of liberation, not subjugation. The ultimate goal is to remove 'Fitnah' (systemic persecution) so that every human being has the uncoerced freedom to choose God."
+        ]
+      },
+      "ms": {
+        "title": "Perlindungan Ilahi & Tujuan Mutlak Konflik",
+        "theme": "Kejelasan yang dikurniakan melalui Takwa, kegagalan konspirasi menentang kebenaran, dan objektif sebenar memerangi penindasan.",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَتَّقُوا اللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا وَيُكَفِّرْ عَنكُمْ سَيِّئَاتِكُمْ... وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ الْمَاكِرِينَ... وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ كُلُّهُ لِلَّهِ ۚ...",
+        "translation": "Wahai orang-orang yang beriman! Jika kamu bertaqwa kepada Allah, nescaya Ia mengadakan bagi kamu (Furqan) yang membezakan antara yang benar dengan yang salah, dan menghapuskan kesalahan-kesalahan kamu... Dan (ingatlah wahai Muhammad), ketika orang-orang kafir musyrik memikirkan rancangan jahat terhadapmu untuk menahanmu, atau membunuhmu, atau mengusirmu. Mereka merancang (tipu daya), dan Allah menggagalkan rancangan (mereka), dan Allah sebaik-baik yang menggagalkan rancangan... Dan perangilah mereka sehingga tidak ada lagi fitnah (syirik dan penindasan), dan (sehingga) menjadilah agama itu seluruhnya (bebas dianut) bagi Allah semata-mata...",
+        "explanation": [
+          "Petikan ini menggariskan faedah luar biasa Takwa (kesedaran terhadap Tuhan). Dalam dunia yang penuh dengan naratif yang mengelirukan dan kekaburan moral, Allah berjanji untuk mengurniakan 'Furqan' kepada mereka yang bertakwa kepada-Nya—satu kriteria dalaman, satu cahaya rohani yang membolehkan hati membezakan dengan serta-merta antara yang betul dan salah, antara kebenaran dan penipuan.",
+          "Allah kemudian mengingatkan Nabi Muhammad tentang rancangan jahat yang menakutkan terhadap baginda sejurus sebelum Hijrah ke Madinah. Golongan elit Mekah berkumpul di Dar al-Nadwah dan berkonspirasi untuk mengumpulkan seorang lelaki dari setiap kabilah bagi membunuh baginda bersama-sama, menyebarkan kesalahan tersebut agar kabilah Nabi tidak dapat membalas dendam. Namun, rancangan manusia adalah sangat lemah berhadapan dengan strategi Ilahi. Allah menidurkan para pembunuh tersebut, dan Nabi berjalan melintasi mereka dengan selamat. 'Mereka merancang, dan Allah merancang, dan Allah adalah sebaik-baik perancang.'",
+          "Bahagian ini diakhiri dengan mendefinisikan etika mutlak konflik dalam Islam. Umat Islam tidak diperintahkan untuk berperang demi tanah, kekayaan, atau paksaan memeluk agama. Mereka diperintahkan untuk berjuang bagi membasmi 'Fitnah' (dalam konteks ini: penindasan dan kezaliman sistemik terhadap agama). Matlamatnya adalah untuk mewujudkan sebuah masyarakat di mana manusia bebas untuk menyembah Tuhan tanpa berhadapan dengan penyeksaan atau kezaliman."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Menjelaskan konsep 'Furqan'. Ibn Kathir mencatatkan bahawa sesiapa yang memelihara Takwa akan dikurniakan jalan keluar daripada setiap kesukaran di dunia ini, dan cahaya dalam kegelapan di Akhirat. Ia adalah ketajaman intelek dan rohani yang menghalang seorang mukmin daripada dimanipulasi oleh ilusi duniawi."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menjelaskan istilah 'Fitnah' dalam ayat 39. Al-Jalalayn mencatatkan bahawa Fitnah di sini merujuk secara khusus kepada Syirik yang dikuatkuasakan melalui keganasan dan penganiayaan—di mana golongan yang lemah diseksa kerana kepercayaan mereka. Peperangan disyariatkan sebagai satu keperluan ibarat pembedahan untuk membuang kezaliman ini supaya agama dapat diamalkan secara bebas."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Fokus kepada ketenangan yang diberikan oleh ayat 'Allah adalah sebaik-baik perancang'. As-Sa'di menunjukkan bahawa musuh-musuh kebenaran menggunakan sumber yang besar, pertemuan rahsia, dan strategi canggih untuk memadamkan cahaya Tuhan. Tetapi keseluruhan rancangan mereka terkandung dalam rancangan mutlak Tuhan, dan Dia sering kali menggunakan konspirasi mereka sendiri untuk membawa kepada kejatuhan mereka."
+          }
+        ],
+        "lessons": [
+          "💡 Kejelasan adalah Hadiah daripada Ketakwaan: Jika anda keliru tentang keputusan besar dalam hidup atau dilema moral, penyelesaiannya bukan sentiasa perlu lebih banyak berfikir; kadang-kadang ia memerlukan lebih banyak berdoa. Pelihara mata, telinga, dan hati anda daripada dosa, dan Tuhan akan mengurniakan 'Furqan' (kejelasan) kepada anda untuk melihat jalan yang benar.",
+          "🛡️ Tuhan Menewaskan Para Perancang Jahat: Jangan pernah berputus asa apabila orang yang berkuasa dan korup berkonspirasi menentang anda atau orang yang tidak bersalah. Mereka sedang bermain dam sedangkan Tuhan sedang mereka bentuk papannya. Percayalah bahawa perancangan Tuhan akan menewaskan rancangan mereka dengan sempurna.",
+          "⚔️ Perangi Penindasan, Bukan Manusia: Konflik dalam Islam adalah alat pembebasan, bukan penaklukan. Matlamat utama adalah untuk membuang 'Fitnah' (penganiayaan sistemik) supaya setiap manusia mempunyai kebebasan tanpa paksaan untuk memilih Tuhan."
+        ]
+      }
+    },
+    {
+      "id": "section-12",
+      "type": "summary",
+      "en": {
+        "title": "Overarching Themes of Juz 9",
+        "theme": "The Anatomy of Deliverance, The Blindness of Arrogance, and Trust in Divine Strategy.",
+        "explanation": [
+          "Juz 9 serves as a profound psychological and historical masterclass on the nature of confrontation between truth and falsehood. Bridging the end of Surah Al-A'raf and the beginning of Surah Al-Anfal, it contrasts the epic historical struggles of past Prophets (like Shu'ayb and Musa) with the real-time, military realities faced by Prophet Muhammad and the Sahabah at the Battle of Badr.",
+          "The overarching theme is the futility of material power when disconnected from moral integrity. Pharaoh’s empire, the arrogance of Madyan’s elite, and the heavily armed Meccan army at Badr were all dismantled not by larger armies, but by the precise, overwhelming 'plan of Allah'. The Juz proves that tyranny, no matter how well-established, carries the seeds of its own destruction.",
+          "For the believers, this Juz reorients their entire understanding of success. It teaches that true victory requires internal purification first. The miraculous interventions—plagues in Egypt, or angels and rain at Badr—are reserved for those who conquer their own egos, suppress their greed for 'spoils', and respond sincerely to the call of God that 'gives them life'."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Notes the thematic link between the two Surahs in this Juz. Just as Allah rescued the Children of Israel from the physical slavery of Pharaoh by parting the sea, He rescued the companions of Muhammad from the spiritual and physical persecution of the Quraysh by parting the armies at Badr."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Highlights the constant emphasis on the 'heart' throughout the Juz. From the sorcerers whose hearts were instantly transformed, to the Israelites whose hearts remained tied to idols, to the believers whose hearts tremble at the mention of God. The battlefield of the heart determines the battlefield of the earth."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Concludes that the ultimate lesson of Juz 9 is Tawakkul (reliance on God). God demands that believers make physical preparations (as seen at Badr), but demands that their hearts rely solely on Him. Victory is a divine gift, and its price is unshakeable faith and unity."
+          }
+        ],
+        "lessons": [
+          "Tyranny is Fragile: No matter how powerful or wealthy an oppressive system appears, it is fundamentally weak in the face of divine justice. Arrogance blinds oppressors to their inevitable downfall.",
+          "Check Your Heart: Victory, wealth, and success can be dangerous if the heart is not pure. True faith trembles at God's name and prioritizes brotherhood over personal gain.",
+          "Respond to the Call of Life: God's guidance is not a burden; it is the very essence of spiritual survival. To ignore it is to choose a living death."
+        ]
+      },
+      "ms": {
+        "title": "Tema Utama Juz 9",
+        "theme": "Anatomi Penyelamatan, Kebutaan Akibat Kesombongan, dan Kepercayaan pada Strategi Ilahi.",
+        "explanation": [
+          "Juz 9 berfungsi sebagai kelas induk psikologi dan sejarah yang mendalam mengenai sifat konfrontasi antara kebenaran dan kebatilan. Menghubungkan penghujung Surah Al-A'raf dan permulaan Surah Al-Anfal, ia membandingkan perjuangan sejarah epik para Nabi terdahulu (seperti Syu'aib dan Musa) dengan realiti ketenteraan masa nyata yang dihadapi oleh Nabi Muhammad dan para Sahabat di Perang Badar.",
+          "Tema utamanya ialah kesia-siaan kuasa material apabila ia terputus daripada integriti moral. Empayar Firaun, kesombongan elit Madyan, dan tentera Mekah yang bersenjata lengkap di Badar semuanya dihancurkan bukan oleh tentera yang lebih besar, tetapi oleh 'rancangan Allah' yang tepat dan membinasakan. Juz ini membuktikan bahawa kezaliman, tidak kira betapa kukuhnya ia bertapak, membawa benih kehancurannya sendiri.",
+          "Bagi orang-orang yang beriman, Juz ini mengorientasikan semula keseluruhan pemahaman mereka tentang kejayaan. Ia mengajarkan bahawa kemenangan sebenar memerlukan penyucian dalaman terlebih dahulu. Campur tangan yang ajaib—wabak di Mesir, atau malaikat dan hujan di Badar—dikhaskan untuk mereka yang menundukkan ego mereka, menahan ketamakan mereka terhadap 'harta rampasan', dan menyahut dengan ikhlas seruan Tuhan yang 'memberikan mereka kehidupan'."
+        ],
+        "scholars": [
+          {
+            "name": "Tafsir Ibn Kathir",
+            "text": "Mencatatkan hubungan tema antara dua Surah dalam Juz ini. Sepertimana Allah menyelamatkan Bani Israel daripada perhambaan fizikal Firaun dengan membelah lautan, Dia menyelamatkan para sahabat Muhammad daripada penganiayaan rohani dan fizikal Quraisy dengan memisahkan tentera di Badar."
+          },
+          {
+            "name": "Tafsir Al-Jalalayn",
+            "text": "Menonjolkan penekanan yang berterusan pada 'hati' di sepanjang Juz ini. Daripada ahli sihir yang hatinya serta-merta berubah, kepada Bani Israel yang hatinya kekal terikat dengan berhala, sehinggalah kepada orang beriman yang hatinya gementar apabila menyebut nama Tuhan. Medan pertempuran di dalam hati menentukan medan pertempuran di muka bumi."
+          },
+          {
+            "name": "Tafsir As-Sa'di",
+            "text": "Menyimpulkan bahawa pengajaran mutlak Juz 9 ialah Tawakal (bergantung kepada Tuhan). Tuhan menuntut agar orang beriman membuat persiapan fizikal (seperti yang dilihat di Badar), tetapi menuntut agar hati mereka bergantung semata-mata kepada-Nya. Kemenangan adalah hadiah Ilahi, dan harganya ialah keimanan dan perpaduan yang tidak berbelah bahagi."
+          }
+        ],
+        "lessons": [
+          "Kezaliman itu Rapuh: Tidak kira betapa berkuasa atau kayanya sistem yang menindas itu kelihatan, ia pada asasnya lemah berhadapan dengan keadilan Ilahi. Kesombongan membutakan penindas daripada melihat kejatuhan mereka yang tidak dapat dielakkan.",
+          "Periksa Hati Anda: Kemenangan, kekayaan, dan kejayaan boleh menjadi berbahaya jika hati tidak suci. Iman yang sebenar gementar pada nama Tuhan dan mengutamakan persaudaraan berbanding keuntungan peribadi.",
+          "Sahut Seruan Kehidupan: Petunjuk Tuhan bukanlah satu bebanan; ia adalah intipati kelangsungan hidup rohani. Mengabaikannya bermakna memilih untuk mati dalam kehidupan."
+        ]
+      }
+    }
+  ]
+}
